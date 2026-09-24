@@ -6,3 +6,11 @@
 */analysis/todo.txt
 */analysis/*_err.txt
 */analysis/meta_errors.txt
+
+# Studio: never commit API keys; keep generated runs out of git (large media)
+.env
+**/.env
+studio/runs/
+studio/test/
+studio/reference/
+studio/spend.jsonl

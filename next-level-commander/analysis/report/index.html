@@ -1,0 +1,433 @@
+<title>Next Level Commander Teardown</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=IBM+Plex+Mono:wght@400;500&family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&display=swap">
+<style>
+:root{
+  --ground:#eceef1; --surface:#fbfbfa; --ink:#15171c; --ink-2:#4b505a; --muted:#7d828c;
+  --rule:#d6d9de; --grid:#e3e5e9; --axis:#b9bdc5;
+  --kraft:#8a5d2b; --kraft-wash:#efe3d3;
+  --s1:#2a78d6; --s2:#eb6834; --s3:#1baf7a; --s-other:#a9adb5;
+  --hit:#1d6b3a; --flop:#b3362e;
+  --display:"Anton","Impact","Arial Narrow Bold",sans-serif;
+  --body:"Source Sans 3","Segoe UI",system-ui,sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    color-scheme:dark;
+    --ground:#121418; --surface:#1a1d21; --ink:#eceef1; --ink-2:#b4b9c2; --muted:#8a909a;
+    --rule:#2d3137; --grid:#262a30; --axis:#3d424a;
+    --kraft:#d6a86c; --kraft-wash:#2c241a;
+    --s1:#3987e5; --s2:#d95926; --s3:#199e70; --s-other:#5d626b;
+    --hit:#5cc27f; --flop:#ec7a70;
+  }
+}
+:root[data-theme="dark"]{
+  color-scheme:dark;
+  --ground:#121418; --surface:#1a1d21; --ink:#eceef1; --ink-2:#b4b9c2; --muted:#8a909a;
+  --rule:#2d3137; --grid:#262a30; --axis:#3d424a;
+  --kraft:#d6a86c; --kraft-wash:#2c241a;
+  --s1:#3987e5; --s2:#d95926; --s3:#199e70; --s-other:#5d626b;
+  --hit:#5cc27f; --flop:#ec7a70;
+}
+*{box-sizing:border-box}
+body{background:var(--ground);color:var(--ink);font:400 17px/1.6 var(--body);padding:0 20px;padding-block:40px 80px}
+.wrap{max-width:1100px;margin:0 auto;display:flex;flex-direction:column;gap:56px}
+.col{max-width:700px}
+h1,h2{font-family:var(--display);font-weight:400;letter-spacing:.01em;line-height:1.05;text-wrap:balance;margin:0}
+h1{font-size:clamp(40px,7vw,76px);text-transform:uppercase}
+h2{font-size:clamp(28px,4vw,40px);text-transform:uppercase}
+h3{font-size:19px;margin:0;font-weight:700;text-wrap:balance}
+p{margin:0}
+.eyebrow{font:500 12px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--kraft)}
+.lede{font-size:21px;line-height:1.5;color:var(--ink-2)}
+section{display:flex;flex-direction:column;gap:18px}
+.stack{display:flex;flex-direction:column;gap:14px}
+strong{font-weight:700}
+.num{font-family:var(--mono);font-variant-numeric:tabular-nums;font-size:.92em}
+a{color:var(--s1)}
+header{display:flex;flex-direction:column;gap:20px;padding-bottom:8px;border-bottom:3px solid var(--ink)}
+.meta{font:400 13px/1.5 var(--mono);color:var(--muted)}
+
+.facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1px;background:var(--rule);border:1px solid var(--rule)}
+.fact{background:var(--surface);padding:18px 18px 16px;display:flex;flex-direction:column;gap:6px}
+.fact b{font:400 34px/1 var(--display);letter-spacing:.01em}
+.fact span{font-size:14px;line-height:1.4;color:var(--ink-2)}
+
+.answer{background:var(--surface);border:1px solid var(--rule);padding:24px;display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:24px}
+.answer div{display:flex;flex-direction:column;gap:6px}
+.answer .k{font:500 12px/1 var(--mono);color:var(--kraft);letter-spacing:.08em}
+.answer p{font-size:16px;line-height:1.5;color:var(--ink-2)}
+
+figure{margin:0;display:flex;flex-direction:column;gap:10px}
+figcaption{font-size:14px;line-height:1.5;color:var(--muted);max-width:760px}
+.chart{background:var(--surface);border:1px solid var(--rule);padding:16px 16px 8px;position:relative}
+.scroll{overflow-x:auto}
+.chart svg{display:block;width:100%;min-width:620px;height:auto}
+.chart svg text{font-family:var(--mono);font-size:12px;fill:var(--muted)}
+.chart svg text.lab{fill:var(--ink);font-family:var(--body);font-size:13px;font-weight:600}
+.chart svg text.val{fill:var(--ink);font-size:12px}
+.legend{display:flex;flex-wrap:wrap;gap:6px 18px;font-size:14px;color:var(--ink-2);margin-bottom:8px}
+.legend i{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:6px;vertical-align:0}
+.legend i.sq{border-radius:2px}
+.tip{position:absolute;pointer-events:none;background:var(--ink);color:var(--surface);font:400 13px/1.4 var(--body);padding:8px 10px;border-radius:4px;max-width:280px;z-index:2}
+.tip b{font-family:var(--mono);font-weight:500}
+details{font-size:14px}
+summary{cursor:pointer;color:var(--ink-2);padding:6px 0}
+summary:focus-visible,a:focus-visible{outline:2px solid var(--s1);outline-offset:2px}
+table{border-collapse:collapse;width:100%;font-size:13px}
+th,td{text-align:left;padding:5px 8px;border-bottom:1px solid var(--grid);vertical-align:top}
+th{font:500 11px/1.3 var(--mono);letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+td.r,th.r{text-align:right;font-family:var(--mono);font-variant-numeric:tabular-nums;white-space:nowrap}
+.tbl{max-height:360px;overflow:auto;border:1px solid var(--rule);background:var(--surface)}
+
+.shot{background:var(--surface);border:1px solid var(--rule);padding:8px}
+.shot img{display:block;width:100%;height:auto}
+.pair{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:20px}
+.tag{display:inline-block;font:500 11px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;padding:5px 7px;border-radius:3px}
+.tag.hit{color:var(--hit);border:1px solid currentColor}
+.tag.flop{color:var(--flop);border:1px solid currentColor}
+
+.hooks{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:1px;background:var(--rule);border:1px solid var(--rule)}
+.hook{background:var(--surface);padding:16px 18px;display:flex;flex-direction:column;gap:8px}
+.hook q{font-style:italic;color:var(--ink);quotes:"\201C" "\201D"}
+.hook .src{font:400 12px/1.4 var(--mono);color:var(--muted)}
+
+.findings{display:flex;flex-direction:column;gap:0;border-top:1px solid var(--rule)}
+.finding{display:grid;grid-template-columns:minmax(0,220px) minmax(0,1fr);gap:8px 28px;padding:18px 0;border-bottom:1px solid var(--rule)}
+.finding h3{font-size:17px}
+.finding p{color:var(--ink-2);font-size:16px}
+@media (max-width:640px){.finding{grid-template-columns:1fr}}
+
+.phases{display:flex;flex-direction:column;gap:0;border-left:3px solid var(--ink);margin-left:6px}
+.phase{position:relative;padding:0 0 32px 28px;display:flex;flex-direction:column;gap:10px}
+.phase::before{content:"";position:absolute;left:-10px;top:4px;width:17px;height:17px;background:var(--kraft);border:3px solid var(--ground);border-radius:50%}
+.phase .when{font:500 12px/1 var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--kraft)}
+.phase h3{font:400 26px/1.1 var(--display);text-transform:uppercase;letter-spacing:.01em}
+.phase ul{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:8px;color:var(--ink-2);max-width:760px}
+.phase li strong{color:var(--ink)}
+.phase .gate{font-size:15px;color:var(--ink);background:var(--kraft-wash);padding:10px 12px;border-radius:3px;max-width:760px}
+
+.two{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:20px}
+.box{background:var(--surface);border:1px solid var(--rule);padding:20px;display:flex;flex-direction:column;gap:10px}
+.box ul{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px;color:var(--ink-2);font-size:16px}
+.box.stop{border-top:4px solid var(--flop)}
+.box.start{border-top:4px solid var(--hit)}
+.template{font:400 14px/1.6 var(--mono);background:var(--surface);border:1px solid var(--rule);padding:16px 18px;white-space:pre-wrap;color:var(--ink)}
+.small{font-size:14px;color:var(--muted);line-height:1.55}
+@media (prefers-reduced-motion:no-preference){.chart circle{transition:r .12s}}
+</style>
+<style>
+:root{--kraft:#1f6f5c;--kraft-wash:#e3f1ec}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--kraft:#7fd1b9;--kraft-wash:#16302a}}
+:root[data-theme="dark"]{--kraft:#7fd1b9;--kraft-wash:#16302a}
+.cmp{overflow-x:auto;border:1px solid var(--rule);background:var(--surface)}
+.cmp table{min-width:640px}
+.cmp td:first-child{color:var(--ink-2)}
+.answer{grid-template-columns:repeat(auto-fit,minmax(180px,1fr))}
+</style>
+
+<div class="wrap">
+
+<header>
+  <span class="eyebrow">Channel teardown · @NextLevelCommander · data pulled 24 Sep 2026</span>
+  <h1>A Commander channel breaking out right now</h1>
+  <p class="lede col">Next Level Commander is 16 months old and has 7,200 subscribers. For its first ten months it struggled: long streams, box openings and hour-long gameplay. Then one $50 deck video did 60× the channel's usual views, and 77% of its lifetime long-form views have come since. Of the three channels studied, this is the closest to where a new channel starts.</p>
+  <p class="meta">Sources: yt-dlp metadata for all 81 uploads (73 long-form videos, 8 Shorts, no streams tab), auto-captions for 79, thumbnails, and YouTube's auto-captured mid-video frames.</p>
+</header>
+
+<div class="facts">
+  <div class="fact"><b>134k</b><span>views on "This Dumb $50 Deck is DESTROYING My Group" (27 Mar 2026), 60× the median of the 10 uploads before it.</span></div>
+  <div class="fact"><b>77%</b><span>of long-form views came from the 30 videos published since that breakout. Their median is 13.5k.</span></div>
+  <div class="fact"><b>923 vs 6.8k</b><span>median views for 13 videos of 30+ minutes versus 60 videos of 5–15 minutes.</span></div>
+  <div class="fact"><b>7.9</b><span>comments per 1,000 views, 3× Salubrious Snail's rate. The audience talks back.</span></div>
+</div>
+
+<section>
+  <span class="eyebrow">The short answer</span>
+  <h2>Five things made it take off</h2>
+  <div class="answer">
+    <div><span class="k">1 · The format</span><h3>One tight deck-tech format</h3><p>The channel dropped 40–400 minute sessions for 8–10 minute deck techs with a fixed structure. The branded series "Commander-Centric Deck Tech" ends every video on the same rating card: explosiveness, resilience, complexity, budget and bracket.</p></div>
+    <div><span class="k">2 · The stakes</span><h3>Budget and playgroup stakes</h3><p>"$50 deck destroying my group" puts a price and a social stake in one line. The follow-ups use the same formula: "LOSING to the same deck for 6 years", "the BEST Silverquill deck is $90".</p></div>
+    <div><span class="k">3 · The correction</span><h3>"You're building it wrong"</h3><p>The highest-median format (16k) tells players their build of a popular new commander is wrong: "People are building UUGGUU Wrong" (56k), "The CORRECT Way to Build Azula" (40k).</p></div>
+    <div><span class="k">4 · The calendar</span><h3>First on new commanders</h3><p>Nearly every hit covers a commander from a set that has just been released or spoiled. It's the deck-tech version of Attack on Cardboard's 72-hour rule-change window.</p></div>
+    <div><span class="k">5 · The packaging</span><h3>A proven template, plus numbers</h3><p>From late 2025, the thumbnails switched to a white-paper, stick-figure, hand-lettered style much like Salubrious Snail's, but with hard numbers: "0 Rats · 60% Win Rate", "0 Oozes · 70% Win Rate", "Turn 4 · 2 Emblems".</p></div>
+  </div>
+</section>
+
+<section>
+  <span class="eyebrow">Timeline</span>
+  <h2>Ten slow months, then a jump</h2>
+  <p class="col">June 2025 had 15 uploads with a median length of 40 minutes, including a 7-hour "build every Final Fantasy commander" session. Those uploads have a median of 1.6k views. From July, the channel moved to 8-minute guides and deck techs and settled around 3–5k. In January and February 2026 it detoured into a 60–70 minute gameplay series (537–2k) and nearly stopped uploading. The $50 deck video landed in March, and after a July with no uploads, August and September brought 12 videos with medians of 22k and 26k.</p>
+  <figure>
+    <div class="chart" id="scatterWrap">
+      <div class="legend" id="scatterLegend"></div>
+      <div class="scroll"><svg id="scatter" viewBox="0 0 1000 440" role="img" aria-label="Scatter of long-form video views over time, coloured by format"></svg></div>
+    </div>
+    <figcaption>Lifetime views as of 24 Sep 2026, on a log scale. The recent videos are only days or weeks old and are still growing.</figcaption>
+    <details>
+      <summary>Show all 73 long-form videos as a table</summary>
+      <div class="tbl"><table id="allTable"><thead><tr><th>Date</th><th class="r">Views</th><th>Format</th><th>Title</th></tr></thead><tbody></tbody></table></div>
+    </details>
+  </figure>
+  <figure>
+    <div class="chart">
+      <div class="scroll"><svg id="quarters" viewBox="0 0 1000 320" role="img" aria-label="Median long-form views by upload month"></svg></div>
+    </div>
+    <figcaption>Median lifetime views of long-form videos by upload month. Labels show uploads per month. July 2026 had no uploads.</figcaption>
+  </figure>
+</section>
+
+<section>
+  <span class="eyebrow">Format</span>
+  <h2>Short, specific and opinionated wins</h2>
+  <p class="col">Every format under 15 minutes beats every long session. Among the short videos, the ones that tell you something is wrong or set a price and a stake outperform neutral deck showcases and general strategy guides. Meme videos ("1 Hour UUGGUU Sounds", a POV skit) flopped even when they rode a hit.</p>
+  <figure>
+    <div class="chart">
+      <div class="scroll"><svg id="formats" viewBox="0 0 1000 340" role="img" aria-label="Median views by video format"></svg></div>
+    </div>
+    <figcaption>Median lifetime views per format. Videos over 30 minutes are grouped as long sessions; the rest are bucketed from their titles. The number of videos is in brackets.</figcaption>
+  </figure>
+</section>
+
+<section>
+  <span class="eyebrow">Packaging</span>
+  <h2>Thumbnails: from anything goes to one template</h2>
+  <p class="col">Early thumbnails were all over the place: dark tabletop photos, card grids, "13 out / 13 in" upgrade graphics, a film-still meme, and a hand holding a box with "$450!!!". The hits all share one look: a white paper background, one card scan, a stick figure (or the channel's own drawing of the commander), and two or three coloured hand-lettered lines built around a number.</p>
+  <figure>
+    <span class="tag hit">Top 12 long-form</span>
+    <div class="shot"><img src="top_longform.jpg" alt="Grid of the 12 most-viewed long-form thumbnails with view counts"></div>
+  </figure>
+  <figure>
+    <span class="tag flop">Bottom 12 long-form</span>
+    <div class="shot"><img src="bottom_longform.jpg" alt="Grid of the 12 least-viewed long-form thumbnails" loading="lazy"></div>
+  </figure>
+</section>
+
+<section>
+  <span class="eyebrow">Inside the videos</span>
+  <h2>A recurring rating card and a cast of characters</h2>
+  <p class="col">These frames come from 25%, 50% and 75% of the way through each video. All three hits show the same end-of-video rating card, scoring explosiveness, resilience, complexity, budget and bracket in traffic-light colours. That's a signature segment viewers wait for and argue about in the comments. The commanders get their own hand-drawn stick versions, like the Yume figure. The low performers use a dark tabletop, stock photos and film stills, with no recurring elements.</p>
+  <figure>
+    <div class="shot" style="max-width:820px"><img src="inside_frames.jpg" alt="Three frames each from three top videos and three low performers" loading="lazy"></div>
+    <figcaption>Rows from the top: the $50 deck (134k), Homer (73k), Yume (62k), top-10 precon ranking (2k), mass land destruction (1.5k), Hobbit aristocrats (7k).</figcaption>
+  </figure>
+
+  <h3>The first 15 seconds</h3>
+  <p class="col">The hits open with a stake, a character voice or a parody. The flops open with a general topic.</p>
+  <div class="hooks">
+    <div class="hook"><span class="tag hit">Hit · 134k</span><q>My group is being destroyed by this $50 deck and it's so stupid.</q><span class="src">This Dumb $50 Deck is DESTROYING My Group</span></div>
+    <div class="hook"><span class="tag hit">Hit · 40k</span><q>People are playing Azula wrong. Well, kind of. Imagine being my friend Jimmy…</q><span class="src">The CORRECT Way to Build Azula</span></div>
+    <div class="hook"><span class="tag hit">Hit · 41k</span><q>Opens on a parody of a show's famous intro narration, cut off mid-line with a joke.</q><span class="src">Is Monk Gyatso the Most Interesting Eldrazi Commander?</span></div>
+    <div class="hook"><span class="tag flop">Low · 1.6k</span><q>The year is 2025 and we're getting a lot of Magic cards. A lot.</q><span class="src">How to Evaluate Magic Cards (in EDH)</span></div>
+    <div class="hook"><span class="tag flop">Low · 1.5k</span><q>Mass land destruction has been a contentious topic since the beginning of the format…</q><span class="src">Why Mass Land Destruction is NOT the Answer</span></div>
+    <div class="hook"><span class="tag flop">Low · 379</span><q>Magic the Gathering is basically football if you don't think about it.</q><span class="src">POV: You're a MTGtuber and There Hasn't Been a Spoiler for 3 Weeks</span></div>
+  </div>
+  <p class="small col">The narration keeps getting faster. The median for 5–15 minute videos was 201 words per minute in 2025 and 220 in 2026, and one video hits 247. That's fast even by Salubrious Snail's standards.</p>
+</section>
+
+<section>
+  <span class="eyebrow">Critical read</span>
+  <h2>What's fragile</h2>
+  <div class="findings">
+    <div class="finding"><h3>The look is borrowed</h3><p>The white paper, stick figures, card scans and coloured verdict lettering sit very close to Salubrious Snail's template. That shortcut clearly worked, but it risks the channel reading as a copy. The channel's own drawn versions of each commander are what's distinctive. Lean on those.</p></div>
+    <div class="finding"><h3>Hits depend on the release calendar</h3><p>The top 10 videos hold 58% of long-form views, and most cover a newly released commander. Miss a set and the channel goes quiet. July 2026 had no uploads, straight after a run of hits.</p></div>
+    <div class="finding"><h3>Long-form detours cost months</h3><p>Thirteen videos of 30+ minutes have a median of 923 views, and the January–March 2026 gameplay series stalled the channel just before its breakout. The audience wants the 8–10 minute version.</p></div>
+    <div class="finding"><h3>Meme spin-offs don't carry</h3><p>"1 Hour UUGGUU Sounds" did 2k in the same week as two UUGGUU videos that did 56k and 29k. The joke lands in the comments, not as a video of its own.</p></div>
+    <div class="finding"><h3>Shorts are barely used</h3><p>Eight Shorts in total. The "20 Second Deck Tech" series did 5–16k with almost no effort. One per deck tech would be cheap reach.</p></div>
+    <div class="finding"><h3>Stock photos and film stills</h3><p>Inside the videos, stock photos and film stills fill in for jokes. They carry a copyright-claim risk and feel generic next to the channel's own drawings.</p></div>
+  </div>
+  <p class="small col">One contrast with the other two channels: the quick follow-up "I (also) Built UUGGUU Wrong" did 29k three days after the original. It worked because it was framed as a new "wrong" story, not as an apology.</p>
+</section>
+
+<section>
+  <span class="eyebrow">Three channels</span>
+  <h2>How it compares</h2>
+  <div class="cmp"><table>
+    <thead><tr><th></th><th>Attack on Cardboard</th><th>Salubrious Snail</th><th>Next Level Commander</th></tr></thead>
+    <tbody>
+      <tr><td>Lane</td><td>Rules answers and rules news</td><td>Deckbuilding theory essays</td><td>New-commander deck techs</td></tr>
+      <tr><td>Age / subscribers</td><td>4 years / 35.7k</td><td>3 years / 99.5k</td><td>16 months / 7.2k</td></tr>
+      <tr><td>Subscribers per 100 views</td><td class="num">0.26</td><td class="num">0.74</td><td class="num">0.76</td></tr>
+      <tr><td>Top-10 share of long-form views</td><td class="num">57%</td><td class="num">32%</td><td class="num">58%</td></tr>
+      <tr><td>Comments per 1,000 views</td><td class="num">5.9</td><td class="num">2.6</td><td class="num">7.9</td></tr>
+      <tr><td>Typical length / pace</td><td>5–10 min, ~155 wpm</td><td>12–20 min, ~205 wpm</td><td>8–10 min, ~220 wpm</td></tr>
+      <tr><td>Calendar hook</td><td>Rule changes, tournament drama</td><td>None (evergreen ideas)</td><td>New set commanders</td></tr>
+      <tr><td>Breakout</td><td>Rules explainers, Apr–May 2023</td><td>Concept essays, Q1 2024</td><td>$50 deck, Mar 2026</td></tr>
+    </tbody>
+  </table></div>
+  <p class="col">Next Level Commander shows the fastest route of the three: pick one short format, borrow a proven packaging system, attach it to the release calendar, and add stakes (price, playgroup, "you're wrong"). It got Salubrious Snail's loyalty rate at Attack on Cardboard's level of hit-dependence.</p>
+</section>
+
+<section>
+  <span class="eyebrow">What to take from it</span>
+  <h2>Lessons for a new channel</h2>
+  <div class="two">
+    <div class="box start">
+      <h3>Copy</h3>
+      <ul>
+        <li>One 8–10 minute format with a branded series name</li>
+        <li>A recurring signature segment (the rating card)</li>
+        <li>A price plus playgroup stakes in the title</li>
+        <li>"People are building X wrong" on new commanders</li>
+        <li>Your own drawn character for each commander</li>
+        <li>A comedy cold open, then straight to the deck</li>
+        <li>Quick follow-ups framed as a new story</li>
+      </ul>
+    </div>
+    <div class="box stop">
+      <h3>Skip</h3>
+      <ul>
+        <li>Streams, box openings and 30+ minute sessions</li>
+        <li>Stand-alone meme or skit videos</li>
+        <li>Gaps in the release calendar</li>
+        <li>A packaging style that reads as another channel's</li>
+        <li>Stock photos and film stills for jokes</li>
+        <li>General-topic openings ("the year is 2025…")</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section>
+  <span class="eyebrow">Method and limits</span>
+  <p class="small col">View, like and comment counts are lifetime totals scraped with yt-dlp on 24 Sep 2026. Many of the biggest videos are only weeks old and still growing, which inflates the recent medians against older months only partly. Formats were assigned by keyword rules and a 30-minute length cut in <span class="num">analysis/categorize.py</span>, so a few borderline videos could sit in a neighbouring bucket. Captions are YouTube auto-captions, and hook quotes are lightly cleaned. There was no access to CTR, retention, traffic sources or subscriber history.</p>
+</section>
+
+</div>
+
+<script>
+const D = {"pts": [{"d": "2025-05-16", "v": 9001, "g": "other", "t": "A Guide to Flubs - The Most Challenging Deck I've Ever Built", "f": "EDH strategy guide"}, {"d": "2025-05-18", "v": 12455, "g": "budget", "t": "Why Your Budget Commander Deck is Better Than Their $10K Pile - Featuring Vivi Ornitier", "f": "Budget / playgroup-stakes deck tech"}, {"d": "2025-05-22", "v": 4791, "g": "new", "t": "These 15 Cards Sum Up What I Learned in 15 Years of Playing Commander", "f": "New-commander deck tech"}, {"d": "2025-05-27", "v": 2073, "g": "new", "t": "Ranking the Top 10 Precon Face Commanders", "f": "New-commander deck tech"}, {"d": "2025-06-03", "v": 380, "g": "other", "t": "Let's Build a Final Fantasy Commander from Scratch WITHOUT Using EDHREC", "f": "Long session (stream-style build, box opening, gameplay)"}, {"d": "2025-06-05", "v": 750, "g": "other", "t": "A Burn Deck's Path to Bracket 4", "f": "Long session (stream-style build, box opening, gameplay)"}, {"d": "2025-06-08", "v": 2587, "g": "other", "t": "Live Footage of Unplayable Fodder Becoming My New Favourite Final Fantasy Commander", "f": "Long session (stream-style build, box opening, gameplay)"}, {"d": "2025-06-08", "v": 501, "g": "other", "t": "Building Every Single Final Fantasy Commander (Part 1 of 2: Multicolored)", "f": "Long session (stream-style build, box opening, gameplay)"}, {"d": "2025-06-10", "v": 2682, "g": "other", "t": "When EDHREC Suggests Bad Cards", "f": "EDH strategy guide"}, {"d": "2025-06-12", "v": 2076, "g": "budget", "t": "I Found a Vivi Alternative for 20¢", "f": "Budget / playgroup-stakes deck tech"}, {"d": "2025-06-13", "v": 147, "g": "other", "t": "Don't you miss when the collectors box was ONLY 700 dollars.", "f": "Long session (stream-style build, box opening, gameplay)"}, {"d": "2025-06-14", "v": 2474, "g": "other", "t": "Upgrading to Bracket 3 - Final Fantasy Revival Trance Collector Deck Opening", "f": "Long session (stream-style build, box opening, gameplay)"}, {"d": "2025-06-14", "v": 923, "g": "other", "t": "The Most Synergistic Precon - Final Fantasy Counter Blitz Collector Deck Opening", "f": "Long session (stream-style build, box opening, gameplay)"}, {"d": "2025-06-15", "v": 1680, "g": "other", "t": "This Precon is a Mess - Final Fantasy Scions and Spellcraft Collector Deck Opening", "f": "Long session (stream-style build, box opening, gameplay)"}, {"d": "2025-06-18", "v": 673, "g": "other", "t": "Cloud Vs Tifa? Final Fantasy Limit Break Collector Deck Opening", "f": "Long session (stream-style build, box opening, gameplay)"}, {"d": "2025-06-19", "v": 1565, "g": "other", "t": "My Favourite Budget Deck Took 10 Minutes to Design", "f": "Other"}, {"d": "2025-06-22", "v": 2187, "g": "new", "t": "The Insurance Fraud Commander Deck with RMS Titanic Spacecraft", "f": "New-commander deck tech"}, {"d": "2025-06-25", "v": 1589, "g": "other", "t": "How to Evaluate Magic Cards (in EDH)", "f": "EDH strategy guide"}, {"d": "2025-06-26", "v": 2253, "g": "new", "t": "Riding in a Spacecraft, Beating People up", "f": "New-commander deck tech"}, {"d": "2025-07-01", "v": 2596, "g": "other", "t": "Stop Playing Sorcery Speed Removals (in EDH)", "f": "EDH strategy guide"}, {"d": "2025-07-03", "v": 3177, "g": "budget", "t": "The Biggest Commander Deck (Ever)", "f": "Budget / playgroup-stakes deck tech"}, {"d": "2025-07-06", "v": 6532, "g": "other", "t": "The Guide to Playing Utility Lands (in EDH)", "f": "EDH strategy guide"}, {"d": "2025-07-08", "v": 1037, "g": "fix", "t": "This Commander Deck Has an Identity Crisis", "f": "Correction / \"you're building it wrong\""}, {"d": "2025-07-11", "v": 3445, "g": "other", "t": "A Guide to Playing with Exile (in EDH)", "f": "EDH strategy guide"}, {"d": "2025-07-13", "v": 3626, "g": "other", "t": "This Deck Teaches Your Group To Play More Removals (in EDH)", "f": "Other"}, {"d": "2025-07-28", "v": 16429, "g": "fix", "t": "Your Ur-Dragon Deck Has a Top-Heavy Problem (And we fix it)", "f": "Correction / \"you're building it wrong\""}, {"d": "2025-08-04", "v": 2874, "g": "fix", "t": "People are MISSING OUT on this Gruul Commander", "f": "Correction / \"you're building it wrong\""}, {"d": "2025-08-21", "v": 22178, "g": "fix", "t": "We NEED to Take Another Look at 3-drop Rocks", "f": "Correction / \"you're building it wrong\""}, {"d": "2025-08-29", "v": 3526, "g": "fix", "t": "Are We Playing Game Changers WRONG?", "f": "Correction / \"you're building it wrong\""}, {"d": "2025-09-05", "v": 10079, "g": "other", "t": "You NEED to Play More Protection Spells", "f": "EDH strategy guide"}, {"d": "2025-09-11", "v": 2236, "g": "new", "t": "Finding INTERESTING Decks to Build in 2025 (Green Goblin/Fleem Deck Tech)", "f": "New-commander deck tech"}, {"d": "2025-09-15", "v": 3755, "g": "other", "t": "10 Cards You Can Cut From Your EDH Decks TODAY", "f": "EDH strategy guide"}, {"d": "2025-09-29", "v": 6286, "g": "other", "t": "Hare Apparent Just Got CRAZY with Lorwyn Eclipse", "f": "Other"}, {"d": "2025-10-14", "v": 1529, "g": "other", "t": "Your One-stop Guide to Using Beyblades to Determine Who Goes First in EDH (serious)", "f": "Meme / skit"}, {"d": "2025-10-16", "v": 6220, "g": "new", "t": "You'll NEVER Worry About Combat Again | Commander-Centric Deck Tech", "f": "New-commander deck tech"}, {"d": "2025-11-06", "v": 39996, "g": "fix", "t": "The CORRECT Way to Build Azula | Commander-Centric Deck Tech", "f": "Correction / \"you're building it wrong\""}, {"d": "2025-11-12", "v": 5537, "g": "new", "t": "Aang Enables the Most EFFORTLESS Blink Deck I've Ever Seen  | Commander-Centric Deck Tech", "f": "New-commander deck tech"}, {"d": "2025-11-18", "v": 2426, "g": "fix", "t": "Why Your Ozai Deck Doesn't Work", "f": "Correction / \"you're building it wrong\""}, {"d": "2025-12-01", "v": 1529, "g": "fix", "t": "Why Mass Land Destruction is NOT the Answer You're Looking For", "f": "Correction / \"you're building it wrong\""}, {"d": "2025-12-19", "v": 3977, "g": "new", "t": "Cards That Make You a Better Commander Player", "f": "New-commander deck tech"}, {"d": "2026-01-28", "v": 1613, "g": "other", "t": "Can Flubs the Idiot get his crap together against the average table?  | Playing With Myself Ep.1", "f": "Long session (stream-style build, box opening, gameplay)"}, {"d": "2026-02-05", "v": 2033, "g": "other", "t": "Flubs's LAST chance to make something happen before I take him apart | Playing With Myself Ep.2", "f": "Long session (stream-style build, box opening, gameplay)"}, {"d": "2026-03-15", "v": 537, "g": "other", "t": "Baeloth Dominates the Combat Phase? | Playing With Myself Ep.3", "f": "Long session (stream-style build, box opening, gameplay)"}, {"d": "2026-03-27", "v": 133578, "g": "budget", "t": "This Dumb 50$ Deck is DESTROYING My Group | Commander-Centric Deck Tech", "f": "Budget / playgroup-stakes deck tech"}, {"d": "2026-04-03", "v": 11113, "g": "new", "t": "This Gitrog Deck is NOTHING Like What You've Seen Before | Commander-Centric Deck Tech", "f": "New-commander deck tech"}, {"d": "2026-04-10", "v": 15962, "g": "fix", "t": "Fixing the WORST Commander From Strixhaven Commander | Commander-Centric Deck Tech", "f": "Correction / \"you're building it wrong\""}, {"d": "2026-04-16", "v": 12635, "g": "budget", "t": "The BEST Silverquill Deck is $90", "f": "Budget / playgroup-stakes deck tech"}, {"d": "2026-04-21", "v": 41288, "g": "new", "t": "Is Monk Gyatso the Most Interesting ELDRAZI Commander?", "f": "New-commander deck tech"}, {"d": "2026-04-29", "v": 15540, "g": "budget", "t": "I've Been LOSING to the Same Deck for 6 Years | Commander-Centric Deck Tech", "f": "Budget / playgroup-stakes deck tech"}, {"d": "2026-05-05", "v": 6984, "g": "new", "t": "Aristocrats REDEFINED with the Hobbit (Tom, Bert and William)", "f": "New-commander deck tech"}, {"d": "2026-05-08", "v": 20792, "g": "fix", "t": "Raph and Mikey is NOT a Creature Deck", "f": "Correction / \"you're building it wrong\""}, {"d": "2026-05-13", "v": 6549, "g": "budget", "t": "The ONLY EDH Deck You'll Ever Need | Commander-Centric Deck Tech", "f": "Budget / playgroup-stakes deck tech"}, {"d": "2026-05-21", "v": 14349, "g": "other", "t": "Using Planeswalkers in EDH (in 2026)", "f": "EDH strategy guide"}, {"d": "2026-05-26", "v": 4330, "g": "budget", "t": "WINNING With a 90$ Deck in Bracket 4", "f": "Budget / playgroup-stakes deck tech"}, {"d": "2026-05-30", "v": 379, "g": "other", "t": "POV: You're a MTGtuber and There Hasn't Been a Spoiler for 3 Weeks", "f": "Meme / skit"}, {"d": "2026-06-04", "v": 8300, "g": "new", "t": "Captain Amerca is the BEST Vehicles Commander | Marvel Super Heroes Deck Tech", "f": "New-commander deck tech"}, {"d": "2026-06-10", "v": 9616, "g": "budget", "t": "I Built the Angeriest EDH Deck", "f": "Budget / playgroup-stakes deck tech"}, {"d": "2026-06-14", "v": 7845, "g": "new", "t": "The Most Interesting Colorless Commander in a Long Time", "f": "New-commander deck tech"}, {"d": "2026-06-17", "v": 4161, "g": "new", "t": "Borrowed Voltron with Loki, God of Lies | Marvel Super Heroes Deck Tech", "f": "New-commander deck tech"}, {"d": "2026-06-22", "v": 12062, "g": "other", "t": "EDH is More FUN When You Are the Threat", "f": "EDH strategy guide"}, {"d": "2026-06-30", "v": 9586, "g": "fix", "t": "We SHOULD Take Another Look at Vehicles (in EDH)", "f": "Correction / \"you're building it wrong\""}, {"d": "2026-08-03", "v": 3311, "g": "new", "t": "Jandor turns Draft Chaff Into Beasts", "f": "New-commander deck tech"}, {"d": "2026-08-09", "v": 56036, "g": "fix", "t": "People are building UUGGUU Wrong", "f": "Correction / \"you're building it wrong\""}, {"d": "2026-08-12", "v": 29158, "g": "fix", "t": "I (also) Built UUGGUU Wrong", "f": "Correction / \"you're building it wrong\""}, {"d": "2026-08-16", "v": 13747, "g": "other", "t": "Cutting to 100 from HUNDREDS of Choices", "f": "EDH strategy guide"}, {"d": "2026-08-18", "v": 73353, "g": "new", "t": "Homer is Saving My Mental Health", "f": "New-commander deck tech"}, {"d": "2026-08-20", "v": 1999, "g": "other", "t": "1 Hour UUGGUU Sounds For Focus, Relaxing and Sleep (Very Ineffective)", "f": "Long session (stream-style build, box opening, gameplay)"}, {"d": "2026-08-21", "v": 22469, "g": "new", "t": "We FINALLY Solved the Nephilim", "f": "New-commander deck tech"}, {"d": "2026-09-01", "v": 25759, "g": "new", "t": "I Waited FIFTEEN Years for an Interesting Selesnya Commander", "f": "New-commander deck tech"}, {"d": "2026-09-04", "v": 62047, "g": "new", "t": "Yume will REDEFINE how you play EDH (seriously)", "f": "New-commander deck tech"}, {"d": "2026-09-10", "v": 18813, "g": "new", "t": "Every Playgroup NEEDS a Yume (Part 2)", "f": "New-commander deck tech"}, {"d": "2026-09-21", "v": 30618, "g": "new", "t": "Tam is WHOLESALING Planeswalker Emblems", "f": "New-commander deck tech"}, {"d": "2026-09-22", "v": 13153, "g": "budget", "t": "I have NO IDEA how this deck works but it's only $49, so I'm hoping you can test it and tell me. thx", "f": "Budget / playgroup-stakes deck tech"}], "fmt": [{"f": "Correction / \"you're building it wrong\"", "n": 13, "m": 15962}, {"f": "Budget / playgroup-stakes deck tech", "n": 10, "m": 11035.5}, {"f": "New-commander deck tech", "n": 21, "m": 6984}, {"f": "EDH strategy guide", "n": 11, "m": 6532}, {"f": "Other", "n": 3, "m": 3626}, {"f": "Meme / skit", "n": 2, "m": 954.0}, {"f": "Long session (stream-style build, box opening, gameplay)", "n": 13, "m": 923}], "qs": [{"q": "2025-05", "m": 6896.0, "n": 4}, {"q": "2025-06", "m": 1589, "n": 15}, {"q": "2025-07", "m": 3445, "n": 7}, {"q": "2025-08", "m": 3526, "n": 3}, {"q": "2025-09", "m": 5020.5, "n": 4}, {"q": "2025-10", "m": 3874.5, "n": 2}, {"q": "2025-11", "m": 5537, "n": 3}, {"q": "2025-12", "m": 2753.0, "n": 2}, {"q": "2026-01", "m": 1613, "n": 1}, {"q": "2026-02", "m": 2033, "n": 1}, {"q": "2026-03", "m": 67057.5, "n": 2}, {"q": "2026-04", "m": 15540, "n": 5}, {"q": "2026-05", "m": 6766.5, "n": 6}, {"q": "2026-06", "m": 8943.0, "n": 6}, {"q": "2026-08", "m": 22469, "n": 7}, {"q": "2026-09", "m": 25759, "n": 5}]};
+const NS = "http://www.w3.org/2000/svg";
+const css = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+const fmtK = v => v >= 1e6 ? (v / 1e6).toFixed(2).replace(/\.?0+$/, "") + "M" : v >= 1e3 ? (v >= 1e4 ? Math.round(v / 1e3) : (v / 1e3).toFixed(1).replace(/\.0$/, "")) + "k" : String(Math.round(v));
+function el(tag, attrs, parent) {
+  const e = document.createElementNS(NS, tag);
+  for (const k in attrs) e.setAttribute(k, attrs[k]);
+  if (parent) parent.appendChild(e);
+  return e;
+}
+function tipper(wrap) {
+  const t = document.createElement("div");
+  t.className = "tip"; t.hidden = true; wrap.appendChild(t);
+  return {
+    show(ev, html) {
+      t.innerHTML = html; t.hidden = false;
+      const r = wrap.getBoundingClientRect();
+      let x = ev.clientX - r.left + 14, y = ev.clientY - r.top + 14;
+      if (x + 290 > r.width) x = ev.clientX - r.left - 290;
+      t.style.left = Math.max(4, x) + "px"; t.style.top = y + "px";
+    },
+    hide() { t.hidden = true; }
+  };
+}
+const esc = s => s.replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+const GROUPS = [
+  { k: "fix", label: "Correction (building it wrong)", c: "--s1" },
+  { k: "budget", label: "Budget / playgroup stakes", c: "--s2" },
+  { k: "new", label: "New-commander deck tech", c: "--s3" },
+  { k: "other", label: "Guides, long sessions, memes, other", c: "--s-other" },
+];
+
+function scatter() {
+  const svg = document.getElementById("scatter");
+  const wrap = document.getElementById("scatterWrap");
+  const tip = tipper(wrap);
+  const W = 1000, H = 440, L = 58, R = 24, T = 20, B = 36;
+  const t0 = Date.parse("2025-05-01"), t1 = Date.parse("2026-10-10");
+  const x = d => L + (Date.parse(d) - t0) / (t1 - t0) * (W - L - R);
+  const lo = 2, hi = 5.3;
+  const y = v => T + (hi - Math.log10(Math.max(v, 100))) / (hi - lo) * (H - T - B);
+  [100, 1e3, 1e4, 1e5].forEach(v => {
+    el("line", { x1: L, x2: W - R, y1: y(v), y2: y(v), stroke: "var(--grid)", "stroke-width": 1 }, svg);
+    el("text", { x: L - 8, y: y(v) + 4, "text-anchor": "end" }, svg).textContent = fmtK(v);
+  });
+  ["2026"].forEach(yr => {
+    const xx = x(yr + "-01-01");
+    el("line", { x1: xx, x2: xx, y1: T, y2: H - B, stroke: "var(--grid)", "stroke-width": 1 }, svg);
+    el("text", { x: xx, y: H - B + 20, "text-anchor": "middle" }, svg).textContent = yr;
+  });
+  el("line", { x1: L, x2: W - R, y1: H - B, y2: H - B, stroke: "var(--axis)", "stroke-width": 1 }, svg);
+  const order = ["other", "new", "budget", "fix"];
+  [...D.pts].sort((a, b) => order.indexOf(a.g) - order.indexOf(b.g)).forEach(p => {
+    const g = GROUPS.find(g => g.k === p.g);
+    const c = el("circle", { cx: x(p.d), cy: y(p.v), r: 5.5, fill: `var(${g.c})`, stroke: "var(--surface)", "stroke-width": 2, tabindex: 0 }, svg);
+    c.setAttribute("aria-label", `${p.t}: ${p.v.toLocaleString()} views`);
+    const html = `<b>${p.v.toLocaleString()}</b> views · ${p.d}<br>${esc(p.t)}<br><span style="opacity:.75">${esc(g.label)}</span>`;
+    c.addEventListener("pointerenter", e => { c.setAttribute("r", 8); tip.show(e, html); });
+    c.addEventListener("pointermove", e => tip.show(e, html));
+    c.addEventListener("pointerleave", () => { c.setAttribute("r", 5.5); tip.hide(); });
+  });
+  const ann = [
+    { m: "This Dumb 50$ Deck", t: "$50 deck destroying my group · 134k", dx: -10, dy: 5, a: "end" },
+    { m: "Building Every Single Final Fantasy", t: "7-hour build session · 501", dx: 10, dy: 5, a: "start" },
+    { m: "Baeloth Dominates", t: "Gameplay series · 537", dx: -10, dy: 5, a: "end" },
+    { m: "People are building UUGGUU Wrong", t: "Aug–Sep 2026 surge", dx: -10, dy: -12, a: "end" },
+  ];
+  ann.forEach(a => {
+    const p = D.pts.find(p => p.t.includes(a.m));
+    if (p) el("text", { x: x(p.d) + a.dx, y: y(p.v) + a.dy, "text-anchor": a.a, class: "lab" }, svg).textContent = a.t;
+  });
+  const lg = document.getElementById("scatterLegend");
+  GROUPS.forEach(g => {
+    const s = document.createElement("span");
+    s.innerHTML = `<i style="background:var(${g.c})"></i>${g.label} (${D.pts.filter(p => p.g === g.k).length})`;
+    lg.appendChild(s);
+  });
+  const tb = document.querySelector("#allTable tbody");
+  [...D.pts].sort((a, b) => b.v - a.v).forEach(p => {
+    const tr = document.createElement("tr");
+    tr.innerHTML = `<td class="num">${p.d}</td><td class="r">${p.v.toLocaleString()}</td><td>${esc(p.f)}</td><td>${esc(p.t)}</td>`;
+    tb.appendChild(tr);
+  });
+}
+
+function formats() {
+  const svg = document.getElementById("formats");
+  const tip = tipper(svg.closest(".chart"));
+  const L = 330, R = 90, T = 10, rowH = 44, W = 1000;
+  const max = Math.max(...D.fmt.map(f => f.m));
+  const names = { "Long session (stream-style build, box opening, gameplay)": "Long session, 30+ min" };
+  D.fmt.forEach((f, i) => {
+    const yy = T + i * rowH, w = Math.max(2, (f.m / max) * (W - L - R));
+    el("text", { x: L - 14, y: yy + 22, "text-anchor": "end", class: "lab" }, svg).textContent = `${names[f.f] || f.f} (${f.n})`;
+    const r = el("rect", { x: L, y: yy + 8, width: w, height: 20, rx: 3, fill: "var(--s1)" }, svg);
+    el("text", { x: L + w + 8, y: yy + 23, class: "val" }, svg).textContent = fmtK(f.m);
+    const html = `<b>${Math.round(f.m).toLocaleString()}</b> median views<br>${esc(names[f.f] || f.f)} · ${f.n} videos`;
+    r.addEventListener("pointerenter", e => tip.show(e, html));
+    r.addEventListener("pointermove", e => tip.show(e, html));
+    r.addEventListener("pointerleave", () => tip.hide());
+  });
+  el("line", { x1: L, x2: L, y1: T, y2: T + D.fmt.length * rowH, stroke: "var(--axis)" }, svg);
+  svg.setAttribute("viewBox", `0 0 ${W} ${T + D.fmt.length * rowH + 10}`);
+}
+
+function quarters() {
+  const svg = document.getElementById("quarters");
+  const tip = tipper(svg.closest(".chart"));
+  const W = 1000, H = 320, L = 58, R = 16, T = 24, B = 40, top = 75000;
+  const y = v => H - B - v / top * (H - T - B);
+  [0, 2e4, 4e4, 6e4].forEach(v => {
+    el("line", { x1: L, x2: W - R, y1: y(v), y2: y(v), stroke: v ? "var(--grid)" : "var(--axis)" }, svg);
+    el("text", { x: L - 8, y: y(v) + 4, "text-anchor": "end" }, svg).textContent = v ? fmtK(v) : "0";
+  });
+  const n = D.qs.length, band = (W - L - R) / n, bw = band * 0.6;
+  D.qs.forEach((q, i) => {
+    const x0 = L + i * band + (band - bw) / 2;
+    const g = el("g", {}, svg);
+    el("rect", { x: x0, y: y(q.m), width: bw, height: y(0) - y(q.m), rx: 3, fill: "var(--s1)" }, g);
+    el("rect", { x: L + i * band, y: T, width: band, height: H - T - B, fill: "transparent" }, g);
+    el("text", { x: x0 + bw / 2, y: y(q.m) - 6, "text-anchor": "middle", class: "val" }, svg).textContent = fmtK(q.m);
+    el("text", { x: x0 + bw / 2, y: H - B + 18, "text-anchor": "middle", style: "font-size:11px" }, svg).textContent = q.q.replace(/^20(\d\d)-(\d\d)$/, "$2/$1");
+    el("text", { x: x0 + bw / 2, y: H - B + 32, "text-anchor": "middle", style: "font-size:10px" }, svg).textContent = `${q.n}`;
+    const html = `<b>${q.q}</b><br>Median ${Math.round(q.m).toLocaleString()} views across ${q.n} uploads`;
+    g.addEventListener("pointerenter", e => tip.show(e, html));
+    g.addEventListener("pointermove", e => tip.show(e, html));
+    g.addEventListener("pointerleave", () => tip.hide());
+  });
+}
+
+scatter(); formats(); quarters();
+</script>

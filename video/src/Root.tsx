@@ -3,6 +3,7 @@ import { Composition } from "remotion";
 import { HelloWorld } from "./HelloWorld";
 import { Logo } from "./HelloWorld/Logo";
 import { SubscribeBeat, subscribeBeatSchema } from "./SubscribeBeat";
+import { Avatar, Banner, MascotSheet } from "./Mascot";
 
 // Each <Composition> is an entry in the sidebar!
 
@@ -39,11 +40,16 @@ export const RemotionRoot: React.FC = () => {
         width={1920}
         height={1080}
         defaultProps={{
-          line: "Every rules change, explained within 72 hours.",
+          line: "New channel. Subscribing helps!",
           accent: "#c8372d",
           background: null,
         }}
       />
+
+      {/* Mascot character sheet (still). npx remotion still MascotSheet out/mascot-sheet.png */}
+      <Composition id="MascotSheet" component={MascotSheet} durationInFrames={1} fps={30} width={1920} height={1080} />
+      <Composition id="Avatar" component={Avatar} durationInFrames={1} fps={30} width={800} height={800} />
+      <Composition id="Banner" component={Banner} durationInFrames={1} fps={30} width={2560} height={1440} />
 
       {/* Mount any React component to make it show up in the sidebar and work on it individually! */}
       <Composition

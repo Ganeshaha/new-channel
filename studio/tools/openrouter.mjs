@@ -2,7 +2,7 @@
 // Minimal OpenRouter helper for one-shot video runs. No dependencies (Node 18+).
 //
 //   node tools/openrouter.mjs check
-//   node tools/openrouter.mjs image  "<prompt>" out.png [--aspect 9:16] [--model google/gemini-3.1-flash-image]
+//   node tools/openrouter.mjs image  "<prompt>" out.png [--aspect 9:16] [--ref mascot.png,style.png] [--model google/gemini-3.1-flash-image]
 //   node tools/openrouter.mjs speech "<text>"   out.wav [--voice nova] [--style "warm, curious narrator"]
 //   node tools/openrouter.mjs spend
 //
@@ -99,9 +99,21 @@ async function image(prompt, out, opts) {
   requireKey(); guardBudget();
   if (!prompt || !out) die(`usage: image "<prompt>" out.png [--aspect 16:9] [--model id]`);
   const model = opts.model || DEFAULTS.image;
+  // --ref a.png,b.png attaches reference images (e.g. the mascot sheet) so characters stay consistent.
+  const refs = (opts.ref || "").split(",").map((s) => s.trim()).filter(Boolean);
+  for (const r of refs) if (!existsSync(r)) die(`reference image not found: ${r}`);
+  const content = refs.length
+    ? [
+        { type: "text", text: prompt },
+        ...refs.map((r) => ({
+          type: "image_url",
+          image_url: { url: `data:image/${r.toLowerCase().endsWith(".jpg") || r.toLowerCase().endsWith(".jpeg") ? "jpeg" : "png"};base64,${readFileSync(r).toString("base64")}` },
+        })),
+      ]
+    : prompt;
   const body = {
     model,
-    messages: [{ role: "user", content: prompt }],
+    messages: [{ role: "user", content }],
     modalities: ["image", "text"],
     usage: { include: true },
   };

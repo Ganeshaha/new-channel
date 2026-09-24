@@ -8,8 +8,9 @@ import {
   useVideoConfig,
 } from "remotion";
 import { z } from "zod";
+import { WildCardMascot } from "./Mascot";
 
-// A short, transparent "subscribe" overlay. It plays over the video while the narration continues,
+// A short, transparent "subscribe" overlay featuring the Wild Card Commander mascot. It plays over the video while the narration continues,
 // so it never stops the story. Placement rules live in /RETENTION.md: once, right after the first payoff.
 
 export const subscribeBeatSchema = z.object({
@@ -23,36 +24,6 @@ type Props = z.infer<typeof subscribeBeatSchema>;
 const PAPER = "#fbf8f1";
 const INK = "#1d1b19";
 const HAND = '"Segoe Print", "Comic Neue", "Comic Sans MS", cursive';
-
-// Placeholder mascot: an original paper-cut card with a face and stick arms. Swap for the channel mascot.
-const CardMascot: React.FC<{ press: number; blink: boolean }> = ({ press, blink }) => {
-  // Negative angles lower the arm; 0 points it straight at the button.
-  const armAngle = interpolate(press, [0, 1], [-50, 8]);
-  return (
-    <svg width={210} height={260} viewBox="0 0 210 260" style={{ overflow: "visible" }}>
-      <g transform="rotate(-6 105 130)">
-        <rect x={40} y={20} width={130} height={180} rx={12} fill="#000" opacity={0.18} transform="translate(6 8)" />
-        <rect x={40} y={20} width={130} height={180} rx={12} fill={PAPER} stroke={INK} strokeWidth={5} />
-        <rect x={55} y={36} width={100} height={70} rx={6} fill="#cfe3ef" stroke={INK} strokeWidth={3} />
-        <circle cx={82} cy={70} r={blink ? 1 : 7} fill={INK} />
-        <circle cx={128} cy={70} r={blink ? 1 : 7} fill={INK} />
-        <path d="M88 88 Q105 100 122 88" stroke={INK} strokeWidth={4} fill="none" strokeLinecap="round" />
-        <rect x={55} y={116} width={100} height={8} rx={4} fill={INK} opacity={0.25} />
-        <rect x={55} y={134} width={80} height={8} rx={4} fill={INK} opacity={0.25} />
-        <rect x={55} y={152} width={90} height={8} rx={4} fill={INK} opacity={0.25} />
-        {/* resting right arm */}
-        <line x1={170} y1={130} x2={198} y2={165} stroke={INK} strokeWidth={5} strokeLinecap="round" />
-        {/* pressing left arm: pivots at the card's left edge and swings up to the button */}
-        <g transform={`rotate(${armAngle} 40 125)`}>
-          <line x1={40} y1={125} x2={-38} y2={125} stroke={INK} strokeWidth={5} strokeLinecap="round" />
-          <circle cx={-40} cy={125} r={7} fill={PAPER} stroke={INK} strokeWidth={4} />
-        </g>
-        <line x1={85} y1={200} x2={78} y2={245} stroke={INK} strokeWidth={5} strokeLinecap="round" />
-        <line x1={125} y1={200} x2={132} y2={245} stroke={INK} strokeWidth={5} strokeLinecap="round" />
-      </g>
-    </svg>
-  );
-};
 
 const Bell: React.FC<{ wiggle: number }> = ({ wiggle }) => (
   <svg width={70} height={70} viewBox="0 0 70 70" style={{ transform: `rotate(${wiggle}deg)`, transformOrigin: "35px 8px" }}>
@@ -93,7 +64,7 @@ export const SubscribeBeat: React.FC<Props> = ({ line, accent, background }) => 
           transform: `translateX(${slide}px)`,
         }}
       >
-        <div style={{ display: "flex", flexDirection: "column", alignItems: "flex-end", gap: 14, marginBottom: 70 }}>
+        <div style={{ display: "flex", flexDirection: "column", alignItems: "flex-end", gap: 14, marginBottom: 128 }}>
           <div
             style={{
               fontFamily: HAND,
@@ -132,7 +103,7 @@ export const SubscribeBeat: React.FC<Props> = ({ line, accent, background }) => 
             </div>
           </div>
         </div>
-        <CardMascot press={press} blink={frame % 70 > 64} />
+        <WildCardMascot pose="cool" pressAngle={interpolate(press, [0, 1], [-60, 2])} id="sb" />
       </div>
     </AbsoluteFill>
   );

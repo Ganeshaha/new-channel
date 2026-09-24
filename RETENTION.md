@@ -77,7 +77,7 @@ npx remotion render SubscribeBeat out/subscribe-beat.webm --codec=vp8 --image-fo
   --props='{"line":"Every new commander, built better.","accent":"#c8372d","background":null}'
 ```
 
-The mascot is an original placeholder (a paper-cut card with a face). Swap it in `video/src/SubscribeBeat.tsx` once the channel mascot is final.
+The overlay uses the Wild Card Commander mascot (`video/src/Mascot.tsx`): an original card-back character in pixel sunglasses that swings its arm to press the button.
 
 ## 4. Shorts retention
 

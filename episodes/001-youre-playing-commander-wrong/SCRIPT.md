@@ -12,7 +12,7 @@
 | **OpenRouter spend** | None so far. Ask for an OK before generating any images or voice. |
 
 > **How to use this script:**
-> - Read it out loud once before recording, and change every word you wouldn't actually say. It should sound like you talking to your playgroup, not like you reading. See [VOICE.md](../../VOICE.md).
+> - Read it out loud once before generating the narration, and change every word you wouldn't actually say. It should sound like someone talking to their playgroup. See [VOICE.md](../../VOICE.md).
 > - Replace every `[PLACEHOLDER]` with what really happened. If something in the script didn't happen, change it; don't say it.
 > - Work through the fact-check list at the bottom.
 
@@ -229,11 +229,15 @@ Timings are approximate at ~200 words per minute. **VISUAL** notes follow the ho
 
 ## Production notes
 
-- **Voice:** your own. Read it like you're explaining it to a friend who asked. Don't perform it. Around 190–210 wpm, and cut dead air, but keep the natural "so" and "honestly" moments.
+- **Voice:** AI narration through OpenRouter (`studio/tools/openrouter.mjs speech`), like the Reddit post.
+  - Generate one file per section, with the same voice and style note every time: "relaxed, conversational, like explaining to a friend, not a presenter". Aim for about 200 wpm.
+  - Check every file with `python tools/check_voice.py <file> <section text>`. It's free and flags any word the voice changed.
+  - The `[PLACEHOLDER]` stories must be filled with real ones first, or the voice will read them out.
+  - On upload, check YouTube's current altered or synthetic content disclosure rules for AI voices.
 - **Assets:**
   - card scans from Scryfall (free);
   - original mascot and stick figures (code-drawn is free);
   - paper textures.
-  - Generated collage images through OpenRouter are optional and **need an OK first**. A rough estimate for about 20 images is $1–2.
+  - Generated collage images through OpenRouter (Gemini 3.1 Flash Image with `--ref` to the mascot sheet), about $0.07–0.08 each. They **need an OK first**.
 - **Retention checks:** a new visual every 2–4 seconds, nothing held for more than about 2 seconds, one subscribe segment, one comment prompt, and a "watch next" end screen. See RETENTION.md.
 - **After 48 hours:** check YouTube Studio's Intro percentage (aim for 65–70%+) and whether viewers drop off at the subscribe segment.

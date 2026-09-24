@@ -1,4 +1,11 @@
-# New Channel research
+# Wild Card Commander
+
+This repo holds the research and production files for **Wild Card Commander** (@WildCardCommander), a casual Commander channel ("for people who want the rematch"). It's the secondary channel to **Deck Check cEDH** (@DeckCheckMTG).
+
+- **Brand:** `brand/` holds the mascot sheet, the 800×800 avatar and the 2560×1440 banner. The source is `video/src/Mascot.tsx`. Re-render with `npx remotion still MascotSheet|Avatar|Banner out/<name>.png`.
+- **Mascot:** an original card back (own swirl pattern and a gold star seal, not Wizards' back) wearing pixel sunglasses. The poses are cool, "hold on…" (shades down), verdict (shades drop), shrug, and point.
+
+## Research
 
 This repo holds teardowns of Magic: The Gathering YouTube channels, used to plan a new channel. Each channel folder has the same layout:
 

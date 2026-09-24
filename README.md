@@ -2,8 +2,14 @@
 
 This repo holds the research and production files for **Wild Card Commander** (@WildCardCommander), a casual Commander channel ("for people who want the rematch"). It's the secondary channel to **Deck Check cEDH** (@DeckCheckMTG).
 
-- **Brand:** `brand/` holds the mascot sheet, the 800×800 avatar and the 2560×1440 banner. The source is `video/src/Mascot.tsx`. Re-render with `npx remotion still MascotSheet|Avatar|Banner out/<name>.png`.
-- **Mascot:** an original card back (own swirl pattern and a gold star seal, not Wizards' back) wearing pixel sunglasses. The poses are cool, "hold on…" (shades down), verdict (shades drop), shrug, and point.
+- **Brand:** `brand/` holds:
+  - `profile-picture-800.png`, the YouTube profile picture, tested at 36px, 48px and 98px on light and dark themes;
+  - `banner-2560x1440.png`;
+  - `mascot-sheet.png`;
+  - `animations/`, 17 expressive transparent mascot animations. Its [README](brand/animations/README.md) covers what each is for and the ffmpeg overlay command.
+
+  The source is `video/src/Mascot.tsx` (poses and stills), `video/src/mascot/Rig.tsx` (the character rig), `video/src/mascot/animations.tsx` and `animations2.tsx`. The plan for what's next is in [video/ANIMATION-ROADMAP.md](video/ANIMATION-ROADMAP.md).
+- **Mascot:** a plain red card back (brick red with a thin cream inner border, not Wizards' back) wearing pixel sunglasses. Red was chosen for contrast at avatar size, because no big Commander channel uses it, and because it pairs with Deck Check cEDH's maroon. Change `MASCOT_BACK` in `video/src/Mascot.tsx` to restyle every asset. The poses are cool, "hold on…" (shades down), verdict (shades drop), shrug, and point.
 
 ## Research
 

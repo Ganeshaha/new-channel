@@ -3,7 +3,8 @@ import { Composition } from "remotion";
 import { HelloWorld } from "./HelloWorld";
 import { Logo } from "./HelloWorld/Logo";
 import { SubscribeBeat, subscribeBeatSchema } from "./SubscribeBeat";
-import { Avatar, Banner, MascotSheet } from "./Mascot";
+import { BackOptions, Banner, MascotSheet, ProfilePicture } from "./Mascot";
+import { AnimationGallery, LIBRARY, MascotAnimation } from "./mascot/library";
 
 // Each <Composition> is an entry in the sidebar!
 
@@ -48,8 +49,26 @@ export const RemotionRoot: React.FC = () => {
 
       {/* Mascot character sheet (still). npx remotion still MascotSheet out/mascot-sheet.png */}
       <Composition id="MascotSheet" component={MascotSheet} durationInFrames={1} fps={30} width={1920} height={1080} />
-      <Composition id="Avatar" component={Avatar} durationInFrames={1} fps={30} width={800} height={800} />
+      <Composition id="BackOptions" component={BackOptions} durationInFrames={1} fps={30} width={1920} height={1080} />
+      <Composition id="ProfilePicture" component={ProfilePicture} durationInFrames={1} fps={30} width={800} height={800} />
       <Composition id="Banner" component={Banner} durationInFrames={1} fps={30} width={2560} height={1440} />
+
+      {/* Mascot animation library: one transparent 600x600 composition per move (see brand/animations/README.md) */}
+      {LIBRARY.map((a) => (
+        <Composition
+          key={a.id}
+          id={`Mascot-${a.id}`}
+          component={MascotAnimation}
+          durationInFrames={a.duration}
+          fps={30}
+          width={600}
+          height={600}
+          defaultProps={{ anim: a.id }}
+        />
+      ))}
+      <Composition id="MascotGallery" component={AnimationGallery} durationInFrames={120} fps={30} width={1920} height={1080} defaultProps={{ groups: ["core"] }} />
+      <Composition id="MascotGalleryMagic" component={AnimationGallery} durationInFrames={120} fps={30} width={1920} height={1080} defaultProps={{ groups: ["magic"] }} />
+      <Composition id="MascotGalleryYouTubeMeme" component={AnimationGallery} durationInFrames={120} fps={30} width={1920} height={1080} defaultProps={{ groups: ["youtube", "meme"] }} />
 
       {/* Mount any React component to make it show up in the sidebar and work on it individually! */}
       <Composition

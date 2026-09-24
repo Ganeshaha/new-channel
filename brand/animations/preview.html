@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Wild Card Commander · mascot animations</title>
+<style>
+  :root { --paper: #fbf8f1; --ink: #1d1b19; --red: #b23a2f; --gold: #e0b64f; }
+  body { margin: 0; padding: 24px 32px 40px; background: var(--paper); color: var(--ink); font-family: "Segoe UI", system-ui, sans-serif; }
+  header { display: flex; flex-wrap: wrap; align-items: baseline; gap: 16px 24px; margin-bottom: 20px; }
+  h1 { font: 900 32px/1.1 "Arial Black", Arial, sans-serif; margin: 0; }
+  h1 span { color: var(--red); }
+  .bg { display: flex; gap: 8px; }
+  .bg button { font: 600 14px "Segoe UI", sans-serif; padding: 6px 12px; border: 2px solid var(--ink); border-radius: 6px; background: #fff; cursor: pointer; }
+  .bg button[aria-pressed="true"] { background: var(--ink); color: #fff; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 18px; }
+  figure { margin: 0; border: 2px solid var(--ink); border-radius: 10px; overflow: hidden; background: var(--stage, var(--paper)); }
+  video { display: block; width: 100%; aspect-ratio: 1; }
+  figcaption { padding: 8px 12px; font-weight: 600; border-top: 2px solid var(--ink); background: #fff; }
+  .note { font-size: 14px; color: #5a5650; }
+  h2 { grid-column: 1 / -1; margin: 18px 0 0; font: 900 22px "Arial Black", Arial, sans-serif; }
+</style>
+</head>
+<body>
+<header>
+  <h1>WILD CARD COMMANDER <span>· animations</span></h1>
+  <div class="bg" role="group" aria-label="Background">
+    <button data-bg="#fbf8f1" aria-pressed="true">Paper</button>
+    <button data-bg="#0f0f0f" aria-pressed="false">Dark</button>
+    <button data-bg="#6b8f71" aria-pressed="false">Green</button>
+    <button data-bg="repeating-conic-gradient(#ddd 0 25%, #fff 0 50%) 0 0/24px 24px" aria-pressed="false">Checker</button>
+  </div>
+  <span class="note">48 animations, all looping here. Transparent WebM, 600×600, 30 fps.</span>
+</header>
+<main class="grid" id="grid"></main>
+<script>
+  const groups = {
+    "Core expressions": ["idle","wave","deal-with-it","peek","shocked","laugh","shrug","facepalm","celebrate","sad","yes","no","point","thinking","love","enter","exit"],
+    "Magic": ["tap","shuffle","draw","mulligan","counterspell","board-wipe","infinite-combo","nat-20","nat-1","coin-flip","mana","reanimate","exile","sleeve-up","salty","table-flip","life-loss"],
+    "YouTube": ["like","bell","comment","link-below","watch-next","views-up","loading"],
+    "Meme-style": ["big-brain","mind-blown","sip-tea","popcorn","nervous-sweat","dab","reprint"],
+  };
+  const grid = document.getElementById("grid");
+  for (const [name, ids] of Object.entries(groups)) {
+    const h = document.createElement("h2");
+    h.textContent = `${name} (${ids.length})`;
+    grid.appendChild(h);
+    for (const id of ids) {
+      const fig = document.createElement("figure");
+      fig.innerHTML = `<video src="${id}.webm" autoplay muted loop playsinline></video><figcaption>${id}</figcaption>`;
+      grid.appendChild(fig);
+    }
+  }
+  document.querySelectorAll(".bg button").forEach((b) =>
+    b.addEventListener("click", () => {
+      document.querySelectorAll(".bg button").forEach((x) => x.setAttribute("aria-pressed", String(x === b)));
+      document.querySelectorAll("figure").forEach((f) => f.style.setProperty("--stage", b.dataset.bg));
+    }),
+  );
+</script>
+</body>
+</html>

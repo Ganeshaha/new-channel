@@ -1,0 +1,720 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.400 --> 00:00:04.800
+EDHRec is a tool that collects deck data from&nbsp;
+across the internet, and which creates pages for&nbsp;&nbsp;
+
+00:00:04.800 --> 00:00:09.360
+each commander that contain the cards commonly&nbsp;
+played in them. I have spoken before about how&nbsp;&nbsp;
+
+00:00:09.360 --> 00:00:13.680
+using EDHRec for all of your deckbuilding needs&nbsp;
+can lead to decks that are flat, formulaic,&nbsp;&nbsp;
+
+00:00:13.680 --> 00:00:18.960
+and missing lots of great tools, and I’ve also&nbsp;
+spoken about how lots of people building decks&nbsp;&nbsp;
+
+00:00:18.960 --> 00:00:24.720
+mostly with EDHRec causes a handful of unintended&nbsp;
+side effects for the broader commander ecosystem.&nbsp;&nbsp;
+
+00:00:24.720 --> 00:00:30.000
+These things are true and I stand by them, but&nbsp;
+I’ve also seen some players take things too far&nbsp;&nbsp;
+
+00:00:30.000 --> 00:00:35.120
+in the opposite direction, decrying EDHRec as a&nbsp;
+useless tool for anybody but the least creative&nbsp;&nbsp;
+
+00:00:35.120 --> 00:00:40.480
+deckbuilders, and giving themselves a hearty pat&nbsp;
+of the back staying away from it. In reality,&nbsp;&nbsp;
+
+00:00:40.480 --> 00:00:45.520
+EDHRec is an intensely useful website that&nbsp;
+has the capability to make your decks better,&nbsp;&nbsp;
+
+00:00:45.520 --> 00:00:51.120
+more interesting, even more unique in some&nbsp;
+ways—if you know how to use it correctly.&nbsp;&nbsp;
+
+00:00:51.120 --> 00:00:57.200
+So in this video I want to dial in on EDHREC&nbsp;
+as a tool, and talk about how I use it:&nbsp;&nbsp;
+
+00:00:57.200 --> 00:01:01.040
+when during deckbuilding I use it,&nbsp;
+what specific features I like to use,&nbsp;&nbsp;
+
+00:01:01.040 --> 00:01:05.360
+and things I like to be careful of&nbsp;
+to prevent unintended consequences.
+
+00:01:05.360 --> 00:01:10.800
+To start with, there are two main times when I&nbsp;
+use EDHRec during deckbuilding—very early in the&nbsp;&nbsp;
+
+00:01:10.800 --> 00:01:15.600
+process of building a deck, and then sporadically&nbsp;
+closer to the end of deckbuilding. These two&nbsp;&nbsp;
+
+00:01:15.600 --> 00:01:20.640
+timeframes serve different purposes—early in&nbsp;
+the process of deckbuilding, I want to get a&nbsp;&nbsp;
+
+00:01:20.640 --> 00:01:26.560
+lay of the land. EDHRec is useful as a shortcut&nbsp;
+for seeing the most popular, and often the most&nbsp;&nbsp;
+
+00:01:26.560 --> 00:01:31.440
+powerful, stuff you can do with a commander.&nbsp;
+In some cases these will be the flashiest plays&nbsp;&nbsp;
+
+00:01:31.440 --> 00:01:35.680
+you can do with a given commander—we can see&nbsp;
+Fists of Flame at the top of the Zada page,&nbsp;&nbsp;
+
+00:01:35.680 --> 00:01:40.960
+Curiosity at the top of the Niv-Mizzet Parun page,&nbsp;
+and Parhelion II at the top of the Greasefang&nbsp;&nbsp;
+
+00:01:40.960 --> 00:01:45.840
+page. Even if you don’t intend to use the&nbsp;
+stuff at the top of the EDHRec page, it’s&nbsp;&nbsp;
+
+00:01:45.840 --> 00:01:50.800
+good to know what’s there—if you’re looking to&nbsp;
+build a deck around Animar, a popular commander,&nbsp;&nbsp;
+
+00:01:50.800 --> 00:01:55.520
+it’s good to know that more than half of Animar&nbsp;
+players are playing him as some form of combo&nbsp;&nbsp;
+
+00:01:55.520 --> 00:01:59.840
+deck, because that will impact how your deck is&nbsp;
+perceived and what other players will be on the&nbsp;&nbsp;
+
+00:01:59.840 --> 00:02:05.360
+lookout for. In other cases, the top of an EDHRec&nbsp;
+page might be more like the points of agreement&nbsp;&nbsp;
+
+00:02:05.360 --> 00:02:09.840
+between different builds of a commander. For&nbsp;
+something like Atraxa Grand Unifier we see&nbsp;&nbsp;
+
+00:02:09.840 --> 00:02:14.400
+some popular removal spells and some flicker&nbsp;
+cards to repeat the commander’s powerful ETB,&nbsp;&nbsp;
+
+00:02:14.400 --> 00:02:19.520
+but after that the play-rates of different cards&nbsp;
+fall off pretty fast, with players choosing a&nbsp;&nbsp;
+
+00:02:19.520 --> 00:02:24.480
+variety of different approaches for the specifics&nbsp;
+of their deck. In this case, I could go “okay,&nbsp;&nbsp;
+
+00:02:24.480 --> 00:02:28.560
+I guess I’ll start with flicker” and then&nbsp;
+decide the specifics of how I want to do that,&nbsp;&nbsp;
+
+00:02:28.560 --> 00:02:35.280
+and if I want to be among the roughly 25% of cEDH&nbsp;
+players playing Atraxa, judging by this page.
+
+00:02:35.280 --> 00:02:40.000
+Typically I’ll look at an EDHRec page at first&nbsp;
+to see any super obvious build paths that other&nbsp;&nbsp;
+
+00:02:40.000 --> 00:02:43.920
+people have been doing, but then once I’ve&nbsp;
+decided to build a particular commander I’ll&nbsp;&nbsp;
+
+00:02:43.920 --> 00:02:48.320
+click away for a while. It’s useful to know&nbsp;
+the basics of what other people are doing,&nbsp;&nbsp;
+
+00:02:48.320 --> 00:02:52.720
+but the longer you spend on this unaltered&nbsp;
+EDHRec page without looking elsewhere,&nbsp;&nbsp;
+
+00:02:52.720 --> 00:02:57.280
+the more you’ll get sucked into the stuff on&nbsp;
+this page and subconsciously let it decide&nbsp;&nbsp;
+
+00:02:57.280 --> 00:03:02.080
+what your deck wants to be for you. In cases&nbsp;
+when I’m using a top-down approach to build a&nbsp;&nbsp;
+
+00:03:02.080 --> 00:03:07.440
+deck—basically finding a commander I like with a&nbsp;
+card or two in mind—I like to get out of EDHRec&nbsp;&nbsp;
+
+00:03:07.440 --> 00:03:10.960
+pretty early so that the foundations of the&nbsp;
+deck aren’t too heavily influenced by what’s&nbsp;&nbsp;
+
+00:03:10.960 --> 00:03:15.840
+popular. In the early stages of building a&nbsp;
+deck, I don’t really want to know that 47%&nbsp;&nbsp;
+
+00:03:15.840 --> 00:03:20.000
+of other Imskir players are using Deadly&nbsp;
+Dispute, because that colors my opinion&nbsp;&nbsp;
+
+00:03:20.000 --> 00:03:24.160
+of the card at a stage in deckbuilding when I&nbsp;
+want to be exploring possibilities and keeping&nbsp;&nbsp;
+
+00:03:24.160 --> 00:03:28.240
+an open mind to different options with the&nbsp;
+commander. Other players might be different,&nbsp;&nbsp;
+
+00:03:28.240 --> 00:03:32.320
+but I find that the progression of gradually&nbsp;
+building up in cards and plugging in different&nbsp;&nbsp;
+
+00:03:32.320 --> 00:03:37.040
+scryfall searches as I figure out different&nbsp;
+ways my deck could play is really valuable as&nbsp;&nbsp;
+
+00:03:37.040 --> 00:03:42.480
+a creative step—it’s a stage of deckbuilding&nbsp;
+that I want to preserve as much as possible.&nbsp;&nbsp;
+
+00:03:42.480 --> 00:03:46.800
+Regardless of your exact preferences, if you’re&nbsp;
+starting your deckbuilding journey in EDHRec,&nbsp;&nbsp;
+
+00:03:46.800 --> 00:03:52.560
+I strongly recommend you click away to futz around&nbsp;
+with your own thing for a while at some point.
+
+00:03:52.560 --> 00:03:57.680
+For me, EDHRec comes back into the picture a bit&nbsp;
+later once I’ve discovered a fair number of cards&nbsp;&nbsp;
+
+00:03:57.680 --> 00:04:02.560
+and have a decently strong concept of my deck,&nbsp;
+but haven’t fully ironed out an initial draft&nbsp;&nbsp;
+
+00:04:02.560 --> 00:04:07.440
+yet. Whereas the initial usage of EDHRec was to&nbsp;
+get a lay of the land and see a handful of basic&nbsp;&nbsp;
+
+00:04:07.440 --> 00:04:14.080
+build paths, in this later stage of EDHRec usage&nbsp;
+I am looking for specific cards. Scryfall is a&nbsp;&nbsp;
+
+00:04:14.080 --> 00:04:18.960
+lovely tool, but there are some things it just&nbsp;
+won’t hit in any reasonable number of searches.&nbsp;&nbsp;
+
+00:04:18.960 --> 00:04:22.720
+Dour-port Mage won’t show up in any common&nbsp;
+searches you might make for a flicker deck,&nbsp;&nbsp;
+
+00:04:22.720 --> 00:04:26.640
+and if you’re building a Karametra deck,&nbsp;
+self-bouncers like Whitemain Lion might&nbsp;&nbsp;
+
+00:04:26.640 --> 00:04:31.920
+not even enter your radar if you’re not already&nbsp;
+in the know. This is where EDHRec is helpful—it&nbsp;&nbsp;
+
+00:04:31.920 --> 00:04:36.400
+can help you fill in the gaps with popular cards&nbsp;
+that scryfall searches might have missed. Even&nbsp;&nbsp;
+
+00:04:36.400 --> 00:04:41.120
+if a particular card isn’t showing up on the&nbsp;
+EDHRec page due to not being popular enough,&nbsp;&nbsp;
+
+00:04:41.120 --> 00:04:46.560
+looking at EDHRec can still help you find that&nbsp;
+card. If you’re building a cast-from-exile deck,&nbsp;&nbsp;
+
+00:04:46.560 --> 00:04:50.400
+you’ll probably find a bunch of payoffs for&nbsp;
+casting things from exile from scryfall searches,&nbsp;&nbsp;
+
+00:04:51.280 --> 00:04:56.480
+but a brief trip to the Prosper EDHREC page&nbsp;
+might clue you in on the words “from anywhere&nbsp;&nbsp;
+
+00:04:56.480 --> 00:05:00.640
+other than your hand.” Suddenly, that’s&nbsp;
+a whole new avenue to take a stroll down,&nbsp;&nbsp;
+
+00:05:00.640 --> 00:05:05.280
+and you might find yourself a lovely Memory&nbsp;
+Worm—get in here, you funky little guy.
+
+00:05:05.280 --> 00:05:10.160
+Okay, so at this point you hopefully have a good&nbsp;
+idea of when I like to use EDHRec and why I use it&nbsp;&nbsp;
+
+00:05:10.160 --> 00:05:14.880
+at those times. Deckbuilding is a very personal&nbsp;
+process and you may have your own preferences,&nbsp;&nbsp;
+
+00:05:14.880 --> 00:05:18.880
+but ideally you’ll be starting to get a better&nbsp;
+sense of what role the website should have in&nbsp;&nbsp;
+
+00:05:18.880 --> 00:05:24.400
+your deckbuilding. However, in covering the when&nbsp;
+and the why, I’ve so far skipped over the “how”,&nbsp;&nbsp;
+
+00:05:24.400 --> 00:05:28.240
+arguably the most important part. This&nbsp;
+might be confusing to a lot of people,&nbsp;&nbsp;
+
+00:05:28.240 --> 00:05:33.840
+because on a basic level EDHRec is very easy to&nbsp;
+use—you pop open the website, find your commander,&nbsp;&nbsp;
+
+00:05:33.840 --> 00:05:39.680
+and you’re off to the races. Easy as cake, right?&nbsp;
+Wrong! This page sucks if you’re looking for card&nbsp;&nbsp;
+
+00:05:39.680 --> 00:05:43.600
+choices for your specific deck, because&nbsp;
+it includes every deck for a commander,&nbsp;&nbsp;
+
+00:05:43.600 --> 00:05:48.480
+even plenty that look nothing like the one you’re&nbsp;
+trying to build. I think we as EDH players have&nbsp;&nbsp;
+
+00:05:48.480 --> 00:05:53.440
+a tendency to treat commanders as whole entities,&nbsp;
+like characters selected from a grid in a fighting&nbsp;&nbsp;
+
+00:05:53.440 --> 00:06:00.720
+game. This game is Kardur vs Zur vs Syr Konrad vs&nbsp;
+one of the 63 Kellens—what a legendary matchup!&nbsp;&nbsp;
+
+00:06:00.720 --> 00:06:05.040
+Wanting to simplify this one thing is an&nbsp;
+understandable impulse given the intense&nbsp;&nbsp;
+
+00:06:05.040 --> 00:06:10.080
+complexity of the commander format, but it’s&nbsp;
+sadly an incorrect impulse. Decks with a given&nbsp;&nbsp;
+
+00:06:10.080 --> 00:06:15.360
+commander can vary dramatically one another, and&nbsp;
+the more diverse a given commander’s decks are,&nbsp;&nbsp;
+
+00:06:15.360 --> 00:06:20.320
+the less helpful the base EDHRec&nbsp;
+page will be. So what’s the solution?
+
+00:06:20.320 --> 00:06:24.640
+The answer is filters, which I make very&nbsp;
+heavy use of once I’m further along and in&nbsp;&nbsp;
+
+00:06:24.640 --> 00:06:29.920
+that card-gleaning stage of EDHRec usage. By&nbsp;
+default, the website will draw data from all&nbsp;&nbsp;
+
+00:06:29.920 --> 00:06:34.480
+decks in its database with a given commander,&nbsp;
+but the filters option allows you to filter&nbsp;&nbsp;
+
+00:06:34.480 --> 00:06:39.440
+out decks that do or don’t include a given card.&nbsp;
+Now, you could put all sorts of stuff in this,&nbsp;&nbsp;
+
+00:06:39.440 --> 00:06:44.080
+but the most useful type of card will be what&nbsp;
+I like to call “indicator cards,” which are&nbsp;&nbsp;
+
+00:06:44.080 --> 00:06:49.440
+basically just cards that fit very cleanly in&nbsp;
+or out of a given archetype. For example, if we&nbsp;&nbsp;
+
+00:06:49.440 --> 00:06:54.400
+go to the page of Kellan, Inquisitive Prodigy, we&nbsp;
+see a melange of different elements, but the most&nbsp;&nbsp;
+
+00:06:54.400 --> 00:06:59.040
+prominent ones are things involving clues, which&nbsp;
+kinda makes sense given that blue green clues is&nbsp;&nbsp;
+
+00:06:59.040 --> 00:07:03.040
+an established Innistrad archetype. This&nbsp;
+is going to be helpful to some people,&nbsp;&nbsp;
+
+00:07:03.040 --> 00:07:08.320
+but what if I’m looking for a higher-curved deck,&nbsp;
+maybe even consider the inclusion of Keruga as a&nbsp;&nbsp;
+
+00:07:08.320 --> 00:07:13.520
+companion? In that case this page won’t do much&nbsp;
+for me before a bit of filtering, and the one&nbsp;&nbsp;
+
+00:07:13.520 --> 00:07:18.480
+card near the top of the page that really stands&nbsp;
+out as a big-mana option is Map the Frontier,&nbsp;&nbsp;
+
+00:07:18.480 --> 00:07:23.920
+a four mana sorcery that searches up two basic&nbsp;
+lands and/or deserts to the field. And actually,&nbsp;&nbsp;
+
+00:07:23.920 --> 00:07:28.320
+this works great as an indicator card because&nbsp;
+it’s not the sort of card that most decks will&nbsp;&nbsp;
+
+00:07:28.320 --> 00:07:34.240
+want. Mana ramp past two, maybe three mana stuff&nbsp;
+will typically only be included in a deck if it&nbsp;&nbsp;
+
+00:07:34.240 --> 00:07:39.280
+fits with a deck’s synergies, so its presence&nbsp;
+will generally be a good sign that a deck has a&nbsp;&nbsp;
+
+00:07:39.280 --> 00:07:44.320
+big mana gameplan. Sure enough, that’s reflected&nbsp;
+after filtering—we see lots of higher-cost cards&nbsp;&nbsp;
+
+00:07:44.320 --> 00:07:49.200
+that would require mana investment to succeed,&nbsp;
+as well as lots of great tools for a Keruga deck.
+
+00:07:49.200 --> 00:07:54.720
+So that’s one example, but what about an example&nbsp;
+of an anti-indicator card? A while back I was&nbsp;&nbsp;
+
+00:07:54.720 --> 00:08:00.080
+brewing a Kardur control deck, sort of like a red&nbsp;
+flicker deck. A major goal of the deck is to have&nbsp;&nbsp;
+
+00:08:00.080 --> 00:08:05.360
+a basically unlimited supply of Disrupt Decorums&nbsp;
+available, since Kardur has that effect on ETB,&nbsp;&nbsp;
+
+00:08:05.360 --> 00:08:10.240
+and ETBs can be repeated with a card like Jaxis&nbsp;
+that can produce a token copy of a creature each&nbsp;&nbsp;
+
+00:08:10.240 --> 00:08:15.360
+turn. I thought this was a sensible enough plan&nbsp;
+for the commander, but when I went to the EDHRec&nbsp;&nbsp;
+
+00:08:15.360 --> 00:08:21.120
+page, a number of the more commonly played cards&nbsp;
+themselves did goad-related things. Initially I&nbsp;&nbsp;
+
+00:08:21.120 --> 00:08:25.040
+was pretty shocked that around half of all Kardur&nbsp;
+players felt the need to run cards that do the&nbsp;&nbsp;
+
+00:08:25.040 --> 00:08:29.840
+same thing as their commander, but that’s their&nbsp;
+business, not mine. The important thing is what&nbsp;&nbsp;
+
+00:08:29.840 --> 00:08:34.400
+happened next: I filtered the results. One option&nbsp;
+for this could be to filter by cards I know I want&nbsp;&nbsp;
+
+00:08:34.400 --> 00:08:39.840
+in the deck, such as a couple red flicker staples&nbsp;
+like Jaxis and Conjurer’s Closet. However, the&nbsp;&nbsp;
+
+00:08:39.840 --> 00:08:45.360
+result is pretty muddy, with Disrupt Decorum now&nbsp;
+showing up in an even greater proportion of decks.&nbsp;&nbsp;
+
+00:08:45.360 --> 00:08:50.240
+The issue is that these red flicker cards don’t&nbsp;
+do anything to indicate a player who is averse to&nbsp;&nbsp;
+
+00:08:50.240 --> 00:08:56.400
+redundancy—there are plenty of goadmaxxers out&nbsp;
+there who will take the flicker stuff and the&nbsp;&nbsp;
+
+00:08:56.400 --> 00:09:01.920
+additional copies of goad cards, because they just&nbsp;
+like disrupting decorum that much. No, the way to&nbsp;&nbsp;
+
+00:09:01.920 --> 00:09:06.560
+start sculpting a helpful EDHRec page in this case&nbsp;
+is to exclude the cards that do the same thing as&nbsp;&nbsp;
+
+00:09:06.560 --> 00:09:12.000
+the commander, such as Disrupt Decorum and Geode&nbsp;
+Rager, and after that the page suddenly starts&nbsp;&nbsp;
+
+00:09:12.000 --> 00:09:16.160
+looking a lot more helpful. There’s still some&nbsp;
+of this that’s probably outside what my deck&nbsp;&nbsp;
+
+00:09:16.160 --> 00:09:21.040
+would want to do, but at least the goad stuff&nbsp;
+is mostly out of the way—Vengeful Ancestor is&nbsp;&nbsp;
+
+00:09:21.040 --> 00:09:26.560
+only in 12% of the remaining decks after this&nbsp;
+filtering, down from 43% on the base page.
+
+00:09:26.560 --> 00:09:31.680
+As a final example of filtering, let’s talk about&nbsp;
+how to combine includes and excludes. Back when I&nbsp;&nbsp;
+
+00:09:31.680 --> 00:09:36.640
+had a Liesa hatebears deck, I’d periodically check&nbsp;
+EDHRec to see if anything was catching my eye,&nbsp;&nbsp;
+
+00:09:36.640 --> 00:09:41.120
+but for this to work I needed to filter&nbsp;
+the page first. The most popular build of&nbsp;&nbsp;
+
+00:09:41.120 --> 00:09:45.920
+Liesa is lifegain, and though I don’t mind&nbsp;
+a little lifegain to offset Liesa’s drain,&nbsp;&nbsp;
+
+00:09:45.920 --> 00:09:51.280
+it’s definitely not what the deck is built around.&nbsp;
+A first step could be excluding some core lifegain&nbsp;&nbsp;
+
+00:09:51.280 --> 00:09:56.400
+cards such as Soul Warden, but this isn’t all that&nbsp;
+effective because lifegain is just such a dominant&nbsp;&nbsp;
+
+00:09:56.400 --> 00:10:00.240
+archetype, and there are plenty of lifegain&nbsp;
+decks not including a certain lifegain card&nbsp;&nbsp;
+
+00:10:00.240 --> 00:10:04.960
+for one reason or another. A different approach&nbsp;
+is to filter for inclusion of 2 mana Thalia,&nbsp;&nbsp;
+
+00:10:06.160 --> 00:10:11.360
+which is basically the first card I’d add to any&nbsp;
+hatebears deck, and this is a bit more effective,&nbsp;&nbsp;
+
+00:10:11.360 --> 00:10:17.440
+but lifegain cards still start creeping in&nbsp;
+at around 25% inclusion. What works best is&nbsp;&nbsp;
+
+00:10:17.440 --> 00:10:22.640
+the combined approach; if I filter for decks&nbsp;
+that include Thalia and exclude Soul Warden,&nbsp;&nbsp;
+
+00:10:22.640 --> 00:10:28.000
+lifegain is basically obliterated from the page,&nbsp;
+with a Well of Lost Dreams and two Sanguine Bond&nbsp;&nbsp;
+
+00:10:28.000 --> 00:10:34.800
+effects being the only lifegain payoffs remaining.&nbsp;
+This also still leaves a healthy 550 decks, since&nbsp;&nbsp;
+
+00:10:34.800 --> 00:10:39.360
+I didn’t need to throw a whole bunch of cards into&nbsp;
+my filters in order to get the desired results.&nbsp;&nbsp;
+
+00:10:39.360 --> 00:10:42.240
+You can do something similar with&nbsp;
+price if you’re looking for a budget&nbsp;&nbsp;
+
+00:10:42.240 --> 00:10:46.880
+deck—if a base EDHREC page is helpful&nbsp;
+aside from the cards being too pricy,&nbsp;&nbsp;
+
+00:10:46.880 --> 00:10:50.320
+you could exclude an expensive card&nbsp;
+and include something cheap like a&nbsp;&nbsp;
+
+00:10:50.320 --> 00:10:55.200
+solid budget land. Suddenly, the cards on&nbsp;
+the page will be much more in your budget.
+
+00:10:55.200 --> 00:10:59.120
+It becomes more clear just how important&nbsp;
+filtering is when you think about an EDHRec&nbsp;&nbsp;
+
+00:10:59.120 --> 00:11:04.160
+page as a cross section of a handful of different&nbsp;
+overlapping decks. Some commanders will be pretty&nbsp;&nbsp;
+
+00:11:04.160 --> 00:11:09.200
+straightforward and less diverse—if we go to&nbsp;
+the Prosper EDHRec page, there are almost 30&nbsp;&nbsp;
+
+00:11:09.200 --> 00:11:14.240
+nonland cards that show up in more than 50%&nbsp;
+of Prosper decks. Meanwhile, if we look at a&nbsp;&nbsp;
+
+00:11:14.240 --> 00:11:20.080
+similarly popular but more open-ended commander,&nbsp;
+Alela Artful Provateur, that number is less than&nbsp;&nbsp;
+
+00:11:20.080 --> 00:11:25.360
+half of that, and some commanders like Glissa&nbsp;
+Sunslayer have almost no cards above the 50%&nbsp;&nbsp;
+
+00:11:25.360 --> 00:11:31.200
+played threshold. For commanders with a singular,&nbsp;
+more streamlined playpath, the base EDHRec page&nbsp;&nbsp;
+
+00:11:31.200 --> 00:11:35.760
+can be moderately helpful, but for a more&nbsp;
+diverse commander the page might be pure soup,&nbsp;&nbsp;
+
+00:11:35.760 --> 00:11:40.400
+an unfiltered mishmash of different archetypes&nbsp;
+interspersed across the page. I actually made&nbsp;&nbsp;
+
+00:11:40.400 --> 00:11:45.360
+a video last year about exactly these sorts of&nbsp;
+commanders, with Archelos, Francisco/Malcolm,&nbsp;&nbsp;
+
+00:11:45.360 --> 00:11:50.080
+and Skeleton Ship as examples—these EDHREC pages&nbsp;
+of these commanders are equal parts interesting&nbsp;&nbsp;
+
+00:11:50.080 --> 00:11:55.360
+to dig into and instructive for seeing the&nbsp;
+limits of an unfiltered EDHREC page. I’m&nbsp;&nbsp;
+
+00:11:55.360 --> 00:12:01.040
+also very interested in what causes a commander’s&nbsp;
+EDHREC page to be more diverse or less diverse,&nbsp;&nbsp;
+
+00:12:01.040 --> 00:12:05.600
+so I actually ended up working with my brother&nbsp;
+to analyze a whole bunch of EDHREC pages,&nbsp;&nbsp;
+
+00:12:05.600 --> 00:12:10.400
+and we made a video about it over on my second&nbsp;
+channel, complete with a tool to analyze your&nbsp;&nbsp;
+
+00:12:10.400 --> 00:12:14.560
+own commanders. I’ll include a preview of&nbsp;
+that at the end of this video. Regardless&nbsp;&nbsp;
+
+00:12:14.560 --> 00:12:17.680
+of what exact commanders you’re using,&nbsp;
+filters are an important thing to have&nbsp;&nbsp;
+
+00:12:17.680 --> 00:12:22.640
+in your repertoire if you’re using EDHRec.&nbsp;
+The website as a whole is a very useful tool,&nbsp;&nbsp;
+
+00:12:22.640 --> 00:12:27.360
+both for getting a sense of the broader play-rates&nbsp;
+of a commander and for finding specific cards,&nbsp;&nbsp;
+
+00:12:27.360 --> 00:12:31.840
+but if you’re using it for the latter purpose,&nbsp;
+using filters will save you a lot of time and&nbsp;&nbsp;
+
+00:12:31.840 --> 00:12:39.280
+effort, and also show you more cards. EDHRec&nbsp;
+pages will typically show about 300 cards, and&nbsp;&nbsp;
+
+00:12:39.280 --> 00:12:43.840
+that’s a decent amount if most of the cards are&nbsp;
+ones you’d actually consider, but if two-thirds&nbsp;&nbsp;
+
+00:12:43.840 --> 00:12:48.000
+of them are for disparate archetypes that you&nbsp;
+didn’t put in the effort to filter out, suddenly&nbsp;&nbsp;
+
+00:12:48.000 --> 00:12:54.080
+you’re getting a lot less useful information out&nbsp;
+of the page. So, uhh, use filters. They’re good.
+
+00:12:54.080 --> 00:12:58.800
+As a final note, using EDHREC in general&nbsp;
+will likely help your deck out in some form,&nbsp;&nbsp;
+
+00:12:58.800 --> 00:13:03.200
+but I’ve found that getting the best usage out&nbsp;
+of it requires some level of detachment from&nbsp;&nbsp;
+
+00:13:03.200 --> 00:13:07.760
+the website. Using other resources and giving&nbsp;
+yourself a chance to feel out where your deck&nbsp;&nbsp;
+
+00:13:07.760 --> 00:13:12.880
+wants to go will help in giving ideas room to&nbsp;
+breathe away from the constant input of how&nbsp;&nbsp;
+
+00:13:12.880 --> 00:13:18.640
+popular cards are. When you are using EDHREC,&nbsp;
+it’s useful to sometimes take a step back and&nbsp;&nbsp;
+
+00:13:18.640 --> 00:13:22.480
+remember what the information on your screen&nbsp;
+is telling you. The stuff at the top of an&nbsp;&nbsp;
+
+00:13:22.480 --> 00:13:27.520
+EDHREC page is simply the stuff that a bunch of&nbsp;
+people decided should go in their deck. Different&nbsp;&nbsp;
+
+00:13:27.520 --> 00:13:31.120
+people might be building decks in different&nbsp;
+ways and for different reasons than you are,&nbsp;&nbsp;
+
+00:13:31.120 --> 00:13:35.920
+so a card being up there isn’t necessarily a&nbsp;
+positive or negative statement about it, but&nbsp;&nbsp;
+
+00:13:35.920 --> 00:13:41.680
+it is a very informative one. Even just taking a&nbsp;
+bit to think to yourself about why a given card is&nbsp;&nbsp;
+
+00:13:41.680 --> 00:13:46.240
+present at a certain position on the page and what&nbsp;
+sorts of decks it might be played in is a really&nbsp;&nbsp;
+
+00:13:46.240 --> 00:13:50.800
+helpful exercise that will make you a lot better&nbsp;
+at processing the stuff that’s on your screen,&nbsp;&nbsp;
+
+00:13:50.800 --> 00:13:55.520
+and better at understanding the EDHREC&nbsp;
+ecosystem in general. Any tool will be&nbsp;&nbsp;
+
+00:13:55.520 --> 00:14:00.320
+much more useful to you if you can get a sense&nbsp;
+of why it’s going exactly what it’s doing.
+
+00:14:00.320 --> 00:14:04.640
+Thanks for watching, and thanks to EDHRec for&nbsp;
+sponsoring this video. I also want to thank&nbsp;&nbsp;
+
+00:14:04.640 --> 00:14:08.800
+Archidekt for their ongoing support of the&nbsp;
+channel, and its integration of EDHREC’s salt&nbsp;&nbsp;
+
+00:14:08.800 --> 00:14:13.600
+scores and user-polled combo database can provide&nbsp;
+interesting tools for seeing how other people&nbsp;&nbsp;
+
+00:14:13.600 --> 00:14:18.240
+might see your deck. Additionally, I want to thank&nbsp;
+my Patrons and YouTube members for their support,&nbsp;&nbsp;
+
+00:14:18.240 --> 00:14:23.760
+some of whom are on screen now. As a final note,&nbsp;
+The Command Zone just put out a super fun and high&nbsp;&nbsp;
+
+00:14:23.760 --> 00:14:27.840
+effort video a couple days ago to go with Edge&nbsp;
+of Eternities, and you should definitely check&nbsp;&nbsp;
+
+00:14:27.840 --> 00:14:32.640
+it out if you haven’t already—a link to that is in&nbsp;
+the description. With that said, here’s a preview&nbsp;&nbsp;
+
+00:14:32.640 --> 00:14:38.160
+of the EDHRec analyzer video, which will be over&nbsp;
+on my second channel—linked in the description.
+

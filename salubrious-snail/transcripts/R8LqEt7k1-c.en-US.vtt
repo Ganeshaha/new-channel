@@ -1,0 +1,712 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.360 --> 00:00:04.880
+In my video about my Malfegor deck, I introduced&nbsp;
+the concept of Counterweight commanders. These are&nbsp;&nbsp;
+
+00:00:04.880 --> 00:00:08.160
+commanders that, rather than directly&nbsp;
+synergizing with the cards in a deck,&nbsp;&nbsp;
+
+00:00:08.160 --> 00:00:13.680
+instead offset a weakness of a deck. That concept&nbsp;
+as applied to that deck went roughly as follows—I&nbsp;&nbsp;
+
+00:00:13.680 --> 00:00:18.480
+knew I wanted a deck that focused on grindy,&nbsp;
+low-cost creatures and discard spells. Grindy,&nbsp;&nbsp;
+
+00:00:18.480 --> 00:00:22.960
+low-cost creatures have the downside that they’re&nbsp;
+often small and easy to block, and discard spells&nbsp;&nbsp;
+
+00:00:22.960 --> 00:00:26.400
+have the downside that opponents can choose to&nbsp;
+play their most valuable creatures as fast as&nbsp;&nbsp;
+
+00:00:26.400 --> 00:00:30.080
+possible to avoid losing them to discard. By&nbsp;
+selecting Malfegor as a commander, the deck&nbsp;&nbsp;
+
+00:00:30.080 --> 00:00:33.800
+always has access to a tool that can allow it&nbsp;
+to clear out opposing boards, mitigating the&nbsp;&nbsp;
+
+00:00:33.800 --> 00:00:39.000
+downsides of the cards in the 99. The cards in&nbsp;
+the 99 likewise nullify Malfegor’s weakness of&nbsp;&nbsp;
+
+00:00:39.000 --> 00:00:43.120
+making me hellbent by making opponents lose cards&nbsp;
+as well and providing ways of generating value&nbsp;&nbsp;
+
+00:00:43.120 --> 00:00:48.000
+that stick around after my hand is gone. So here&nbsp;
+we have a deck where the commander isn’t directly&nbsp;&nbsp;
+
+00:00:48.000 --> 00:00:52.400
+related to what the deck does, but instead&nbsp;
+has a mutualistic relationship with the deck,&nbsp;&nbsp;
+
+00:00:52.400 --> 00:00:57.960
+meshing together with it to form a cohesive&nbsp;
+whole that benefits both commander and 99. Now,&nbsp;&nbsp;
+
+00:00:57.960 --> 00:01:01.720
+this is undoubtedly the most elegant version&nbsp;
+of a counterweight commander among my decks,&nbsp;&nbsp;
+
+00:01:01.720 --> 00:01:06.160
+but in retrospect I think that fact almost serves&nbsp;
+to obscure the concept a bit. A counterweight&nbsp;&nbsp;
+
+00:01:06.160 --> 00:01:10.120
+commander can look like that, but it can&nbsp;
+also look like a lot of other things. So,&nbsp;&nbsp;
+
+00:01:10.120 --> 00:01:13.560
+seeing as how this is a subject that is&nbsp;
+fundamentally related to my deckbuilding,&nbsp;&nbsp;
+
+00:01:13.560 --> 00:01:18.760
+and how I haven’t dedicated a video to it aside&nbsp;
+from a little 5 minute thing in July of last year,&nbsp;&nbsp;
+
+00:01:18.760 --> 00:01:23.640
+I’m going to give the concept a full discussion.&nbsp;
+I’m going to discuss the conceptual roots of it,&nbsp;&nbsp;
+
+00:01:23.640 --> 00:01:27.200
+give some additional examples, and talk&nbsp;
+about how it fits into the broader EDH&nbsp;&nbsp;
+
+00:01:27.200 --> 00:01:31.360
+ecosystem, as well as discuss some of the&nbsp;
+limitations of this style of deckbuilding.
+
+00:01:31.360 --> 00:01:35.280
+To start with, let’s return to the definition&nbsp;
+I gave earlier. A counterweight commander is&nbsp;&nbsp;
+
+00:01:35.280 --> 00:01:39.400
+a commander that serves to cover the weaknesses&nbsp;
+of a given deck. It’s easy to imagine that this&nbsp;&nbsp;
+
+00:01:39.400 --> 00:01:43.680
+is a revolutionary innovation that I came up with&nbsp;
+and have been employing under the radar for years&nbsp;&nbsp;
+
+00:01:43.680 --> 00:01:49.560
+before finally, now, spilling my secrets. However,&nbsp;
+the truth is much more mundane. Fundamentally,&nbsp;&nbsp;
+
+00:01:49.560 --> 00:01:52.880
+the idea of a counterweight commander&nbsp;
+emerges naturally from the process of&nbsp;&nbsp;
+
+00:01:52.880 --> 00:01:57.560
+rigorously interrogating what, in exact detail,&nbsp;
+your command zone is offering you in a given&nbsp;&nbsp;
+
+00:01:57.560 --> 00:02:01.520
+deck. As commander players it’s easy to slip&nbsp;
+into a mode of existence where we forget the&nbsp;&nbsp;
+
+00:02:01.520 --> 00:02:06.680
+rules of the format, or rather, where we calcify&nbsp;
+a specific understanding of the commander format&nbsp;&nbsp;
+
+00:02:06.680 --> 00:02:12.160
+in our brains. Almost all popular commanders fall&nbsp;
+into one of two categories—they’re an enabler for&nbsp;&nbsp;
+
+00:02:12.160 --> 00:02:16.840
+a particular thing, or more commonly they’re a&nbsp;
+payoff for doing a thing. Decks are supposed to&nbsp;&nbsp;
+
+00:02:16.840 --> 00:02:20.800
+have one or more themes, and then a commander&nbsp;
+that helps out with one of those themes. A lot&nbsp;&nbsp;
+
+00:02:20.800 --> 00:02:25.800
+of players internalize this as the way to build&nbsp;
+commander decks, but this actually misses a lot of&nbsp;&nbsp;
+
+00:02:25.800 --> 00:02:29.960
+the possibility space of the format. Let’s think&nbsp;
+about the commander format as somebody who has&nbsp;&nbsp;
+
+00:02:29.960 --> 00:02:34.160
+never heard of it before and is reading the&nbsp;
+rules of the format. You have a 99 card deck&nbsp;&nbsp;
+
+00:02:34.160 --> 00:02:38.320
+with only one of any given card—on the surface,&nbsp;
+not great for purposes of consistency compared&nbsp;&nbsp;
+
+00:02:38.320 --> 00:02:43.600
+to a 1v1 format. However, this is bolstered by an&nbsp;
+additional card that you always have access to—an&nbsp;&nbsp;
+
+00:02:43.600 --> 00:02:47.000
+8th card in your hand, effectively. This makes&nbsp;
+the command zone a critically important resource&nbsp;&nbsp;
+
+00:02:47.000 --> 00:02:51.320
+for any player looking to maintain a level of&nbsp;
+consistency in their deck. One way to utilize&nbsp;&nbsp;
+
+00:02:51.320 --> 00:02:55.800
+this is on the ever-popular payoff card—you&nbsp;
+can run Isshin as your commander to enhance&nbsp;&nbsp;
+
+00:02:55.800 --> 00:02:59.920
+the effectiveness of your on-attack triggers,&nbsp;
+or Wilhelt to increase the efficiency of your&nbsp;&nbsp;
+
+00:02:59.920 --> 00:03:03.840
+zombies. These are reasonable, as they allow&nbsp;
+a deckbuilder to focus most of their effort&nbsp;&nbsp;
+
+00:03:03.840 --> 00:03:07.480
+on those sorts of cards, knowing that&nbsp;
+even if they’re a little subpar alone,&nbsp;&nbsp;
+
+00:03:07.480 --> 00:03:11.080
+these cards are guaranteed to have a little&nbsp;
+boost as long as the commander sticks around.
+
+00:03:11.080 --> 00:03:14.680
+However, there are lots of other things a player&nbsp;
+might want to guarantee, and other ways that&nbsp;&nbsp;
+
+00:03:14.680 --> 00:03:19.080
+guaranteed things can mesh into a gameplan.&nbsp;
+My high power Francisco/Malcolm deck is one&nbsp;&nbsp;
+
+00:03:19.080 --> 00:03:23.880
+that tries to land a one drop pirate turn 1,&nbsp;
+Francisco turn 2, and Malcolm turn 3, and then&nbsp;&nbsp;
+
+00:03:23.880 --> 00:03:29.040
+uses Francisco’s filtering and Malcolm’s treasures&nbsp;
+to curve into a turn 5 or6 infinite turns combo&nbsp;&nbsp;
+
+00:03:29.040 --> 00:03:33.720
+with Time Sieve. Now, this is not an example&nbsp;
+of a counterweight commander, and could even&nbsp;&nbsp;
+
+00:03:33.720 --> 00:03:37.920
+be considered a conventional engine commander.&nbsp;
+My command zone generates resources given the&nbsp;&nbsp;
+
+00:03:37.920 --> 00:03:43.120
+input of a key card type performing a specific&nbsp;
+action—pirates dealing combat damage to players.&nbsp;&nbsp;
+
+00:03:43.120 --> 00:03:47.160
+However, this is undoubtedly a more intentional&nbsp;
+command zone than your typical build of something&nbsp;&nbsp;
+
+00:03:47.160 --> 00:03:52.520
+like Admiral Beckett Brass, even as it’s similar&nbsp;
+on paper. Francisco guarantees that I have a two&nbsp;&nbsp;
+
+00:03:52.520 --> 00:03:57.560
+drop available every single game, and Malcolm is a&nbsp;
+key piece of the deck’s combo and also guarantees&nbsp;&nbsp;
+
+00:03:57.560 --> 00:04:02.640
+a source of available mana for my 13 counterspells&nbsp;
+even when my lands are tapped out. As I said, this&nbsp;&nbsp;
+
+00:04:02.640 --> 00:04:07.440
+isn’t an example of a counterweight commander, but&nbsp;
+it involves a similarly meticulous focus on what&nbsp;&nbsp;
+
+00:04:07.440 --> 00:04:12.440
+the command zone offers a player. For a similarly&nbsp;
+curveout-oriented example, my Radha deck has the&nbsp;&nbsp;
+
+00:04:12.440 --> 00:04:16.480
+goal of playing Radha, Heir to Keld on turn 2&nbsp;
+as a manadork, an Explosive Vegetation analog&nbsp;&nbsp;
+
+00:04:16.480 --> 00:04:22.680
+on turn 3, and a stream of cascade spells and 6-7&nbsp;
+cost bombs from turn 4 onward. By fully covering&nbsp;&nbsp;
+
+00:04:22.680 --> 00:04:28.560
+my low-cost ramp, Radha allows me to have nothing&nbsp;
+below four mana in the 99, thereby strengthening&nbsp;&nbsp;
+
+00:04:28.560 --> 00:04:34.600
+the cascade cards and allowing for extremely high&nbsp;
+topdeck quality even with a land count of 41. Now,&nbsp;&nbsp;
+
+00:04:34.600 --> 00:04:39.240
+this actually is an example of a counterweight&nbsp;
+commander, and a wonderfully simple one at that.&nbsp;&nbsp;
+
+00:04:39.240 --> 00:04:44.160
+I identified that a turn 2 Radha could allow me&nbsp;
+to eliminate the normally space-hogging element&nbsp;&nbsp;
+
+00:04:44.160 --> 00:04:48.440
+of low-cost ramp in a big mana deck without&nbsp;
+losing too much speed, and then the rest of&nbsp;&nbsp;
+
+00:04:48.440 --> 00:04:52.840
+the deck was constructed to further take advantage&nbsp;
+of that choice. If we think of a commander deck as&nbsp;&nbsp;
+
+00:04:52.840 --> 00:04:57.040
+a stool, I basically removed one leg from that&nbsp;
+stool, and then shoved my commander under there&nbsp;&nbsp;
+
+00:04:57.040 --> 00:05:01.640
+as a replacement, making additions from there&nbsp;
+with the fantastic wood savings I’d achieved.
+
+00:05:01.640 --> 00:05:04.920
+Curve-out is almost always a factor in my&nbsp;
+commander deckbuilding choices, but it’s&nbsp;&nbsp;
+
+00:05:04.920 --> 00:05:09.720
+not always quite as dominant a factor as it is&nbsp;
+in my Radha deck. For a now-somewhat-deprecated&nbsp;&nbsp;
+
+00:05:09.720 --> 00:05:13.680
+example of a counterweight commander, let’s&nbsp;
+talk about my Glissa deck. Glissa Sunslayer is&nbsp;&nbsp;
+
+00:05:13.680 --> 00:05:18.280
+a 3 mana 3/3 deathtouch first strike that allows&nbsp;
+its controller to choose between drawing a card,&nbsp;&nbsp;
+
+00:05:18.280 --> 00:05:21.840
+destroying an enchantment, and removing three&nbsp;
+counters from something whenever it hits a&nbsp;&nbsp;
+
+00:05:21.840 --> 00:05:26.960
+player. When I first saw this card, I noticed two&nbsp;
+things about it: it can offer a stream of draw,&nbsp;&nbsp;
+
+00:05:26.960 --> 00:05:31.080
+and it’s a really good blocker. What sort of&nbsp;
+deck can make use of a low-cost creature with&nbsp;&nbsp;
+
+00:05:31.080 --> 00:05:35.640
+that sort of profile? A greedy battlecruiser&nbsp;
+deck, of course. A big mana deck can benefit&nbsp;&nbsp;
+
+00:05:35.640 --> 00:05:39.840
+from having an early utility play guaranteed,&nbsp;
+as this makes it possible for a deck to focus&nbsp;&nbsp;
+
+00:05:39.840 --> 00:05:44.800
+more of its space on higher-costed cards&nbsp;
+while still having early plays. In addition,&nbsp;&nbsp;
+
+00:05:44.800 --> 00:05:49.480
+the first strike deathtouch pairing makes Glissa&nbsp;
+a fantastic blocker, allowing the deck to ward off&nbsp;&nbsp;
+
+00:05:49.480 --> 00:05:54.040
+early aggression, a thing that might otherwise&nbsp;
+cause problems for a greedy late game deck. I&nbsp;&nbsp;
+
+00:05:54.040 --> 00:05:58.200
+eventually decided that my Radha deck scratches&nbsp;
+the same itches as this one but more effectively,&nbsp;&nbsp;
+
+00:05:58.200 --> 00:06:02.720
+but it’s nonetheless useful as a case study&nbsp;
+for weakness mitigation. As another example,&nbsp;&nbsp;
+
+00:06:02.720 --> 00:06:07.880
+my Liesa deck pairs a commander who is good at&nbsp;
+deleting opposing life totals with a 99 made up&nbsp;&nbsp;
+
+00:06:07.880 --> 00:06:12.920
+of lower-cost hatebears and utility creatures.&nbsp;
+The deck’s hatebears hinder opposing gameplans&nbsp;&nbsp;
+
+00:06:12.920 --> 00:06:17.600
+and slow down the pace of games, and Liesa is here&nbsp;
+to be a reliable way of cutting down life totals&nbsp;&nbsp;
+
+00:06:17.600 --> 00:06:21.920
+in that slowed environment, since she’s a great&nbsp;
+beater that is effectively immune from command&nbsp;&nbsp;
+
+00:06:21.920 --> 00:06:26.280
+tax. In both of these cases, the commander’s&nbsp;
+mana value is important and they’re often played&nbsp;&nbsp;
+
+00:06:26.280 --> 00:06:30.400
+when that much mana is available, but they can be&nbsp;
+pushed back a bit if the deck has a better play.
+
+00:06:30.400 --> 00:06:33.640
+Overall, this counterweight style of&nbsp;
+commander choice is a really fun one—it&nbsp;&nbsp;
+
+00:06:33.640 --> 00:06:37.560
+provides mechanically textured gameplay, and&nbsp;
+it also scratches my hipster itches since it&nbsp;&nbsp;
+
+00:06:37.560 --> 00:06:41.280
+means that my decks are almost always&nbsp;
+different from opposing decks. However,&nbsp;&nbsp;
+
+00:06:41.280 --> 00:06:45.760
+this isn’t a perfect method, and can indeed&nbsp;
+lead to some problems. One problem that can&nbsp;&nbsp;
+
+00:06:45.760 --> 00:06:50.400
+arise is that when the commander is one of very&nbsp;
+few cards to play a particular role in a deck,&nbsp;&nbsp;
+
+00:06:50.400 --> 00:06:55.360
+that deck’s functionality can be greatly hindered&nbsp;
+if the commander becomes unavailable. One example&nbsp;&nbsp;
+
+00:06:55.360 --> 00:06:59.640
+of this is a Torsten deck I built several months&nbsp;
+back—it’s a deck that’s entirely creatures and&nbsp;&nbsp;
+
+00:06:59.640 --> 00:07:05.360
+lands, and which uses playing and blinking Torsten&nbsp;
+as its only draw, effectively drawing 7 cards per&nbsp;&nbsp;
+
+00:07:05.360 --> 00:07:10.640
+Torsten entry. Upsides—packs a lot of draw into&nbsp;
+just a handful of deck slots, allowing space&nbsp;&nbsp;
+
+00:07:10.640 --> 00:07:16.680
+for a ton of ramp to guarantee fast rollouts.&nbsp;
+Downsides—hoo boy, if this deck draws poorly or&nbsp;&nbsp;
+
+00:07:16.680 --> 00:07:21.600
+gets its board wiped too early, it can sit around&nbsp;
+twiddling its thumbs for multiple turns on end,&nbsp;&nbsp;
+
+00:07:21.600 --> 00:07:27.400
+with all of its card draw behind an imposing&nbsp;
+seven or nine mana barrier. When this deck works,&nbsp;&nbsp;
+
+00:07:27.400 --> 00:07:33.880
+it really works, but the play pattern can just as&nbsp;
+often be jarring and awkward. So this is an issue&nbsp;&nbsp;
+
+00:07:33.880 --> 00:07:37.560
+that can come up with this sort of deckbuilding,&nbsp;
+but for it to cause problems as it did in this&nbsp;&nbsp;
+
+00:07:37.560 --> 00:07:42.760
+case, two things really need to be true. For&nbsp;
+one, the deck needs to have no meaningful backup&nbsp;&nbsp;
+
+00:07:42.760 --> 00:07:46.880
+quantity of the thing the commander is providing.&nbsp;
+My Malfegor deck would really struggle if it&nbsp;&nbsp;
+
+00:07:46.880 --> 00:07:51.240
+didn’t have a way to clear out opposing boards,&nbsp;
+but it runs a decent removal suite in addition to&nbsp;&nbsp;
+
+00:07:51.240 --> 00:07:55.720
+the commander for that exact reason, including a&nbsp;
+handful of small creature wipes intended to hinder&nbsp;&nbsp;
+
+00:07:55.720 --> 00:08:01.360
+token players who might otherwise get out of hand.&nbsp;
+By contrast the Torsten deck has literally no draw&nbsp;&nbsp;
+
+00:08:01.360 --> 00:08:05.320
+outside of the command zone due to how tight&nbsp;
+space is in the deck, unless you count Selvala&nbsp;&nbsp;
+
+00:08:05.320 --> 00:08:10.200
+as draw. Secondly, the thing that the commander&nbsp;
+is providing needs to be a key requirement for&nbsp;&nbsp;
+
+00:08:10.200 --> 00:08:14.400
+the long-term functioning of the deck in order&nbsp;
+for there to be a problem. My Radha deck has&nbsp;&nbsp;
+
+00:08:14.400 --> 00:08:18.840
+absolutely no low-cost ramp aside from Radha&nbsp;
+herself, and as some people have pointed out,&nbsp;&nbsp;
+
+00:08:18.840 --> 00:08:23.960
+the commander getting removed immediately does&nbsp;
+cause me to basically skip my turn 3. But this&nbsp;&nbsp;
+
+00:08:23.960 --> 00:08:28.400
+rarely happens because it’s not actually a&nbsp;
+particularly good usage of removal—this is&nbsp;&nbsp;
+
+00:08:28.400 --> 00:08:33.160
+an inevitability deck not a tempo deck, and a&nbsp;
+one-turn setback for a slower deck just isn’t&nbsp;&nbsp;
+
+00:08:33.160 --> 00:08:38.680
+that big a deal in mid-power EDH. When Radha dies&nbsp;
+early, I shrug, garner a bit of table sympathy,&nbsp;&nbsp;
+
+00:08:38.680 --> 00:08:42.960
+and then proceed normally starting on turn&nbsp;
+4. By contrast, my Torsten deck requires&nbsp;&nbsp;
+
+00:08:42.960 --> 00:08:48.360
+constant access to him, and any barrier to&nbsp;
+utilizing him stonewalls the deck’s gameplan.
+
+00:08:48.360 --> 00:08:51.480
+The other potential issue with counterweight&nbsp;
+commanders is that it can lead to decks that&nbsp;&nbsp;
+
+00:08:51.480 --> 00:08:55.600
+some might find a bit bland in terms of card&nbsp;
+choice. As you may have noticed earlier,&nbsp;&nbsp;
+
+00:08:55.600 --> 00:08:59.680
+I actually titled my original video on this&nbsp;
+topic “A Weird Trick to Making Cool Midrange&nbsp;&nbsp;
+
+00:08:59.680 --> 00:09:04.320
+Decks,” which certainly indicates something.&nbsp;
+It is true that a lot of decks do end up moving&nbsp;&nbsp;
+
+00:09:04.320 --> 00:09:08.480
+somewhat in this direction—my Glissa deck&nbsp;
+is a pile of generic dudes, my Radha deck&nbsp;&nbsp;
+
+00:09:08.480 --> 00:09:12.800
+is a cascade-flavored pile of generic dudes,&nbsp;
+my Liesa deck is a lower-curved and somewhat&nbsp;&nbsp;
+
+00:09:12.800 --> 00:09:17.120
+staxy pile of generic dudes, and if you squint&nbsp;
+around the interesting bits, my Malfegor deck&nbsp;&nbsp;
+
+00:09:17.120 --> 00:09:21.520
+is also kind of a pile of generic dudes. This&nbsp;
+fundamentally comes down to the nature of the&nbsp;&nbsp;
+
+00:09:21.520 --> 00:09:26.280
+strategy—at its core the counterweight commander&nbsp;
+method is all about rejecting direct synergy with&nbsp;&nbsp;
+
+00:09:26.280 --> 00:09:31.160
+the commander in favor of a gameplan that meshes&nbsp;
+with the commander indirectly. In EDH broadly,&nbsp;&nbsp;
+
+00:09:31.160 --> 00:09:35.280
+the commander of a deck will often be a central&nbsp;
+node to begin building a deck’s synergies off of,&nbsp;&nbsp;
+
+00:09:35.280 --> 00:09:39.240
+so without that direct synergy relationship&nbsp;
+it’s easy to end up grabbing best-in-class&nbsp;&nbsp;
+
+00:09:39.240 --> 00:09:44.000
+cards rather than ones that perform to a specific&nbsp;
+dynamic or synergistic gameplan. This doesn’t mean&nbsp;&nbsp;
+
+00:09:44.000 --> 00:09:48.160
+that all decks with this method need to lack&nbsp;
+synergy—my Malfegor deck has a bit of direct&nbsp;&nbsp;
+
+00:09:48.160 --> 00:09:52.720
+synergy with self-discard, and some other synergy&nbsp;
+packages that relate to the sorts of gamestates my&nbsp;&nbsp;
+
+00:09:52.720 --> 00:09:57.120
+Demon Dragon friend promotes, and my Radha deck&nbsp;
+likewise features a decent amount of cascade as&nbsp;&nbsp;
+
+00:09:57.120 --> 00:10:02.080
+a natural offshoot from having a commander that&nbsp;
+allows me to run very few low cost cards. It’s&nbsp;&nbsp;
+
+00:10:02.080 --> 00:10:06.240
+fully possible to make interesting, synergistic&nbsp;
+decks within the bounds of this method, but it&nbsp;&nbsp;
+
+00:10:06.240 --> 00:10:10.360
+is undoubtedly more difficult, and I consider&nbsp;
+finding interesting dynamics and card choices&nbsp;&nbsp;
+
+00:10:10.360 --> 00:10:14.440
+within the counterweight commander framework to&nbsp;
+be just one of the fun challenges of the method.
+
+00:10:14.440 --> 00:10:17.720
+To cap off the video, I’m going to give one&nbsp;
+more example of a counterweight commander&nbsp;&nbsp;
+
+00:10:17.720 --> 00:10:21.680
+deck that is something of a deviation from the&nbsp;
+midrange framework—and actually, it was the&nbsp;&nbsp;
+
+00:10:21.680 --> 00:10:27.920
+first one I ever built. In 2019, I built a $25&nbsp;
+budget combo-control Orzhov deck with Kambal,&nbsp;&nbsp;
+
+00:10:27.920 --> 00:10:32.200
+Consul of Allocation as the commander.&nbsp;
+Unlike a lot of common control commanders,&nbsp;&nbsp;
+
+00:10:32.200 --> 00:10:36.560
+Kambal doesn’t help generate value or control&nbsp;
+the board; rather, he’s simply a three mana&nbsp;&nbsp;
+
+00:10:36.560 --> 00:10:41.320
+2/3 that drains an opponent for two points of&nbsp;
+life whenever they cast a noncreature spell. So,&nbsp;&nbsp;
+
+00:10:41.320 --> 00:10:46.640
+what’s he here for? Well primarily, lifegain,&nbsp;
+which Kambal guarantees a near-constant source&nbsp;&nbsp;
+
+00:10:46.640 --> 00:10:51.840
+of. Now, lifegain isn’t a particularly useful&nbsp;
+thing on its own. Life totals are a key factor&nbsp;&nbsp;
+
+00:10:51.840 --> 00:10:56.120
+for winning the game, yes, but tempo and value&nbsp;
+tend to be more important contributors to the&nbsp;&nbsp;
+
+00:10:56.120 --> 00:11:00.120
+winning and losing of games, particularly in&nbsp;
+a format like commander where life totals are&nbsp;&nbsp;
+
+00:11:00.120 --> 00:11:03.800
+high by default. Nor is this a deck with&nbsp;
+much in the way of lifegain synergies,&nbsp;&nbsp;
+
+00:11:03.800 --> 00:11:08.480
+effects that trigger when life is gained. So&nbsp;
+where does lifegain fit in here? Well for one,&nbsp;&nbsp;
+
+00:11:08.480 --> 00:11:12.280
+control decks tend to be weak to life&nbsp;
+total pressure, so this helps with that,&nbsp;&nbsp;
+
+00:11:12.280 --> 00:11:17.040
+but lifegain also helps control decks in another&nbsp;
+way. See, in a deck with a lot of boardwipes,&nbsp;&nbsp;
+
+00:11:17.040 --> 00:11:22.120
+opponents will deploy creatures in tactical&nbsp;
+numbers. If a control player is at 28 life, a&nbsp;&nbsp;
+
+00:11:22.120 --> 00:11:26.320
+midrange player might choose to drop maybe ten or&nbsp;
+fifteen power worth of creatures on board, knowing&nbsp;&nbsp;
+
+00:11:26.320 --> 00:11:30.800
+that that number could threaten a control player’s&nbsp;
+life total without requiring too much commitment.&nbsp;&nbsp;
+
+00:11:30.800 --> 00:11:35.880
+However, if that same control player is at 44&nbsp;
+life, suddenly the situation is trickier, and the&nbsp;&nbsp;
+
+00:11:35.880 --> 00:11:40.760
+midrange player may be tempted into overcommitting&nbsp;
+into a boardwipe. This principle led to a&nbsp;&nbsp;
+
+00:11:40.760 --> 00:11:45.880
+semi-ironic phrase becoming infamous in my&nbsp;
+playgroup—“controlling them with your life total.”
+
+00:11:45.880 --> 00:11:49.640
+Aside from this control aspect, it was also&nbsp;
+useful to have a lot more life than opponents&nbsp;&nbsp;
+
+00:11:49.640 --> 00:11:54.320
+for purposes of winning, since most of the&nbsp;
+deck’s wincons hinged on Sanguine Bond paired&nbsp;&nbsp;
+
+00:11:54.320 --> 00:11:59.400
+with a big lifegain effect. As a final bit of&nbsp;
+utility, Kambal disproportionately hated out&nbsp;&nbsp;
+
+00:11:59.400 --> 00:12:04.280
+fiddly noncreature-based decks, such as the pool’s&nbsp;
+spellslinger deck and the pool’s eggs deck. This&nbsp;&nbsp;
+
+00:12:04.280 --> 00:12:08.800
+is key, because these sorts of decks otherwise&nbsp;
+posed a major challenge to the deck, which focused&nbsp;&nbsp;
+
+00:12:08.800 --> 00:12:14.280
+on creature killing and sorcery-speed board wipes.&nbsp;
+This deck likely wouldn’t fare particularly well&nbsp;&nbsp;
+
+00:12:14.280 --> 00:12:18.440
+outside the budget deck environment it was born&nbsp;
+in, but it serves as a good reminder for what a&nbsp;&nbsp;
+
+00:12:18.440 --> 00:12:22.800
+single line of text can accomplish in the right&nbsp;
+environment—it can smooth out bad matchups,&nbsp;&nbsp;
+
+00:12:22.800 --> 00:12:26.880
+indirectly generate value, and help to close&nbsp;
+out a game. That’s the biggest takeaway from&nbsp;&nbsp;
+
+00:12:26.880 --> 00:12:31.520
+all of this—the power of your commander&nbsp;
+comes, above all else, from context,&nbsp;&nbsp;
+
+00:12:31.520 --> 00:12:36.040
+the situation into which you’re dropping them from&nbsp;
+the command zone. Arrange that context just right,&nbsp;&nbsp;
+
+00:12:36.040 --> 00:12:40.840
+and you’ll find all sorts of commanders&nbsp;
+performing way beyond your initial expectations.
+
+00:12:40.840 --> 00:12:44.760
+Thanks for watching, and thanks to Archidekt&nbsp;
+for supporting the channel. I spend way too much&nbsp;&nbsp;
+
+00:12:44.760 --> 00:12:48.640
+time fiddling around with decks, and Archidekt&nbsp;
+does a great job facilitating that through its&nbsp;&nbsp;
+
+00:12:48.640 --> 00:12:53.640
+streamlined UI and highly-visual presentation.&nbsp;
+A link to my decks is down in the description.&nbsp;&nbsp;
+
+00:12:53.640 --> 00:12:57.200
+I’d also like to thank my patrons, some of&nbsp;
+whom are on screen now. I do monthly deck&nbsp;&nbsp;
+
+00:12:57.200 --> 00:13:01.080
+review videos where I go through and analyze a&nbsp;
+handful of patron decks, so if you want a shot&nbsp;&nbsp;
+
+00:13:01.080 --> 00:13:05.240
+at getting your deck reviewed by me, a link&nbsp;
+to my patreon is in the description. Finally,&nbsp;&nbsp;
+
+00:13:05.240 --> 00:13:09.720
+if you want more of me without paying money, I’m&nbsp;
+on a podcast with The Trinket Mage and 3/3 Elk.&nbsp;&nbsp;
+
+00:13:09.720 --> 00:13:13.760
+There should be an episode featuring Maldhound&nbsp;
+coming out around the same time this video is,&nbsp;&nbsp;
+
+00:13:13.760 --> 00:13:18.080
+and if you want to see that a link will be in the&nbsp;
+description whenever it’s up. Alright, bye now.
+

@@ -1,0 +1,508 @@
+<title>Salubrious Snail Teardown</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=IBM+Plex+Mono:wght@400;500&family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&display=swap">
+<style>
+:root{
+  --ground:#eceef1; --surface:#fbfbfa; --ink:#15171c; --ink-2:#4b505a; --muted:#7d828c;
+  --rule:#d6d9de; --grid:#e3e5e9; --axis:#b9bdc5;
+  --kraft:#8a5d2b; --kraft-wash:#efe3d3;
+  --s1:#2a78d6; --s2:#eb6834; --s3:#1baf7a; --s-other:#a9adb5;
+  --hit:#1d6b3a; --flop:#b3362e;
+  --display:"Anton","Impact","Arial Narrow Bold",sans-serif;
+  --body:"Source Sans 3","Segoe UI",system-ui,sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    color-scheme:dark;
+    --ground:#121418; --surface:#1a1d21; --ink:#eceef1; --ink-2:#b4b9c2; --muted:#8a909a;
+    --rule:#2d3137; --grid:#262a30; --axis:#3d424a;
+    --kraft:#d6a86c; --kraft-wash:#2c241a;
+    --s1:#3987e5; --s2:#d95926; --s3:#199e70; --s-other:#5d626b;
+    --hit:#5cc27f; --flop:#ec7a70;
+  }
+}
+:root[data-theme="dark"]{
+  color-scheme:dark;
+  --ground:#121418; --surface:#1a1d21; --ink:#eceef1; --ink-2:#b4b9c2; --muted:#8a909a;
+  --rule:#2d3137; --grid:#262a30; --axis:#3d424a;
+  --kraft:#d6a86c; --kraft-wash:#2c241a;
+  --s1:#3987e5; --s2:#d95926; --s3:#199e70; --s-other:#5d626b;
+  --hit:#5cc27f; --flop:#ec7a70;
+}
+*{box-sizing:border-box}
+body{background:var(--ground);color:var(--ink);font:400 17px/1.6 var(--body);padding:0 20px;padding-block:40px 80px}
+.wrap{max-width:1100px;margin:0 auto;display:flex;flex-direction:column;gap:56px}
+.col{max-width:700px}
+h1,h2{font-family:var(--display);font-weight:400;letter-spacing:.01em;line-height:1.05;text-wrap:balance;margin:0}
+h1{font-size:clamp(40px,7vw,76px);text-transform:uppercase}
+h2{font-size:clamp(28px,4vw,40px);text-transform:uppercase}
+h3{font-size:19px;margin:0;font-weight:700;text-wrap:balance}
+p{margin:0}
+.eyebrow{font:500 12px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--kraft)}
+.lede{font-size:21px;line-height:1.5;color:var(--ink-2)}
+section{display:flex;flex-direction:column;gap:18px}
+.stack{display:flex;flex-direction:column;gap:14px}
+strong{font-weight:700}
+.num{font-family:var(--mono);font-variant-numeric:tabular-nums;font-size:.92em}
+a{color:var(--s1)}
+header{display:flex;flex-direction:column;gap:20px;padding-bottom:8px;border-bottom:3px solid var(--ink)}
+.meta{font:400 13px/1.5 var(--mono);color:var(--muted)}
+
+.facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1px;background:var(--rule);border:1px solid var(--rule)}
+.fact{background:var(--surface);padding:18px 18px 16px;display:flex;flex-direction:column;gap:6px}
+.fact b{font:400 34px/1 var(--display);letter-spacing:.01em}
+.fact span{font-size:14px;line-height:1.4;color:var(--ink-2)}
+
+.answer{background:var(--surface);border:1px solid var(--rule);padding:24px;display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:24px}
+.answer div{display:flex;flex-direction:column;gap:6px}
+.answer .k{font:500 12px/1 var(--mono);color:var(--kraft);letter-spacing:.08em}
+.answer p{font-size:16px;line-height:1.5;color:var(--ink-2)}
+
+figure{margin:0;display:flex;flex-direction:column;gap:10px}
+figcaption{font-size:14px;line-height:1.5;color:var(--muted);max-width:760px}
+.chart{background:var(--surface);border:1px solid var(--rule);padding:16px 16px 8px;position:relative}
+.scroll{overflow-x:auto}
+.chart svg{display:block;width:100%;min-width:620px;height:auto}
+.chart svg text{font-family:var(--mono);font-size:12px;fill:var(--muted)}
+.chart svg text.lab{fill:var(--ink);font-family:var(--body);font-size:13px;font-weight:600}
+.chart svg text.val{fill:var(--ink);font-size:12px}
+.legend{display:flex;flex-wrap:wrap;gap:6px 18px;font-size:14px;color:var(--ink-2);margin-bottom:8px}
+.legend i{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:6px;vertical-align:0}
+.legend i.sq{border-radius:2px}
+.tip{position:absolute;pointer-events:none;background:var(--ink);color:var(--surface);font:400 13px/1.4 var(--body);padding:8px 10px;border-radius:4px;max-width:280px;z-index:2}
+.tip b{font-family:var(--mono);font-weight:500}
+details{font-size:14px}
+summary{cursor:pointer;color:var(--ink-2);padding:6px 0}
+summary:focus-visible,a:focus-visible{outline:2px solid var(--s1);outline-offset:2px}
+table{border-collapse:collapse;width:100%;font-size:13px}
+th,td{text-align:left;padding:5px 8px;border-bottom:1px solid var(--grid);vertical-align:top}
+th{font:500 11px/1.3 var(--mono);letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+td.r,th.r{text-align:right;font-family:var(--mono);font-variant-numeric:tabular-nums;white-space:nowrap}
+.tbl{max-height:360px;overflow:auto;border:1px solid var(--rule);background:var(--surface)}
+
+.shot{background:var(--surface);border:1px solid var(--rule);padding:8px}
+.shot img{display:block;width:100%;height:auto}
+.pair{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:20px}
+.tag{display:inline-block;font:500 11px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;padding:5px 7px;border-radius:3px}
+.tag.hit{color:var(--hit);border:1px solid currentColor}
+.tag.flop{color:var(--flop);border:1px solid currentColor}
+
+.hooks{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:1px;background:var(--rule);border:1px solid var(--rule)}
+.hook{background:var(--surface);padding:16px 18px;display:flex;flex-direction:column;gap:8px}
+.hook q{font-style:italic;color:var(--ink);quotes:"\201C" "\201D"}
+.hook .src{font:400 12px/1.4 var(--mono);color:var(--muted)}
+
+.findings{display:flex;flex-direction:column;gap:0;border-top:1px solid var(--rule)}
+.finding{display:grid;grid-template-columns:minmax(0,220px) minmax(0,1fr);gap:8px 28px;padding:18px 0;border-bottom:1px solid var(--rule)}
+.finding h3{font-size:17px}
+.finding p{color:var(--ink-2);font-size:16px}
+@media (max-width:640px){.finding{grid-template-columns:1fr}}
+
+.phases{display:flex;flex-direction:column;gap:0;border-left:3px solid var(--ink);margin-left:6px}
+.phase{position:relative;padding:0 0 32px 28px;display:flex;flex-direction:column;gap:10px}
+.phase::before{content:"";position:absolute;left:-10px;top:4px;width:17px;height:17px;background:var(--kraft);border:3px solid var(--ground);border-radius:50%}
+.phase .when{font:500 12px/1 var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--kraft)}
+.phase h3{font:400 26px/1.1 var(--display);text-transform:uppercase;letter-spacing:.01em}
+.phase ul{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:8px;color:var(--ink-2);max-width:760px}
+.phase li strong{color:var(--ink)}
+.phase .gate{font-size:15px;color:var(--ink);background:var(--kraft-wash);padding:10px 12px;border-radius:3px;max-width:760px}
+
+.two{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:20px}
+.box{background:var(--surface);border:1px solid var(--rule);padding:20px;display:flex;flex-direction:column;gap:10px}
+.box ul{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px;color:var(--ink-2);font-size:16px}
+.box.stop{border-top:4px solid var(--flop)}
+.box.start{border-top:4px solid var(--hit)}
+.template{font:400 14px/1.6 var(--mono);background:var(--surface);border:1px solid var(--rule);padding:16px 18px;white-space:pre-wrap;color:var(--ink)}
+.small{font-size:14px;color:var(--muted);line-height:1.55}
+@media (prefers-reduced-motion:no-preference){.chart circle{transition:r .12s}}
+</style>
+
+<style>
+:root{--kraft:#6a3d9a;--kraft-wash:#efe8f7}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--kraft:#bfa1ea;--kraft-wash:#261d33}}
+:root[data-theme="dark"]{--kraft:#bfa1ea;--kraft-wash:#261d33}
+.cmp{overflow-x:auto;border:1px solid var(--rule);background:var(--surface)}
+.cmp table{min-width:560px}
+.cmp td:first-child{color:var(--ink-2)}
+.answer{grid-template-columns:repeat(auto-fit,minmax(180px,1fr))}
+</style>
+
+<div class="wrap">
+
+<header>
+  <span class="eyebrow">Channel teardown · @salubrioussnail · data pulled 24 Sep 2026</span>
+  <h1>How an EDH essay channel took off</h1>
+  <p class="lede col">Salubrious Snail makes illustrated video essays about how to think about Commander decks, which is different from reviewing decklists. The channel had about 9,000 subscribers in January 2024 and has 99,500 now. It grew by coining ideas, explaining them with stick figures, and publishing steadily for three years. This is what worked, what is slipping, and a roadmap.</p>
+  <p class="meta">Sources: yt-dlp metadata for 90 public uploads (79 long-form videos, 9 Shorts, 2 streams; 10 more are members-only), auto-captions for all 90, thumbnails, and YouTube's auto-captured mid-video frames.</p>
+</header>
+
+<div class="facts">
+  <div class="fact"><b>99.5k</b><span>subscribers from 13.4M views. That's 0.74 subscribers per 100 views, about 3× Attack on Cardboard's rate.</span></div>
+  <div class="fact"><b>115k</b><span>median views per long-form video. 49 of 79 videos passed 100k, and the lowest did 15k.</span></div>
+  <div class="fact"><b>32%</b><span>of long-form views come from the top 10 videos. The success is broad, not driven by a few hits.</span></div>
+  <div class="fact"><b>9</b><span>Shorts in three years, and none since May 2025, even though their median is 62k.</span></div>
+</div>
+
+<section>
+  <span class="eyebrow">The short answer</span>
+  <h2>Five things made it grow</h2>
+  <div class="answer">
+    <div><span class="k">1 · The lane</span><h3>Theory, not decklists</h3><p>Most Commander channels show decks or gameplay. This channel explains why decks work or fail. The first video opens by calling itself "a video about data… data scraping and the sorts of feedback loops" that result. Nobody else was doing that.</p></div>
+    <div><span class="k">2 · The ideas</span><h3>Coined, named concepts</h3><p>"Smol Bean Syndrome", "counterweight commanders", "the hidden trap of tribal", "the problem with budget cards". A named idea gets repeated in comments and Discord, and every repeat points back to the video.</p></div>
+    <div><span class="k">3 · The craft</span><h3>Hand-drawn and fast</h3><p>Original stick figures, the snail mascot and simple diagrams on white. Scripts run at about 205 words per minute with no filler. It's cheap to make, instantly recognisable, and carries no copyright risk.</p></div>
+    <div><span class="k">4 · The cast</span><h3>A face-free personality</h3><p>The hooks open on real people: friends Jack and Hans arguing about pump spells, a playgroup's running joke about opening hands, the host's brother Ian. That builds loyalty without a face on camera, which explains the 3× subscriber conversion.</p></div>
+    <div><span class="k">5 · The rhythm</span><h3>Steady for 13 quarters</h3><p>Four to ten long-form videos every quarter since mid-2023, with no gaps. Each one is a new way into a back catalogue that keeps pulling views.</p></div>
+  </div>
+</section>
+
+<section>
+  <span class="eyebrow">Timeline</span>
+  <h2>The take-off was Q1 2024</h2>
+  <p class="col">Early videos show big lifetime numbers, but those accumulated later. In the February 2024 Q&amp;A the host says the channel had just passed about 15k subscribers, up from 9k a month earlier. The manabase video (Jan), the guide to winning (Feb) and "My Playgroup's Best Deck is $20" (Mar, 971k, 7× the channel's usual views) came in quick succession. The channel has held a high floor ever since.</p>
+  <figure>
+    <div class="chart" id="scatterWrap">
+      <div class="legend" id="scatterLegend"></div>
+      <div class="scroll"><svg id="scatter" viewBox="0 0 1000 440" role="img" aria-label="Scatter of long-form video views over time, coloured by format"></svg></div>
+    </div>
+    <figcaption>Lifetime views as of 24 Sep 2026, on a log scale. Older videos have had longer to accumulate.</figcaption>
+    <details>
+      <summary>Show all 79 public long-form videos as a table</summary>
+      <div class="tbl"><table id="allTable"><thead><tr><th>Date</th><th class="r">Views</th><th>Format</th><th>Title</th></tr></thead><tbody></tbody></table></div>
+    </details>
+  </figure>
+</section>
+
+<section>
+  <span class="eyebrow">Format</span>
+  <h2>Practical promises beat introspection</h2>
+  <p class="col">Every format does well by most channels' standards, and the spread between the best and worst is only about 2.7×. The practical guides ("Snail's Guide to…", "Your Manabase Deserves Better") lead. Next come deck stories with a hard constraint ($20, $100, "my most difficult deck"). Community challenges, patron deck breakdowns and videos about the channel itself trail, because they mostly serve people who already subscribe.</p>
+  <figure>
+    <div class="chart">
+      <div class="scroll"><svg id="formats" viewBox="0 0 1000 380" role="img" aria-label="Median views by video format"></svg></div>
+    </div>
+    <figcaption>Median lifetime views per format, with videos bucketed from their titles. The number of videos in each format is shown in brackets.</figcaption>
+  </figure>
+</section>
+
+<section>
+  <span class="eyebrow">Momentum</span>
+  <h2>The median is sliding</h2>
+  <p class="col">The median video from 2024 has 165k views. For 2025 it's 106k, and 2026 uploads sit at 87k so far. Part of that is age, because these essays keep collecting views for years. But the recent low points (41k, 33k) are lower than anything the channel posted in 2023–24 apart from the Q&amp;A. The "multiple" (views divided by the median of the previous 10 uploads) has been below 1 for most 2026 videos.</p>
+  <figure>
+    <div class="chart">
+      <div class="scroll"><svg id="quarters" viewBox="0 0 1000 320" role="img" aria-label="Median long-form views by upload quarter"></svg></div>
+    </div>
+    <figcaption>Median lifetime views of long-form videos by the quarter they were uploaded. Labels show how many videos were uploaded that quarter. Recent quarters are understated because their videos are young.</figcaption>
+  </figure>
+</section>
+
+<section>
+  <span class="eyebrow">Packaging</span>
+  <h2>Thumbnails: a number or a verdict</h2>
+  <p class="col">The template never changes: a white background, one to three card scans, and bold coloured text written in the host's voice. The winners say something concrete and surprising in two to five words, such as "70% winrate", "only 34 lands??", "Step 1: wincons don't exist", "actual garbage" or "Wildly Overrated". The weakest thumbnails use full sentences ("the way to densify your deck without ruining it", "the key is to treat these cards as identical") or in-jokes that only land if you've already watched. The one thumbnail that shows the host's face is the worst performer on the channel.</p>
+  <figure>
+    <span class="tag hit">Top 12 long-form</span>
+    <div class="shot"><img src="top_longform.jpg" alt="Grid of the 12 most-viewed long-form thumbnails with view counts"></div>
+  </figure>
+  <figure>
+    <span class="tag flop">Bottom 12 long-form</span>
+    <div class="shot"><img src="bottom_longform.jpg" alt="Grid of the 12 least-viewed long-form thumbnails" loading="lazy"></div>
+  </figure>
+  <details>
+    <summary>Show the 8 most recent thumbnails</summary>
+    <div class="shot"><img src="recent_longform.jpg" alt="Grid of the eight most recent long-form thumbnails" loading="lazy"></div>
+    <p class="small">Six of the last eight thumbnails carry a full sentence of three to five lines. The two that recovered (123k and 102k) went back to a short verdict ("fatally flawed") and a simple before-and-after arrow.</p>
+  </details>
+</section>
+
+<section>
+  <span class="eyebrow">Inside the videos</span>
+  <h2>Hits show concrete stakes</h2>
+  <p class="col">These frames come from 25%, 50% and 75% of the way through each video. The visual style is the same throughout: stick figures, the snail, and cards laid out on flat colour. The hits anchor the drawings in something real, like a $ sign over a budget decklist, "28 lands / 71 nonlands" as bars, or precon boxes next to a combo count. The low performers mostly show abstract coloured rectangles, buckets and screenshots of comments.</p>
+  <figure>
+    <div class="shot" style="max-width:820px"><img src="inside_frames.jpg" alt="Three frames each from three top videos and three low performers" loading="lazy"></div>
+    <figcaption>Rows from the top: the $20 deck (971k), guide to winning (403k), manabase (348k), "more sauce" guide (57k), "EDH doesn't have archetypes" (41k), "janky trash" (33k).</figcaption>
+  </figure>
+
+  <h3>The first 15 seconds</h3>
+  <p class="col">The top videos open on a story with named people or a claim you want settled. The weakest open on admin, a favour, or doubts about their own topic.</p>
+  <div class="hooks">
+    <div class="hook"><span class="tag hit">Hit · 971k</span><q>Last spring a couple friends of mine, Jack and Hans, were having a disagreement, and that disagreement was about buff spells.</q><span class="src">My Playgroup's Best Deck is $20</span></div>
+    <div class="hook"><span class="tag hit">Hit · 348k</span><q>A now infamous sentence in my playgroup is "wow, this opening hand would be great if it had more lands".</q><span class="src">Your Manabase Deserves Better</span></div>
+    <div class="hook"><span class="tag hit">Hit · 350k</span><q>How do you describe a Magic: the Gathering deck?</q><span class="src">The Hidden Trap of Tribal Decks</span></div>
+    <div class="hook"><span class="tag flop">Low · 33k</span><q>I'm working on a little project right now, and I need your help.</q><span class="src">It's okay to put *some* janky trash in your deck</span></div>
+    <div class="hook"><span class="tag flop">Low · 49k</span><q>The subject of hybrid mana has been pretty front and center recently… and I honestly find it a bit tiresome as a topic.</q><span class="src">The Hybrid Mana Debacle</span></div>
+    <div class="hook"><span class="tag flop">Low · 63k</span><q>Today I'm going to be looking at a randomly selected deck from one of my patrons.</q><span class="src">Can Gruul Control? Patron deck breakdown</span></div>
+  </div>
+</section>
+
+<section>
+  <span class="eyebrow">Critical read</span>
+  <h2>What's weaker than it looks</h2>
+  <div class="findings">
+    <div class="finding"><h3>Titles drifted from promises to musings</h3><p>Early titles promised a payoff to anyone: "Your Manabase Deserves Better", "You're Probably Playing the Wrong Ramp". Recent ones assume you already care: "EDH Doesn't Have Archetypes" (41k), "Snail's Guide to Giving Your Deck More Sauce" (57k). When the channel went back to a concrete promise in Dec 2025, "The 5 Most Common Deckbuilding Mistakes" did 297k, 3.4× the recent median.</p></div>
+    <div class="finding"><h3>Shorts were abandoned</h3><p>Nine Shorts in total, in two bursts (late 2023, spring 2025). The median is 62k and the top Short did 248k. The "Is X card draw?" series is a ready-made format that could carry on indefinitely. This is the biggest reach lever the channel isn't using.</p></div>
+    <div class="finding"><h3>More videos for fans than for newcomers</h3><p>Challenges (median 70k), patron deck breakdowns (63k) and channel-meta videos (72k) are good for the community, but each one takes a slot that a practical guide (median 177k) could use to bring in new viewers.</p></div>
+    <div class="finding"><h3>The best format is under-used</h3><p>Constraint deck stories ("$20", "$100", "most difficult") produced the channel's biggest video and two others over 180k, but only a handful have been made since 2024.</p></div>
+    <div class="finding"><h3>Length isn't the issue</h3><p>Videos of 10–15, 15–20 and 20+ minutes all have medians of 119k–124k. Only videos under 10 minutes trail (85k). Cutting length won't fix the slide, but the topics and packaging can.</p></div>
+    <div class="finding"><h3>Revenue is mostly off-platform</h3><p>There's a Patreon, a membership tier and 10 members-only videos. That's a healthy business, but gated videos don't bring in new viewers. Keep the best ideas public.</p></div>
+  </div>
+</section>
+
+<section>
+  <span class="eyebrow">Two routes</span>
+  <h2>Compared with Attack on Cardboard</h2>
+  <p class="col">Both channels are in Magic, and both are faceless with a mascot, but they grow in opposite ways. Attack on Cardboard wins on search and news spikes. Salubrious Snail wins on loyalty and ideas people repeat to each other.</p>
+  <div class="cmp"><table>
+    <thead><tr><th></th><th>Attack on Cardboard</th><th>Salubrious Snail</th></tr></thead>
+    <tbody>
+      <tr><td>Lane</td><td>Rules answers and rules news</td><td>Deckbuilding theory essays</td></tr>
+      <tr><td>Subscribers per 100 views</td><td class="num">0.26</td><td class="num">0.74</td></tr>
+      <tr><td>Top-10 share of long-form views</td><td class="num">57%</td><td class="num">32%</td></tr>
+      <tr><td>Median long-form views</td><td class="num">16.7k</td><td class="num">115k</td></tr>
+      <tr><td>Shorts share of views</td><td class="num">67%</td><td class="num">6%</td></tr>
+      <tr><td>Typical length / pace</td><td>5–10 min, ~155 wpm</td><td>12–20 min, ~205 wpm</td></tr>
+      <tr><td>Growth driver</td><td>Timing on rule changes and drama</td><td>Named concepts and steady cadence</td></tr>
+      <tr><td>Biggest weakness</td><td>Output collapsed; streams wasted time</td><td>Topics turning inward; Shorts abandoned</td></tr>
+    </tbody>
+  </table></div>
+  <p class="col">The overlap is the opportunity: use search-driven practical topics ("players get X wrong", "your manabase is wrong"), give them essay depth and a recurring cast, and run a Shorts engine.</p>
+</section>
+
+<section>
+  <span class="eyebrow">Roadmap</span>
+  <h2>A 12-month plan built from this</h2>
+  <p class="col">This plan assumes a new channel that wants to use the Snail engine: be the person who explains why things work in a game, not just what to play. Each phase ends with a gate, a condition to hit before moving on.</p>
+
+  <div class="phases">
+    <div class="phase">
+      <span class="when">Weeks 1–2 · Setup</span>
+      <h3>Find the theory gap and build a drawing kit</h3>
+      <ul>
+        <li><strong>Pick a game or format where the discussion is all lists and gameplay, and nobody explains the why.</strong> Search for "[format] deckbuilding theory" and "[format] why". Good signs are old or thin results, or threads where the same argument keeps coming back.</li>
+        <li><strong>Write down 10 ideas you can name.</strong> Each needs a catchy label for a pattern players feel but don't have a word for, like Smol Bean Syndrome or counterweight commanders. These become your flagship videos.</li>
+        <li><strong>Build an original visual kit</strong>: a mascot, stick figures, a flat colour palette and card scans on white. Keep it cheap enough to illustrate a video in a day or two.</li>
+        <li><strong>Set up your recurring cast</strong>: the playgroup and friends whose arguments and running jokes will open your videos.</li>
+      </ul>
+      <p class="gate">Gate: a one-line lane statement, 10 named concepts with working titles, and a finished visual kit.</p>
+    </div>
+
+    <div class="phase">
+      <span class="when">Months 1–3 · Foundation</span>
+      <h3>Practical essays with a concrete promise</h3>
+      <ul>
+        <li><strong>Publish one 10–15 minute essay every 10 days.</strong> Each title promises a result anyone wants: "Your manabase deserves better", "You're probably playing the wrong ramp", "The 5 most common mistakes".</li>
+        <li><strong>Make every thumbnail a card plus a verdict or number of five words or fewer</strong> ("only 34 lands??"). Never use full sentences or in-jokes.</li>
+        <li><strong>Open every video on a story with a named person</strong>, then the claim. Admin, requests for help and caveats go after minute one.</li>
+        <li><strong>Cut one Short from every essay</strong> as a single yes/no question ("Is X card draw?"), answered in under 60 seconds.</li>
+      </ul>
+      <p class="gate">Gate: 8 essays and 8 Shorts published, with at least two essays at 2× your median. Study what those two have in common.</p>
+    </div>
+
+    <div class="phase">
+      <span class="when">Months 3–6 · Flagships</span>
+      <h3>Constraint decks and the guide series</h3>
+      <ul>
+        <li><strong>One constraint deck story a quarter</strong>: a hard, surprising limit with a result ("My playgroup's best deck is $20" did 971k). Show the deck winning against more expensive decks.</li>
+        <li><strong>Start a branded guide series</strong> ("[Name]'s Guide to…"), which is Snail's highest-median format at 177k. Cover evergreen problems: mulligans, draw, removal, winning.</li>
+        <li><strong>Launch a Patreon or membership now, but keep it light.</strong> Offer early access and deck picks, and keep flagship ideas public.</li>
+      </ul>
+      <p class="gate">Gate: subscribers gained per 1,000 views above 5 (Snail averages about 7.4), and a steady 3 essays + 4 Shorts a month.</p>
+    </div>
+
+    <div class="phase">
+      <span class="when">Months 6–12 · Community without drift</span>
+      <h3>Let fans in, keep new viewers first</h3>
+      <ul>
+        <li><strong>Cap fan-service videos at one in five</strong>: challenges, patron breakdowns and channel updates.</li>
+        <li><strong>Use community arguments as topics, framed for outsiders.</strong> "r/EDH and Communication" did 72k, while a practical framing of the same debate would likely do more.</li>
+        <li><strong>Revisit your best concepts</strong> with follow-ups that stand on their own, and link each back to the original to deepen the back catalogue.</li>
+        <li><strong>Run a monthly title audit</strong>: would someone who has never heard of you want the promise in this title? If not, rewrite it before publishing.</li>
+      </ul>
+      <p class="gate">Gate: 12 straight months without a quarter below 4 uploads, and a median that holds or rises quarter on quarter.</p>
+    </div>
+  </div>
+
+  <div class="two">
+    <div class="box start">
+      <h3>Do more of</h3>
+      <ul>
+        <li>Practical guides with a concrete promise</li>
+        <li>Constraint deck stories ($20, one land type, no tutors)</li>
+        <li>Named concepts people can repeat</li>
+        <li>Story hooks with a recurring cast</li>
+        <li>Thumbnails with a verdict or number of five words or fewer</li>
+        <li>One Short cut from every essay</li>
+      </ul>
+    </div>
+    <div class="box stop">
+      <h3>Avoid</h3>
+      <ul>
+        <li>Titles that assume viewers already care ("X doesn't have archetypes")</li>
+        <li>Full-sentence or in-joke thumbnails</li>
+        <li>Opening on admin, favours or "I find this tiresome"</li>
+        <li>More than one fan-service video in five</li>
+        <li>Face-cam update videos (the channel's lowest at 15k)</li>
+        <li>Gating the best ideas behind a membership</li>
+      </ul>
+    </div>
+  </div>
+
+  <h3>Hook template for the first 15 seconds</h3>
+  <div class="template">1. STORY    "[Named friend] and I were arguing about [card/idea]. They said ___, I said ___."
+2. TENSION  "It turns out we were both wrong, and so are most [format] players."
+3. CONCEPT  "I call it [named idea]. Once you see it, you can't unsee it."
+4. PROMISE  "By the end, you'll know how to [fix/spot/use] it in your own deck."</div>
+</section>
+
+<section>
+  <span class="eyebrow">Method and limits</span>
+  <p class="small col">View, like and comment counts are lifetime totals scraped with yt-dlp on 24 Sep 2026. Ten members-only videos couldn't be read, so every figure covers public uploads only. Formats were assigned by keyword rules on titles (see <span class="num">analysis/</span>), so a few borderline videos could sit in a neighbouring bucket. Captions are YouTube auto-captions, and hook quotes are lightly cleaned. There was no access to CTR, retention, traffic sources or subscriber history. The only subscriber checkpoint is the host's own mention of about 15k in the Feb 2024 Q&amp;A.</p>
+</section>
+
+</div>
+
+<script>
+const D = /*__DATA__*/;
+const NS = "http://www.w3.org/2000/svg";
+const css = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+const fmtK = v => v >= 1e6 ? (v / 1e6).toFixed(2).replace(/\.?0+$/, "") + "M" : v >= 1e3 ? (v >= 1e4 ? Math.round(v / 1e3) : (v / 1e3).toFixed(1).replace(/\.0$/, "")) + "k" : String(Math.round(v));
+function el(tag, attrs, parent) {
+  const e = document.createElementNS(NS, tag);
+  for (const k in attrs) e.setAttribute(k, attrs[k]);
+  if (parent) parent.appendChild(e);
+  return e;
+}
+function tipper(wrap) {
+  const t = document.createElement("div");
+  t.className = "tip"; t.hidden = true; wrap.appendChild(t);
+  return {
+    show(ev, html) {
+      t.innerHTML = html; t.hidden = false;
+      const r = wrap.getBoundingClientRect();
+      let x = ev.clientX - r.left + 14, y = ev.clientY - r.top + 14;
+      if (x + 290 > r.width) x = ev.clientX - r.left - 290;
+      t.style.left = Math.max(4, x) + "px"; t.style.top = y + "px";
+    },
+    hide() { t.hidden = true; }
+  };
+}
+const esc = s => s.replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+const GROUPS = [
+  { k: "guide", label: "How-to guide", c: "--s1" },
+  { k: "essay", label: "Concept essay", c: "--s2" },
+  { k: "deck", label: "Deck story", c: "--s3" },
+  { k: "other", label: "Critique, challenge, meta, other", c: "--s-other" },
+];
+
+function scatter() {
+  const svg = document.getElementById("scatter");
+  const wrap = document.getElementById("scatterWrap");
+  const tip = tipper(wrap);
+  const W = 1000, H = 440, L = 58, R = 24, T = 20, B = 36;
+  const t0 = Date.parse("2023-06-01"), t1 = Date.parse("2026-10-15");
+  const x = d => L + (Date.parse(d) - t0) / (t1 - t0) * (W - L - R);
+  const lo = 4, hi = 6.05;
+  const y = v => T + (hi - Math.log10(Math.max(v, 1e4))) / (hi - lo) * (H - T - B);
+  [1e4, 3e4, 1e5, 3e5, 1e6].forEach(v => {
+    el("line", { x1: L, x2: W - R, y1: y(v), y2: y(v), stroke: "var(--grid)", "stroke-width": 1 }, svg);
+    el("text", { x: L - 8, y: y(v) + 4, "text-anchor": "end" }, svg).textContent = fmtK(v);
+  });
+  ["2024", "2025", "2026"].forEach(yr => {
+    const xx = x(yr + "-01-01");
+    el("line", { x1: xx, x2: xx, y1: T, y2: H - B, stroke: "var(--grid)", "stroke-width": 1 }, svg);
+    el("text", { x: xx, y: H - B + 20, "text-anchor": "middle" }, svg).textContent = yr;
+  });
+  el("line", { x1: L, x2: W - R, y1: H - B, y2: H - B, stroke: "var(--axis)", "stroke-width": 1 }, svg);
+  const order = ["other", "deck", "essay", "guide"];
+  [...D.pts].sort((a, b) => order.indexOf(a.g) - order.indexOf(b.g)).forEach(p => {
+    const g = GROUPS.find(g => g.k === p.g);
+    const c = el("circle", { cx: x(p.d), cy: y(p.v), r: 5.5, fill: `var(${g.c})`, stroke: "var(--surface)", "stroke-width": 2, tabindex: 0 }, svg);
+    c.setAttribute("aria-label", `${p.t}: ${p.v.toLocaleString()} views`);
+    const html = `<b>${p.v.toLocaleString()}</b> views · ${p.d}<br>${esc(p.t)}<br><span style="opacity:.75">${esc(g.label)}</span>`;
+    c.addEventListener("pointerenter", e => { c.setAttribute("r", 8); tip.show(e, html); });
+    c.addEventListener("pointermove", e => tip.show(e, html));
+    c.addEventListener("pointerleave", () => { c.setAttribute("r", 5.5); tip.hide(); });
+  });
+  const ann = [
+    { m: "Best Deck is $20", t: "My playgroup's best deck is $20 · 971k", dx: 10, dy: 5, a: "start" },
+    { m: "Some channel updates", t: "Feb 2024 Q&A: ~15k subscribers", dx: 10, dy: 5, a: "start" },
+    { m: "5 Most Common Deckbuilding", t: "5 most common mistakes · 297k", dx: 0, dy: -14, a: "middle" },
+    { m: "EDH Doesn't Have Archetypes", t: "Recent lows · 41k, 33k", dx: 4, dy: 46, a: "end" },
+  ];
+  ann.forEach(a => {
+    const p = D.pts.find(p => p.t.includes(a.m));
+    if (p) el("text", { x: x(p.d) + a.dx, y: y(p.v) + a.dy, "text-anchor": a.a, class: "lab" }, svg).textContent = a.t;
+  });
+  const lg = document.getElementById("scatterLegend");
+  GROUPS.forEach(g => {
+    const s = document.createElement("span");
+    s.innerHTML = `<i style="background:var(${g.c})"></i>${g.label} (${D.pts.filter(p => p.g === g.k).length})`;
+    lg.appendChild(s);
+  });
+  const tb = document.querySelector("#allTable tbody");
+  [...D.pts].sort((a, b) => b.v - a.v).forEach(p => {
+    const tr = document.createElement("tr");
+    tr.innerHTML = `<td class="num">${p.d}</td><td class="r">${p.v.toLocaleString()}</td><td>${esc(p.f)}</td><td>${esc(p.t)}</td>`;
+    tb.appendChild(tr);
+  });
+}
+
+function formats() {
+  const svg = document.getElementById("formats");
+  const tip = tipper(svg.closest(".chart"));
+  const L = 330, R = 90, T = 10, rowH = 44, W = 1000;
+  const max = Math.max(...D.fmt.map(f => f.m));
+  const names = {
+    "How-to guide": "How-to guide",
+    "Deck I built / deck showcase": "Deck story / showcase",
+    "Contrarian concept essay": "Concept essay",
+    "Precon / product / set critique": "Precon, product, set critique",
+    "Channel / community meta": "Channel / community meta",
+    "Community challenge": "Community challenge",
+    "Card-specific / other": "Card-specific / other",
+  };
+  D.fmt.forEach((f, i) => {
+    const yy = T + i * rowH, w = Math.max(2, (f.m / max) * (W - L - R));
+    el("text", { x: L - 14, y: yy + 22, "text-anchor": "end", class: "lab" }, svg).textContent = `${names[f.f] || f.f} (${f.n})`;
+    const r = el("rect", { x: L, y: yy + 8, width: w, height: 20, rx: 3, fill: "var(--s1)" }, svg);
+    el("text", { x: L + w + 8, y: yy + 23, class: "val" }, svg).textContent = fmtK(f.m);
+    const html = `<b>${Math.round(f.m).toLocaleString()}</b> median views<br>${esc(names[f.f] || f.f)} · ${f.n} videos`;
+    r.addEventListener("pointerenter", e => tip.show(e, html));
+    r.addEventListener("pointermove", e => tip.show(e, html));
+    r.addEventListener("pointerleave", () => tip.hide());
+  });
+  el("line", { x1: L, x2: L, y1: T, y2: T + D.fmt.length * rowH, stroke: "var(--axis)" }, svg);
+  svg.setAttribute("viewBox", `0 0 ${W} ${T + D.fmt.length * rowH + 10}`);
+}
+
+function quarters() {
+  const svg = document.getElementById("quarters");
+  const tip = tipper(svg.closest(".chart"));
+  const W = 1000, H = 320, L = 58, R = 16, T = 24, B = 40, top = 350000;
+  const y = v => H - B - v / top * (H - T - B);
+  [0, 1e5, 2e5, 3e5].forEach(v => {
+    el("line", { x1: L, x2: W - R, y1: y(v), y2: y(v), stroke: v ? "var(--grid)" : "var(--axis)" }, svg);
+    el("text", { x: L - 8, y: y(v) + 4, "text-anchor": "end" }, svg).textContent = v ? fmtK(v) : "0";
+  });
+  const n = D.qs.length, band = (W - L - R) / n, bw = band * 0.6;
+  D.qs.forEach((q, i) => {
+    const x0 = L + i * band + (band - bw) / 2;
+    const g = el("g", {}, svg);
+    el("rect", { x: x0, y: y(q.m), width: bw, height: y(0) - y(q.m), rx: 3, fill: "var(--s1)" }, g);
+    el("rect", { x: L + i * band, y: T, width: band, height: H - T - B, fill: "transparent" }, g);
+    el("text", { x: x0 + bw / 2, y: y(q.m) - 6, "text-anchor": "middle", class: "val" }, svg).textContent = fmtK(q.m);
+    el("text", { x: x0 + bw / 2, y: H - B + 18, "text-anchor": "middle", style: "font-size:11px" }, svg).textContent = q.q.replace(/^20(\d\d) Q/, "'$1 Q");
+    el("text", { x: x0 + bw / 2, y: H - B + 32, "text-anchor": "middle", style: "font-size:10px" }, svg).textContent = `${q.n} vids`;
+    const html = `<b>${q.q}</b><br>Median ${Math.round(q.m).toLocaleString()} views across ${q.n} uploads`;
+    g.addEventListener("pointerenter", e => tip.show(e, html));
+    g.addEventListener("pointermove", e => tip.show(e, html));
+    g.addEventListener("pointerleave", () => tip.hide());
+  });
+}
+
+scatter(); formats(); quarters();
+</script>

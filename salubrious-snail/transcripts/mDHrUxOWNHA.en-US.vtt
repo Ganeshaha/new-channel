@@ -1,0 +1,940 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.240 --> 00:00:04.240
+Let’s say it’s a lovely Tuesday evening, and&nbsp;
+you’re out there living your best life, building a&nbsp;&nbsp;
+
+00:00:04.240 --> 00:00:08.560
+new commander deck from the comfort of your couch.&nbsp;
+You start by finding cards—maybe they’re from&nbsp;&nbsp;
+
+00:00:08.560 --> 00:00:12.880
+EDHRec, maybe they’re from Scryfall searches, and&nbsp;
+maybe they’re from your friend Brad who happens&nbsp;&nbsp;
+
+00:00:12.880 --> 00:00:17.440
+to be an expert on four-toughness creatures.&nbsp;
+Regardless, you’re finding lots of cool stuff&nbsp;&nbsp;
+
+00:00:17.440 --> 00:00:21.760
+for your deck, and you’re tossing them into some&nbsp;
+sort of deckbuilding website, watching them neatly&nbsp;&nbsp;
+
+00:00:21.760 --> 00:00:27.760
+segregate themselves by type before your eyes.&nbsp;
+This is fine at first, but over time things start&nbsp;&nbsp;
+
+00:00:27.760 --> 00:00:32.880
+to get a bit muddier—you know the numbers of the&nbsp;
+card types, which will be helpful for some decks,&nbsp;&nbsp;
+
+00:00:32.880 --> 00:00:37.520
+but additional information is hard to come by.&nbsp;
+What if you need to know how much low-cost ramp&nbsp;&nbsp;
+
+00:00:37.520 --> 00:00:41.200
+you have to decide on how many higher-mana cards&nbsp;
+you can support? What if you need to know how many&nbsp;&nbsp;
+
+00:00:41.200 --> 00:00:45.120
+cards allow you to cast things from outside your&nbsp;
+hand for the purposes of Flaming Tyrannosaurus?&nbsp;&nbsp;
+
+00:00:45.120 --> 00:00:48.240
+What if you’re trying to make sure you have the&nbsp;
+right number of things to slow down opponents,&nbsp;&nbsp;
+
+00:00:48.240 --> 00:00:53.040
+and protect what you’ve got? This is where&nbsp;
+categorizing starts to become really useful—you&nbsp;&nbsp;
+
+00:00:53.040 --> 00:00:57.520
+can lump a specific group of cards into their own&nbsp;
+little bucket and keep track of them that way.&nbsp;&nbsp;
+
+00:00:57.520 --> 00:01:04.400
+Though a lovely tool on the surface, categories&nbsp;
+can range a bit in their usefulness—they can be&nbsp;&nbsp;
+
+00:01:04.400 --> 00:01:09.440
+a helpful tool in deckbuilding, but they can just&nbsp;
+as easily add more confusion than they elucidate,&nbsp;&nbsp;
+
+00:01:09.440 --> 00:01:15.200
+or even lead players down unfortunate deckbuilding&nbsp;
+paths all on their own. So, in this video I want&nbsp;&nbsp;
+
+00:01:15.200 --> 00:01:18.560
+to talk about what categories accomplish,&nbsp;
+and how to get the most utility out of them&nbsp;&nbsp;
+
+00:01:18.560 --> 00:01:24.800
+in deckbuilding, as well as how some people are&nbsp;
+setting back their own decks by using them wrong.
+
+00:01:24.800 --> 00:01:28.240
+Before bumming you out with that, though, I want&nbsp;
+to tell you about something exciting—it’s this&nbsp;&nbsp;
+
+00:01:28.240 --> 00:01:34.160
+video’s sponsor, Voidmonster. Voidmonster.org&nbsp;
+is a site started by MTG artist Forrest Imel—who&nbsp;&nbsp;
+
+00:01:34.160 --> 00:01:38.480
+you may know from the original Dockside, rest&nbsp;
+in peace—and it features some really punchy,&nbsp;&nbsp;
+
+00:01:38.480 --> 00:01:42.080
+evocative designs for trading card game&nbsp;
+accessories. There’s the awesome cycle&nbsp;&nbsp;
+
+00:01:42.080 --> 00:01:46.080
+of mana symbol playmats, and there’s also&nbsp;
+an exclusive new drop once a month that’s&nbsp;&nbsp;
+
+00:01:46.080 --> 00:01:51.680
+available for a week long preorder period but&nbsp;
+gone after that. This month is the Greedy drop—a&nbsp;&nbsp;
+
+00:01:51.680 --> 00:01:56.240
+Pot of Greed shirt and playmat, with an added&nbsp;
+gold-foiled treasure token if you get both,&nbsp;&nbsp;
+
+00:01:56.240 --> 00:01:59.680
+and you can preorder that until July&nbsp;
+6th. You can check that out at the&nbsp;&nbsp;
+
+00:01:59.680 --> 00:02:03.440
+link in the description, and thanks to&nbsp;
+Voidmonster for sponsoring this video.
+
+00:02:03.440 --> 00:02:07.840
+Okay, so the first thing categories do is capture&nbsp;
+the core tasks that the cards in your deck are&nbsp;&nbsp;
+
+00:02:07.840 --> 00:02:13.040
+performing, and allow you to look specifically at&nbsp;
+these subsets. I always start out with categories&nbsp;&nbsp;
+
+00:02:13.040 --> 00:02:18.400
+of card that most decks will want at least some&nbsp;
+of—principally lands, ramp, draw, protection,&nbsp;&nbsp;
+
+00:02:18.400 --> 00:02:22.560
+and interaction. These categories are useful&nbsp;
+because all on their own they can start to&nbsp;&nbsp;
+
+00:02:22.560 --> 00:02:27.440
+paint a picture of the shape of what a deck is&nbsp;
+doing. If a deck runs a lot of lands and ramp,&nbsp;&nbsp;
+
+00:02:27.440 --> 00:02:32.160
+I know I’m going to be looking at a beefy midrange&nbsp;
+deck that’s looking to outscale its opponents.&nbsp;&nbsp;
+
+00:02:32.160 --> 00:02:36.400
+If I see a deck that’s lower on cards intended&nbsp;
+to interact with opposing plays and higher on&nbsp;&nbsp;
+
+00:02:36.400 --> 00:02:41.680
+protection, I know I’m looking at something that’s&nbsp;
+going to be faster and more proactive. I’m going&nbsp;&nbsp;
+
+00:02:41.680 --> 00:02:46.640
+to get more into constructing these categories and&nbsp;
+when to break them up, but first I want to lay out&nbsp;&nbsp;
+
+00:02:46.640 --> 00:02:50.960
+a cautionary note. I’ve seen a lot of guides&nbsp;
+recommending people include a category such&nbsp;&nbsp;
+
+00:02:50.960 --> 00:02:56.880
+as “theme” as a discrete entity alongside these&nbsp;
+other sorts of function categories, at least in&nbsp;&nbsp;
+
+00:02:56.880 --> 00:03:02.320
+the early stages of deckbuilding, and I simply&nbsp;
+can’t recommend that as a general practice. This&nbsp;&nbsp;
+
+00:03:02.320 --> 00:03:06.800
+is a somewhat misleading piece of advice because&nbsp;
+in most successful decks, a large number of these&nbsp;&nbsp;
+
+00:03:06.800 --> 00:03:12.080
+“theme” cards will also be accomplishing the other&nbsp;
+core tasks I mentioned earlier—mana acceleration,&nbsp;&nbsp;
+
+00:03:12.080 --> 00:03:16.880
+value generation, protection, and ways to&nbsp;
+slow opponents. There may be some cards that&nbsp;&nbsp;
+
+00:03:16.880 --> 00:03:22.000
+do only their theme, such as 1 mana birds in a&nbsp;
+Sephara deck or Merfolk lords in a Hakbal deck,&nbsp;&nbsp;
+
+00:03:22.000 --> 00:03:26.640
+but a whole lot of other theme cards will often be&nbsp;
+contributing to one of these core categories. If&nbsp;&nbsp;
+
+00:03:26.640 --> 00:03:31.840
+somebody asked me for healthy starting ranges for&nbsp;
+their core categories for a bog-standard EDH deck,&nbsp;&nbsp;
+
+00:03:31.840 --> 00:03:37.600
+I’d say something like 35-40 lands,&nbsp;
+15-20 pieces of removal-equivalent,&nbsp;&nbsp;
+
+00:03:37.600 --> 00:03:44.240
+13-18 pieces of draw, 7-12 pieces of ramp,&nbsp;
+and 3-8 pieces of protection. What you might&nbsp;&nbsp;
+
+00:03:44.240 --> 00:03:49.120
+notice about that is that if you go on the&nbsp;
+higher end of each of those values to be safe,&nbsp;&nbsp;
+
+00:03:49.120 --> 00:03:56.560
+that adds up to 98 deck slots—you got a whole one&nbsp;
+leftover to work with. This is not to say that you&nbsp;&nbsp;
+
+00:03:56.560 --> 00:04:02.800
+necessarily need those numbers in every deck, or&nbsp;
+that there won’t be overlap, but the implication&nbsp;&nbsp;
+
+00:04:02.800 --> 00:04:07.280
+here is that cards that don’t fit into one of&nbsp;
+these categories are inherently charging your&nbsp;&nbsp;
+
+00:04:07.280 --> 00:04:12.640
+deck an opportunity cost, and you should keep that&nbsp;
+in mind when deciding how many of them to have.
+
+00:04:12.640 --> 00:04:16.080
+With that out of the way for now, let’s&nbsp;
+get into the meat of these core categories,&nbsp;&nbsp;
+
+00:04:16.080 --> 00:04:20.720
+because there can be nuances in what a category&nbsp;
+should cover. Lands are the simplest, because the&nbsp;&nbsp;
+
+00:04:20.720 --> 00:04:25.680
+deckbuilding role—lands—generally matches up&nbsp;
+1-to-1 with the card type of land. You could&nbsp;&nbsp;
+
+00:04:25.680 --> 00:04:30.080
+make an exception for non-mana-producing lands&nbsp;
+such as Glacial Chasm or specific centerpiece&nbsp;&nbsp;
+
+00:04:30.080 --> 00:04:33.600
+lands like Maze’s End, since these won’t be&nbsp;
+producing mana as their primary function,&nbsp;&nbsp;
+
+00:04:33.600 --> 00:04:37.280
+but for most other cards I’d keep them&nbsp;
+categorized as a land first and foremost,&nbsp;&nbsp;
+
+00:04:37.280 --> 00:04:41.920
+with any other functions entered as subcategories&nbsp;
+I can look at later. In this case, the utility of&nbsp;&nbsp;
+
+00:04:41.920 --> 00:04:47.440
+including or excluding lands from your “lands”&nbsp;
+category comes from how you use that category—as&nbsp;&nbsp;
+
+00:04:47.440 --> 00:04:51.760
+long as the cards in your lands category are&nbsp;
+cards that you personally consider a land drop,&nbsp;&nbsp;
+
+00:04:51.760 --> 00:04:55.440
+you can do some math on the resulting number and&nbsp;
+figure out how successful you’ll be at making it&nbsp;&nbsp;
+
+00:04:55.440 --> 00:04:58.080
+up to your higher-costed spells. Speaking of&nbsp;
+making it up to higher-costed spells, let’s&nbsp;&nbsp;
+
+00:04:58.080 --> 00:05:03.760
+talk about ramp. This is one of the trickier core&nbsp;
+categories because it can vary so much—most decks&nbsp;&nbsp;
+
+00:05:03.760 --> 00:05:08.720
+want some of it, some decks want a lot of it, and&nbsp;
+a handful of decks won’t want much at all. So,&nbsp;&nbsp;
+
+00:05:08.720 --> 00:05:13.600
+when constructing your ramp category, you should&nbsp;
+be asking yourself “why am I ramping?” If your&nbsp;&nbsp;
+
+00:05:13.600 --> 00:05:18.080
+ramp is geared to hit specific cards a turn early,&nbsp;
+you’ll want to be specific with the curve of your&nbsp;&nbsp;
+
+00:05:18.080 --> 00:05:22.560
+mana, and it might even be worth including&nbsp;
+ritual-style cards that give temporary mana&nbsp;&nbsp;
+
+00:05:22.560 --> 00:05:27.440
+in some circumstances. By contrast, if your ramp&nbsp;
+is generally geared toward increasing the volume&nbsp;&nbsp;
+
+00:05:27.440 --> 00:05:32.160
+of your mana without specific timing goals,&nbsp;
+less card-efficient options like smaller ramp&nbsp;&nbsp;
+
+00:05:32.160 --> 00:05:37.920
+and ritual-style cards won’t make as much sense,&nbsp;
+and bigger options will likely work out. You’ll&nbsp;&nbsp;
+
+00:05:37.920 --> 00:05:41.680
+sometimes catch me saying something like “Worn&nbsp;
+Powerstone isn’t a ramp spell if you’re playing&nbsp;&nbsp;
+
+00:05:41.680 --> 00:05:46.800
+a Krenko deck” because it’s fun to speak in quippy&nbsp;
+absolutes, but what I really mean when I say that&nbsp;&nbsp;
+
+00:05:46.800 --> 00:05:51.920
+is that if your acceleration category is mainly&nbsp;
+intended to get you to four mana a turn early,&nbsp;&nbsp;
+
+00:05:51.920 --> 00:05:56.160
+Worn Powerstone doesn’t fit that function,&nbsp;
+and thus it probably isn’t worth playing.
+
+00:05:58.080 --> 00:06:01.920
+The same goes for interaction, which I&nbsp;
+choose to define here as cards that exist&nbsp;&nbsp;
+
+00:06:01.920 --> 00:06:07.120
+to set back opponents in some way. The card&nbsp;
+Murder performs one game action—destroying&nbsp;&nbsp;
+
+00:06:07.120 --> 00:06:13.360
+a creature—but this game action can accomplish a&nbsp;
+number of different tasks: killing a big attacker,&nbsp;&nbsp;
+
+00:06:13.360 --> 00:06:18.160
+clearing out a blocker, stopping a combo, taking&nbsp;
+care of a value engine, eliminating a stax piece,&nbsp;&nbsp;
+
+00:06:18.160 --> 00:06:22.800
+and so on. This fact gets a bit more puzzling&nbsp;
+when we consider that there are lots of cards&nbsp;&nbsp;
+
+00:06:22.800 --> 00:06:28.400
+that perform some of these tasks, and often better&nbsp;
+than a Murder can, but can’t perform others.&nbsp;&nbsp;
+
+00:06:28.400 --> 00:06:33.520
+Fogs are great defensively and even against some&nbsp;
+combos, but are useless for slowing opponents&nbsp;&nbsp;
+
+00:06:33.520 --> 00:06:38.160
+down. Counterspells will be good at protection&nbsp;
+and combo breaking, but the timing will restrict&nbsp;&nbsp;
+
+00:06:38.160 --> 00:06:43.360
+their usefulness in limiting opposing value, and&nbsp;
+they can’t deal with things already in play. Your&nbsp;&nbsp;
+
+00:06:43.360 --> 00:06:47.760
+instinct might be to back away from this fact and&nbsp;
+pretend that it doesn’t exist, but for purposes of&nbsp;&nbsp;
+
+00:06:47.760 --> 00:06:53.120
+categorization all this means is that, in lieu of&nbsp;
+perfectionism, we can focus on building categories&nbsp;&nbsp;
+
+00:06:53.120 --> 00:06:58.880
+that are flexible, and work with our deck’s needs.&nbsp;
+One categorical starting point I’ve used before is&nbsp;&nbsp;
+
+00:06:58.880 --> 00:07:05.680
+having two slightly-fuzzy buckets—protection +&nbsp;
+counterspells, and removal + defense. This might&nbsp;&nbsp;
+
+00:07:05.680 --> 00:07:10.800
+sound odd at first, but it makes some sense if&nbsp;
+you think about all interaction in terms of how&nbsp;&nbsp;
+
+00:07:10.800 --> 00:07:16.960
+proactive vs reactive it is. Protection is very&nbsp;
+proactive in the sense that it purely supports&nbsp;&nbsp;
+
+00:07:16.960 --> 00:07:22.000
+your own gameplan and involves thinking ahead&nbsp;
+toward possible issues, and counterspells are&nbsp;&nbsp;
+
+00:07:22.000 --> 00:07:26.800
+similar but with a bit more flexibility to hit&nbsp;
+opposing threats. Removal of all types will be a&nbsp;&nbsp;
+
+00:07:26.800 --> 00:07:30.880
+bit more reactive since it often gets played after&nbsp;
+a problem card has resolved, though since it can&nbsp;&nbsp;
+
+00:07:30.880 --> 00:07:36.080
+target value engines it could still play more of&nbsp;
+a calculated, long-term role in a deck. Defensive&nbsp;&nbsp;
+
+00:07:36.080 --> 00:07:40.960
+cards like attack and damage prevention are the&nbsp;
+most reactive in my mind since they’re a thing&nbsp;&nbsp;
+
+00:07:40.960 --> 00:07:46.800
+whose only purpose is preventing a player from&nbsp;
+losing—the final line of defense in an EDH game.
+
+00:07:46.800 --> 00:07:50.080
+With these different types of cards laid&nbsp;
+out, the two-buckets approach basically&nbsp;&nbsp;
+
+00:07:50.080 --> 00:07:54.160
+just draws an arbitrary line somewhere&nbsp;
+in the middle of this spectrum of tools,&nbsp;&nbsp;
+
+00:07:54.160 --> 00:07:58.480
+though it might be useful to get more specific.&nbsp;
+If you have a deck that cares about a particular&nbsp;&nbsp;
+
+00:07:58.480 --> 00:08:03.440
+interactive tool like defense or stax to hinder&nbsp;
+things that might otherwise give you problems,&nbsp;&nbsp;
+
+00:08:03.440 --> 00:08:07.280
+give it a category. If you have a deck that&nbsp;
+cares about protection, definitely give it&nbsp;&nbsp;
+
+00:08:07.280 --> 00:08:11.440
+a category—it’ll be important to keep an eye&nbsp;
+on. Putting this extra thought into categories&nbsp;&nbsp;
+
+00:08:11.440 --> 00:08:16.480
+will also give you a better idea of what your deck&nbsp;
+does or doesn’t need. I’ll often include graveyard&nbsp;&nbsp;
+
+00:08:16.480 --> 00:08:21.840
+exile in a removal, stax, or general interaction&nbsp;
+category, because most decks won’t gain anything&nbsp;&nbsp;
+
+00:08:21.840 --> 00:08:26.960
+by granting this necessary tool its own category.&nbsp;
+This won’t be the case for all decks, though—my&nbsp;&nbsp;
+
+00:08:26.960 --> 00:08:30.480
+Malfegor deck has three separate categories for&nbsp;
+its interaction suite because they all serve&nbsp;&nbsp;
+
+00:08:30.480 --> 00:08:35.280
+different roles—discard effects put my opponents&nbsp;
+behind in value, removal deals with active threats&nbsp;&nbsp;
+
+00:08:35.280 --> 00:08:39.360
+on the board, and graveyard exile serves an&nbsp;
+unusual key role here in preventing opponents&nbsp;&nbsp;
+
+00:08:39.360 --> 00:08:43.760
+with graveyard oriented decks from getting use&nbsp;
+out of the cards I’m causing them to discard.&nbsp;&nbsp;
+
+00:08:43.760 --> 00:08:47.920
+On the other hand, if different interaction pieces&nbsp;
+aren’t serving clearly defined roles that you want&nbsp;&nbsp;
+
+00:08:47.920 --> 00:08:52.080
+to keep an eye on, it might be perfectly fine to&nbsp;
+throw them together into the same category—it all&nbsp;&nbsp;
+
+00:08:52.080 --> 00:08:56.240
+depends on how much you care about distinguishing&nbsp;
+somewhat-different effects from one another.
+
+00:08:56.240 --> 00:09:00.960
+The same is true for draw to a lesser extent. If&nbsp;
+you have a bunch of normal card draw in your deck,&nbsp;&nbsp;
+
+00:09:00.960 --> 00:09:06.080
+you might call that category “draw”. If you add in&nbsp;
+some handful of draw-adjacent things like Laelia&nbsp;&nbsp;
+
+00:09:06.080 --> 00:09:10.560
+or Future Sight, those are probably also fine in&nbsp;
+that draw category as long as you’re not a Queza&nbsp;&nbsp;
+
+00:09:10.560 --> 00:09:15.600
+player, though you could also rename the category&nbsp;
+to value or something—the name isn’t too relevant.&nbsp;&nbsp;
+
+00:09:15.600 --> 00:09:21.120
+What is relevant is when different draw-adjacent&nbsp;
+cards start to perform different tasks. In my draw&nbsp;&nbsp;
+
+00:09:21.120 --> 00:09:25.120
+video I laid out that various things that allow&nbsp;
+a player to see and play with more cards can be&nbsp;&nbsp;
+
+00:09:25.120 --> 00:09:30.000
+placed along a continuum based on how much of a&nbsp;
+player’s library they allow you to see. In the&nbsp;&nbsp;
+
+00:09:30.000 --> 00:09:35.920
+middle is ordinary draw—seeing as many cards as&nbsp;
+it acquires—and on the edges are pure filtering&nbsp;&nbsp;
+
+00:09:35.920 --> 00:09:40.000
+spells which generate no card advantage, and&nbsp;
+pure value cards which don’t even interact with&nbsp;&nbsp;
+
+00:09:40.000 --> 00:09:45.040
+a player’s library. In some cases all of these&nbsp;
+can be lumped into the same category—tutors,&nbsp;&nbsp;
+
+00:09:45.040 --> 00:09:49.760
+card draw, recursion, and so on, but other times&nbsp;
+different cards might start to take on different&nbsp;&nbsp;
+
+00:09:49.760 --> 00:09:54.880
+roles. You might run tutors or filtering spells&nbsp;
+to allow you to find the tools to build some sort&nbsp;&nbsp;
+
+00:09:54.880 --> 00:09:58.560
+of central engine for your deck, and in that&nbsp;
+case you might want to keep the digging cards&nbsp;&nbsp;
+
+00:09:58.560 --> 00:10:02.480
+and the value cards in different categories to&nbsp;
+keep an eye on how many you’ve got of each. And&nbsp;&nbsp;
+
+00:10:02.480 --> 00:10:06.640
+that’s just a case where categories might be&nbsp;
+nice—depending on how you’re building value,&nbsp;&nbsp;
+
+00:10:06.640 --> 00:10:11.760
+it might be essential to lay out more clear roles.&nbsp;
+Some decks might run a bunch of draw-discard&nbsp;&nbsp;
+
+00:10:11.760 --> 00:10:16.400
+looting cards as their card selection to find&nbsp;
+what they need, and also some recursion or&nbsp;&nbsp;
+
+00:10:16.400 --> 00:10:20.560
+other graveyard synergies as their sources of&nbsp;
+value to get an advantage over their opponents.&nbsp;&nbsp;
+
+00:10:20.560 --> 00:10:24.880
+In that case, those two things are going to&nbsp;
+be playing quite distinct roles in your deck,&nbsp;&nbsp;
+
+00:10:24.880 --> 00:10:29.600
+to the point where they basically become&nbsp;
+a whole separate thing—a synergy package.
+
+00:10:29.600 --> 00:10:34.880
+This is the second major thing categories&nbsp;
+do—allowing people to keep track of synergies.&nbsp;&nbsp;
+
+00:10:34.880 --> 00:10:41.120
+Specifically, for each synergy package I’ll&nbsp;
+include two categories—setup, and payoff. As&nbsp;&nbsp;
+
+00:10:41.120 --> 00:10:45.840
+an example—in a flicker deck I have, I include&nbsp;
+a “core cards” category that includes my three&nbsp;&nbsp;
+
+00:10:45.840 --> 00:10:49.760
+flicker engines plus a card that increases&nbsp;
+the overall velocity of the deck, and I also&nbsp;&nbsp;
+
+00:10:49.760 --> 00:10:55.440
+include a category called “Mmmm, tasty slide” that&nbsp;
+features creatures with ETBs that I might want to&nbsp;&nbsp;
+
+00:10:55.440 --> 00:11:00.880
+repeat through flickering. Relevantly, the former&nbsp;
+category is a primary category, because pushing&nbsp;&nbsp;
+
+00:11:00.880 --> 00:11:05.280
+my flicker gameplan is the only thing these&nbsp;
+cards accomplish, whereas the other category&nbsp;&nbsp;
+
+00:11:05.280 --> 00:11:10.000
+is a sub-category that I don’t need to see all&nbsp;
+the time. This is because being flickerable isn’t&nbsp;&nbsp;
+
+00:11:10.000 --> 00:11:14.320
+the primary role of these cards, it’s simply an&nbsp;
+attribute about them—the fact that they have an&nbsp;&nbsp;
+
+00:11:14.320 --> 00:11:19.520
+ETB that it’s useful to repeat is only a relevant&nbsp;
+fact when I have an Astral Slide effect available,&nbsp;&nbsp;
+
+00:11:19.520 --> 00:11:24.800
+and their role is typically the same in either&nbsp;
+case, just amplified if they’re being flickers.&nbsp;&nbsp;
+
+00:11:24.800 --> 00:11:29.120
+There might be other situations where both setup&nbsp;
+and payoff are in their own sub-categories,&nbsp;&nbsp;
+
+00:11:29.120 --> 00:11:33.200
+or where these things are layered into different&nbsp;
+categories—whatever ends up making the most sense&nbsp;&nbsp;
+
+00:11:33.200 --> 00:11:37.280
+to you. Regardless, the utility that the&nbsp;
+categories are creating for you in this&nbsp;&nbsp;
+
+00:11:37.280 --> 00:11:43.120
+case is allowing you to keep an eye on how well&nbsp;
+supported a specific theme is. It’s easy to throw&nbsp;&nbsp;
+
+00:11:43.120 --> 00:11:48.080
+a flicker-Thassa into your deck after spotting&nbsp;
+a couple cool ETBs, or toss in a Faldorn to go&nbsp;&nbsp;
+
+00:11:48.080 --> 00:11:52.400
+along with a cool impulse-draw equipment. In&nbsp;
+some cases these payoff cards might have enough&nbsp;&nbsp;
+
+00:11:52.400 --> 00:11:56.960
+support from other cards to feel valuable, but in&nbsp;
+other cases they might not. If you don’t maintain&nbsp;&nbsp;
+
+00:11:56.960 --> 00:12:02.000
+a setup category for this synergy in your deck,&nbsp;
+you might not even clock this as a problem and&nbsp;&nbsp;
+
+00:12:02.000 --> 00:12:06.800
+might presume that these cards not working out&nbsp;
+in games is due to bad luck. If you’d that setup&nbsp;&nbsp;
+
+00:12:06.800 --> 00:12:11.920
+category and noticed that you’re only running five&nbsp;
+pieces of impulse draw, suddenly you’d probably be&nbsp;&nbsp;
+
+00:12:11.920 --> 00:12:16.800
+a lot more vigilant of how these cards are doing&nbsp;
+in games, and more willing to re-evaluate them.
+
+00:12:17.440 --> 00:12:22.320
+Some of the older usages of categories have&nbsp;
+become a bit less necessary as deckbuilders&nbsp;&nbsp;
+
+00:12:22.320 --> 00:12:26.560
+have picked up a particular feature—the&nbsp;
+search function. If you’re on Archidekt,&nbsp;&nbsp;
+
+00:12:26.560 --> 00:12:29.920
+you can throw a scryfall search in this box&nbsp;
+here, and it’ll only show you the cards in&nbsp;&nbsp;
+
+00:12:29.920 --> 00:12:33.920
+your deck that fit this search, which is useful&nbsp;
+for keeping track of something like my cycling&nbsp;&nbsp;
+
+00:12:33.920 --> 00:12:38.400
+cards in my Sharuum deck. Moxfield has something&nbsp;
+similar—there’s this little highlighter thing&nbsp;&nbsp;
+
+00:12:38.400 --> 00:12:42.720
+that you can throw some inputs into and it’ll&nbsp;
+highlight all the cards that fit that definition.&nbsp;&nbsp;
+
+00:12:42.720 --> 00:12:46.400
+Either of these might suit your preferences&nbsp;
+based on what sorts of UI you like,&nbsp;&nbsp;
+
+00:12:46.400 --> 00:12:51.280
+but something I like about Archidekt specifically&nbsp;
+is how this works with the maybeboard of a deck.&nbsp;&nbsp;
+
+00:12:51.280 --> 00:12:55.040
+Sometimes if I’m building a deck and I’m not&nbsp;
+sure what direction I want to take it in,&nbsp;&nbsp;
+
+00:12:55.040 --> 00:13:00.480
+I won’t stop at categorizing what’s in the&nbsp;
+deck—I’ll categorize my maybeboard as well.&nbsp;&nbsp;
+
+00:13:00.480 --> 00:13:05.760
+Oftentimes this category will be the reason a card&nbsp;
+isn’t in the deck—a lot of times I’ll have a “too&nbsp;&nbsp;
+
+00:13:05.760 --> 00:13:10.160
+expensive” category if I’m building a budget deck,&nbsp;
+or a “too slow” category if a card is a bit below&nbsp;&nbsp;
+
+00:13:10.160 --> 00:13:14.400
+the power level I think I’m shooting for. This&nbsp;
+allows me to have a suite of cards available to&nbsp;&nbsp;
+
+00:13:14.400 --> 00:13:20.000
+peruse if I later decide to power up or power down&nbsp;
+the deck, and also acts as a form of documentation&nbsp;&nbsp;
+
+00:13:20.000 --> 00:13:25.520
+of my thought process I can go back to. The&nbsp;
+other type of maybeboard category I’ll include is&nbsp;&nbsp;
+
+00:13:25.520 --> 00:13:30.400
+packages that I’m thinking of adding to the deck&nbsp;
+but don’t know if there’s enough support for yet,&nbsp;&nbsp;
+
+00:13:30.400 --> 00:13:36.320
+such as ETBs or Shamans. This is where the search&nbsp;
+comes in handy—if I notice I’m ending up with a&nbsp;&nbsp;
+
+00:13:36.320 --> 00:13:40.880
+lot of top of library manipulation, I can plug&nbsp;
+a search term like “shuffle” or “library” into&nbsp;&nbsp;
+
+00:13:40.880 --> 00:13:46.560
+the box and I’ll immediately see how many cards&nbsp;
+in different categories and maybeboard packages&nbsp;&nbsp;
+
+00:13:46.560 --> 00:13:51.600
+include that term. As a final note here, searches&nbsp;
+won’t always perfectly capture the stuff that&nbsp;&nbsp;
+
+00:13:51.600 --> 00:13:56.320
+might be included in a category. If I searched&nbsp;
+“enter” into my Sharuum Slide flicker deck,&nbsp;&nbsp;
+
+00:13:56.320 --> 00:14:01.200
+among the things that pop up would be Vedalken&nbsp;
+Aethermage and Eagles of the North, two cards&nbsp;&nbsp;
+
+00:14:01.200 --> 00:14:06.400
+whose ETB is decidedly not the reason they’re&nbsp;
+in the deck. Still, search-filtering is a useful&nbsp;&nbsp;
+
+00:14:06.400 --> 00:14:10.640
+tool and I’d definitely encourage checking&nbsp;
+it out if the deckbuilder you use has them.
+
+00:14:10.640 --> 00:14:14.240
+So, I’ve laid out the main two purposes&nbsp;
+for categories in my book—grouping your&nbsp;&nbsp;
+
+00:14:14.240 --> 00:14:18.160
+core categories to keep an eye on the shape of&nbsp;
+your deck, and keeping track of your synergy&nbsp;&nbsp;
+
+00:14:18.160 --> 00:14:22.480
+packages to have an idea of how thoroughly&nbsp;
+supported different elements are. Some people&nbsp;&nbsp;
+
+00:14:22.480 --> 00:14:27.920
+have a tendency to treat categories as a means to&nbsp;
+appease some abstract cardboard god, but truly,&nbsp;&nbsp;
+
+00:14:27.920 --> 00:14:32.640
+whatever works best for you in conceptualizing&nbsp;
+your deck is the right thing to do. That said,&nbsp;&nbsp;
+
+00:14:32.640 --> 00:14:36.800
+before I get too kumbaya with things, it’s&nbsp;
+probably a good idea to reiterate some best&nbsp;&nbsp;
+
+00:14:36.800 --> 00:14:42.560
+practices for the average EDH player. I laid out&nbsp;
+some examples of what you could do or what you&nbsp;&nbsp;
+
+00:14:42.560 --> 00:14:47.680
+should do, but what shouldn’t you do? For one,&nbsp;
+putting cards together in the same categories&nbsp;&nbsp;
+
+00:14:47.680 --> 00:14:52.880
+that are similar on some superficial level,&nbsp;
+but very different in function. I don’t have&nbsp;&nbsp;
+
+00:14:52.880 --> 00:14:57.280
+an issue with combining somewhat different effects&nbsp;
+so long as they perform roughly the same function,&nbsp;&nbsp;
+
+00:14:57.280 --> 00:15:02.800
+so for example Expedition Map and Dark Ritual&nbsp;
+are very different effects, but they might share&nbsp;&nbsp;
+
+00:15:02.800 --> 00:15:06.960
+the functionality of helping a mono black player&nbsp;
+build up to some higher-costed plays, and that’s&nbsp;&nbsp;
+
+00:15:06.960 --> 00:15:12.320
+a valid category. An example of what wouldn’t&nbsp;
+work is putting Thalia, Guardian of Thraben and&nbsp;&nbsp;
+
+00:15:12.320 --> 00:15:18.640
+Ghostly Prison together in a stax category. These&nbsp;
+cards both impose taxes, but the game actions they&nbsp;&nbsp;
+
+00:15:18.640 --> 00:15:23.760
+tax are basically polar opposites—Thalia’s good&nbsp;
+for slowing more technical decks and giving the&nbsp;&nbsp;
+
+00:15:23.760 --> 00:15:28.320
+upper hand to a creature-based gameplan, whereas&nbsp;
+Ghostly Prison makes attacking more costly but&nbsp;&nbsp;
+
+00:15:28.320 --> 00:15:33.200
+does absolutely nothing to slow anything&nbsp;
+outside combat. The former is proactive,&nbsp;&nbsp;
+
+00:15:33.200 --> 00:15:38.720
+while the latter is purely reactive, and merging&nbsp;
+them into one category is a recipe for confusion.
+
+00:15:38.720 --> 00:15:43.520
+The other thing to avoid is overcategorizing,&nbsp;
+basically creating a category to track a type&nbsp;&nbsp;
+
+00:15:43.520 --> 00:15:49.360
+of card that isn’t actually useful to track. I’ll&nbsp;
+sometimes track lifegain in my grindier decks, and&nbsp;&nbsp;
+
+00:15:49.360 --> 00:15:54.000
+even though this category often only contains only&nbsp;
+a couple cards, it still feels worthwhile because&nbsp;&nbsp;
+
+00:15:54.000 --> 00:15:58.560
+drawing a piece of lifegain in something like&nbsp;
+my Malfegor deck typically feels like a dramatic&nbsp;&nbsp;
+
+00:15:58.560 --> 00:16:03.600
+shift of dynamic for the deck. On the other hand,&nbsp;
+I would never create a category like this for an&nbsp;&nbsp;
+
+00:16:03.600 --> 00:16:08.640
+aggressive deck with a strong proactive plan—Senu&nbsp;
+is a solid lifegain engine in my Yoshimaru deck,&nbsp;&nbsp;
+
+00:16:08.640 --> 00:16:13.040
+but the lifegain isn’t why I added the card and&nbsp;
+drawing into a source of lifegain doesn’t really&nbsp;&nbsp;
+
+00:16:13.040 --> 00:16:18.000
+impact the decisionmaking of something that is,&nbsp;
+first and foremost, a beatdown deck. The same goes&nbsp;&nbsp;
+
+00:16:18.000 --> 00:16:24.480
+for another card in that Yoshi deck—Six. I’d call&nbsp;
+this a recursion spell generally, but it’s not in&nbsp;&nbsp;
+
+00:16:24.480 --> 00:16:28.160
+the deck because I need recursion, it’s in the&nbsp;
+deck because it’s a solid source of value that’s&nbsp;&nbsp;
+
+00:16:28.160 --> 00:16:32.320
+also legendary. In another deck with stronger&nbsp;
+graveyard themes I might have given it a more&nbsp;&nbsp;
+
+00:16:32.320 --> 00:16:35.840
+specific category, but in this deck I’ve opted&nbsp;
+to simply stick it with the deck’s card draw,&nbsp;&nbsp;
+
+00:16:35.840 --> 00:16:40.400
+where it feels right at home. Now, these are&nbsp;
+instances where categorizing a card differently&nbsp;&nbsp;
+
+00:16:40.400 --> 00:16:45.360
+could add unneeded complexity to a deck’s&nbsp;
+categories, to over-explain what the cards in&nbsp;&nbsp;
+
+00:16:45.360 --> 00:16:51.600
+a deck do. This is kind of a problem on its own,&nbsp;
+but the bigger issue with over-categorization is&nbsp;&nbsp;
+
+00:16:51.600 --> 00:16:56.720
+when categories are used to justify the presence&nbsp;
+of cards that really might not belong in a deck.
+
+00:16:56.720 --> 00:17:02.240
+Let’s say I’m building my Yoshimaru deck, and I&nbsp;
+give Senu a lovely little lifegain category. Maybe&nbsp;&nbsp;
+
+00:17:02.240 --> 00:17:08.160
+a bit unnecessary, but fine, whatever. Now let’s&nbsp;
+say I see a Soul Warden hanging around in a binder&nbsp;&nbsp;
+
+00:17:08.160 --> 00:17:13.120
+and decide to give it a spin in the deck—and hey,&nbsp;
+we can toss that in the lifegain category as well.&nbsp;&nbsp;
+
+00:17:13.120 --> 00:17:18.160
+Soul Warden is a powerful card that can gain a&nbsp;
+lot of life, but it doesn’t do much in a legendary&nbsp;&nbsp;
+
+00:17:18.160 --> 00:17:23.040
+creatures beatdown deck, because lifegain isn’t&nbsp;
+a priority there. Without the lifegain category&nbsp;&nbsp;
+
+00:17:23.040 --> 00:17:28.227
+I’d be forced to look at the card and go “wait,&nbsp;
+why is this here, what is this accomplishing,”&nbsp;&nbsp;
+
+00:17:28.227 --> 00:17:32.400
+but instead, with this category I’ve constructed&nbsp;
+a justification for this card out of thin air,&nbsp;&nbsp;
+
+00:17:32.400 --> 00:17:37.680
+and might choose to keep this unnecessary card&nbsp;
+in my deck as a result. This illustrates a side&nbsp;&nbsp;
+
+00:17:37.680 --> 00:17:42.320
+benefit of categorizing a deck—putting cards into&nbsp;
+categories requires a deckbuilder to think about&nbsp;&nbsp;
+
+00:17:42.320 --> 00:17:47.360
+why a card is there, and any cards that didn’t&nbsp;
+end up in many categories immediately become&nbsp;&nbsp;
+
+00:17:47.360 --> 00:17:52.880
+suspect and deserving of additional scrutiny.&nbsp;
+This is one of the reasons I’m wary of “plan”&nbsp;&nbsp;
+
+00:17:52.880 --> 00:17:57.920
+or “theme” categories—they give an easy place&nbsp;
+to toss cards that might otherwise seem out of&nbsp;&nbsp;
+
+00:17:57.920 --> 00:18:03.680
+place or underjustified. The problem here is the&nbsp;
+harmful mental shortcutting this category enables,&nbsp;&nbsp;
+
+00:18:03.680 --> 00:18:07.920
+although it actually doesn’t have to. I was&nbsp;
+watching another creator’s recent video on&nbsp;&nbsp;
+
+00:18:07.920 --> 00:18:12.480
+categories, and in that video Commander Baumi&nbsp;
+is a bit more sympathetic to a plan category&nbsp;&nbsp;
+
+00:18:12.480 --> 00:18:18.240
+in general, but mentions a specific type of&nbsp;
+card to keep an eye on—“plan-only cards”,&nbsp;&nbsp;
+
+00:18:18.240 --> 00:18:23.280
+or cards that fit into a deck’s central plan or&nbsp;
+theme but don’t accomplish a whole lot else. I&nbsp;&nbsp;
+
+00:18:23.280 --> 00:18:27.520
+found this perspective interesting, so I actually&nbsp;
+ended up recording a long chat with Baumi where we&nbsp;&nbsp;
+
+00:18:27.520 --> 00:18:31.600
+compared and contrasted our views on categories a&nbsp;
+bit, and I think it’s interesting to consider how&nbsp;&nbsp;
+
+00:18:31.600 --> 00:18:36.480
+deckbuilding style informs what categorization&nbsp;
+practices end up working out the best. You can&nbsp;&nbsp;
+
+00:18:36.480 --> 00:18:40.320
+check out that full conversation over on my&nbsp;
+newly created second channel, Sal2brious,&nbsp;&nbsp;
+
+00:18:40.320 --> 00:18:44.400
+though I’ve also included a portion&nbsp;
+of that conversation starting… now!
+

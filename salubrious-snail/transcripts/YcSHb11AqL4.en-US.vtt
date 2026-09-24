@@ -1,0 +1,1276 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.400 --> 00:00:04.400
+One of the most deceptively complicated tasks&nbsp;
+of building a Magic: the Gathering deck is&nbsp;&nbsp;
+
+00:00:04.400 --> 00:00:09.160
+constructing a manabase. Deceptively complicated&nbsp;
+in no small part because it’s not what people&nbsp;&nbsp;
+
+00:00:09.160 --> 00:00:14.360
+think about when they think about their deck,&nbsp;
+particularly in EDH. If somebody asks you what’s&nbsp;&nbsp;
+
+00:00:14.360 --> 00:00:19.440
+going on in your Prosper deck, you’re not gonna&nbsp;
+say “I’m glad you asked! It’s running 35 lands,&nbsp;&nbsp;
+
+00:00:19.440 --> 00:00:23.120
+six two mana rocks, and a Sol Ring, with an&nbsp;
+even blend of 21 black and 21 red symbols and&nbsp;&nbsp;
+
+00:00:23.120 --> 00:00:29.040
+an approximately 15% tapland saturation.” That&nbsp;
+would be strange! And yet, lands are one of the&nbsp;&nbsp;
+
+00:00:29.040 --> 00:00:33.520
+most important parts of a deck, allowing it to do&nbsp;
+all of the things that might give it identity and&nbsp;&nbsp;
+
+00:00:33.520 --> 00:00:37.840
+excite the person who plays it. Lands are&nbsp;
+the foundation upon which a deck is built,&nbsp;&nbsp;
+
+00:00:37.840 --> 00:00:43.640
+and as with construction a shaky foundation will&nbsp;
+lead to a shaky deck. Now, the good news here is&nbsp;&nbsp;
+
+00:00:43.640 --> 00:00:48.760
+that I’m not necessarily going to be asking you to&nbsp;
+spend more time thinking about your manabase. In&nbsp;&nbsp;
+
+00:00:48.760 --> 00:00:52.880
+just a bit I’ll be telling you about a brand new&nbsp;
+tool I created in collaboration with my brother,&nbsp;&nbsp;
+
+00:00:52.880 --> 00:00:57.200
+a tool that can be used to rapidly diagnose&nbsp;
+issues with manabases and point to possible&nbsp;&nbsp;
+
+00:00:57.200 --> 00:01:02.440
+solutions. But first, I want to lay a bit&nbsp;
+more groundwork for why manabases are hard,&nbsp;&nbsp;
+
+00:01:02.440 --> 00:01:07.360
+just so that you have an idea of the sort of&nbsp;
+challenges this tool will be trying to solve.
+
+00:01:07.360 --> 00:01:10.920
+Typically the question of manabases&nbsp;
+begins with color symbol split,&nbsp;&nbsp;
+
+00:01:10.920 --> 00:01:15.760
+which makes sense. At a limited event such as a&nbsp;
+prerelease, the most primordial of deckbuilding&nbsp;&nbsp;
+
+00:01:15.760 --> 00:01:20.600
+experiences most players will engage in, you’re&nbsp;
+best served to build a 40-card deck with 17 lands,&nbsp;&nbsp;
+
+00:01:20.600 --> 00:01:25.040
+and however many lands you need can only&nbsp;
+be fulfilled with basics. The fundamentals&nbsp;&nbsp;
+
+00:01:25.040 --> 00:01:30.080
+are the same between limited and EDH—you need to&nbsp;
+figure out a collection of lands that do a decent&nbsp;&nbsp;
+
+00:01:30.080 --> 00:01:34.720
+job of allowing you to cast your spells. This&nbsp;
+will have to do with how total symbol counts of&nbsp;&nbsp;
+
+00:01:34.720 --> 00:01:39.480
+different colors compare, but also how intense&nbsp;
+symbol requirements are and how early cards are&nbsp;&nbsp;
+
+00:01:39.480 --> 00:01:45.480
+expected to be needed. A Ball Lightning has the&nbsp;
+same total symbol requirement as three Shocks,&nbsp;&nbsp;
+
+00:01:45.480 --> 00:01:50.960
+but those two selections of cards apply very&nbsp;
+different levels of demand on a deck’s red mana.&nbsp;&nbsp;
+
+00:01:50.960 --> 00:01:55.640
+Likewise, Counterspell has the same mana cost&nbsp;
+as Master of Pearl Trident or Counterbalance,&nbsp;&nbsp;
+
+00:01:55.640 --> 00:02:00.600
+but it generally applies less strain on a deck’s&nbsp;
+blue mana since it’s a reactive card that will&nbsp;&nbsp;
+
+00:02:00.600 --> 00:02:05.200
+likely be played later in the game. If you want&nbsp;
+a video that focuses more heavily on that, Rebell&nbsp;&nbsp;
+
+00:02:05.200 --> 00:02:09.200
+Lily also happened to release a two part series&nbsp;
+about lands this month, and her manabase video&nbsp;&nbsp;
+
+00:02:09.200 --> 00:02:13.920
+does a good job discussing the timing of different&nbsp;
+mana values. A link to that is in the description.
+
+00:02:13.920 --> 00:02:18.120
+The task of symbol management exists in&nbsp;
+all formats—limited, 60-card constructed,&nbsp;&nbsp;
+
+00:02:18.120 --> 00:02:23.920
+and EDH—but when it comes to how this task is&nbsp;
+accomplished, things diverge. Whereas in limited&nbsp;&nbsp;
+
+00:02:23.920 --> 00:02:28.920
+your task will generally be to create the least&nbsp;
+bad manabase you can out of basics and whatever&nbsp;&nbsp;
+
+00:02:28.920 --> 00:02:34.400
+nonbasics you were lucky enough to get your hands&nbsp;
+on, in EDH your options will be a whole lot less,&nbsp;&nbsp;
+
+00:02:34.400 --> 00:02:39.120
+well, limited. Dual lands can simply be&nbsp;
+put in your deck, and not just guildgates&nbsp;&nbsp;
+
+00:02:39.120 --> 00:02:43.640
+or gain-1 lands—a plethora of different&nbsp;
+high-quality fixing lands are available,&nbsp;&nbsp;
+
+00:02:43.640 --> 00:02:49.520
+from pain lands to fetches to triomes and beyond.&nbsp;
+The available fixing is so good, in fact, that&nbsp;&nbsp;
+
+00:02:49.520 --> 00:02:54.200
+EDH decks often include some number of lands which&nbsp;
+are lackluster in their color-producing abilities,&nbsp;&nbsp;
+
+00:02:54.200 --> 00:03:00.040
+instead played for other benefits they provide.&nbsp;
+These are usually called utility lands. But how&nbsp;&nbsp;
+
+00:03:00.040 --> 00:03:05.080
+many of these is it appropriate to play? Well, I&nbsp;
+actually like to think of land bases of decks as&nbsp;&nbsp;
+
+00:03:05.080 --> 00:03:10.640
+existing to hit two different goals. One of these&nbsp;
+goals is covering a deck’s symbols—lands exist to&nbsp;&nbsp;
+
+00:03:10.640 --> 00:03:16.040
+produce the colors of mana needed to cast a deck’s&nbsp;
+spells. The other goal of a land base is covering&nbsp;&nbsp;
+
+00:03:16.040 --> 00:03:21.320
+total mana values, itself assisted by hitting&nbsp;
+land drops—hitting your land drops consistently&nbsp;&nbsp;
+
+00:03:21.320 --> 00:03:25.600
+is generally quite important to the success&nbsp;
+of casual EDH decks, more so than most other&nbsp;&nbsp;
+
+00:03:25.600 --> 00:03:29.880
+formats in Magic, so decks will be best served&nbsp;
+to run enough lands to consistently hit their&nbsp;&nbsp;
+
+00:03:29.880 --> 00:03:34.440
+land drops. Land count video is in the description&nbsp;
+if you want to hear more about that. Okay, so&nbsp;&nbsp;
+
+00:03:34.440 --> 00:03:39.960
+we’ve got two goals to cover with this one thing,&nbsp;
+our deck’s lands. One function of utility lands,&nbsp;&nbsp;
+
+00:03:39.960 --> 00:03:45.000
+then, is to bridge gaps between these two—if a&nbsp;
+deck wants 37 lands for purposes of hitting its&nbsp;&nbsp;
+
+00:03:45.000 --> 00:03:50.520
+land drops, but only needs 33 lands to produce an&nbsp;
+acceptable number of symbols to cast its spells,&nbsp;&nbsp;
+
+00:03:50.520 --> 00:03:55.640
+that leaves four slots for colorless-producing&nbsp;
+utility lands. There are more factors at play&nbsp;&nbsp;
+
+00:03:55.640 --> 00:04:00.000
+here that we’ll get into a bit later, but&nbsp;
+this is a simplified version of things.
+
+00:04:00.000 --> 00:04:03.800
+Okay, so with that background out of the way,&nbsp;
+we’re ready to talk about the tool. Before I&nbsp;&nbsp;
+
+00:04:03.800 --> 00:04:08.440
+get into that, though, this tool took a ton of&nbsp;
+effort to make and it’s available for free, so…&nbsp;&nbsp;
+
+00:04:08.440 --> 00:04:14.120
+let’s talk about my sleeves. All of my decks are&nbsp;
+in Dragonshield sleeves, have been for at least a&nbsp;&nbsp;
+
+00:04:14.120 --> 00:04:19.240
+year now, and the durability on these is really a&nbsp;
+game changer for me. Back several years ago when&nbsp;&nbsp;
+
+00:04:19.240 --> 00:04:24.720
+my playgroup had a collective deck pool sleeved&nbsp;
+up in another popular brand, I was infamous for&nbsp;&nbsp;
+
+00:04:24.720 --> 00:04:30.120
+constantly breaking sleeves with my thorough&nbsp;
+and heavy-handed shuffling. With my current&nbsp;&nbsp;
+
+00:04:30.120 --> 00:04:36.360
+Dragonshields, though, breaking sleeves is quite&nbsp;
+a rarity, even with my shuffling. They also have&nbsp;&nbsp;
+
+00:04:36.360 --> 00:04:40.640
+a fantastically wide array of different color&nbsp;
+options—I’ve got this offensively-saturated&nbsp;&nbsp;
+
+00:04:40.640 --> 00:04:47.840
+magenta for my Liesa deck, a meaty copper color&nbsp;
+for my Malfegor deck, and this pleasant peach&nbsp;&nbsp;
+
+00:04:47.840 --> 00:04:54.610
+color for my Radha deck. Those peach sleeves are&nbsp;
+dual mattes, so they’ve also got a dark background&nbsp;&nbsp;
+
+00:04:54.610 --> 00:04:59.400
+from the front—it makes for a cool aesthetic,&nbsp;
+particularly with extended-art cards and alters&nbsp;&nbsp;
+
+00:04:59.400 --> 00:05:06.520
+such as this one. Big thanks to Dragonshield for&nbsp;
+supporting the channel! Alright, so the motivation&nbsp;&nbsp;
+
+00:05:06.520 --> 00:05:11.520
+behind this tool is basically that there are a ton&nbsp;
+of unique ways to screw up a mana base—poor color&nbsp;&nbsp;
+
+00:05:11.520 --> 00:05:16.200
+pip distribution, inadequate overall pips, too&nbsp;
+many taplands for a deck’s intended play pattern,&nbsp;&nbsp;
+
+00:05:16.200 --> 00:05:21.360
+not enough overall lands, and so on. For any given&nbsp;
+dual land cycle there will often be some decks&nbsp;&nbsp;
+
+00:05:21.360 --> 00:05:25.880
+where they’ll work well and others where they’ll&nbsp;
+work poorly, and some decks will require more&nbsp;&nbsp;
+
+00:05:25.880 --> 00:05:31.240
+nonbasic fixing than others. With this in mind, I&nbsp;
+had a vision for a tool in the months following my&nbsp;&nbsp;
+
+00:05:31.240 --> 00:05:35.680
+lands video last year, a tool that could quickly&nbsp;
+identify potential issues with a deck’s manabase&nbsp;&nbsp;
+
+00:05:35.680 --> 00:05:40.280
+and offer suggestions for improvement. This&nbsp;
+idea sat around on my “to-do-at-some-point”&nbsp;&nbsp;
+
+00:05:40.280 --> 00:05:44.320
+list for a few months before I decided that&nbsp;
+it wasn’t going to get done and that I should&nbsp;&nbsp;
+
+00:05:44.320 --> 00:05:48.560
+pawn it off on my brother, Ian, who helped me&nbsp;
+with the coding on some previous calculators&nbsp;&nbsp;
+
+00:05:48.560 --> 00:05:53.120
+on my website. Since this was his work, I’ll&nbsp;
+have him go into the basic guts of the thing.
+
+00:05:53.120 --> 00:05:58.280
+Hi, I’m Ian, and I’m the one who built this thing.&nbsp;
+To understand how well a manabase functions,&nbsp;&nbsp;
+
+00:05:58.280 --> 00:06:02.880
+we want to model how it will perform in-game.&nbsp;
+Fully simulating commander games is beyond the&nbsp;&nbsp;
+
+00:06:02.880 --> 00:06:07.080
+scope of this project, so instead we need&nbsp;
+to simplify it into a form that we know we&nbsp;&nbsp;
+
+00:06:07.080 --> 00:06:11.520
+can work with. My other calculators&nbsp;
+used a hypergeometric distribution,&nbsp;&nbsp;
+
+00:06:11.520 --> 00:06:15.240
+which is a fancy sounding name for some&nbsp;
+fancy looking math that gives us exactly&nbsp;&nbsp;
+
+00:06:15.240 --> 00:06:19.360
+what we’re looking for. If we’re drawing a&nbsp;
+certain number of cards from a deck with a&nbsp;&nbsp;
+
+00:06:19.360 --> 00:06:24.560
+certain number of cards of a given category,&nbsp;
+it will tell us the exact odds of drawing a&nbsp;&nbsp;
+
+00:06:24.560 --> 00:06:29.680
+certain number of cards of that category. If&nbsp;
+we calculate this for every possible number of&nbsp;&nbsp;
+
+00:06:29.680 --> 00:06:35.320
+that type we could draw, we will get every&nbsp;
+possible outcome and its probability.
+
+00:06:35.320 --> 00:06:40.000
+On its own, this only tells us about one&nbsp;
+category, but we can get more. While working&nbsp;&nbsp;
+
+00:06:40.000 --> 00:06:44.080
+on the last batch of calculators, I came up&nbsp;
+with a way to calculate the odds for every&nbsp;&nbsp;
+
+00:06:44.080 --> 00:06:48.960
+possible combination of multiple categories&nbsp;
+using a branching tree-like structure. So if&nbsp;&nbsp;
+
+00:06:48.960 --> 00:06:53.160
+we can sort all the lands in a deck into a&nbsp;
+set of categories, we can use this to find&nbsp;&nbsp;
+
+00:06:53.160 --> 00:06:59.120
+every combination of lands that we can draw, and&nbsp;
+then check whether they let us cast our spells.&nbsp;
+
+00:06:59.120 --> 00:07:03.160
+There are plenty of ways we could come up with&nbsp;
+these categories, but I decided to just have&nbsp;&nbsp;
+
+00:07:03.160 --> 00:07:09.200
+one category for each possible combination of&nbsp;
+the 5 colors, giving us a total of 32. This is&nbsp;&nbsp;
+
+00:07:09.200 --> 00:07:13.880
+also the number of unique values that can be&nbsp;
+represented by 5 bits, which means that if we&nbsp;&nbsp;
+
+00:07:13.880 --> 00:07:19.360
+number these categories just right, the bits&nbsp;
+that store the number for each category will&nbsp;&nbsp;
+
+00:07:19.360 --> 00:07:25.040
+also store the combination of colors its lands&nbsp;
+can produce. If we’re willing to get our hands&nbsp;&nbsp;
+
+00:07:25.040 --> 00:07:31.000
+dirty with some bit-level operations, we can get&nbsp;
+a ton of mileage out of these categories. This&nbsp;&nbsp;
+
+00:07:31.000 --> 00:07:35.840
+is ultimately how we determine if a set of lands&nbsp;
+can cast a spell, but that process is a little too&nbsp;&nbsp;
+
+00:07:35.840 --> 00:07:37.760
+complicated to explain here. (Show list of numbers&nbsp;
+0-31 in binary, then replace 1s with color pips)
+
+00:07:37.760 --> 00:07:42.280
+If we test every combination of lands to see if&nbsp;
+they can cast a spell, we can get a probability&nbsp;&nbsp;
+
+00:07:42.280 --> 00:07:47.160
+for how often a given number of lands will be&nbsp;
+able to cast a given spell. By running this for&nbsp;&nbsp;
+
+00:07:47.160 --> 00:07:51.880
+different numbers of lands, we can get an idea&nbsp;
+of how many lands we need to cast the spell,&nbsp;&nbsp;
+
+00:07:51.880 --> 00:07:56.920
+and by factoring in the land count of the deck we&nbsp;
+can figure out when we will draw those lands. This&nbsp;&nbsp;
+
+00:07:56.920 --> 00:08:02.120
+lets us determine how often we can cast a spell on&nbsp;
+curve, and how much time we spend waiting for the&nbsp;&nbsp;
+
+00:08:02.120 --> 00:08:07.480
+right lands to cast it. If we do this for all the&nbsp;
+spells in a deck and average the results, we can&nbsp;&nbsp;
+
+00:08:07.480 --> 00:08:12.840
+get an overall representation of how well a deck’s&nbsp;
+manabase can cast its spells. Once we have a way&nbsp;&nbsp;
+
+00:08:12.840 --> 00:08:18.800
+to score a manabase like this, we can test out&nbsp;
+small changes to find the best way to improve it.
+
+00:08:18.800 --> 00:08:23.520
+So this is the backbone of the tool—average delay&nbsp;
+in casting spells is the benchmark here that is&nbsp;&nbsp;
+
+00:08:23.520 --> 00:08:28.600
+used to judge decks, alongside “Cast Rate” which&nbsp;
+here means how likely it is that a card will be&nbsp;&nbsp;
+
+00:08:28.600 --> 00:08:34.720
+castable on a turn on or before its mana value.&nbsp;
+The tool also tests small changes in the deck,&nbsp;&nbsp;
+
+00:08:34.720 --> 00:08:39.920
+seeing how it is changed by adding in a single&nbsp;
+basic land for each type among the deck’s colors,&nbsp;&nbsp;
+
+00:08:39.920 --> 00:08:44.560
+as well as a wastes. This is helpful for&nbsp;
+pointing out which colors are most needed, and&nbsp;&nbsp;
+
+00:08:44.560 --> 00:08:49.960
+the inclusion of wastes also gives insight about&nbsp;
+how a deck’s land count is looking. Adding a waste&nbsp;&nbsp;
+
+00:08:49.960 --> 00:08:54.200
+to a deck shouldn’t really help it cast spells&nbsp;
+with less delay, or at least it should help a&nbsp;&nbsp;
+
+00:08:54.200 --> 00:08:59.440
+lot less than adding something that actually taps&nbsp;
+for colors. If adding a waste reduces the average&nbsp;&nbsp;
+
+00:08:59.440 --> 00:09:04.200
+delay of a deck by a substantial amount, that’s&nbsp;
+a good indicator that it might need more lands,&nbsp;&nbsp;
+
+00:09:04.200 --> 00:09:08.920
+or at least that land count is a bigger problem&nbsp;
+for it than color-fixing. As an example here,&nbsp;&nbsp;
+
+00:09:08.920 --> 00:09:13.640
+let’s put my Malfegor deck through this thing.&nbsp;
+Okay, list pasted here from Archidekt, commander&nbsp;&nbsp;
+
+00:09:13.640 --> 00:09:17.600
+name here, how important is the commander? I’d&nbsp;
+say it’s a nice bonus for a deck that’s still&nbsp;&nbsp;
+
+00:09:17.600 --> 00:09:21.840
+functional without it. That selection just tells&nbsp;
+the tool how heavily to weight the commander in&nbsp;&nbsp;
+
+00:09:21.840 --> 00:09:26.080
+its calculations, since some decks really care&nbsp;
+about whether they can cast the commander,&nbsp;&nbsp;
+
+00:09:26.080 --> 00:09:32.800
+whereas others such as this one don’t care nearly&nbsp;
+as much. Load, that all looks good, let’s compute.
+
+00:09:32.800 --> 00:09:38.200
+Hmmm. So this is actually worse than I expected.&nbsp;
+After plugging in a discount for my one delve&nbsp;&nbsp;
+
+00:09:38.200 --> 00:09:44.360
+card, that cast rate is okay but not amazing.&nbsp;
+When we look at how improvements affect it,&nbsp;&nbsp;
+
+00:09:44.360 --> 00:09:48.680
+the amount that adding a waste reduces the&nbsp;
+average delay is a little on the high side.&nbsp;&nbsp;
+
+00:09:48.680 --> 00:09:52.040
+This tool wouldn’t mind the deck having&nbsp;
+more lands, probably because it has a six&nbsp;&nbsp;
+
+00:09:52.040 --> 00:09:55.480
+mana commander that is still being weighted&nbsp;
+a bit higher than other cards in the deck,&nbsp;&nbsp;
+
+00:09:55.480 --> 00:10:00.280
+but it’s not terribly-terribly bad. The swamp&nbsp;
+figure is barely higher than the wastes figure,&nbsp;&nbsp;
+
+00:10:00.280 --> 00:10:05.080
+which basically means this deck is doing great for&nbsp;
+black mana, no notes. The red figure, on the other&nbsp;&nbsp;
+
+00:10:05.080 --> 00:10:10.840
+hand, is a lot worse, and when I look at this deck&nbsp;
+I can kinda see it—there are 18 red symbols among&nbsp;&nbsp;
+
+00:10:10.840 --> 00:10:16.720
+the lands and 3 among the mana rocks for a total&nbsp;
+of 21, which is an okay figure but certainly not&nbsp;&nbsp;
+
+00:10:16.720 --> 00:10:23.200
+wildly high. What cards is this most likely to be&nbsp;
+a problem for? Well, I can tab over for that—this&nbsp;&nbsp;
+
+00:10:23.200 --> 00:10:28.520
+table shows the likelihood of playing each card&nbsp;
+on curve. The highest delay here is the commander,&nbsp;&nbsp;
+
+00:10:28.520 --> 00:10:35.880
+a four symbol six drop, but what about after that?&nbsp;
+As you might expect, other double red cards. Ox of&nbsp;&nbsp;
+
+00:10:35.880 --> 00:10:41.120
+Agonas is a card that’ll typically be getting cast&nbsp;
+after Malfegor, so later in the game than turn 5,&nbsp;&nbsp;
+
+00:10:41.120 --> 00:10:46.320
+and this is likewise somewhat true for Fiery&nbsp;
+Confluence, which is a more reactive card.&nbsp;&nbsp;
+
+00:10:46.320 --> 00:10:50.760
+However, Glint-Horn Buccaneer is a card&nbsp;
+that is more likely to be wanted on-curve,&nbsp;&nbsp;
+
+00:10:50.760 --> 00:10:55.240
+and for that reason it may be worth cutting&nbsp;
+given the deck’s very black-centered manabase.
+
+00:10:55.240 --> 00:10:59.360
+Immediately with this showcase, a lot of&nbsp;
+the assumptions of the tool become clear.&nbsp;&nbsp;
+
+00:10:59.360 --> 00:11:04.640
+There is an expectation that it is desirable&nbsp;
+to play cards on curve—I know that Ox of Agonas&nbsp;&nbsp;
+
+00:11:04.640 --> 00:11:08.960
+and Fiery Confluence don’t need to be played on a&nbsp;
+turn equivalent to their respective mana values,&nbsp;&nbsp;
+
+00:11:08.960 --> 00:11:13.920
+but the tool doesn’t know that. While&nbsp;
+working with Ian on dealing with edge cases,&nbsp;&nbsp;
+
+00:11:13.920 --> 00:11:18.560
+I briefly considered some sort of weighting&nbsp;
+scheme involving card types. So, for example,&nbsp;&nbsp;
+
+00:11:18.560 --> 00:11:23.400
+instants are more often reactive than other&nbsp;
+types, meaning that it will be desirable to&nbsp;&nbsp;
+
+00:11:23.400 --> 00:11:27.920
+play an instant on curve less often than it&nbsp;
+would be desirable to play a creature or an&nbsp;&nbsp;
+
+00:11:27.920 --> 00:11:33.200
+artifact on curve. If we wanted to maximize the&nbsp;
+accuracy of the model, we could add some sort of&nbsp;&nbsp;
+
+00:11:33.200 --> 00:11:37.960
+weight for this like was done for the commander,&nbsp;
+telling the model to care some percent less about&nbsp;&nbsp;
+
+00:11:37.960 --> 00:11:42.320
+instants for the purposes of these curve-out&nbsp;
+calculations. However, this gets at one of the&nbsp;&nbsp;
+
+00:11:42.320 --> 00:11:48.400
+most challenging conflicts when building a tool&nbsp;
+such as this—accuracy vs interpretability. A&nbsp;&nbsp;
+
+00:11:48.400 --> 00:11:52.440
+model that takes in more factors and adds more&nbsp;
+weights will be able to produce results that&nbsp;&nbsp;
+
+00:11:52.440 --> 00:11:57.720
+are more accurate, but they also make the model&nbsp;
+harder to understand, harder to pick apart, harder&nbsp;&nbsp;
+
+00:11:57.720 --> 00:12:03.520
+to think about. A model with too much unexplained&nbsp;
+complexity becomes a black box that its users must&nbsp;&nbsp;
+
+00:12:03.520 --> 00:12:10.120
+be expected to blindly trust, and that’s frankly&nbsp;
+an unreasonable thing to ask. No, better to have&nbsp;&nbsp;
+
+00:12:10.120 --> 00:12:14.440
+an imperfect but somewhat simpler model that&nbsp;
+people can open the hood on, so to speak, and&nbsp;&nbsp;
+
+00:12:14.440 --> 00:12:19.680
+check out the inner workings of before deciding&nbsp;
+how they should be considering its outputs.
+
+00:12:19.680 --> 00:12:24.160
+This principle applies to other aspects of the&nbsp;
+tool as well. For example, I mention in my land&nbsp;&nbsp;
+
+00:12:24.160 --> 00:12:29.160
+count video that draw can be used to find&nbsp;
+additional lands. This is true in principle,&nbsp;&nbsp;
+
+00:12:29.880 --> 00:12:35.360
+but there are enough factors and caveats present&nbsp;
+to make things more than a little muddy. For one,&nbsp;&nbsp;
+
+00:12:35.360 --> 00:12:40.680
+as I mention in that video, higher costed draw&nbsp;
+must be treated carefully in this regard—a 4 or&nbsp;&nbsp;
+
+00:12:40.680 --> 00:12:46.040
+5 mana draw spell shouldn’t be treated as a way&nbsp;
+to find lands in a deck with 32 lands and 6 ramp&nbsp;&nbsp;
+
+00:12:46.040 --> 00:12:50.720
+spells, since in a decent portion of games you&nbsp;
+won’t even draw into enough lands to get there&nbsp;&nbsp;
+
+00:12:50.720 --> 00:12:55.440
+without missing a land drop in the first place. A&nbsp;
+3 mana draw spell that requires additional factors&nbsp;&nbsp;
+
+00:12:55.440 --> 00:13:00.520
+to be met such as a large creature entering is&nbsp;
+also tricky, as it prompts a whole different suite&nbsp;&nbsp;
+
+00:13:00.520 --> 00:13:06.200
+of questions—how often will you have the creature?&nbsp;
+How much does the creature cost? Can you afford&nbsp;&nbsp;
+
+00:13:08.080 --> 00:13:13.760
+it? Here we run into both technical limitations&nbsp;
+and interpretability limitations—in technical&nbsp;&nbsp;
+
+00:13:13.760 --> 00:13:18.120
+terms, a more sophisticated simulation that&nbsp;
+understands the text of more cards and is&nbsp;&nbsp;
+
+00:13:18.120 --> 00:13:22.280
+willing to play through more actions can figure&nbsp;
+out how effective these sorts of draw spells are&nbsp;&nbsp;
+
+00:13:22.280 --> 00:13:27.320
+in finding lands, but setting up and running&nbsp;
+this sort of model is labor-intensive and&nbsp;&nbsp;
+
+00:13:27.320 --> 00:13:32.120
+computationally expensive, respectively. Even&nbsp;
+if we solve the technical issues, getting into&nbsp;&nbsp;
+
+00:13:32.120 --> 00:13:37.360
+more complex cards effectively requires that&nbsp;
+the simulation make strategic decisions on&nbsp;&nbsp;
+
+00:13:37.360 --> 00:13:43.240
+behalf of a hypothetical player, and this fact&nbsp;
+destroys the interpretability of the results.&nbsp;&nbsp;
+
+00:13:43.240 --> 00:13:48.160
+How are players supposed to know the sorts of&nbsp;
+decisions the model is making on their behalf?
+
+00:13:48.160 --> 00:13:52.080
+These limitations lead to the implemented&nbsp;
+solution here—treating cards that might&nbsp;&nbsp;
+
+00:13:52.080 --> 00:13:57.440
+help find lands as a portion of a land. This is&nbsp;
+what Frank Karsten does in his land-counts model,&nbsp;&nbsp;
+
+00:13:57.440 --> 00:14:01.640
+though he excludes draw spells above two&nbsp;
+mana due to the aforementioned complicating&nbsp;&nbsp;
+
+00:14:01.640 --> 00:14:06.680
+factors. My team ultimately decided not&nbsp;
+to include any draw spells in the model,&nbsp;&nbsp;
+
+00:14:06.680 --> 00:14:12.200
+not even the low-cost ones, and this was&nbsp;
+for a couple reasons. For one, EDH doesn’t&nbsp;&nbsp;
+
+00:14:12.200 --> 00:14:18.440
+have the low-cost draw spell density that other&nbsp;
+formats have. Ponder has a 13% play rate in EDH,&nbsp;&nbsp;
+
+00:14:18.440 --> 00:14:23.080
+which certainly isn’t low, but it’s pretty&nbsp;
+meager compared to a format like Legacy,&nbsp;&nbsp;
+
+00:14:23.080 --> 00:14:28.520
+where cantrips and filtering often make up&nbsp;
+10-20% of a deck by volume. In addition,&nbsp;&nbsp;
+
+00:14:28.520 --> 00:14:32.360
+I don’t even know if it’s necessarily appropriate&nbsp;
+to assume that low-cost filtering spells are being&nbsp;&nbsp;
+
+00:14:32.360 --> 00:14:37.520
+used to find lands in most cases—in formats with&nbsp;
+less forgiving mulligan rules they might fill that&nbsp;&nbsp;
+
+00:14:37.520 --> 00:14:42.640
+role by necessity reasonably often, but in EDH&nbsp;
+a turn 1 ponder could just as easily be used to&nbsp;&nbsp;
+
+00:14:42.640 --> 00:14:47.640
+shuffle away a top three cards containing two&nbsp;
+lands. Still, in most other ways this model&nbsp;&nbsp;
+
+00:14:47.640 --> 00:14:52.320
+chose to take a similar set of assumptions as&nbsp;
+Karsten. Ramp is effectively counted as a portion&nbsp;&nbsp;
+
+00:14:52.320 --> 00:14:57.120
+of a land that can tap for colors corresponding to&nbsp;
+whatever fixing the specific card could provide,&nbsp;&nbsp;
+
+00:14:57.120 --> 00:15:01.280
+with its exact weight determined by how&nbsp;
+often a deck will be able to cast it on&nbsp;&nbsp;
+
+00:15:01.280 --> 00:15:07.160
+curve. This in effect means that higher-costed&nbsp;
+ramp is weighted lower than lower-costed ramp,&nbsp;&nbsp;
+
+00:15:07.160 --> 00:15:12.160
+particularly in decks with fewer lands, which&nbsp;
+intuitively makes sense to me. This solution&nbsp;&nbsp;
+
+00:15:12.160 --> 00:15:17.520
+misses a bit of nuance in that a lot of decks&nbsp;
+play ramp to cast cards ahead of curve, but fully&nbsp;&nbsp;
+
+00:15:17.520 --> 00:15:21.800
+modeling that would require an inordinate amount&nbsp;
+of effort, and has similar issues to accounting&nbsp;&nbsp;
+
+00:15:21.800 --> 00:15:26.440
+for higher-costed draw. It’s a good enough&nbsp;
+solution for the intent of the tool, though.
+
+00:15:26.440 --> 00:15:29.080
+Something that some players might&nbsp;
+object to about the presentation of the&nbsp;&nbsp;
+
+00:15:29.080 --> 00:15:34.480
+tool is the lack of in-your-face direction.&nbsp;
+There are some colors, some vague pointers,&nbsp;&nbsp;
+
+00:15:34.480 --> 00:15:39.480
+and numbers provided about some specific cards,&nbsp;
+but not really any specific figures that are set&nbsp;&nbsp;
+
+00:15:39.480 --> 00:15:45.040
+out as what people should be shooting for as far&nbsp;
+as overall manabase quality goes. This is a flaw&nbsp;&nbsp;
+
+00:15:45.040 --> 00:15:49.680
+in some ways, but it’s a benefit in the sense that&nbsp;
+it allows for the presence of a key guiding hand&nbsp;&nbsp;
+
+00:15:49.680 --> 00:15:55.360
+in manabase construction—risk tolerance. See,&nbsp;
+different people will run different numbers of&nbsp;&nbsp;
+
+00:15:55.360 --> 00:15:59.680
+lands and densities of symbols depending on how&nbsp;
+comfortable they are with the risk of getting&nbsp;&nbsp;
+
+00:15:59.680 --> 00:16:05.200
+mana screwed. Running a lower land count may mean&nbsp;
+mana screw some games, but it could also result in&nbsp;&nbsp;
+
+00:16:05.200 --> 00:16:11.400
+more gas. For somebody deckbuilding with the&nbsp;
+sole goal of winning, such as a cEDH player,&nbsp;&nbsp;
+
+00:16:11.400 --> 00:16:16.160
+it may be worth it to run a land count that leads&nbsp;
+to missing land drops and having stallouts in some&nbsp;&nbsp;
+
+00:16:16.160 --> 00:16:20.840
+games if those downsides are counterbalanced&nbsp;
+by more explosive win potential at other points&nbsp;&nbsp;
+
+00:16:20.840 --> 00:16:25.760
+in time. Meanwhile, somebody just looking to&nbsp;
+have a fun time might scoff at this approach,&nbsp;&nbsp;
+
+00:16:25.760 --> 00:16:31.360
+wanting a more consistent range of experiences.&nbsp;
+Utility lands follow a similar principle—running&nbsp;&nbsp;
+
+00:16:31.360 --> 00:16:36.440
+a higher density of colorless-producing utility&nbsp;
+lands allows a player’s lands to contain more,&nbsp;&nbsp;
+
+00:16:36.440 --> 00:16:42.440
+well, utility, *but* it also makes casting&nbsp;
+spells more difficult. How many utility lands are&nbsp;&nbsp;
+
+00:16:42.440 --> 00:16:46.800
+correct? Well, it really depends on how heavily&nbsp;
+you prioritize the advantage of having abilities&nbsp;&nbsp;
+
+00:16:46.800 --> 00:16:51.640
+on your lands, and how much you’re willing to&nbsp;
+risk having trouble casting spells. This tool&nbsp;&nbsp;
+
+00:16:51.640 --> 00:16:56.320
+tries to avoid making declarative statements&nbsp;
+on how comfortable with risk players should be,&nbsp;&nbsp;
+
+00:16:56.320 --> 00:16:59.600
+but what it does do is try to make it&nbsp;
+clear to players the sort of territory&nbsp;&nbsp;
+
+00:16:59.600 --> 00:17:03.720
+they’re lurking in. If you’re running a&nbsp;
+dangerously high number of utility lands&nbsp;&nbsp;
+
+00:17:03.720 --> 00:17:08.120
+or a very slim land count, I don’t want&nbsp;
+to be here to tell you not to do that,&nbsp;&nbsp;
+
+00:17:08.120 --> 00:17:12.760
+but what I do want to do is make sure it’s&nbsp;
+clear to you that that’s what you're doing.
+
+00:17:12.760 --> 00:17:16.880
+So, all that covers the color considerations,&nbsp;
+which is really the heart of the model,&nbsp;&nbsp;
+
+00:17:16.880 --> 00:17:20.720
+but there’s also an element that is quite&nbsp;
+relevant to all my fellow budget deckbuilders&nbsp;&nbsp;
+
+00:17:20.720 --> 00:17:25.840
+out there—taplands. Taplands are a little tricky&nbsp;
+because they’re related to a deck’s curveout and&nbsp;&nbsp;
+
+00:17:25.840 --> 00:17:30.000
+overall manabase, but in very complicated&nbsp;
+ways that are difficult to have an algorithm&nbsp;&nbsp;
+
+00:17:30.000 --> 00:17:34.480
+suss out. However, it’s still a good thing for&nbsp;
+people to have some data on, and to cover how we&nbsp;&nbsp;
+
+00:17:34.480 --> 00:17:39.320
+integrated it, I’ll hand things back over to Ian.
+One of the main compromises we made with the color&nbsp;&nbsp;
+
+00:17:39.320 --> 00:17:44.800
+calculator was that we had it ignore whether&nbsp;
+lands enter tapped. To compensate for this,&nbsp;&nbsp;
+
+00:17:44.800 --> 00:17:50.120
+we can make a second model that calculates&nbsp;
+for this while ignoring mana colors. To start,&nbsp;&nbsp;
+
+00:17:50.120 --> 00:17:54.840
+we need to know how often our lands enter&nbsp;
+tapped, especially the ones that only enter&nbsp;&nbsp;
+
+00:17:54.840 --> 00:17:58.840
+untapped under certain conditions. None&nbsp;
+of these conditions are too complicated,&nbsp;&nbsp;
+
+00:17:59.480 --> 00:18:05.760
+so we can write a few simple algorithms to see how&nbsp;
+often they enter tapped. Now we need to know what&nbsp;&nbsp;
+
+00:18:05.760 --> 00:18:12.000
+impact that will have on our deck, which we can do&nbsp;
+by simulating the opening turns. Using a heavily&nbsp;&nbsp;
+
+00:18:12.000 --> 00:18:18.040
+simplified simulation, we can look at the first&nbsp;
+several turns of thousands of games and score them&nbsp;&nbsp;
+
+00:18:18.040 --> 00:18:24.160
+based on how many spells we can cast. Then, we can&nbsp;
+run this two more times, once with no tap lands,&nbsp;&nbsp;
+
+00:18:24.160 --> 00:18:30.000
+and once with one less tap land. This tells us&nbsp;
+the overall impact of tap lands on the deck, along&nbsp;&nbsp;
+
+00:18:30.000 --> 00:18:34.840
+with the improvement we can get from replacing&nbsp;
+one of them with a land that enters untapped.
+
+00:18:34.840 --> 00:18:38.880
+Part of the idea here was to make it clear how&nbsp;
+often a land would enter tapped for a player,&nbsp;&nbsp;
+
+00:18:38.880 --> 00:18:43.520
+so for example with something like a checkland&nbsp;
+you’d need specific basic-typed lands, with a&nbsp;&nbsp;
+
+00:18:43.520 --> 00:18:49.240
+tango land you’d need a decent density of actual&nbsp;
+basic lands, and so on. Including a summary of how&nbsp;&nbsp;
+
+00:18:49.240 --> 00:18:52.920
+often these will enter tapped can help players&nbsp;
+double check that the budget dual lands they’re&nbsp;&nbsp;
+
+00:18:52.920 --> 00:18:56.960
+adding are actually going to be working well for&nbsp;
+them. Building commander decks is complicated,&nbsp;&nbsp;
+
+00:18:56.960 --> 00:19:00.880
+and it’s pretty easy to throw in staples or&nbsp;
+personal favorites absentmindedly, without&nbsp;&nbsp;
+
+00:19:00.880 --> 00:19:05.800
+double checking every single one. This isn’t even&nbsp;
+just an issue of budget dual land cycles—there are&nbsp;&nbsp;
+
+00:19:05.800 --> 00:19:09.960
+an increasing number of utility lands with some&nbsp;
+sort of check involved, which includes two cycles&nbsp;&nbsp;
+
+00:19:09.960 --> 00:19:14.440
+originally printed in Throne of Eldraine, as well&nbsp;
+as the recent cycle of lands printed in Modern&nbsp;&nbsp;
+
+00:19:14.440 --> 00:19:19.840
+Horizons 3. While the tapped status of these lands&nbsp;
+isn’t as important as that of a mana-only land,&nbsp;&nbsp;
+
+00:19:19.840 --> 00:19:24.840
+one of these entering untapped 70% of the time vs&nbsp;
+40% of the time could easily make the difference&nbsp;&nbsp;
+
+00:19:24.840 --> 00:19:28.960
+in whether they’re worth running. This sort&nbsp;
+of consideration also goes for lands with&nbsp;&nbsp;
+
+00:19:28.960 --> 00:19:34.000
+requirements for tapping. The verges printed&nbsp;
+in Duskmourn aren’t terribly problematic if&nbsp;&nbsp;
+
+00:19:34.000 --> 00:19:39.520
+they’re not online, but there’s a different cycle&nbsp;
+that is much more problematic in my mind—Tainted&nbsp;&nbsp;
+
+00:19:39.520 --> 00:19:44.520
+lands. These aren’t strictly terrible—they always&nbsp;
+enter untapped, and they might have a decently&nbsp;&nbsp;
+
+00:19:44.520 --> 00:19:49.040
+high chance to tap for colored mana in a lot&nbsp;
+of decks. I run one in my Malfegor deck, and it&nbsp;&nbsp;
+
+00:19:49.040 --> 00:19:54.720
+feels pretty good there. However, in the context&nbsp;
+of EDH they really only make sense in black-heavy&nbsp;&nbsp;
+
+00:19:54.720 --> 00:19:59.640
+two color budget decks—with a Swamp count below&nbsp;
+the mid-teens they won’t be reliable in their&nbsp;&nbsp;
+
+00:19:59.640 --> 00:20:01.160
+colored production, and in any deck with a higher&nbsp;
+budget there will be better options available.
+
+00:20:01.160 --> 00:20:06.000
+One tricky thing with this sort of analysis is,&nbsp;
+once again, the assumptions. The best example of&nbsp;&nbsp;
+
+00:20:06.000 --> 00:20:11.320
+this is with a type of land I tend to be less of&nbsp;
+a fan of compared to a lot of players—slow lands,&nbsp;&nbsp;
+
+00:20:11.320 --> 00:20:17.160
+or dual lands that enter tapped unless a player&nbsp;
+controls two or more other lands. This tool loves&nbsp;&nbsp;
+
+00:20:17.160 --> 00:20:21.360
+these—when I throw my Radha deck into the tool and&nbsp;
+check the odds of having lands tapped in the first&nbsp;&nbsp;
+
+00:20:21.360 --> 00:20:28.680
+five turns of the game, we get a 15.3% chance for&nbsp;
+Cinder Glade, a 14.7% chance for Copperline Gorge,&nbsp;&nbsp;
+
+00:20:28.680 --> 00:20:36.080
+a 9.1% chance for Game Trail, and a frankly&nbsp;
+absurdly low 1.5% chance for Rockfall Vale. Even&nbsp;&nbsp;
+
+00:20:36.080 --> 00:20:39.880
+for a deck with a lower land count, the percent&nbsp;
+chance to enter the battlefield tapped is still&nbsp;&nbsp;
+
+00:20:39.880 --> 00:20:44.640
+quite low. Now, I’m not saying that slow lands are&nbsp;
+bad—they’re better than a lot of types of budget&nbsp;&nbsp;
+
+00:20:44.640 --> 00:20:50.040
+dual land out there, but they’re not ten times&nbsp;
+better than other types of lands. This comes down&nbsp;&nbsp;
+
+00:20:50.040 --> 00:20:55.760
+to the nuance that is missed by the % of time&nbsp;
+tapped statistic—all the playtesting algorithm&nbsp;&nbsp;
+
+00:20:55.760 --> 00:21:00.800
+cares about is whether or not it has two other&nbsp;
+lands to play before the slow land. What if those&nbsp;&nbsp;
+
+00:21:00.800 --> 00:21:04.920
+lands are a different type of conditionally-tapped&nbsp;
+land with a different condition? What if the other&nbsp;&nbsp;
+
+00:21:04.920 --> 00:21:08.560
+lands are the wrong color? What if one of&nbsp;
+them is a Shadowmoor filter land that needs&nbsp;&nbsp;
+
+00:21:08.560 --> 00:21:13.360
+an on-color mana to get working? All of these&nbsp;
+are cases where the slow land contributes to&nbsp;&nbsp;
+
+00:21:13.360 --> 00:21:18.080
+the malfunctioning of the manabase before turn&nbsp;
+3, but they’re considered successes due to the&nbsp;&nbsp;
+
+00:21:18.080 --> 00:21:23.800
+nature of the percent of time tapped metric. One&nbsp;
+solution to this could be using a more complex&nbsp;&nbsp;
+
+00:21:23.800 --> 00:21:28.520
+statistic than % of time tapped that takes more&nbsp;
+factors into account, but—who’s that knocking?&nbsp;&nbsp;
+
+00:21:29.160 --> 00:21:33.400
+That’s right, it’s our old friend,&nbsp;
+interpretability. % of time tapped is&nbsp;&nbsp;
+
+00:21:33.400 --> 00:21:37.760
+simply leaps and bounds more understandable than&nbsp;
+any replacement statistic I could come up with,&nbsp;&nbsp;
+
+00:21:37.760 --> 00:21:41.440
+and for that reason it’s worth&nbsp;
+taking the L on cases such as this.
+
+00:21:41.440 --> 00:21:45.680
+So, that’s basically the tool. There are a&nbsp;
+couple extra caveats, one of which is that&nbsp;&nbsp;
+
+00:21:45.680 --> 00:21:49.920
+this tool is naturally going to work better for&nbsp;
+EDH decks that are closer in structure to most&nbsp;&nbsp;
+
+00:21:49.920 --> 00:21:54.240
+60 card decks. A lot of the structure of the&nbsp;
+model was based off the work of Frank Karsten,&nbsp;&nbsp;
+
+00:21:54.240 --> 00:21:58.520
+who himself modeled much of his work on land&nbsp;
+counts off of data captured from 60 card formats.&nbsp;&nbsp;
+
+00:21:59.040 --> 00:22:03.320
+This data can be adapted to EDH, but it’s&nbsp;
+naturally still not going to fully summarize&nbsp;&nbsp;
+
+00:22:03.320 --> 00:22:08.720
+some EDH-specific types of decks. On that note,&nbsp;
+it also works just fine for 60 card decks even&nbsp;&nbsp;
+
+00:22:08.720 --> 00:22:13.560
+as it was made with the complexities of commander&nbsp;
+in mind, so any 60 card format players out there&nbsp;&nbsp;
+
+00:22:13.560 --> 00:22:18.280
+can just ignore the commander stuff and use&nbsp;
+this normally. The other, potentially related,&nbsp;&nbsp;
+
+00:22:18.280 --> 00:22:24.280
+caveat is that this tool is going to be less and&nbsp;
+less helpful the more ramp and land focused a deck&nbsp;&nbsp;
+
+00:22:24.280 --> 00:22:29.440
+is. Lands decks as an archetype obviously aren’t&nbsp;
+going to be particularly well captured by this,&nbsp;&nbsp;
+
+00:22:29.440 --> 00:22:34.080
+nor are decks that heavily employ ramp to get&nbsp;
+a specific curve-out, such as my Radha deck.&nbsp;&nbsp;
+
+00:22:34.080 --> 00:22:38.680
+Likewise, decks that specifically avoid paying&nbsp;
+the costs of cards in their deck, such as a&nbsp;&nbsp;
+
+00:22:38.680 --> 00:22:43.720
+reanimator deck or a Purphoros, Bronze-Blooded&nbsp;
+deck, will likewise not be well-served by this&nbsp;&nbsp;
+
+00:22:43.720 --> 00:22:48.000
+tool. We certainly tried to offer some ways&nbsp;
+to adapt this tool to these sorts of decks,&nbsp;&nbsp;
+
+00:22:48.000 --> 00:22:53.120
+which included a band aid solution of allowing&nbsp;
+users to exclude cards from the analysis. This&nbsp;&nbsp;
+
+00:22:53.120 --> 00:22:57.800
+makes a lot of problems go away in principle&nbsp;
+without necessarily solving them. Ultimately,&nbsp;&nbsp;
+
+00:22:57.800 --> 00:23:00.840
+I’m relatively fine with that compromise,&nbsp;
+because at the end of the day, the people&nbsp;&nbsp;
+
+00:23:00.840 --> 00:23:05.160
+doing creative curve-outs with strange tools&nbsp;
+aren’t necessarily the ones this tool is intended&nbsp;&nbsp;
+
+00:23:05.160 --> 00:23:10.280
+for. Me and Ian will likely work on building&nbsp;
+an “advanced” version over the next month or&nbsp;&nbsp;
+
+00:23:10.280 --> 00:23:14.240
+so with some extra factors and heuristics&nbsp;
+built in for people who want more control,&nbsp;&nbsp;
+
+00:23:14.240 --> 00:23:19.760
+because the audience for that does exist, it’s&nbsp;
+just not the primary one we’re trying to cater to.
+
+00:23:19.760 --> 00:23:23.360
+No, this tool is ultimately intended for the&nbsp;
+people trying to build a deck focused on the&nbsp;&nbsp;
+
+00:23:23.360 --> 00:23:28.680
+ways nonland cards work together, and just want a&nbsp;
+manabase that doesn’t slow them down in that task.&nbsp;&nbsp;
+
+00:23:28.680 --> 00:23:33.440
+I said in my video a year ago that people should&nbsp;
+pay attention to their lands, and in my ramp video&nbsp;&nbsp;
+
+00:23:33.440 --> 00:23:38.440
+two months prior to that that people should pay&nbsp;
+attention to their ramp, but truly I understand&nbsp;&nbsp;
+
+00:23:38.440 --> 00:23:43.400
+why people don’t want to focus on these things.&nbsp;
+For a lot of decks, these things function more as&nbsp;&nbsp;
+
+00:23:43.400 --> 00:23:48.320
+obstacles between them and a well-functioning&nbsp;
+deck than they do as interesting tools to be&nbsp;&nbsp;
+
+00:23:48.320 --> 00:23:53.800
+utilized in deck construction. A lot of players&nbsp;
+feel ambivalent at best about their manabase,&nbsp;&nbsp;
+
+00:23:53.800 --> 00:23:59.560
+and at worst may feel actively resentful of it.&nbsp;
+A small but persistent minority of comments I see&nbsp;&nbsp;
+
+00:23:59.560 --> 00:24:04.840
+on videos related to lands express something&nbsp;
+to the effect that lands are a mistake, the&nbsp;&nbsp;
+
+00:24:04.840 --> 00:24:09.800
+worst part of Magic: the Gathering, and a thing&nbsp;
+to at best be tolerated as the price of playing&nbsp;&nbsp;
+
+00:24:09.800 --> 00:24:15.120
+the game. Whether or not lands and mana make for&nbsp;
+a fundamentally good mechanic is outside the scope&nbsp;&nbsp;
+
+00:24:15.120 --> 00:24:19.880
+of this video, but for now I’ll just say to those&nbsp;
+people—I see you, I hear you, and I want to make&nbsp;&nbsp;
+
+00:24:19.880 --> 00:24:25.040
+your life a little easier. The gradual addition of&nbsp;
+analysis features to deckbuilding sites is already&nbsp;&nbsp;
+
+00:24:25.040 --> 00:24:29.680
+helping in this task to an extent—with a website&nbsp;
+like Archidekt, you now have pip split, multiple&nbsp;&nbsp;
+
+00:24:29.680 --> 00:24:33.520
+types of mana curve, a hypergeometric calculator&nbsp;
+already linked to the deck’s categories,&nbsp;&nbsp;
+
+00:24:33.520 --> 00:24:38.240
+and ways to get more granular in analysis, all at&nbsp;
+your fingertips. There will always be the Spikes&nbsp;&nbsp;
+
+00:24:38.240 --> 00:24:41.800
+out there who will crack open a hypergeometric&nbsp;
+calculator for their different categories all on&nbsp;&nbsp;
+
+00:24:41.800 --> 00:24:46.400
+their own, but the expansion of these tools to&nbsp;
+be more readily available and easy to use is a&nbsp;&nbsp;
+
+00:24:46.400 --> 00:24:50.480
+good thing, not just for the math-minded players,&nbsp;
+but also for the players who just want a deck that&nbsp;&nbsp;
+
+00:24:50.480 --> 00:24:55.480
+plays well without needing to spend an extra&nbsp;
+hour or two diving into granular details. So,&nbsp;&nbsp;
+
+00:24:55.480 --> 00:25:00.080
+this is a tool aimed principally at those players,&nbsp;
+and really anybody who just wants a second set of&nbsp;&nbsp;
+
+00:25:00.080 --> 00:25:04.320
+eyes on their manabase, something that can provide&nbsp;
+immediate feedback and point to any potential&nbsp;&nbsp;
+
+00:25:04.320 --> 00:25:09.000
+issues that may have been missed. If that sounds&nbsp;
+cool to you, click the link in the description!
+
+00:25:09.000 --> 00:25:12.920
+That caps off this video, but there was a ton&nbsp;
+of stuff that we couldn’t talk about relating to&nbsp;&nbsp;
+
+00:25:12.920 --> 00:25:17.840
+the tool. I recorded a separate interview with Ian&nbsp;
+about those things, and it’s almost thirty minutes&nbsp;&nbsp;
+
+00:25:17.840 --> 00:25:22.360
+long. I’m going to give a couple of previews&nbsp;
+of that discussion here, and if it seems cool&nbsp;&nbsp;
+
+00:25:22.360 --> 00:25:27.480
+you can subscribe to my Patreon for $3 a month to&nbsp;
+gain access, or just buy access to that video for&nbsp;&nbsp;
+
+00:25:27.480 --> 00:25:32.440
+$2 if you don’t want to add a new subscription,&nbsp;
+also on Patreon. I’m getting back into producing&nbsp;&nbsp;
+
+00:25:32.440 --> 00:25:36.960
+a bonus video every month in addition to my deck&nbsp;
+reviews, and I have a back catalogue of more than&nbsp;&nbsp;
+
+00:25:36.960 --> 00:25:41.360
+a dozen bonus videos that you can check out that&nbsp;
+are a mixture of facecam videos, full-length ones&nbsp;&nbsp;
+
+00:25:41.360 --> 00:25:45.720
+in my normal style, and endnotes for points that&nbsp;
+couldn’t quite fit into a public video. You may&nbsp;&nbsp;
+
+00:25:45.720 --> 00:25:50.320
+have also noticed the new background color on this&nbsp;
+video, and that was also picked out by my patrons!&nbsp;&nbsp;
+
+00:25:50.320 --> 00:25:54.200
+That’s a whole lot of great things about being a&nbsp;
+Salubrious Snail patron if you ask me, you might&nbsp;&nbsp;
+
+00:25:54.200 --> 00:26:28.800
+even get your name in the credits. With that said,&nbsp;
+here’s a preview of my extra discussion with Ian.
+

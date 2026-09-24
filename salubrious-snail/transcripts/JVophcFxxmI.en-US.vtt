@@ -1,0 +1,752 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.120 --> 00:00:03.590
+A major thing I’ve discussed recently is
+deck consistency, and I’ve been surprised
+
+00:00:03.590 --> 00:00:07.629
+by how much feedback I’ve gotten, in multiple
+dimensions—I’ve had people telling me
+
+00:00:07.629 --> 00:00:11.370
+that I’m besmirching the spirit of a singleton
+format, but I’ve also had a lot of people
+
+00:00:11.370 --> 00:00:14.960
+who were interested and genuinely curious
+about how to make a deck consistent.
+
+00:00:14.960 --> 00:00:19.170
+So, I figure for this video I can spend 10
+minutes yelling at that first group about
+
+00:00:19.170 --> 00:00:20.500
+how wrong they are.
+
+00:00:20.500 --> 00:00:25.180
+Alright, listen here ya bozos—no, those
+people are entitled to their deckbuilding
+
+00:00:25.180 --> 00:00:27.380
+preferences, and I wish them well.
+
+00:00:27.380 --> 00:00:32.200
+I actually want to give a more detailed look
+at deck consistency as a subject, with an
+
+00:00:32.200 --> 00:00:37.570
+emphasis on the how—what’s the best way
+to turn a floppy pile of jank into a well-oiled
+
+00:00:37.570 --> 00:00:38.760
+machine?
+
+00:00:38.760 --> 00:00:42.160
+To get there, I want to start by clarifying
+my terms.
+
+00:00:42.160 --> 00:00:47.200
+I throw around the phrase “consistent deck”
+a lot, and one interpretation of a consistent
+
+00:00:47.200 --> 00:00:50.260
+deck is one that does the same thing every
+game.
+
+00:00:50.260 --> 00:00:54.820
+I think this is a very incomplete definition
+for what I’m talking about, and the definition
+
+00:00:54.820 --> 00:01:00.410
+I’m going to use instead is that a consistent
+deck is one that consistently does something,
+
+00:01:00.410 --> 00:01:04.580
+and whose things it does don’t vary all
+that much in power level.
+
+00:01:04.580 --> 00:01:08.440
+This often means decks with multiple avenues
+of play whose construction is good enough
+
+00:01:08.440 --> 00:01:11.100
+that the different options all feel valuable.
+
+00:01:11.100 --> 00:01:16.430
+The three decks I mentioned in my last video,
+my $25 Rakdos deck, my Meria deck, and my
+
+00:01:16.430 --> 00:01:20.100
+Glissa deck, all basically do variations on
+a theme.
+
+00:01:20.100 --> 00:01:23.730
+With Glissa, the deck might take different
+opening plays depending on the game, but at
+
+00:01:23.730 --> 00:01:29.310
+the end of the day its general game plan will
+be ramp, play big stuff, and gain board dominance.
+
+00:01:29.310 --> 00:01:33.500
+Similarly, with my Meria deck, the deck is
+always looking to play a bunch of equipments
+
+00:01:33.500 --> 00:01:37.149
+and swing big in the midgame, but that can
+take a lot of different shapes.
+
+00:01:37.149 --> 00:01:40.939
+If you want to learn more about the Meria
+deck, I recently posted a ten minute deck
+
+00:01:40.939 --> 00:01:45.810
+tech over on my patreon that covers the process
+of how I built it, a breakdown of the list,
+
+00:01:45.810 --> 00:01:48.829
+and some takeaways I had from the deckbuilding
+process.
+
+00:01:48.829 --> 00:01:53.050
+I’ve mentioned a handful of reasons I like
+consistent decks in the past, and I’ll give
+
+00:01:53.050 --> 00:01:54.460
+a brief rehash here.
+
+00:01:54.460 --> 00:01:59.719
+From a table politics standpoint, people will
+remember the most powerful moments of the
+
+00:01:59.719 --> 00:02:03.659
+deck—your spooky pop-off win you can only
+pull off 10% of the time will be remembered
+
+00:02:03.659 --> 00:02:09.170
+alongside a more consistent deck’s quite
+solid gameplan it pulls off 75% of the time,
+
+00:02:09.170 --> 00:02:12.890
+and this will make your deck seem disproportionately
+scary.
+
+00:02:12.890 --> 00:02:16.950
+Even if table memory isn’t a concern, from
+a fun standpoint I like to have my deck be
+
+00:02:16.950 --> 00:02:19.420
+doing something every game.
+
+00:02:19.420 --> 00:02:23.050
+This is doubly true when I’m playing with
+new people, where my deck failing to get off
+
+00:02:23.050 --> 00:02:27.849
+the ground will look an awful lot like I just
+built a bad deck, rather than being seen as
+
+00:02:27.849 --> 00:02:31.170
+the unfortunate sequence of draws it truly
+was.
+
+00:02:31.170 --> 00:02:36.120
+To be clear, this is absolutely an ego thing,
+but fortunately for me, for the moment we
+
+00:02:36.120 --> 00:02:40.340
+all have human brains that do silly human
+brain things, so I know a decent portion of
+
+00:02:40.340 --> 00:02:42.909
+you share in my vanity at the table.
+
+00:02:42.909 --> 00:02:46.960
+Now that I’ve got the what and why out of
+the way, let’s talk how.
+
+00:02:46.960 --> 00:02:51.930
+For starters, I think one of the easier forms
+of consistency to nail is what I like to call
+
+00:02:51.930 --> 00:02:54.269
+“rollout consistency”.
+
+00:02:54.269 --> 00:02:58.780
+This type of consistency basically asks the
+question, “do I do what I want to do on
+
+00:02:58.780 --> 00:03:01.120
+the first several turns of the game?”
+
+00:03:01.120 --> 00:03:05.260
+That “what” can vary deck-to-deck, and
+obviously you won’t play a turn 1 Sol Ring
+
+00:03:05.260 --> 00:03:09.160
+every game, but you can check to make sure
+that your deck is generally doing at least
+
+00:03:09.160 --> 00:03:11.140
+*something* that feels good.
+
+00:03:11.140 --> 00:03:15.750
+The best way of doing this is solo playtesting
+a deck a whole bunch, and I generally playtest
+
+00:03:15.750 --> 00:03:18.570
+my decks quite a lot before spending any money
+on them.
+
+00:03:18.570 --> 00:03:23.840
+However, this can be time consuming, and one
+way of reducing this time is having a baseline
+
+00:03:23.840 --> 00:03:28.230
+of probabilistic sense for the cards in your
+deck so you’re at least in the general ballpark
+
+00:03:28.230 --> 00:03:29.750
+with things.
+
+00:03:29.750 --> 00:03:34.260
+Anybody who plays a lot of card games will
+have this intuitively hammered in to an extent,
+
+00:03:34.260 --> 00:03:38.250
+but just for fun here I’m gonna show you
+exactly what I mean.
+
+00:03:38.250 --> 00:03:43.170
+Let’s say I want to look at how often I
+get a particular type of card by a particular
+
+00:03:43.170 --> 00:03:46.900
+turn, using the example of a Goreclaw deck
+I’ve been building.
+
+00:03:46.900 --> 00:03:50.680
+The deck always wants to play the commander
+by turn 3, and this means that it needs to
+
+00:03:50.680 --> 00:03:54.069
+get a piece of ramp by turn 2, every game.
+
+00:03:54.069 --> 00:03:58.790
+Disregarding mulligans, lands, and other factors,
+the probability of this happening is modeled
+
+00:03:58.790 --> 00:04:03.930
+by this function, where X is the number of
+ramp spells in my deck, and it can be used
+
+00:04:03.930 --> 00:04:08.459
+to graph out how likely it is to achieve this
+goal based on that number.
+
+00:04:08.459 --> 00:04:13.120
+As we can see on the graph, if I have 10 ramp
+spells in the deck there’s a 63% chance
+
+00:04:13.120 --> 00:04:19.229
+of having one on turn 2, if there’s 15 in
+deck I have a 79% chance, if there’s 20
+
+00:04:19.229 --> 00:04:21.840
+I have an 88% chance, and so on.
+
+00:04:21.840 --> 00:04:26.560
+Alright, now let’s instead say I really
+want to see ramp in the opening hand, and
+
+00:04:26.560 --> 00:04:28.710
+will happily mulligan to get there.
+
+00:04:28.710 --> 00:04:34.120
+If I decide to run 15 ramp spells, then for
+a given seven card hand, there’s a 69.6%
+
+00:04:34.120 --> 00:04:38.470
+chance of having at least one ramp spell,
+and this graph lays out that probability based
+
+00:04:38.470 --> 00:04:40.320
+on the number of hands drawn.
+
+00:04:40.320 --> 00:04:46.610
+For one hand drawn it’s 69.6%, for two hands
+drawn it’s 90.8%, for three hands drawn
+
+00:04:46.610 --> 00:04:49.840
+it’s 97.2% of the time, and so forth.
+
+00:04:49.840 --> 00:04:53.669
+A simple benchmark you can reference is that
+you need 10 of a card in a deck to have it
+
+00:04:53.669 --> 00:04:57.220
+show up in a given hand more than half the
+time.
+
+00:04:57.220 --> 00:05:01.440
+You could also do this sort of modeling for
+a combo deck—for this hypothetical persist
+
+00:05:01.440 --> 00:05:06.090
+combo deck running no tutors and no partial
+pieces, in order to have a better-than-half
+
+00:05:06.090 --> 00:05:10.780
+chance of drawing one of each piece to have
+the combo, you need to draw roughly half the
+
+00:05:10.780 --> 00:05:15.910
+deck, and there’s about a one in 400 chance
+of drawing it in the opening hand.
+
+00:05:15.910 --> 00:05:20.470
+Another possible calculation would be modeling
+land drops given a certain land count.
+
+00:05:20.470 --> 00:05:24.030
+By showing you this kind of modeling, I’m
+certainly not trying to say that you should
+
+00:05:24.030 --> 00:05:28.540
+go out and get a degree in math before building
+a deck—I almost never run this sort of calculation
+
+00:05:28.540 --> 00:05:30.200
+while deckbuilding.
+
+00:05:30.200 --> 00:05:34.720
+What I am trying to say, though, is that it’s
+good to have a rough idea of the actual numbers
+
+00:05:34.720 --> 00:05:36.350
+of the situation.
+
+00:05:36.350 --> 00:05:41.590
+I think a lot of people tend to underestimate
+how many cards 100 actually is, and that tends
+
+00:05:41.590 --> 00:05:46.569
+to result in people putting in less cards
+with a particular effect than would be ideal.
+
+00:05:46.569 --> 00:05:50.500
+This also then has other effects on the card
+quality—you might build out the core of
+
+00:05:50.500 --> 00:05:54.040
+the deck and then go “wow, I’ve got so
+many slots left!
+
+00:05:54.040 --> 00:05:56.860
+I could put all sorts of stuff in here.”
+
+00:05:56.860 --> 00:06:01.919
+I’ve been there, and let me tell you, those
+decks end up turning out way worse than decks
+
+00:06:01.919 --> 00:06:05.509
+where I’m sweating and dying trying to find
+space for everything.
+
+00:06:05.509 --> 00:06:10.220
+When slots are plentiful, filler that weakens
+the deck as a whole will work its way in,
+
+00:06:10.220 --> 00:06:16.280
+cards where you go “oh this seems decent
+in a couple niche situations” or “oh yeah
+
+00:06:16.280 --> 00:06:20.230
+this card has slight synergies with some other
+elements of the deck.”
+
+00:06:20.230 --> 00:06:23.970
+These cards are probably there in place of
+other, better-suited cards.
+
+00:06:23.970 --> 00:06:28.550
+A good first step toward reducing this sort
+of filler is to categorize your deck, and
+
+00:06:28.550 --> 00:06:30.800
+think about the categories.
+
+00:06:30.800 --> 00:06:34.849
+Different decks will use different systems,
+but four supporting categories I usually have
+
+00:06:34.849 --> 00:06:41.069
+are Ramp, Draw, Removal, and Protection, with
+those last two categories sometimes combined
+
+00:06:41.069 --> 00:06:44.740
+for decks whose interaction mainly consists
+of counterspells.
+
+00:06:44.740 --> 00:06:48.539
+Separating these out and making sure you have
+enough of each is a good first step of making
+
+00:06:48.539 --> 00:06:52.230
+sure that you’re spending slots on things
+that will actually make your deck better,
+
+00:06:52.230 --> 00:06:55.230
+rather than throwing in some random pet enchantments.
+
+00:06:55.230 --> 00:06:59.310
+Within the categories, there might be the
+question of whether a card truly belongs there.
+
+00:06:59.310 --> 00:07:02.030
+For example, is Gilded Lotus ramp?
+
+00:07:02.030 --> 00:07:06.520
+If you’re accelerating to ten or more mana
+to play a lot of big threats, yes it is.
+
+00:07:06.520 --> 00:07:10.700
+If you’re running ramp so that you can hit
+a 6 mana commander consistently, no it’s
+
+00:07:10.700 --> 00:07:12.150
+not ramp.
+
+00:07:12.150 --> 00:07:15.880
+For draw, you should consider the difference
+between conditional draw, general purpose
+
+00:07:15.880 --> 00:07:20.199
+draw, and filtering, since if your deck relies
+too heavily on conditional draw, you’ll
+
+00:07:20.199 --> 00:07:23.420
+have games where you get behind and then stay
+behind.
+
+00:07:23.420 --> 00:07:27.720
+Once you’ve figured out your categories
+and considered what sorts of cards *should*
+
+00:07:27.720 --> 00:07:32.210
+make up a given category, the next question
+might be how much of each to run, and this
+
+00:07:32.210 --> 00:07:34.039
+will vary from deck to deck.
+
+00:07:34.039 --> 00:07:38.729
+Things like draw and ramp can be tested via
+playtesting, but reactive elements will be
+
+00:07:38.729 --> 00:07:40.650
+trickier to figure out.
+
+00:07:40.650 --> 00:07:44.669
+For removal I’d recommend starting between
+8 and 14, and adjust from there keeping in
+
+00:07:44.669 --> 00:07:49.940
+mind that slower decks and lower-velocity
+decks will usually want more removal than
+
+00:07:49.940 --> 00:07:53.729
+faster decks and higher-velocity decks will.
+
+00:07:53.729 --> 00:07:57.780
+Protection is the most variable of all—I
+run 0 in a couple scrappy decks that don’t
+
+00:07:57.780 --> 00:08:01.759
+give a shit about anything, and 12 in the
+Meria deck whose supporting categories are
+
+00:08:01.759 --> 00:08:06.069
+currently on screen, where my commander staying
+alive an extra turn might mean a dead opponent
+
+00:08:06.069 --> 00:08:07.600
+and a bunch of value.
+
+00:08:07.600 --> 00:08:10.610
+How much protection is correct for your deck
+will depend on how much it cares about its
+
+00:08:10.610 --> 00:08:14.991
+commander and other key cards surviving—
+and if you care a lot about that, I’d like
+
+00:08:14.991 --> 00:08:19.110
+to remind you that if you’re only running
+the two boots, your odds of drawing protection
+
+00:08:19.110 --> 00:08:24.449
+in your first five draws of the game of the
+game are [tapping] a hair under 23%.
+
+00:08:24.449 --> 00:08:26.889
+That’s not great!
+
+00:08:26.889 --> 00:08:31.990
+A helpful side effect of categorizing is that
+it will naturally leave some cards in undeniably
+
+00:08:31.990 --> 00:08:33.460
+naked view.
+
+00:08:33.460 --> 00:08:36.820
+If a card doesn’t fit into one of your key
+categories, you should be asking yourself
+
+00:08:36.820 --> 00:08:41.170
+what its purpose is, and the answer should
+be simple and straightforward.
+
+00:08:41.170 --> 00:08:45.290
+If the answer involves scratching your head
+and vaguely gesturing at a couple other cards,
+
+00:08:45.290 --> 00:08:48.850
+that’s a card that deserves a more robust
+evaluation.
+
+00:08:48.850 --> 00:08:52.910
+In my mind, the optimal state of a decklist
+is one whose components exist in comfortable
+
+00:08:52.910 --> 00:08:58.400
+tension in your mind—where there are constantly
+questions in the back of your mind like “hmmm,
+
+00:08:58.400 --> 00:09:02.850
+should I swap out a ramp spell and a finisher
+slot for two more draw spells?”
+
+00:09:02.850 --> 00:09:07.080
+The answer to that can be no, but asking that
+kind of question in the first place will improve
+
+00:09:07.080 --> 00:09:10.320
+your decks and make you better at deckbuilding.
+
+00:09:10.320 --> 00:09:13.560
+A final type of consistency I want to talk
+about is one that’s complex enough that
+
+00:09:13.560 --> 00:09:18.589
+I might make a full video about it at some
+point, and that is situational consistency.
+
+00:09:18.589 --> 00:09:22.671
+By this phrase I made up on the spot I mean
+a deck that plays relatively smoothly in a
+
+00:09:22.671 --> 00:09:26.820
+bunch of different situations—you could
+also call this being reactive and/or being
+
+00:09:26.820 --> 00:09:29.290
+resilient depending on context.
+
+00:09:29.290 --> 00:09:34.140
+This will generally mean devoting deck space
+to specific types of suppressive or protective
+
+00:09:34.140 --> 00:09:38.459
+cards, and the best way to allow a deck to
+have easy access to situational cards without
+
+00:09:38.459 --> 00:09:43.040
+destroying the deck’s general consistency
+is tutors.
+
+00:09:43.040 --> 00:09:46.790
+This could mean running a bunch of the black
+classics, but those tend to be expensive,
+
+00:09:46.790 --> 00:09:51.301
+either money-wise or mana-wise, so for a deck
+looking to run a bunch of tutors, a natural
+
+00:09:51.301 --> 00:09:54.970
+place to end up is often what’s called a
+“toolbox” deck.
+
+00:09:54.970 --> 00:09:58.880
+This refers to a deck with a number of conditional
+tutors that can each grab cards useful in
+
+00:09:58.880 --> 00:10:00.860
+several different situations.
+
+00:10:00.860 --> 00:10:06.350
+A couple quintessential toolbox cards are
+Birthing Pod and Yisan, the Wanderer Bard,
+
+00:10:06.350 --> 00:10:10.320
+which work well in decks with a lot of card
+diversity at each mana cost.
+
+00:10:10.320 --> 00:10:14.000
+There are some really powerful toolbox decks
+out there, as higher powers are where being
+
+00:10:14.000 --> 00:10:18.050
+able to consistently find tech pieces and
+answers really shines.
+
+00:10:18.050 --> 00:10:21.940
+For a couple examples of toolbox decks at
+a lower power, I can talk about my Sharuum
+
+00:10:21.940 --> 00:10:25.440
+Slide deck, and my friend Mr Hans’ Vadrok
+deck.
+
+00:10:25.440 --> 00:10:30.140
+In Sharuum Slide, the primary objective of
+the toolbox is grabbing Astral Slide, but
+
+00:10:30.140 --> 00:10:34.590
+there are a ton of other options embedded
+into this enchantment, artifact, and wizard-based
+
+00:10:34.590 --> 00:10:40.600
+tutoring framework—board wipes, recursion
+spells, draw spells, life gain, and so forth.
+
+00:10:40.600 --> 00:10:44.380
+This means that the deck can flow nicely once
+it gets into the midgame, even though the
+
+00:10:44.380 --> 00:10:47.300
+“interesting” mana base can often lead
+to slow early games.
+
+00:10:47.300 --> 00:10:51.050
+In the Vadrok deck, equipments are the primary
+card type that the tutor base is oriented
+
+00:10:51.050 --> 00:10:56.220
+around, with the equipment base containing
+value, protection, defense, graveyard hate,
+
+00:10:56.220 --> 00:10:57.559
+and Sunforger.
+
+00:10:57.559 --> 00:11:01.220
+With Sunforger, the deck can hit a ton of
+different cards, including a convoluted infinite
+
+00:11:01.220 --> 00:11:07.090
+combo, which results in a mutate deck that’s
+a little strange, but very fun and flexible.
+
+00:11:07.090 --> 00:11:11.529
+As an end note to this section, I should probably
+mention: I know that a lot of people dislike
+
+00:11:11.529 --> 00:11:16.690
+tutors, and I think a lot of that dislike
+comes from a particular type of usage.
+
+00:11:16.690 --> 00:11:21.980
+Somebody tutors up a power card or a couple
+combo pieces, and then explodes the table.
+
+00:11:21.980 --> 00:11:27.320
+This might feel bland to play against, but
+I want to pose a question—is it more interesting
+
+00:11:27.320 --> 00:11:30.589
+when a deck draws into that explosive win
+out of pure luck?
+
+00:11:30.589 --> 00:11:35.000
+It’ll happen less often without tutors,
+sure, but having the question of whether you’ll
+
+00:11:35.000 --> 00:11:38.910
+lose to a two card infinite combo be up to
+a roll of the dice rather than it being tutored
+
+00:11:38.910 --> 00:11:42.460
+for doesn’t really seem better in any meaningful
+sense.
+
+00:11:42.460 --> 00:11:45.920
+If anything, it makes it more difficult to
+run counterplay for that sort of deck—a
+
+00:11:45.920 --> 00:11:50.440
+stax piece you throw in will sit un-utilized
+the 85% of the time that they’re doing something
+
+00:11:50.440 --> 00:11:51.790
+else.
+
+00:11:51.790 --> 00:11:56.710
+My advice is this—if you don’t like a
+particular type of wincon or a particular
+
+00:11:56.710 --> 00:12:00.281
+power level, that’s fine, and there’s
+probably a different table out there that
+
+00:12:00.281 --> 00:12:01.820
+you’ll like better.
+
+00:12:01.820 --> 00:12:04.959
+Alright, that’s this video coming to an
+end.
+
+00:12:04.959 --> 00:12:09.250
+I have two things to mention here—one, I
+made a website, and put a couple probability
+
+00:12:09.250 --> 00:12:13.850
+calculators up on it because I was bored and
+wanted an excuse to practice my JavaScript.
+
+00:12:13.850 --> 00:12:16.720
+So you can visit there if you want to know
+the probability of drawing a card type by
+
+00:12:16.720 --> 00:12:21.640
+a given turn, or the average turn you’ll
+miss a land drop with a given land count.
+
+00:12:21.640 --> 00:12:22.970
+Oooh, turn seven?
+
+00:12:22.970 --> 00:12:24.510
+That’s pretty cool.
+
+00:12:24.510 --> 00:12:29.220
+Secondly, I feel I should reiterate—as with
+my last video, this is a style of deck building
+
+00:12:29.220 --> 00:12:33.380
+that you can engage in, but not every deck
+will be well-served by being transparent or
+
+00:12:33.380 --> 00:12:35.389
+maximizing consistency.
+
+00:12:35.389 --> 00:12:36.480
+Just leaving that out there.
+
+00:12:36.480 --> 00:13:04.930
+Anyway, here’s a preview of the Meria deck
+tech I recently posted 
+
+00:13:04.930 --> 00:13:36.500
+to my patreon:
+

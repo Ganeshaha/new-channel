@@ -1,0 +1,888 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.400 --> 00:00:04.000
+Wizards of the Coast has been printing&nbsp;
+commander-specific legendary creatures&nbsp;&nbsp;
+
+00:00:04.000 --> 00:00:08.031
+since 2011—cards designed specifically to be&nbsp;
+put in the command zone, rather than just being&nbsp;&nbsp;
+
+00:00:08.031 --> 00:00:10.320
+creatures that happen to have the legendary tag.&nbsp;
+As you might expect, these have not been without&nbsp;&nbsp;
+
+00:00:10.320 --> 00:00:15.200
+controversy. Powerful designs like Yuriko&nbsp;
+and Edgar Markov stretch the mechanics of&nbsp;&nbsp;
+
+00:00:15.200 --> 00:00:19.680
+the commander format to its outer limit, and all&nbsp;
+sorts of other cards are controversial in their&nbsp;&nbsp;
+
+00:00:19.680 --> 00:00:24.320
+own right even if they’re less obvious mechanical&nbsp;
+outliers. This month I want to talk about the&nbsp;&nbsp;
+
+00:00:24.320 --> 00:00:29.840
+design and gameplay philosophy behind several&nbsp;
+iconic but controversial commanders, specifically&nbsp;&nbsp;
+
+00:00:29.840 --> 00:00:34.160
+whether they accomplished the goal of being&nbsp;
+fun and dynamic gamepieces, or whether they’re&nbsp;&nbsp;
+
+00:00:34.160 --> 00:00:38.800
+mistakes that should be avoided at all costs in&nbsp;
+the future. I’ll get to some more controversial&nbsp;&nbsp;
+
+00:00:38.800 --> 00:00:44.080
+options in later videos, but for now we’ll be&nbsp;
+keeping things simple. I want to talk about Glass&nbsp;&nbsp;
+
+00:00:44.080 --> 00:00:50.400
+Cannon commanders—commanders that are powerful and&nbsp;
+explosive, but also fragile. More specifically,&nbsp;&nbsp;
+
+00:00:50.400 --> 00:00:54.640
+I want to talk about how these cards, while&nbsp;
+certainly having some benefits, can risk&nbsp;&nbsp;
+
+00:00:54.640 --> 00:01:00.320
+misleading players and causing them to stumble&nbsp;
+into play experiences they don’t necessarily want.
+
+00:01:00.320 --> 00:01:03.760
+Something else that’s fragile, though, is your&nbsp;
+Magic: The Gathering decks, which is why you&nbsp;&nbsp;
+
+00:01:03.760 --> 00:01:07.760
+should consider some extremely cool-looking&nbsp;
+accessories from this video’s sponsor,&nbsp;&nbsp;
+
+00:01:07.760 --> 00:01:12.880
+Voidmonster. Voidmonster is run by Magic: The&nbsp;
+Gathering artist Forrest Imel, and features&nbsp;&nbsp;
+
+00:01:12.880 --> 00:01:18.240
+some pretty fantastic original designs. The color&nbsp;
+playmats are a great evergreen option, and there’s&nbsp;&nbsp;
+
+00:01:18.240 --> 00:01:24.160
+also a new drop every month available for only&nbsp;
+a limited time. This month is the Devoid drop,&nbsp;&nbsp;
+
+00:01:24.160 --> 00:01:29.520
+which includes a playmat, a deck box, and a bonus&nbsp;
+mana tracker card if you buy the bundle. I love&nbsp;&nbsp;
+
+00:01:29.520 --> 00:01:35.040
+the sort of chalky, austere exterior paired with&nbsp;
+the writhing blue tentacles on the interior—this&nbsp;&nbsp;
+
+00:01:35.040 --> 00:01:39.680
+perfectly encapsulates Eldrazi to me. If this&nbsp;
+drop interests you, you can follow the link in&nbsp;&nbsp;
+
+00:01:39.680 --> 00:01:44.880
+my description and preorder before October 19th.&nbsp;
+Thanks to Voidmonster for sponsoring the video.
+
+00:01:44.880 --> 00:01:50.080
+Okay, so glass cannon commanders. There are plenty&nbsp;
+of recent commanders that fit this description,&nbsp;&nbsp;
+
+00:01:50.080 --> 00:01:53.600
+and I’ll get to one of the most infamous&nbsp;
+examples of this in a little while,&nbsp;&nbsp;
+
+00:01:53.600 --> 00:01:58.160
+but for now we need to dig into the origins of&nbsp;
+this sort of design by discussing the first ever&nbsp;&nbsp;
+
+00:01:58.160 --> 00:02:03.760
+commander set. Commander 2011 was a set that was&nbsp;
+quite experimental and out-there for the time,&nbsp;&nbsp;
+
+00:02:03.760 --> 00:02:08.000
+and there are a lot of things here I could&nbsp;
+talk about—the poor-by-present-day-standards&nbsp;&nbsp;
+
+00:02:08.000 --> 00:02:12.880
+construction of the precons, the reprinting&nbsp;
+of the ultimately-banned Trade Secrets, some&nbsp;&nbsp;
+
+00:02:12.880 --> 00:02:18.160
+intriguing early attempts at political tools seen&nbsp;
+in the Jeskai deck, and other assorted oddities.&nbsp;&nbsp;
+
+00:02:18.160 --> 00:02:23.120
+This set also contains a lot of interesting&nbsp;
+early attempts at commander-first designs,&nbsp;&nbsp;
+
+00:02:23.120 --> 00:02:28.240
+legendary creatures designed specifically with the&nbsp;
+intent of being commanders, and with designs that&nbsp;&nbsp;
+
+00:02:28.240 --> 00:02:33.840
+fit their intended role as a centerpiece creature.&nbsp;
+Of the commanders in this set, two have really&nbsp;&nbsp;
+
+00:02:33.840 --> 00:02:40.160
+stood the test of time—Kaalia of the Vast, and&nbsp;
+Animar Soul of the Elements. Sitting at #5 and&nbsp;&nbsp;
+
+00:02:40.160 --> 00:02:46.000
+#29 most popular among all commanders at present&nbsp;
+day, respectively, these have endured as potent&nbsp;&nbsp;
+
+00:02:46.000 --> 00:02:51.200
+designs in a way that other commander options&nbsp;
+from the set like Ghave and Riku simply could&nbsp;&nbsp;
+
+00:02:51.200 --> 00:02:57.920
+not. And this makes sense—far from being crowded&nbsp;
+out by any old graveyards or tokens or spell-copy&nbsp;&nbsp;
+
+00:02:57.920 --> 00:03:04.240
+commander, these two are unique and embody their&nbsp;
+playstyles in a way that’s difficult to replicate.
+
+00:03:04.240 --> 00:03:09.680
+Take Kaalia—she’s a 4 mana 2/2 flier in Mardu&nbsp;
+colors who lets her controller put into play&nbsp;&nbsp;
+
+00:03:09.680 --> 00:03:15.760
+an angel, demon, or dragon tapped and attacking&nbsp;
+whenever she attacks. The merging of these three&nbsp;&nbsp;
+
+00:03:15.760 --> 00:03:20.720
+big flying creature types associated with three&nbsp;
+different colors is quite iconic and specific&nbsp;&nbsp;
+
+00:03:20.720 --> 00:03:24.800
+to Kaalia, and though her creature-cheating&nbsp;
+functionality shares some similarities with&nbsp;&nbsp;
+
+00:03:24.800 --> 00:03:30.560
+more recent designs like Akul the Unrepetent&nbsp;
+and Mr. Foxglove, no other card accomplishes&nbsp;&nbsp;
+
+00:03:30.560 --> 00:03:35.840
+this cheating quite the way Kaalia does. The same&nbsp;
+goes for Animar—though there are other cards that&nbsp;&nbsp;
+
+00:03:35.840 --> 00:03:40.960
+can provide deep discounts for creature spells,&nbsp;
+such as Rakdos and Hamza, these generally require&nbsp;&nbsp;
+
+00:03:40.960 --> 00:03:46.960
+a bit more specificity in their play patterns to&nbsp;
+pay off big. Animar, on the other hand, is a fully&nbsp;&nbsp;
+
+00:03:46.960 --> 00:03:52.640
+pre-assembled creature storm machine—the only step&nbsp;
+to making creatures cheaper is casting creatures,&nbsp;&nbsp;
+
+00:03:52.640 --> 00:03:57.200
+and it’s not hard to see how this could lead to&nbsp;
+some dramatic turns without much setup required.&nbsp;&nbsp;
+
+00:03:57.200 --> 00:04:03.440
+In short, both of these commanders have a specific&nbsp;
+and iconic niche that they embody quite well. This&nbsp;&nbsp;
+
+00:04:03.440 --> 00:04:07.520
+is one part of their popularity, and the&nbsp;
+other is simply that they’re efficient at&nbsp;&nbsp;
+
+00:04:07.520 --> 00:04:11.920
+their role. Each of these cards has a high&nbsp;
+ceiling, and achieving a powerful gamestate&nbsp;&nbsp;
+
+00:04:11.920 --> 00:04:16.000
+doesn’t require as many steps as with a lot&nbsp;
+of other commanders, simply requiring having&nbsp;&nbsp;
+
+00:04:16.000 --> 00:04:22.160
+cards in hand ready to deploy and avoiding&nbsp;
+opposing removal. But, what about the floor?
+
+00:04:22.160 --> 00:04:26.400
+The biggest weakness of these two commanders&nbsp;
+is that their gameplans are a bit brittle,&nbsp;&nbsp;
+
+00:04:26.400 --> 00:04:30.960
+and not particularly hard to set back to&nbsp;
+basically square one. To fully get into&nbsp;&nbsp;
+
+00:04:30.960 --> 00:04:35.680
+why I’d apply a label like “glass cannon” to&nbsp;
+these, we should really discuss the nature&nbsp;&nbsp;
+
+00:04:35.680 --> 00:04:41.440
+of what commanders provide for various decks.&nbsp;
+Fundamentally, all commanders will be an enabler,&nbsp;&nbsp;
+
+00:04:41.440 --> 00:04:45.200
+a payoff, or something in between.&nbsp;
+Payoffs are the most common—Isshin&nbsp;&nbsp;
+
+00:04:45.760 --> 00:04:49.760
+doubles on-attack triggers, amplifying the&nbsp;
+volume of gameplay produced by cards with these,&nbsp;&nbsp;
+
+00:04:49.760 --> 00:04:55.840
+and Atraxa gives proliferates which amplify the&nbsp;
+power of cards that use counters. These feel nice&nbsp;&nbsp;
+
+00:04:55.840 --> 00:05:00.320
+to play because the play pattern is simple&nbsp;
+and effective—you start putting together a&nbsp;&nbsp;
+
+00:05:00.320 --> 00:05:04.000
+gameplan with cards the commander synergizes&nbsp;
+with, and then you drop the commander after&nbsp;&nbsp;
+
+00:05:04.000 --> 00:05:08.640
+a bit to turbo-charge that gameplan.&nbsp;
+Enabler commanders are less common—Zur&nbsp;&nbsp;
+
+00:05:08.640 --> 00:05:14.320
+the Enchanter is the only card in the top 100&nbsp;
+commanders I’d call a “pure enabler”, as he isn’t&nbsp;&nbsp;
+
+00:05:14.320 --> 00:05:18.080
+really a payoff for anything at all, aside from&nbsp;
+maybe having a pair of lightning greaves and some&nbsp;&nbsp;
+
+00:05:18.080 --> 00:05:22.000
+cool enchantments to grab in library. You play&nbsp;
+him so you can start tutoring out enchantments,&nbsp;&nbsp;
+
+00:05:22.000 --> 00:05:26.480
+and then your gameplan gets built from there.&nbsp;
+This end of things is closer to where Animar&nbsp;&nbsp;
+
+00:05:26.480 --> 00:05:32.240
+and Kaalia live, with Animar being a slight&nbsp;
+enabler and Kaalia being a moderate enabler.
+
+00:05:32.240 --> 00:05:37.360
+On a basic level, being an enabler isn’t a bad&nbsp;
+thing—my favorite decks feature commanders that&nbsp;&nbsp;
+
+00:05:37.360 --> 00:05:41.680
+fall closer to the enabling end of the&nbsp;
+spectrum. However, enabler commanders&nbsp;&nbsp;
+
+00:05:41.680 --> 00:05:45.920
+are inherently trickier to make play well&nbsp;
+because of the nature of the enabler-payoff&nbsp;&nbsp;
+
+00:05:45.920 --> 00:05:51.200
+relationship. Whereas a payoff commander is&nbsp;
+the amplifying adornment atop a solid 99,&nbsp;&nbsp;
+
+00:05:51.200 --> 00:05:55.760
+an enabler commander will a lot of times&nbsp;
+be step 1 to doing anything in the game,&nbsp;&nbsp;
+
+00:05:55.760 --> 00:06:01.120
+with the rest of the deck living atop it.&nbsp;
+To be clear, this isn’t always a problem.&nbsp;&nbsp;
+
+00:06:01.120 --> 00:06:05.520
+If there are other ways to get the enabling&nbsp;
+component, it can be fine. If the enabling&nbsp;&nbsp;
+
+00:06:05.520 --> 00:06:10.640
+component is hard to prevent or set back, it&nbsp;
+can be fine. And, if the enabling component&nbsp;&nbsp;
+
+00:06:10.640 --> 00:06:15.520
+isn’t essential to the deck’s functionality,&nbsp;
+it can be fine. The issue should hopefully be&nbsp;&nbsp;
+
+00:06:15.520 --> 00:06:21.120
+becoming clearer—these caveats go frequently&nbsp;
+unfulfilled with each of these commanders.
+
+00:06:21.120 --> 00:06:25.760
+Kaalia of the Vast’s role is to cheat permanents&nbsp;
+into play, and she’s generally an important&nbsp;&nbsp;
+
+00:06:25.760 --> 00:06:30.800
+enabler for the big-flying-creatures gameplans&nbsp;
+she’s played with. Can the deck do its gameplan&nbsp;&nbsp;
+
+00:06:30.800 --> 00:06:36.800
+without her? Not really—the average Kaalia&nbsp;
+deck has 36 lands and 11 pieces of ramp in it,&nbsp;&nbsp;
+
+00:06:36.800 --> 00:06:42.480
+numbers far too small for a deck with an average&nbsp;
+mana value over 4. Next you might ask, can it at&nbsp;&nbsp;
+
+00:06:42.480 --> 00:06:48.720
+least protect her? And the answer is kind of—hasty&nbsp;
+boots are golden here, and you certainly can add&nbsp;&nbsp;
+
+00:06:48.720 --> 00:06:53.760
+other cards that can protect Kaalia early such&nbsp;
+as Mother of Runes or Deflecting Swat. However,&nbsp;&nbsp;
+
+00:06:53.760 --> 00:06:57.840
+this is complicated by the fact that the&nbsp;
+deck is also vulnerable to board wipes,&nbsp;&nbsp;
+
+00:06:57.840 --> 00:07:03.280
+since it’s a low-velocity big creature midrange&nbsp;
+deck, so ideally your protection suite can help&nbsp;&nbsp;
+
+00:07:03.280 --> 00:07:08.640
+out with that as well. This might allude to the&nbsp;
+fundamental challenge with building Kaalia—deck&nbsp;&nbsp;
+
+00:07:08.640 --> 00:07:12.960
+space. Ideally the deck will want some single&nbsp;
+target protection to deal with early pinpoint&nbsp;&nbsp;
+
+00:07:12.960 --> 00:07:17.600
+removal, as well as some board protection and&nbsp;
+a healthy draw suite to let it manage wipes,&nbsp;&nbsp;
+
+00:07:17.600 --> 00:07:22.080
+plus a healthy count of lands and ramp to&nbsp;
+help the deck bounce back from all challenges.&nbsp;&nbsp;
+
+00:07:22.080 --> 00:07:27.200
+Going higher on the counts of all of these could&nbsp;
+let the deck feel more flexible and resilient,&nbsp;&nbsp;
+
+00:07:27.200 --> 00:07:32.240
+but also risks removing some of the bite of&nbsp;
+the deck. As the count of Angels, Demons,&nbsp;&nbsp;
+
+00:07:32.240 --> 00:07:36.800
+and Dragons dips lower to offer other things to&nbsp;
+the deck, the aggressive options to choose from&nbsp;&nbsp;
+
+00:07:36.800 --> 00:07:41.600
+for Kaalia triggers will also typically dip, and&nbsp;
+you’ll run out of creatures to cheat out earlier&nbsp;&nbsp;
+
+00:07:41.600 --> 00:07:46.960
+and more often. It’s no surprise, then, that a lot&nbsp;
+of Kaalia players take the opposite approach—lower&nbsp;&nbsp;
+
+00:07:46.960 --> 00:07:51.600
+land counts, lower protection counts, focusing&nbsp;
+on powerful beaters rather than card draw,&nbsp;&nbsp;
+
+00:07:51.600 --> 00:07:56.800
+even including amplifier permanents like Isshin&nbsp;
+and Windcrag Siege that can further pump up the&nbsp;&nbsp;
+
+00:07:56.800 --> 00:08:02.480
+explosiveness of the deck. Why play some neutered,&nbsp;
+halfway consistent Kaalia deck when you can live&nbsp;&nbsp;
+
+00:08:02.480 --> 00:08:07.600
+your most daring Mardu fantasies, to stray&nbsp;
+ever closer to the sun with your cool fliers.
+
+00:08:07.600 --> 00:08:11.760
+On the surface, Animar might seem quite a bit&nbsp;
+different from this. It’s typically more reliant&nbsp;&nbsp;
+
+00:08:11.760 --> 00:08:16.000
+on early draws to start presenting a threat at&nbsp;
+the table, but its relationship with opposing&nbsp;&nbsp;
+
+00:08:16.000 --> 00:08:21.040
+interaction is arguably less problematic. At worst&nbsp;
+you’ll empty your hand into a board wipe and lose&nbsp;&nbsp;
+
+00:08:21.040 --> 00:08:26.160
+a bunch of resources, but unlike with Kaalia the&nbsp;
+99 typically features a decent amount of draw&nbsp;&nbsp;
+
+00:08:26.160 --> 00:08:31.760
+and ramp, allowing for smoother recoveries. At&nbsp;
+best Animar can turn a deck into a high-velocity&nbsp;&nbsp;
+
+00:08:31.760 --> 00:08:36.880
+machine—even without an Ancestral Statue infinite&nbsp;
+combo, with the right draw engines, ramp engines,&nbsp;&nbsp;
+
+00:08:36.880 --> 00:08:41.440
+and maybe a haste enabler, you can empty a hefty&nbsp;
+portion of your deck onto the board in a single&nbsp;&nbsp;
+
+00:08:41.440 --> 00:08:46.480
+turn, possibly deleting an opponent in the process&nbsp;
+if you can swing or get some Terror of the Peaks&nbsp;&nbsp;
+
+00:08:46.480 --> 00:08:51.040
+triggers. The commander also has at least a bit&nbsp;
+of built in protection as well, unlike Kaalia,&nbsp;&nbsp;
+
+00:08:51.040 --> 00:08:56.320
+dodging about half of all popular pinpoint&nbsp;
+removal. So, there certainly are differences&nbsp;&nbsp;
+
+00:08:56.320 --> 00:09:00.960
+between these. Where these commanders are&nbsp;
+similar, though, is in their power profile,&nbsp;&nbsp;
+
+00:09:00.960 --> 00:09:05.840
+and in the difference between the floor and&nbsp;
+ceiling of their gameplan. Due to the fact&nbsp;&nbsp;
+
+00:09:05.840 --> 00:09:10.160
+that both of these commanders are enablers that&nbsp;
+discount large amounts of mana on creatures,&nbsp;&nbsp;
+
+00:09:10.160 --> 00:09:14.480
+in the most ideal games with the best draws&nbsp;
+and the least opposing interaction, they’re&nbsp;&nbsp;
+
+00:09:14.480 --> 00:09:20.080
+exploding out of control. Meanwhile, if draws are&nbsp;
+worse, particularly for Animar, or if there’s more&nbsp;&nbsp;
+
+00:09:20.080 --> 00:09:25.920
+interaction, particularly for Kaalia, the function&nbsp;
+of discounting creature spells isn’t as helpful.
+
+00:09:25.920 --> 00:09:31.040
+Quite a lot of commanders feature the phrase “draw&nbsp;
+a card” or some equivalent in their text box,&nbsp;&nbsp;
+
+00:09:31.040 --> 00:09:35.440
+and while you could argue that generic value is&nbsp;
+a little overplayed as a payoff for a commander&nbsp;&nbsp;
+
+00:09:35.440 --> 00:09:40.480
+to grant, this choice has had the undeniable&nbsp;
+boon of improving the resilience of a lot of&nbsp;&nbsp;
+
+00:09:40.480 --> 00:09:45.520
+playstyles. The commander of a deck is a card&nbsp;
+that’s available at all times, and assuming&nbsp;&nbsp;
+
+00:09:45.520 --> 00:09:50.800
+the draw condition isn’t too hard, having that&nbsp;
+permanent 8th card in hand be a draw spell reduces&nbsp;&nbsp;
+
+00:09:50.800 --> 00:09:55.440
+the risk of stallouts and improves recovery.&nbsp;
+If you need to hit land drops, drawing cards&nbsp;&nbsp;
+
+00:09:55.440 --> 00:10:00.240
+can find you lands. If you’re looking for specific&nbsp;
+synergy pieces, drawing cards can get you closer&nbsp;&nbsp;
+
+00:10:00.240 --> 00:10:05.280
+to those as well. If you just got board wiped, as&nbsp;
+long as you drew some cards before that happened,&nbsp;&nbsp;
+
+00:10:05.280 --> 00:10:10.240
+you hopefully have some options for rebuilding.&nbsp;
+A value engine commander typically won’t be the&nbsp;&nbsp;
+
+00:10:10.240 --> 00:10:15.600
+most threatening or aggressive choice, but it&nbsp;
+will usually be a safer and more consistent one,&nbsp;&nbsp;
+
+00:10:15.600 --> 00:10:20.320
+all things equal. Your command zone secures&nbsp;
+you exactly one single element of your deck,&nbsp;&nbsp;
+
+00:10:20.320 --> 00:10:24.480
+and though you can try to sculpt your 99&nbsp;
+to lead to a well-balanced experience,&nbsp;&nbsp;
+
+00:10:24.480 --> 00:10:28.560
+there will still only be one card in your&nbsp;
+deck that you’re absolutely guaranteed to&nbsp;&nbsp;
+
+00:10:28.560 --> 00:10:33.600
+see. This is why the most explosive decks&nbsp;
+out there typically feature an explosive&nbsp;&nbsp;
+
+00:10:33.600 --> 00:10:38.320
+commander focused on either damage or raw&nbsp;
+board size, and a pretty infamous example&nbsp;&nbsp;
+
+00:10:38.320 --> 00:10:43.360
+of this that I’d also apply the glass&nbsp;
+cannon label to is Jodah, the Unifier.
+
+00:10:43.360 --> 00:10:47.920
+Jodah is a five-color commander that gives&nbsp;
+your legendaries +X/+X where X is the number&nbsp;&nbsp;
+
+00:10:47.920 --> 00:10:52.160
+of legendary creatures you control, and who&nbsp;
+also gives your legendary spells you cast&nbsp;&nbsp;
+
+00:10:52.160 --> 00:10:57.360
+from hand legendary-cascade. Unlike the&nbsp;
+commanders from 2011 I discussed earlier,&nbsp;&nbsp;
+
+00:10:57.360 --> 00:11:02.320
+this card is closer to the payoff end of the&nbsp;
+enabler-payoff spectrum. However, it ends up&nbsp;&nbsp;
+
+00:11:02.320 --> 00:11:08.400
+fitting a similar profile to those other two due&nbsp;
+to how absurdly efficient it is at one specific&nbsp;&nbsp;
+
+00:11:08.400 --> 00:11:14.000
+task—getting power and toughness onto board.&nbsp;
+The two lines of text on the card can combine&nbsp;&nbsp;
+
+00:11:14.000 --> 00:11:19.600
+to create utterly monstrous boards of legendary&nbsp;
+creatures in one or two turns, and passing the&nbsp;&nbsp;
+
+00:11:19.600 --> 00:11:24.160
+turn to a player who has Jodah on the field feels&nbsp;
+like rolling the dice on whether or not you take&nbsp;&nbsp;
+
+00:11:24.160 --> 00:11:30.240
+lethal combat damage this turn. For this reason,&nbsp;
+Jodah tends to eat removal like few others, being&nbsp;&nbsp;
+
+00:11:30.240 --> 00:11:35.760
+more or less a kill-on-sight commander at most&nbsp;
+tables alongside other powerhouses like Winota or&nbsp;&nbsp;
+
+00:11:35.760 --> 00:11:41.120
+Tergrid. This might be fine if you’re prepared for&nbsp;
+it, and you could even do what my brother did and&nbsp;&nbsp;
+
+00:11:41.120 --> 00:11:45.280
+engineer your Jodah deck to have almost constant&nbsp;
+access to protective cards in place of a bit of&nbsp;&nbsp;
+
+00:11:45.280 --> 00:11:50.640
+explosiveness. But an unknowing player who throws&nbsp;
+together a Jodah deck and expects to be able to&nbsp;&nbsp;
+
+00:11:50.640 --> 00:11:56.000
+assemble an army of 9 12/12s in peace might have&nbsp;
+a rude awakening when they pull up to a table and&nbsp;&nbsp;
+
+00:11:56.000 --> 00:12:00.960
+have their commander reacted to appropriately.&nbsp;
+This points to the biggest critique I’d lodge at&nbsp;&nbsp;
+
+00:12:00.960 --> 00:12:06.160
+the glass-cannon-iest of commanders, the ones&nbsp;
+with the highest ratio of explosive power to&nbsp;&nbsp;
+
+00:12:06.160 --> 00:12:11.200
+resilience. They act like a sort of bait,&nbsp;
+attracting players who are understandably&nbsp;&nbsp;
+
+00:12:11.200 --> 00:12:15.600
+seeking out big, exciting plays and then putting&nbsp;
+these players in situations where their opponents&nbsp;&nbsp;
+
+00:12:15.600 --> 00:12:20.560
+have few choices but to bully their deck’s&nbsp;
+terrifying commander off the field repeatedly.
+
+00:12:20.560 --> 00:12:24.400
+All of this might feel like a hit piece&nbsp;
+on these sorts of glass cannon commanders,&nbsp;&nbsp;
+
+00:12:24.400 --> 00:12:28.960
+and maybe even all commanders that lean&nbsp;
+more explosive and/or fragile. However,&nbsp;&nbsp;
+
+00:12:28.960 --> 00:12:33.040
+I don’t want this video to be misread as saying&nbsp;
+that these decks shouldn’t be played or have no&nbsp;&nbsp;
+
+00:12:33.040 --> 00:12:38.240
+redeeming qualities. There is an allure to playing&nbsp;
+a deck that gets going fast, that does something&nbsp;&nbsp;
+
+00:12:38.240 --> 00:12:43.440
+opponents find scary, and that forces the table&nbsp;
+to wake up, even if it doesn’t recover well.&nbsp;&nbsp;
+
+00:12:43.440 --> 00:12:47.760
+Part of the appeal is that it puts a strong&nbsp;
+emphasis on the early and mid-game, almost&nbsp;&nbsp;
+
+00:12:47.760 --> 00:12:53.360
+serving as a test for how long a player can extend&nbsp;
+this period and how much explosive power they can&nbsp;&nbsp;
+
+00:12:53.360 --> 00:12:58.640
+pack into that. My most powerful deck doesn’t&nbsp;
+really have a lategame plan, and though this&nbsp;&nbsp;
+
+00:12:58.640 --> 00:13:03.360
+can mean being less relevant in a game that goes&nbsp;
+that far, it also means that mid game turns are&nbsp;&nbsp;
+
+00:13:03.360 --> 00:13:08.800
+far more exciting and rich in decisionmaking for&nbsp;
+me, which can be a lot of fun. As another example&nbsp;&nbsp;
+
+00:13:08.800 --> 00:13:13.680
+that’s even more emblematic of this philosophy,&nbsp;
+I played several games with a Breena deck at&nbsp;&nbsp;
+
+00:13:13.680 --> 00:13:18.880
+MagicCon Atlanta recently. In my games against&nbsp;
+a mixture of high bracket 3 and low bracket&nbsp;&nbsp;
+
+00:13:18.880 --> 00:13:24.000
+4 decks, I’d typically get off to a strong and&nbsp;
+attention-grabbing start, with several creatures&nbsp;&nbsp;
+
+00:13:24.000 --> 00:13:29.600
+loaded up with +1/+1 counters and swinging in big&nbsp;
+at opponents, but each game I’d inevitably get my&nbsp;&nbsp;
+
+00:13:29.600 --> 00:13:35.760
+board whittled down and see my gameplan start&nbsp;
+to stall out. I lost every game, but in every&nbsp;&nbsp;
+
+00:13:35.760 --> 00:13:40.480
+game it felt like I had a shot at winning, and&nbsp;
+each game also had an interesting narrative arc&nbsp;&nbsp;
+
+00:13:40.480 --> 00:13:46.480
+that I played a major role in. I was the villain,&nbsp;
+the biggest baddest deck around on turn 5, and I&nbsp;&nbsp;
+
+00:13:46.480 --> 00:13:51.360
+was usually able to smack away half the collective&nbsp;
+health of my opponents before my eventual decline.&nbsp;&nbsp;
+
+00:13:51.360 --> 00:13:55.840
+I didn’t win those games, but I sure played&nbsp;
+a lot of Magic the Gathering during them.
+
+00:13:55.840 --> 00:14:00.480
+Really, the takeaway here is not to not play&nbsp;
+glass cannon decks or glass cannon commanders,&nbsp;&nbsp;
+
+00:14:00.480 --> 00:14:05.280
+but rather to know when you’re playing these sorts&nbsp;
+of commanders and to make an active decision about&nbsp;&nbsp;
+
+00:14:05.280 --> 00:14:10.560
+whether that’s what you want to be doing. I would&nbsp;
+argue that Kaalia makes for a kinda bad precon&nbsp;&nbsp;
+
+00:14:10.560 --> 00:14:14.320
+commander for the same reason I wouldn’t hand&nbsp;
+a Jodah deck to a newer player—because I don’t&nbsp;&nbsp;
+
+00:14:14.320 --> 00:14:18.320
+think a glass cannon commander is going to produce&nbsp;
+consistently good play experiences for somebody&nbsp;&nbsp;
+
+00:14:18.320 --> 00:14:23.200
+just getting into the game. It can provide a&nbsp;
+tantalizing taste of explosive gameplay with big,&nbsp;&nbsp;
+
+00:14:23.200 --> 00:14:27.840
+cool-looking creatures, but it’s just as likely&nbsp;
+to produce frustration when the Kaalia player&nbsp;&nbsp;
+
+00:14:27.840 --> 00:14:32.800
+eats a bunch of interaction and stalls out for a&nbsp;
+while. This is not to say that a zanier or spicier&nbsp;&nbsp;
+
+00:14:32.800 --> 00:14:36.880
+commander is never the correct choice for a newer&nbsp;
+player, and I’m sure there are plenty of players&nbsp;&nbsp;
+
+00:14:36.880 --> 00:14:41.680
+who had a blast getting into EDH with a Kaalia&nbsp;
+deck, but I personally would shoot closer to the&nbsp;&nbsp;
+
+00:14:41.680 --> 00:14:47.920
+middle of the explosive-resilient spectrum and let&nbsp;
+players find their own way to the spiciest brews.
+
+00:14:47.920 --> 00:14:52.480
+This is also why I’m of the opinion that Pantlaza&nbsp;
+getting printed was the best thing to happen to&nbsp;&nbsp;
+
+00:14:52.480 --> 00:14:57.440
+Dinosaur decks in the past 5 years. This is the&nbsp;
+quintessential Timmy tribe and for years the&nbsp;&nbsp;
+
+00:14:57.440 --> 00:15:04.240
+primary commander for Naya dinos was Gishath, an&nbsp;
+explosive-but-fragile 8 mana enabler commander. On&nbsp;&nbsp;
+
+00:15:04.240 --> 00:15:08.640
+the one hand I’m sure this is a very exciting card&nbsp;
+to have in the command zone for a lot of players,&nbsp;&nbsp;
+
+00:15:08.640 --> 00:15:12.800
+but in practice I’ve seen it mostly serve to&nbsp;
+make the big creature decks it helms feel even&nbsp;&nbsp;
+
+00:15:12.800 --> 00:15:17.680
+swingier, and fall even flatter in the face of&nbsp;
+interaction. Seeing a Gishath player sitting&nbsp;&nbsp;
+
+00:15:17.680 --> 00:15:23.360
+there waiting for a 10th or 12th or 14th&nbsp;
+land drop is a pretty common occurrence,&nbsp;&nbsp;
+
+00:15:23.360 --> 00:15:27.200
+and one that I have to imagine isn’t a lot&nbsp;
+of fun for somebody newer to the commander&nbsp;&nbsp;
+
+00:15:27.200 --> 00:15:32.480
+format. Meanwhile, swapping Gishath out for&nbsp;
+Pantlaza, a 5 mana engine card that often&nbsp;&nbsp;
+
+00:15:32.480 --> 00:15:36.880
+finds value or ramp off its triggers,&nbsp;
+makes most decks feel much smoother,&nbsp;&nbsp;
+
+00:15:36.880 --> 00:15:41.200
+and also less punishing of suboptimal&nbsp;
+choices made in the deckbuilding process.&nbsp;&nbsp;
+
+00:15:41.200 --> 00:15:46.160
+Playing Gishath still remains a spicy option for&nbsp;
+any dino enjoyers looking to play with fire a bit,&nbsp;&nbsp;
+
+00:15:46.160 --> 00:15:51.440
+as it should be, but it’s good that it’s no longer&nbsp;
+the default choice for all Dinosaur players.
+
+00:15:51.440 --> 00:15:55.520
+One final thing it’s worth talking about is&nbsp;
+how to know when a commander falls into that&nbsp;&nbsp;
+
+00:15:55.520 --> 00:15:59.920
+sort of glass cannon classification.&nbsp;
+There isn’t an exact description,&nbsp;&nbsp;
+
+00:15:59.920 --> 00:16:06.400
+but these are a few attributes to keep an eye out&nbsp;
+for, in descending order of glass-cannon-y-ness.
+
+00:16:06.400 --> 00:16:11.680
+1. Decks with the commander struggle to hold&nbsp;
+onto gained resources through setbacks. Most&nbsp;&nbsp;
+
+00:16:11.680 --> 00:16:15.120
+decks that are having an explosive&nbsp;
+sequence of turns will gain mana,&nbsp;&nbsp;
+
+00:16:15.120 --> 00:16:19.600
+draw cards, set up permanents of various types,&nbsp;
+and use other zones to solidify their advantage&nbsp;&nbsp;
+
+00:16:19.600 --> 00:16:24.160
+into the longer game if they can’t figure out&nbsp;
+how to win on the spot. If you’re way ahead&nbsp;&nbsp;
+
+00:16:24.160 --> 00:16:28.400
+and either half of a Cleansing Nova causes&nbsp;
+you to lose basically all of that advantage,&nbsp;&nbsp;
+
+00:16:28.400 --> 00:16:32.800
+you’re playing a glass cannon deck, and your&nbsp;
+commander might be glass cannon commander.
+
+00:16:32.800 --> 00:16:37.360
+2. The commander plays an essential role in the&nbsp;
+deck, and has few to no replacements within the&nbsp;&nbsp;
+
+00:16:37.360 --> 00:16:41.760
+deck. If your commander fills an important task&nbsp;
+and you don’t have great ways of accomplishing&nbsp;&nbsp;
+
+00:16:41.760 --> 00:16:45.280
+that task with any other cards, you’re&nbsp;
+putting a lot of pressure on them to&nbsp;&nbsp;
+
+00:16:45.280 --> 00:16:51.200
+stay alive, and much of your deck’s power is&nbsp;
+concentrated into a single point of failure.
+
+00:16:51.200 --> 00:16:56.080
+3. The difference between the deck’s ceiling&nbsp;
+and floor is dramatic. Instead of floor and&nbsp;&nbsp;
+
+00:16:56.080 --> 00:17:00.240
+ceiling you could think about the deck’s 80th&nbsp;
+percentile game vs the deck’s 20th percentile&nbsp;&nbsp;
+
+00:17:00.240 --> 00:17:04.000
+game—if the 80th percentile game sees the&nbsp;
+deck exploding out of control and the 20th&nbsp;&nbsp;
+
+00:17:04.000 --> 00:17:08.880
+percentile game sees the deck floundering, you’re&nbsp;
+looking at an inconsistent deck if nothing else.
+
+00:17:08.880 --> 00:17:12.960
+If these describe a commander or deck you’re&nbsp;
+interested in, it doesn’t mean you shouldn’t&nbsp;&nbsp;
+
+00:17:12.960 --> 00:17:16.320
+play it. You should, however, think about&nbsp;
+whether these attributes are going to create&nbsp;&nbsp;
+
+00:17:16.320 --> 00:17:20.720
+a good experience for you, and if you do choose&nbsp;
+to build the deck these are some things to keep&nbsp;&nbsp;
+
+00:17:20.720 --> 00:17:25.920
+in the back of your mind as things to mitigate&nbsp;
+if you find stallouts unfun. Commander choice,&nbsp;&nbsp;
+
+00:17:25.920 --> 00:17:30.320
+as with most things in EDH, is a decision&nbsp;
+best made with intentionality—know&nbsp;&nbsp;
+
+00:17:30.320 --> 00:17:33.680
+what you’re getting into, and you’ll&nbsp;
+have more fun in the games to come.
+
+00:17:33.680 --> 00:17:38.720
+Thanks for watching, and thanks to Archidekt for&nbsp;
+supporting the channel. Archidekt’s nice UI and&nbsp;&nbsp;
+
+00:17:38.720 --> 00:17:43.520
+flexible category system make me happy to spend&nbsp;
+way too much time brewing random nonsense. A link&nbsp;&nbsp;
+
+00:17:43.520 --> 00:17:48.160
+to my decks is in the description. I also want to&nbsp;
+thank my supporters on Patreon and YouTube, some&nbsp;&nbsp;
+
+00:17:48.160 --> 00:17:53.120
+of whom are onscreen now. Both my Patrons and my&nbsp;
+YouTube members get bonus videos whenever I feel&nbsp;&nbsp;
+
+00:17:53.120 --> 00:17:57.840
+like making them, usually about one a month, and&nbsp;
+I’m also taking submissions for my fall supporter&nbsp;&nbsp;
+
+00:17:57.840 --> 00:18:03.114
+deck review. If any of that sounds interesting to&nbsp;
+you, a link to my Patreon is in the description.
+

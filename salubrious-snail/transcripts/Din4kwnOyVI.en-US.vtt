@@ -1,0 +1,872 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.440 --> 00:00:05.320
+Recently, I’ve been mostly indulging my casual EDH&nbsp;
+instincts in my videos, as I think there are lots&nbsp;&nbsp;
+
+00:00:05.320 --> 00:00:10.680
+of often-neglected things to look for in a deck&nbsp;
+aside from its ability to win. Unfortunately,&nbsp;&nbsp;
+
+00:00:10.680 --> 00:00:13.880
+those things are gonna have to go on the&nbsp;
+backburner for this video, because I’m&nbsp;&nbsp;
+
+00:00:13.880 --> 00:00:19.440
+going to be talking about how I built my sweatiest&nbsp;
+deck, a deck whose construction process focused on&nbsp;&nbsp;
+
+00:00:19.440 --> 00:00:25.480
+making it as powerful as possible on the budget&nbsp;
+I gave it. My hope is that this video can serve&nbsp;&nbsp;
+
+00:00:25.480 --> 00:00:29.680
+as a bit of a guide on how to build something&nbsp;
+powerful without breaking the bank, a useful&nbsp;&nbsp;
+
+00:00:29.680 --> 00:00:33.680
+thing to be able to do in a game where different&nbsp;
+players have different monetary resources to build&nbsp;&nbsp;
+
+00:00:33.680 --> 00:00:38.800
+decks with. With that said, my construction of&nbsp;
+this deck began in the place where a lot of decks&nbsp;&nbsp;
+
+00:00:38.800 --> 00:00:43.760
+start—figuring out an intriguing commander&nbsp;
+to look into. In this case, I opted for the&nbsp;&nbsp;
+
+00:00:43.760 --> 00:00:50.160
+partner commander pairing of Malcolm, Keen Eyed&nbsp;
+Navigator and Francisco, Fowl Marauder, a pair I&nbsp;&nbsp;
+
+00:00:50.160 --> 00:00:55.320
+picked out because I enjoy Dimir and I also enjoy&nbsp;
+pirates. Malcolm is going to be doing the heaviest&nbsp;&nbsp;
+
+00:00:55.320 --> 00:01:00.320
+lifting of these two, generating treasures&nbsp;
+whenever I hit opponents, but Francisco is no&nbsp;&nbsp;
+
+00:01:00.320 --> 00:01:05.280
+slouch either—offering great filtering and rapidly&nbsp;
+building up in power and toughness for purposes of&nbsp;&nbsp;
+
+00:01:05.280 --> 00:01:10.320
+smacking my opponents. And ultimately, the sheer&nbsp;
+versatility that this pairing offers is what makes&nbsp;&nbsp;
+
+00:01:10.320 --> 00:01:16.640
+them so potent. My mindset going into building the&nbsp;
+deck was this: if I make Francisco and Malcolm my&nbsp;&nbsp;
+
+00:01:16.640 --> 00:01:22.400
+default turn 2 and 3 plays and then land a 1 drop&nbsp;
+pirate as often as possible, this will leave me&nbsp;&nbsp;
+
+00:01:22.400 --> 00:01:28.560
+with a powerful filtering and treasure generating&nbsp;
+engine fully online by turn 3. So that’s the&nbsp;&nbsp;
+
+00:01:28.560 --> 00:01:34.520
+resource-generating core of my deck—Francisco,&nbsp;
+Malcolm, and ten one-cost pirates. Some of these&nbsp;&nbsp;
+
+00:01:34.520 --> 00:01:39.640
+are a bit janky, but they perform the function of&nbsp;
+being a 1-mana pirate, which is all I care about.
+
+00:01:39.640 --> 00:01:43.280
+Once I had my commanders and the first ten&nbsp;
+cards of the deck out of the way, I began to do&nbsp;&nbsp;
+
+00:01:43.280 --> 00:01:47.880
+research. I was looking to build a new high-power&nbsp;
+deck and I knew that my starting point was pretty&nbsp;&nbsp;
+
+00:01:47.880 --> 00:01:52.800
+strong, so I began looking around for good ways to&nbsp;
+end the game, figuring that I’d need something a&nbsp;&nbsp;
+
+00:01:52.800 --> 00:01:57.440
+bit more focused that just hitting people with&nbsp;
+whatever pirates I have laying around. Front&nbsp;&nbsp;
+
+00:01:57.440 --> 00:02:02.680
+and center on the EDHRec page for Francisco and&nbsp;
+Malcolm were Thassa’s Oracle based combos, one of&nbsp;&nbsp;
+
+00:02:02.680 --> 00:02:07.960
+the strongest combos in EDH, but this combo would&nbsp;
+have eaten a lot of my budget and I frankly just&nbsp;&nbsp;
+
+00:02:07.960 --> 00:02:12.800
+find it pretty bland. I looked around a bit more&nbsp;
+before being reminded of a card I’d had in the&nbsp;&nbsp;
+
+00:02:12.800 --> 00:02:19.560
+back of my mind for several years—Time Sieve—and&nbsp;
+that card seemed decidedly more my speed. See,&nbsp;&nbsp;
+
+00:02:19.560 --> 00:02:24.480
+Malcolm hopefully creates 3 treasures per turn,&nbsp;
+and Time Sieve spends 5 artifacts to grant an&nbsp;&nbsp;
+
+00:02:24.480 --> 00:02:30.240
+extra turn. Something you may notice is that&nbsp;
+these two numbers, 3 and 5, aren’t very far&nbsp;&nbsp;
+
+00:02:30.240 --> 00:02:35.520
+apart—with two additional artifacts per turn, we&nbsp;
+can just keep on taking turns indefinitely. With&nbsp;&nbsp;
+
+00:02:35.520 --> 00:02:40.520
+this revelation, I went looking for things to help&nbsp;
+me bridge this gap. A card that immediately jumped&nbsp;&nbsp;
+
+00:02:40.520 --> 00:02:46.080
+to mind was Academy Manufactor, and this ended&nbsp;
+up being accompanied by Storm Fleet Negotiator,&nbsp;&nbsp;
+
+00:02:46.080 --> 00:02:51.440
+an evasive pirate that typically produces 2-3 map&nbsp;
+tokens per attack. The third dedicated option I&nbsp;&nbsp;
+
+00:02:51.440 --> 00:02:56.760
+have for this is Worldwalker Helm, a card printed&nbsp;
+in The Big Score that operates very similarly to&nbsp;&nbsp;
+
+00:02:56.760 --> 00:03:02.600
+Manufactor, and this ended up replacing Ruthless&nbsp;
+Knave as my third supporting piece. There are also&nbsp;&nbsp;
+
+00:03:02.600 --> 00:03:06.760
+a few other cards that produce one artifact&nbsp;
+per turn as well as some cards that are or&nbsp;&nbsp;
+
+00:03:06.760 --> 00:03:12.400
+that produce a single artifact, and I call these&nbsp;
+play extenders—cards that serve to buy the deck&nbsp;&nbsp;
+
+00:03:12.400 --> 00:03:17.320
+time when it’s beginning to take extra turns but&nbsp;
+doesn’t yet have a way to guarantee these turns&nbsp;&nbsp;
+
+00:03:17.320 --> 00:03:22.440
+being indefinite. After adding all these cards to&nbsp;
+boost Time Sieve up to being a full combo plan,&nbsp;&nbsp;
+
+00:03:22.440 --> 00:03:27.520
+I decided to add some tutors to find my combo. The&nbsp;
+fact that Worldwalker Helm and Academy Manufactor&nbsp;&nbsp;
+
+00:03:27.520 --> 00:03:32.920
+are artifacts is great, as it means that artifact&nbsp;
+tutors can find everything we need to win. So&nbsp;&nbsp;
+
+00:03:32.920 --> 00:03:38.520
+naturally, we start here with Fabricate, Reshape,&nbsp;
+and Whir of Invention, all artifact tutors that&nbsp;&nbsp;
+
+00:03:38.520 --> 00:03:43.120
+effectively cost 3 or less mana for purposes&nbsp;
+of finding Time Sieve. These are accompanied&nbsp;&nbsp;
+
+00:03:43.120 --> 00:03:48.040
+by Lim-Dul’s Vault and Ringsight, both somewhat&nbsp;
+more generic tutors that can find a wide range of&nbsp;&nbsp;
+
+00:03:48.040 --> 00:03:52.280
+cards, though Vault can require a hefty shave&nbsp;
+off my life total if I’m going for a specific&nbsp;&nbsp;
+
+00:03:52.280 --> 00:03:57.480
+card such as Time Sieve. These five tutors are&nbsp;
+supplemented with three transmute cards, which are&nbsp;&nbsp;
+
+00:03:57.480 --> 00:04:02.040
+great for their flexibility as they can either be&nbsp;
+cast normally as control spells or be transmuted&nbsp;&nbsp;
+
+00:04:02.040 --> 00:04:07.560
+to tutor for a card of their mana cost, with 2&nbsp;
+and 3 being the key mana values in this deck.
+
+00:04:07.560 --> 00:04:12.720
+So with that, I had the deck’s engine, and I had&nbsp;
+the deck’s wincon. But what ended up rounding out&nbsp;&nbsp;
+
+00:04:12.720 --> 00:04:18.000
+the other 44 nonland cards in the deck? To get to&nbsp;
+that, I need to talk about perhaps the strangest&nbsp;&nbsp;
+
+00:04:18.000 --> 00:04:23.920
+thing about this deck—its extreme consistency. I&nbsp;
+can basically present what this deck is trying to&nbsp;&nbsp;
+
+00:04:23.920 --> 00:04:30.520
+do as a five-turn map. Turns 1-3 in a conventional&nbsp;
+game consist of a one cost pirate turn 1,&nbsp;&nbsp;
+
+00:04:30.520 --> 00:04:36.000
+Francisco turn 2, and Malcolm turn 3. Turn&nbsp;
+4 is the setup turn, where I play any other&nbsp;&nbsp;
+
+00:04:36.000 --> 00:04:41.480
+cards that might assist in my combo. Turn 5 is&nbsp;
+the combo turn—this is usually the turn where&nbsp;&nbsp;
+
+00:04:41.480 --> 00:04:46.560
+I’ll tutor for Time Sieve if needed, play it,&nbsp;
+and then hopefully begin a series of however&nbsp;&nbsp;
+
+00:04:46.560 --> 00:04:52.640
+many turns are needed to beat down my opponents.&nbsp;
+Sometimes turns 1-3 go a bit differently, usually&nbsp;&nbsp;
+
+00:04:52.640 --> 00:04:57.440
+if I don’t have access to a one drop or if I have&nbsp;
+something different I want to play turn 2 or 3,&nbsp;&nbsp;
+
+00:04:57.440 --> 00:05:03.400
+but needing to play Francisco or Malcolm turn 4 is&nbsp;
+decidedly not the end of the world—the fact that I&nbsp;&nbsp;
+
+00:05:03.400 --> 00:05:09.440
+have that turn where nothing needs to be played&nbsp;
+gives me a bit of wiggle room in my curve out.&nbsp;&nbsp;
+
+00:05:09.440 --> 00:05:14.240
+The deck also varies a little in when it goes&nbsp;
+off—I’ll sometimes delay the combo to turn 6,&nbsp;&nbsp;
+
+00:05:14.240 --> 00:05:17.800
+especially if I needed to spend my treasures&nbsp;
+interacting with my opponents in some way on an&nbsp;&nbsp;
+
+00:05:17.800 --> 00:05:23.040
+earlier turn. Likewise, the deck is able to combo&nbsp;
+off on turn 4 about 10% of the time when things&nbsp;&nbsp;
+
+00:05:23.040 --> 00:05:28.200
+line up just right, though this also usually means&nbsp;
+going for the win without counterspell backup,&nbsp;&nbsp;
+
+00:05:28.200 --> 00:05:32.040
+so I’ll only do this if my opponents are&nbsp;
+tapped out or if I expect one of them to&nbsp;&nbsp;
+
+00:05:32.040 --> 00:05:37.200
+do something big on their next turn. The speed&nbsp;
+of this deck is limited by the fact that Malcolm&nbsp;&nbsp;
+
+00:05:37.200 --> 00:05:41.440
+generates at most three treasures per turn,&nbsp;
+meaning that it generally takes multiple&nbsp;&nbsp;
+
+00:05:41.440 --> 00:05:46.280
+turns with Malcolm on board to generate&nbsp;
+the treasure surpluses needed to go off.
+
+00:05:46.280 --> 00:05:49.880
+To talk about what I chose for the rest of&nbsp;
+the cards in the deck, I need to go back to&nbsp;&nbsp;
+
+00:05:49.880 --> 00:05:55.400
+that critical setup turn—turn 4. This turn is&nbsp;
+where I develop all manner of things that might&nbsp;&nbsp;
+
+00:05:55.400 --> 00:06:00.880
+be useful for purposes of comboing off. The first&nbsp;
+of these is draw—Francisco’s filtering is lovely,&nbsp;&nbsp;
+
+00:06:00.880 --> 00:06:05.280
+but I’ve found that if I don’t already have what&nbsp;
+I need to combo in hand, I’m generally using that&nbsp;&nbsp;
+
+00:06:05.280 --> 00:06:10.320
+filtering to aggressively dig for tutors and&nbsp;
+combo pieces, passing up potentially useful&nbsp;&nbsp;
+
+00:06:10.320 --> 00:06:15.320
+cards. For that reason, having a bit of draw&nbsp;
+in addition is good, and there’s one particular&nbsp;&nbsp;
+
+00:06:15.320 --> 00:06:20.280
+type of draw that stands out above all others&nbsp;
+in this deck—cards that let me draw when I hit&nbsp;&nbsp;
+
+00:06:20.280 --> 00:06:25.920
+people. This deck runs all four Bident of Thassa&nbsp;
+effects that exist, and this is for good reason.&nbsp;&nbsp;
+
+00:06:25.920 --> 00:06:30.680
+Landing one of these on turn 4 is great—that&nbsp;
+extra stream of cards almost always smooths out&nbsp;&nbsp;
+
+00:06:30.680 --> 00:06:35.360
+any issues I might have in comboing off, and these&nbsp;
+effects can even generate enough value to let me&nbsp;&nbsp;
+
+00:06:35.360 --> 00:06:40.640
+keep up as a midrange deck in the event my Time&nbsp;
+Sieve bites the dust. Other draw effects include&nbsp;&nbsp;
+
+00:06:40.640 --> 00:06:45.760
+Combat Research, Curious Inquiry, and Curious&nbsp;
+Obsession—the draw post combat-damage is nice,&nbsp;&nbsp;
+
+00:06:45.760 --> 00:06:51.480
+and +1/+1 is also nice for I’m going into a&nbsp;
+turn 3 with a 0/1 Francisco and want to play&nbsp;&nbsp;
+
+00:06:51.480 --> 00:06:55.800
+that plus a two-drop rather than Malcolm. The&nbsp;
+rest of my draw suite has been rotating around&nbsp;&nbsp;
+
+00:06:55.800 --> 00:06:59.920
+a bit between different options—currently I’m&nbsp;
+running Treasure Cruise and Dig Through Time,&nbsp;&nbsp;
+
+00:06:59.920 --> 00:07:04.520
+delve cards that can utilize the unnecessary&nbsp;
+stuff that Francisco has dumped into my graveyard.
+
+00:07:04.520 --> 00:07:08.560
+Another type of card I tend to develop on&nbsp;
+my setup turn is mana rocks—since all of&nbsp;&nbsp;
+
+00:07:08.560 --> 00:07:12.960
+these tap for mana immediately the two mana&nbsp;
+ones effectively cost a single colorless,&nbsp;&nbsp;
+
+00:07:12.960 --> 00:07:18.080
+and weaving them into a turn 4 can offer a nice&nbsp;
+burst of mana for my early combo turns and also&nbsp;&nbsp;
+
+00:07:18.080 --> 00:07:22.840
+an artifact to be sacrificed to Time Sieve if&nbsp;
+needed. The last main type of card I find myself&nbsp;&nbsp;
+
+00:07:22.840 --> 00:07:27.840
+playing on my setup turn is additional pirates.&nbsp;
+Theoretically a one-drop pirate, a Francisco,&nbsp;&nbsp;
+
+00:07:27.840 --> 00:07:32.720
+and a Malcolm maxes out my commander triggers per&nbsp;
+turn, but realistically creatures die sometimes,&nbsp;&nbsp;
+
+00:07:32.720 --> 00:07:36.560
+and there are also games where I have one-drop on&nbsp;
+the ground and need a flier for an opponent with&nbsp;&nbsp;
+
+00:07:36.560 --> 00:07:43.040
+blockers, or alternatively an unblockable creature&nbsp;
+to get past fliers. Some of my pirates have that&nbsp;&nbsp;
+
+00:07:43.040 --> 00:07:48.160
+extra little bit of evasion, and others have other&nbsp;
+upsides such as having some sweet removal stapled&nbsp;&nbsp;
+
+00:07:48.160 --> 00:07:53.840
+to them or offering a bit of extra filtering. A&nbsp;
+final supportive pirate is Oaken Siren, a bulk&nbsp;&nbsp;
+
+00:07:53.840 --> 00:07:59.080
+common that feels like it was designed just for&nbsp;
+this deck—it flies, it can tap post-combat to cast&nbsp;&nbsp;
+
+00:07:59.080 --> 00:08:04.960
+my combo pieces, and it itself is an artifact that&nbsp;
+can be sacrificed to Time Sieve. Beautiful card,&nbsp;&nbsp;
+
+00:08:04.960 --> 00:08:09.800
+love it. Since this deck is still a pirates deck&nbsp;
+in addition to being a combo deck, I also ended&nbsp;&nbsp;
+
+00:08:09.800 --> 00:08:15.760
+up adding an alternative wincon—Haunted One. This&nbsp;
+card pumps my team’s power by 4 if both commanders&nbsp;&nbsp;
+
+00:08:15.760 --> 00:08:21.080
+swing, which can turn a handful of evasive&nbsp;
+pirates into a veritable player-killing machine.
+
+00:08:21.080 --> 00:08:24.320
+At this point, I need to get to arguably&nbsp;
+the thing that gives the deck most of its&nbsp;&nbsp;
+
+00:08:24.320 --> 00:08:29.920
+power—the interaction suite. My deck is running&nbsp;
+13 counterspells, a number that may strike a lot&nbsp;&nbsp;
+
+00:08:29.920 --> 00:08:35.880
+of casual EDH players as mildly obscene, but this&nbsp;
+number works out well for a couple reasons. First&nbsp;&nbsp;
+
+00:08:35.880 --> 00:08:41.280
+of all, the deck’s core is very compact, being&nbsp;
+comprised of the command zone and 19 cards from&nbsp;&nbsp;
+
+00:08:41.280 --> 00:08:46.400
+the deck. Even having added in a bunch of utility&nbsp;
+stuff to help smooth things out, there’s still a&nbsp;&nbsp;
+
+00:08:46.400 --> 00:08:50.840
+lot of space to work with, and counterspells are a&nbsp;
+great way to fill that space because they can both&nbsp;&nbsp;
+
+00:08:50.840 --> 00:08:55.760
+protect what I’m doing and hinder what opponents&nbsp;
+are doing. The other reason counterspells work so&nbsp;&nbsp;
+
+00:08:55.760 --> 00:09:00.480
+well is because of treasures. I’ve talked before&nbsp;
+about the issue of counterspells effectively&nbsp;&nbsp;
+
+00:09:00.480 --> 00:09:04.800
+wasting mana if they aren’t used, and a great&nbsp;
+thing about treasures is that they’re never&nbsp;&nbsp;
+
+00:09:04.800 --> 00:09:09.600
+wasted mana due to their one-time-use nature. The&nbsp;
+fact that they serve this dual purpose of being&nbsp;&nbsp;
+
+00:09:09.600 --> 00:09:14.840
+both stored mana and also artifact tokens for Time&nbsp;
+Sieve is quite good—I can tap out every turn and&nbsp;&nbsp;
+
+00:09:14.840 --> 00:09:19.280
+still have mana available for counterspells if&nbsp;
+they’re needed. Now, spending treasures to play&nbsp;&nbsp;
+
+00:09:19.280 --> 00:09:24.400
+counterspells is still consuming a resource, so a&nbsp;
+lot of times I do leave up a land or two to reduce&nbsp;&nbsp;
+
+00:09:24.400 --> 00:09:28.500
+the number of treasures I need to sacrifice, but&nbsp;
+even when I do need to spend treasures it’s still&nbsp;&nbsp;
+
+00:09:28.500 --> 00:09:32.840
+usually fine. The deck can often sacrifice a&nbsp;
+couple treasures and still combo off on time,&nbsp;&nbsp;
+
+00:09:32.840 --> 00:09:36.680
+and even when it does need to spend enough&nbsp;
+treasures to delay its combo by a turn, that’s&nbsp;&nbsp;
+
+00:09:36.680 --> 00:09:41.160
+still not too bad for me as it forces my opponents&nbsp;
+to spend mana and lets me avoid needing to cough&nbsp;&nbsp;
+
+00:09:41.160 --> 00:09:46.440
+up the mana to recast Malcolm. I’m also running&nbsp;
+some number of removal spells, though this count&nbsp;&nbsp;
+
+00:09:46.440 --> 00:09:50.160
+can afford to be lower since I have counterspells&nbsp;
+to counter spooky things before they hit the&nbsp;&nbsp;
+
+00:09:50.160 --> 00:09:55.920
+board, and the deck also aims to win before most&nbsp;
+decks get around to playing a lot of big bombs.
+
+00:09:55.920 --> 00:10:00.200
+Lastly, I’ll just talk briefly about the&nbsp;
+manabase. This deck’s manabase follows a&nbsp;&nbsp;
+
+00:10:00.200 --> 00:10:06.520
+simple principle—I want untapped, colored mana&nbsp;
+as often as possible. Following from this goal,&nbsp;&nbsp;
+
+00:10:06.520 --> 00:10:11.360
+every single land in the deck can theoretically&nbsp;
+play a pirate turn 1, and though this means&nbsp;&nbsp;
+
+00:10:11.360 --> 00:10:16.080
+running some spicy lands such as Gemstone&nbsp;
+Mine that can see diminishing returns later,&nbsp;&nbsp;
+
+00:10:16.080 --> 00:10:21.240
+these are worth it for purposes of guaranteeing&nbsp;
+that I’m able to set up my engine properly. This&nbsp;&nbsp;
+
+00:10:21.240 --> 00:10:27.000
+desire for untapped colored mana also motivates&nbsp;
+the deck’s land count, currently sitting at 35.&nbsp;&nbsp;
+
+00:10:27.000 --> 00:10:32.720
+My curve is extremely low and Francisco actively&nbsp;
+encourages me to run fewer lands—I want him to&nbsp;&nbsp;
+
+00:10:32.720 --> 00:10:36.840
+hit a nonland card on his first explore trigger so&nbsp;
+that he can attack the following turn, and he also&nbsp;&nbsp;
+
+00:10:36.840 --> 00:10:41.960
+offers a way to dig for additional land plays&nbsp;
+in games where I keep a two land hand. And if&nbsp;&nbsp;
+
+00:10:41.960 --> 00:10:46.400
+I had access to expensive dual lands that could&nbsp;
+guarantee having the colors I need, I probably&nbsp;&nbsp;
+
+00:10:46.400 --> 00:10:51.640
+would cut at least two lands. But since I don’t&nbsp;
+have access to these, I’ve opted to stick with&nbsp;&nbsp;
+
+00:10:51.640 --> 00:10:56.800
+the current land count, though I may experiment&nbsp;
+with cutting down to 34 lands at some point.
+
+00:10:56.800 --> 00:11:01.360
+Alright, so I’ve been hyping this deck up a lot,&nbsp;
+and it is quite good. However, there are some&nbsp;&nbsp;
+
+00:11:01.360 --> 00:11:05.680
+notable weaknesses with the deck, and I think it’s&nbsp;
+useful to talk about these and think about how to&nbsp;&nbsp;
+
+00:11:05.680 --> 00:11:10.560
+solve them. The first is that it usually won’t&nbsp;
+have mana to deal with removal before the end of&nbsp;&nbsp;
+
+00:11:10.560 --> 00:11:16.600
+combat on turn 3. Malcolm generates treasures when&nbsp;
+pirates connect with opponents, but if an opponent&nbsp;&nbsp;
+
+00:11:16.600 --> 00:11:21.320
+has an instant speed kill spell for Malcolm before&nbsp;
+I get treasures, the deck has no response unless&nbsp;&nbsp;
+
+00:11:21.320 --> 00:11:26.120
+it has a Foil or a Misdirection in hand, and it&nbsp;
+will likely need to delay its combo attempt by one&nbsp;&nbsp;
+
+00:11:26.120 --> 00:11:32.080
+or more turns. This issue I’m currently choosing&nbsp;
+to take the L on, as it has only come up a couple&nbsp;&nbsp;
+
+00:11:32.080 --> 00:11:37.440
+times and the free counterspells I’m not currently&nbsp;
+running aren’t all that appealing to me. Another&nbsp;&nbsp;
+
+00:11:37.440 --> 00:11:42.000
+weakness that I alluded to earlier is that this&nbsp;
+deck’s engine relies on dealing combat damage to&nbsp;&nbsp;
+
+00:11:42.000 --> 00:11:47.360
+opponents, so if there are one or more opponents&nbsp;
+that it’s unable to attack, it won’t perform at&nbsp;&nbsp;
+
+00:11:47.360 --> 00:11:52.960
+full efficiency. This issue is decidedly more&nbsp;
+manageable—the deck’s commanders already have&nbsp;&nbsp;
+
+00:11:52.960 --> 00:11:59.240
+flying, and most of the pirates in the deck have&nbsp;
+either flying or a more robust form of evasion.&nbsp;&nbsp;
+
+00:11:59.240 --> 00:12:03.800
+The deck can also usually afford to only hit two&nbsp;
+opponents for a turn or two, and Francisco gets&nbsp;&nbsp;
+
+00:12:03.800 --> 00:12:09.320
+big pretty fast, so a lot of times the best bet is&nbsp;
+to send him at the opponent with fliers and force&nbsp;&nbsp;
+
+00:12:09.320 --> 00:12:14.280
+chump blocks in order to open up that opponent&nbsp;
+for further attacks. I’ve also considered cards&nbsp;&nbsp;
+
+00:12:14.280 --> 00:12:19.200
+such as Thieves’ Tools to help with this, though&nbsp;
+I haven’t felt the need to add that just yet.
+
+00:12:19.200 --> 00:12:23.520
+The third weakness of the deck is the most&nbsp;
+problematic and also the most complicated,&nbsp;&nbsp;
+
+00:12:23.520 --> 00:12:27.880
+and that’s that the deck has a difficult&nbsp;
+time recovering from major setbacks. The&nbsp;&nbsp;
+
+00:12:27.880 --> 00:12:31.520
+main reason for this is that the deck’s&nbsp;
+card quality just isn’t that high,&nbsp;&nbsp;
+
+00:12:31.520 --> 00:12:35.080
+and in my opinion this is the biggest&nbsp;
+factor that holds this deck back from&nbsp;&nbsp;
+
+00:12:35.080 --> 00:12:40.440
+competing with competitive EDH decks. cEDH&nbsp;
+decks typically have very high card quality,&nbsp;&nbsp;
+
+00:12:40.440 --> 00:12:45.720
+with most nonland cards being extremely&nbsp;
+efficient and/or flexible. Even in Yuriko,&nbsp;&nbsp;
+
+00:12:45.720 --> 00:12:49.800
+the cEDH deck that’s most similar to this&nbsp;
+one, there are powerful supporting cards&nbsp;&nbsp;
+
+00:12:49.800 --> 00:12:55.000
+with impactful effects that require no setup&nbsp;
+and no other cards to utilize. By contrast,&nbsp;&nbsp;
+
+00:12:55.000 --> 00:12:59.720
+this deck has a lean mana curve and much of its&nbsp;
+space is dominated by cards that don’t do much&nbsp;&nbsp;
+
+00:12:59.720 --> 00:13:04.840
+without its commanders in play. Even the bigger&nbsp;
+draw spells require creatures in play to be good,&nbsp;&nbsp;
+
+00:13:04.840 --> 00:13:08.800
+and though the deck has plenty of counterspells&nbsp;
+to keep away board wipes during the most pivotal&nbsp;&nbsp;
+
+00:13:08.800 --> 00:13:13.040
+turns, I’ve had games where things stalled out&nbsp;
+and the deck’s board eventually got worn down&nbsp;&nbsp;
+
+00:13:13.040 --> 00:13:17.400
+through attrition. This is the weakness that&nbsp;
+I’ve been trying hardest to solve, and I’ve had&nbsp;&nbsp;
+
+00:13:17.400 --> 00:13:22.680
+a few ideas. A funky card I’m trying out at the&nbsp;
+moment is Echo Storm, which functions as a play&nbsp;&nbsp;
+
+00:13:22.680 --> 00:13:27.600
+extender if I’m trying to combo, and it also can&nbsp;
+be a big burst of value off a single card if I’m&nbsp;&nbsp;
+
+00:13:27.600 --> 00:13:32.840
+trying to recover from a point of my commanders&nbsp;
+getting killed multiple times. I may also opt to&nbsp;&nbsp;
+
+00:13:32.840 --> 00:13:37.520
+trade out a couple removal spells for additional&nbsp;
+draw, which would help in general with stall-outs&nbsp;&nbsp;
+
+00:13:37.520 --> 00:13:42.440
+and hopefully prevent me from fully losing my&nbsp;
+board. Solving a budget-related problem without&nbsp;&nbsp;
+
+00:13:42.440 --> 00:13:47.000
+increasing the budget of the deck is difficult,&nbsp;
+but it’s a fun challenge to grapple with.
+
+00:13:47.000 --> 00:13:51.320
+Even with its weaknesses, this deck does a good&nbsp;
+job demonstrating what high-power commander on&nbsp;&nbsp;
+
+00:13:51.320 --> 00:13:56.400
+a budget can look like, or to some extent,&nbsp;
+what it needs to look like. You can build a&nbsp;&nbsp;
+
+00:13:56.400 --> 00:14:00.800
+lot of different decks up to a relatively high&nbsp;
+power level, but as you creep into the higher&nbsp;&nbsp;
+
+00:14:00.800 --> 00:14:06.200
+end of high-power-casual and begin to approach&nbsp;
+the wild world of cEDH, decks need to be very&nbsp;&nbsp;
+
+00:14:06.200 --> 00:14:11.120
+streamlined in both what they do and how well&nbsp;
+they can stop other people from doing things,&nbsp;&nbsp;
+
+00:14:11.120 --> 00:14:15.880
+and this becomes doubly true when you add in&nbsp;
+a budget element that restricts card quality.&nbsp;&nbsp;
+
+00:14:15.880 --> 00:14:19.840
+Ultimately, building a deck of this caliber&nbsp;
+on a limited budget relies on having two&nbsp;&nbsp;
+
+00:14:19.840 --> 00:14:25.400
+interconnected attributes—an efficient gameplan,&nbsp;
+typically helped out by a powerful command zone,&nbsp;&nbsp;
+
+00:14:25.400 --> 00:14:30.600
+and also a high interaction density. I like to&nbsp;
+say that the best way to build a strong deck is&nbsp;&nbsp;
+
+00:14:30.600 --> 00:14:35.200
+to take a fundamentally broken magic card and&nbsp;
+put it into your command zone, and while this&nbsp;&nbsp;
+
+00:14:35.200 --> 00:14:39.680
+statement isn’t untrue, a more helpful phrasing&nbsp;
+might be that it’s helpful to have your command&nbsp;&nbsp;
+
+00:14:39.680 --> 00:14:45.120
+zone contribute to both resource generation&nbsp;
+and to defeating your opponents. In this case,&nbsp;&nbsp;
+
+00:14:45.120 --> 00:14:50.400
+my command zone is part of an infinite turns&nbsp;
+combo, and it also offers some ramp and filtering.&nbsp;&nbsp;
+
+00:14:50.400 --> 00:14:55.600
+We can see this pattern echoed in other powerful&nbsp;
+budget commanders such as Niv Mizzet, Yuriko, and&nbsp;&nbsp;
+
+00:14:55.600 --> 00:15:00.640
+Ellivere of the Wild Court. The fact that these&nbsp;
+sorts of commanders support a deck’s gameplan so&nbsp;&nbsp;
+
+00:15:00.640 --> 00:15:06.120
+holistically is important, because it allows that&nbsp;
+plan to be relatively compact for how powerful it&nbsp;&nbsp;
+
+00:15:06.120 --> 00:15:11.320
+is, not occupying too much deck space. When&nbsp;
+you’re evaluating powerful commander decks,&nbsp;&nbsp;
+
+00:15:11.320 --> 00:15:15.400
+what the deck is doing proactively to win and&nbsp;
+what the deck is doing reactively to deal with&nbsp;&nbsp;
+
+00:15:15.400 --> 00:15:21.640
+opposing plays often exist in a state of tension&nbsp;
+due to deck space being limited. So naturally,&nbsp;&nbsp;
+
+00:15:21.640 --> 00:15:25.960
+if you’re able to improve the efficiency of the&nbsp;
+deck’s proactive gameplan and let it keep up the&nbsp;&nbsp;
+
+00:15:25.960 --> 00:15:30.840
+same power level with fewer slots, this will&nbsp;
+give the deck more space to be faster, more&nbsp;&nbsp;
+
+00:15:30.840 --> 00:15:36.240
+interactive, or a little of both. That interaction&nbsp;
+density is the other part of what makes powerful&nbsp;&nbsp;
+
+00:15:36.240 --> 00:15:40.960
+commander decks so powerful—I know a lot of&nbsp;
+casual EDH players who dislike counterspells,&nbsp;&nbsp;
+
+00:15:40.960 --> 00:15:45.080
+but the fact that counterspells can both hinder&nbsp;
+opponents and protect your own gameplan from hate&nbsp;&nbsp;
+
+00:15:45.080 --> 00:15:49.840
+is very useful, and the usefulness of both&nbsp;
+them and removal actually scales with deck&nbsp;&nbsp;
+
+00:15:49.840 --> 00:15:54.240
+speed. One of the reasons people don’t run very&nbsp;
+much interaction in casual commander is because&nbsp;&nbsp;
+
+00:15:54.240 --> 00:15:59.080
+the format is full of durdly midrange decks that&nbsp;
+are going to be playing out a long stream of nasty&nbsp;&nbsp;
+
+00:15:59.080 --> 00:16:03.280
+high-cost spells in the late game, and dealing&nbsp;
+with one player’s cards often just allows a&nbsp;&nbsp;
+
+00:16:03.280 --> 00:16:07.920
+different player to play their stuff unimpeded.&nbsp;
+But when your opponents only have a handful of&nbsp;&nbsp;
+
+00:16:07.920 --> 00:16:12.120
+turns to develop their concerning things before&nbsp;
+you’re threatening a win, the number of things&nbsp;&nbsp;
+
+00:16:12.120 --> 00:16:17.080
+that actually require dealing with will often&nbsp;
+be smaller and easier to dismantle. Countering&nbsp;&nbsp;
+
+00:16:17.080 --> 00:16:21.440
+one of a player’s three bombs isn’t all that&nbsp;
+great, but countering a single combo piece or&nbsp;&nbsp;
+
+00:16:21.440 --> 00:16:27.200
+value engine can sometimes be enough to slow an&nbsp;
+opponent down for long enough to execute a win.
+
+00:16:27.200 --> 00:16:31.600
+To cap off this video, I would like to&nbsp;
+reiterate—decks being strong isn’t everything,&nbsp;&nbsp;
+
+00:16:31.600 --> 00:16:36.200
+and a lot of players are decidedly not looking&nbsp;
+for cutthroat games with tables full of fast&nbsp;&nbsp;
+
+00:16:36.200 --> 00:16:41.000
+combo decks. I can’t really play with this deck&nbsp;
+in my normal playgroup without it feeling wildly&nbsp;&nbsp;
+
+00:16:41.000 --> 00:16:45.800
+out of place, which is kind of a downside&nbsp;
+for a deck to have. I’d also argue that the&nbsp;&nbsp;
+
+00:16:45.800 --> 00:16:51.200
+current EDH space puts too much emphasis on&nbsp;
+ways to improve the raw power level of decks,&nbsp;&nbsp;
+
+00:16:51.200 --> 00:16:56.600
+without considering how playing with or against&nbsp;
+these decks ends up feeling. At the same time,&nbsp;&nbsp;
+
+00:16:56.600 --> 00:17:00.480
+it’s a fact of life that a lot of people are&nbsp;
+looking to make their decks more powerful, this&nbsp;&nbsp;
+
+00:17:00.480 --> 00:17:05.760
+is a competitive card game after all. It’s also a&nbsp;
+fact of life that different people have different&nbsp;&nbsp;
+
+00:17:05.760 --> 00:17:10.680
+amounts of money they want to spend on the game,&nbsp;
+and that fact can be felt in the power of decks&nbsp;&nbsp;
+
+00:17:10.680 --> 00:17:16.280
+sometimes. Proxies are one solution to this issue,&nbsp;
+but they will never be the whole solution, if for&nbsp;&nbsp;
+
+00:17:16.280 --> 00:17:21.520
+no other reason than that they’re not allowed at&nbsp;
+any Wizards of the Coast-affiliated event. Just as&nbsp;&nbsp;
+
+00:17:21.520 --> 00:17:26.200
+it’s useful to know when to hold off on cramming&nbsp;
+powerful cards into a deck, it’s also useful to&nbsp;&nbsp;
+
+00:17:26.200 --> 00:17:30.600
+know exactly how to ratchet up the power of a&nbsp;
+deck when you do want that, and being able to&nbsp;&nbsp;
+
+00:17:30.600 --> 00:17:36.160
+do so without needing to crank up the card quality&nbsp;
+with expensive staples is a great skill to have.
+
+00:17:36.160 --> 00:17:39.680
+Thanks for making it to the end, this&nbsp;
+video ended up a bit longer than I was&nbsp;&nbsp;
+
+00:17:39.680 --> 00:17:43.960
+intending. I’m going to be doing another&nbsp;
+deck review this month over on my Patreon,&nbsp;&nbsp;
+
+00:17:43.960 --> 00:17:46.960
+so if you want a chance at getting your&nbsp;
+deck reviewed by me, you can head on over&nbsp;&nbsp;
+
+00:17:46.960 --> 00:17:50.880
+there and start giving me money sometime in&nbsp;
+the next five days. If you give me enough&nbsp;&nbsp;
+
+00:17:50.880 --> 00:17:55.920
+money you can even join the people you&nbsp;
+see on screen here. Pretty tempting, huh.
+

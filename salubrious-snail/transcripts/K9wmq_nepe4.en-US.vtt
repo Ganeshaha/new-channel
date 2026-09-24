@@ -1,0 +1,792 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.240 --> 00:00:05.920
+Is a potentially-repeatable recursion source&nbsp;
+like Evolution Witness a card draw spell? How&nbsp;&nbsp;
+
+00:00:05.920 --> 00:00:10.160
+about something that draws and discards like&nbsp;
+Matzalantli, the Great Door, is that considered&nbsp;&nbsp;
+
+00:00:10.160 --> 00:00:15.920
+a draw spell? What about so-called impulse&nbsp;
+draw options like Laelia, the Blade Reforged?&nbsp;&nbsp;
+
+00:00:15.920 --> 00:00:21.520
+I imagine you might have opinions on any one&nbsp;
+of these questions. Maybe you said yes to all,&nbsp;&nbsp;
+
+00:00:21.520 --> 00:00:27.440
+maybe you said yes to none, and maybe you’re&nbsp;
+a diehard Great Door fan, no more no less.&nbsp;&nbsp;
+
+00:00:27.440 --> 00:00:32.960
+It would be satisfying and lovely if I could just&nbsp;
+flat out say exactly what does and does not count&nbsp;&nbsp;
+
+00:00:32.960 --> 00:00:39.040
+as card draw among these, but unfortunately it’s&nbsp;
+a bit more complicated than that. Fundamentally,&nbsp;&nbsp;
+
+00:00:39.040 --> 00:00:43.920
+the source of the ambiguity here is that card&nbsp;
+draw as a concept often gets treated as one&nbsp;&nbsp;
+
+00:00:43.920 --> 00:00:48.720
+singular thing, but it’s actually more like a&nbsp;
+web of overlapping solutions to a handful of&nbsp;&nbsp;
+
+00:00:48.720 --> 00:00:54.560
+different goals, and different decks will want the&nbsp;
+sorts of things deemed “card draw” for completely&nbsp;&nbsp;
+
+00:00:54.560 --> 00:01:00.000
+different reasons. The goals of card draw are a&nbsp;
+little fuzzy, but broadly there are two main ones&nbsp;&nbsp;
+
+00:01:00.000 --> 00:01:06.320
+that most decks will be focused on: spending&nbsp;
+excess mana, and finding particular cards.
+
+00:01:06.320 --> 00:01:10.800
+Let’s start with the first one. That word&nbsp;
+“excess” actually might be a bit misleading,&nbsp;&nbsp;
+
+00:01:10.800 --> 00:01:14.480
+because for the sorts of decks that will most&nbsp;
+want to think about their card draw this way,&nbsp;&nbsp;
+
+00:01:14.480 --> 00:01:19.040
+getting excess mana is often a large point&nbsp;
+of the deck. The most obvious deck style&nbsp;&nbsp;
+
+00:01:19.040 --> 00:01:22.880
+that fits within this description would be&nbsp;
+battlecruiser midrange, a type of deck that&nbsp;&nbsp;
+
+00:01:22.880 --> 00:01:28.000
+is typically lategame-focused and involves lots&nbsp;
+of ramp. My Radha deck is an example of this,&nbsp;&nbsp;
+
+00:01:28.000 --> 00:01:32.560
+and it’s a good style of deck to build for players&nbsp;
+newer to the commander format because it follows a&nbsp;&nbsp;
+
+00:01:32.560 --> 00:01:37.680
+simple principle—spending more mana than opponents&nbsp;
+will generally make it easier to defeat them,&nbsp;&nbsp;
+
+00:01:37.680 --> 00:01:42.240
+regardless of what else is happening. In&nbsp;
+this framework, this requires two simple&nbsp;&nbsp;
+
+00:01:42.240 --> 00:01:47.360
+steps—obtain a larger total pool of resources&nbsp;
+through ramp, and then figure out a way to&nbsp;&nbsp;
+
+00:01:47.360 --> 00:01:52.320
+spend those resources in a way that is supporting&nbsp;
+what your deck is trying to do. This is actually&nbsp;&nbsp;
+
+00:01:52.320 --> 00:01:57.120
+pretty similar to the process of learning a Real&nbsp;
+Time Strategy game—becoming an average-skill&nbsp;&nbsp;
+
+00:01:57.120 --> 00:02:01.120
+Starcraft player basically just requires&nbsp;
+two things: building up resource generation,&nbsp;&nbsp;
+
+00:02:01.120 --> 00:02:04.880
+and then being able to spend all of the&nbsp;
+resources you end up accumulating. We can&nbsp;&nbsp;
+
+00:02:04.880 --> 00:02:09.200
+see parallels to EDH battlecruiser decks with&nbsp;
+this—as long as you’re completing the basic&nbsp;&nbsp;
+
+00:02:09.200 --> 00:02:13.600
+tasks like hitting land drops, playing some ramp&nbsp;
+spells, and spending all of your mana each turn,&nbsp;&nbsp;
+
+00:02:13.600 --> 00:02:17.280
+you’ll probably be having an okay time,&nbsp;
+and once you’re at that point you can&nbsp;&nbsp;
+
+00:02:17.280 --> 00:02:21.440
+turn your attention to the specifics of&nbsp;
+what tasks your mana is accomplishing.
+
+00:02:21.440 --> 00:02:26.160
+In the context of this type of deck, a deck&nbsp;
+chiefly concerned with managing mana gained vs&nbsp;&nbsp;
+
+00:02:26.160 --> 00:02:32.640
+mana spent, all sorts of things can loosely fit&nbsp;
+into the category of draw. Adding X-spells to a&nbsp;&nbsp;
+
+00:02:32.640 --> 00:02:37.280
+deck will typically reduce its need for draw,&nbsp;
+since they’re very effective at spending mana,&nbsp;&nbsp;
+
+00:02:37.280 --> 00:02:41.360
+and the same goes for X-abilities and other&nbsp;
+abilities that are useful to sink a lot of&nbsp;&nbsp;
+
+00:02:41.360 --> 00:02:46.960
+mana into over a turn cycle. These aren’t exactly&nbsp;
+draw, and you’d get some weird looks if you tried&nbsp;&nbsp;
+
+00:02:46.960 --> 00:02:51.440
+to call them that, but they absolutely perform&nbsp;
+some of the same functions as draw in decks&nbsp;&nbsp;
+
+00:02:51.440 --> 00:02:57.040
+mostly focused on spending mana. The key here is&nbsp;
+going to be making sure that mana is spent in ways&nbsp;&nbsp;
+
+00:02:57.040 --> 00:03:01.920
+that are actually effective at pushing toward&nbsp;
+a deck’s goals. Throwing a random Fireball in&nbsp;&nbsp;
+
+00:03:01.920 --> 00:03:07.520
+an Isshin deck might make it better at spending&nbsp;
+mana, but an X-cost damage spell probably isn’t&nbsp;&nbsp;
+
+00:03:07.520 --> 00:03:12.880
+a type of the card that will generally progress a&nbsp;
+creature-based midrange deck. The best available&nbsp;&nbsp;
+
+00:03:12.880 --> 00:03:18.320
+ways to spend mana will typically be creatures&nbsp;
+with on-attack draw abilities that synergize&nbsp;&nbsp;
+
+00:03:18.320 --> 00:03:22.480
+with the deck’s commander, and there are also&nbsp;
+a number of utility lands in Mardu colors&nbsp;&nbsp;
+
+00:03:22.480 --> 00:03:26.920
+that can soak up mana while accomplishing&nbsp;
+useful tasks for a combat-centered deck.
+
+00:03:26.920 --> 00:03:31.760
+Maybe you scoffed at the idea that a mana-sink&nbsp;
+spell or ability could be considered alongside&nbsp;&nbsp;
+
+00:03:31.760 --> 00:03:37.760
+draw, and for a lot of decks, that’s an entirely&nbsp;
+valid impulse. Some decks want an ongoing flow of&nbsp;&nbsp;
+
+00:03:37.760 --> 00:03:43.200
+actual factual cards they can play, whether that&nbsp;
+be answers or utility creatures or anything else,&nbsp;&nbsp;
+
+00:03:43.200 --> 00:03:48.640
+and that brings me to a couple draw alternatives&nbsp;
+that still lean in the direction of spending mana.&nbsp;&nbsp;
+
+00:03:48.640 --> 00:03:52.640
+The first is cards that exile cards and allow&nbsp;
+you to play them for the next turn or two,&nbsp;&nbsp;
+
+00:03:52.640 --> 00:03:57.920
+with these effects sometimes being called “impulse&nbsp;
+draw”. These don’t allow having cards stick around&nbsp;&nbsp;
+
+00:03:57.920 --> 00:04:02.320
+until a potential future point where they’re&nbsp;
+useful, so they’re best utilized in decks with&nbsp;&nbsp;
+
+00:04:02.320 --> 00:04:07.520
+few situational cards and more general purpose&nbsp;
+cards that the deck will rarely feel bad about&nbsp;&nbsp;
+
+00:04:07.520 --> 00:04:13.920
+casting. Another popular non-draw source of value&nbsp;
+generation is recursion spells, cards that return&nbsp;&nbsp;
+
+00:04:13.920 --> 00:04:19.280
+things from graveyard to hand. This could be&nbsp;
+a big one-time option such as Seasons Past,&nbsp;&nbsp;
+
+00:04:19.280 --> 00:04:24.400
+and it could also be a recursion engine such as&nbsp;
+Evolution Witness plus counter shenanigans, Scrap&nbsp;&nbsp;
+
+00:04:24.400 --> 00:04:29.840
+Trawler plus some artifacts, or even something&nbsp;
+discrete like Phyrexian Reclamation. You could&nbsp;&nbsp;
+
+00:04:29.840 --> 00:04:36.000
+even include graveyard abilities such as flashback&nbsp;
+or escape in this category. All of these options&nbsp;&nbsp;
+
+00:04:36.000 --> 00:04:42.800
+serve a similar task—allowing already-played cards&nbsp;
+to be reused again. These sorts of effects are&nbsp;&nbsp;
+
+00:04:42.800 --> 00:04:47.760
+typically going to be strongest in decks that&nbsp;
+involve lots of redundancy and similar cards,&nbsp;&nbsp;
+
+00:04:47.760 --> 00:04:53.520
+since returning a common card type from graveyard&nbsp;
+to hand is going to be pretty similar in effect to&nbsp;&nbsp;
+
+00:04:53.520 --> 00:04:59.600
+drawing one of those cards. However, these still&nbsp;
+tend to have limitations, in that they require&nbsp;&nbsp;
+
+00:04:59.600 --> 00:05:04.640
+having stuff in the graveyard to function.&nbsp;
+For a deck with lots of sacrifice or which is&nbsp;&nbsp;
+
+00:05:04.640 --> 00:05:09.200
+based around instants and sorceries, key cards&nbsp;
+will get into the graveyard all on their own,&nbsp;&nbsp;
+
+00:05:09.200 --> 00:05:14.080
+but other types of decks might want sources of&nbsp;
+self-mill or self-discard to keep their graveyard&nbsp;&nbsp;
+
+00:05:14.080 --> 00:05:19.440
+stocked with juicy options for returning.&nbsp;
+Generally the more self-mill or wheel-style&nbsp;&nbsp;
+
+00:05:19.440 --> 00:05:24.400
+effects you add to a deck, the more your recursion&nbsp;
+spells will stray away from the task of spending&nbsp;&nbsp;
+
+00:05:24.400 --> 00:05:31.280
+mana and start to gain some genuine card selection&nbsp;
+potential, and this brings me to the second goal.
+
+00:05:31.280 --> 00:05:36.640
+The second goal of so-called draw is finding&nbsp;
+particular cards you need, and this goal tends&nbsp;&nbsp;
+
+00:05:36.640 --> 00:05:41.680
+to be served by cards that might be considered&nbsp;
+“filtering”. Cards that draw and discard, or&nbsp;&nbsp;
+
+00:05:41.680 --> 00:05:45.920
+otherwise filter through cards without obtaining&nbsp;
+card advantage, are going to be better and better&nbsp;&nbsp;
+
+00:05:45.920 --> 00:05:51.440
+the more a deck cares about specific cards.&nbsp;
+The most obvious case is in something like a&nbsp;&nbsp;
+
+00:05:51.440 --> 00:05:56.400
+combo piece, but the same could go for a deck that&nbsp;
+has five prominent centerpiece synergy cards that&nbsp;&nbsp;
+
+00:05:56.400 --> 00:06:01.440
+it would like to find one or more of. On a more&nbsp;
+abstract level, filtering will have the greatest&nbsp;&nbsp;
+
+00:06:01.440 --> 00:06:07.760
+utility in decks with a high degree of variation&nbsp;
+between cards, or variance between different power&nbsp;&nbsp;
+
+00:06:07.760 --> 00:06:12.560
+levels. Seeing three different variants of a&nbsp;
+low-cost beater with a filtering spell like Dig&nbsp;&nbsp;
+
+00:06:12.560 --> 00:06:17.600
+Through Time isn’t getting a whole lot of usage&nbsp;
+out of the card, while seeing a bunch of wildly&nbsp;&nbsp;
+
+00:06:17.600 --> 00:06:22.640
+different cards is much more potent. Likewise,&nbsp;
+if you’re casting Impulse, seeing four different&nbsp;&nbsp;
+
+00:06:22.640 --> 00:06:27.680
+cards of roughly the same power level is, on some&nbsp;
+level, getting less use out of the card than if&nbsp;&nbsp;
+
+00:06:27.680 --> 00:06:32.400
+you instead saw three filler cards and a powerful&nbsp;
+centerpiece. If we want to stretch the definition&nbsp;&nbsp;
+
+00:06:32.400 --> 00:06:38.400
+of filtering a little, and I certainly do, tutors&nbsp;
+are the ultimate example of this—cards that search&nbsp;&nbsp;
+
+00:06:38.400 --> 00:06:43.840
+a player’s library for a card that fits some set&nbsp;
+of constraints. Solve the Equation is basically&nbsp;&nbsp;
+
+00:06:43.840 --> 00:06:49.680
+a Silundi Vision that looks at unlimited cards&nbsp;
+instead of 6, and Demonic Tutor is basically an&nbsp;&nbsp;
+
+00:06:49.680 --> 00:06:55.840
+Impulse that looks at unlimited cards instead of&nbsp;
+4. Sorcery speed, though, so it’s pretty balanced.
+
+00:06:55.840 --> 00:07:01.760
+So, do tutors count as card draw? Do cards like&nbsp;
+Impulse count as draw? It depends on what your&nbsp;&nbsp;
+
+00:07:01.760 --> 00:07:07.600
+deck’s goals are with running these cards. In some&nbsp;
+decks it might be important to distinguish between&nbsp;&nbsp;
+
+00:07:07.600 --> 00:07:13.520
+what cards give card advantage as opposed to what&nbsp;
+cards only give card selection. A spellslinger&nbsp;&nbsp;
+
+00:07:13.520 --> 00:07:18.720
+deck might run Impulse, and it might be a helpful&nbsp;
+card for smoothing out gameplay, but if the deck&nbsp;&nbsp;
+
+00:07:18.720 --> 00:07:23.360
+is currently running a fairly low number of&nbsp;
+draw engines, it’s not necessarily going to be&nbsp;&nbsp;
+
+00:07:23.360 --> 00:07:28.480
+a helpful addition for purposes of maintaining&nbsp;
+cards in hand. Likewise, if you have a really&nbsp;&nbsp;
+
+00:07:28.480 --> 00:07:33.520
+impactful card you’re tutoring for, a tutor very&nbsp;
+well could feel like a draw spell, particularly&nbsp;&nbsp;
+
+00:07:33.520 --> 00:07:38.720
+if it’s a tutor that generally searches up some&nbsp;
+sort of value engine. A Steelshaper’s Gift that&nbsp;&nbsp;
+
+00:07:38.720 --> 00:07:42.960
+exclusively finds Skullclamp followed by Sword&nbsp;
+of Forge and Frontier? That’s a draw spell,&nbsp;&nbsp;
+
+00:07:42.960 --> 00:07:44.954
+get it out of that tutor category. In other cases,&nbsp;
+though, a tutor won’t make sense to think of as&nbsp;&nbsp;
+
+00:07:44.954 --> 00:07:49.680
+draw. When I’m deckbuilding on Archidekt, I’ll&nbsp;
+generally put tutors in my draw category in two&nbsp;&nbsp;
+
+00:07:49.680 --> 00:07:55.280
+cases: if they generally find a source of card&nbsp;
+advantage, or if the function of tutors wholly&nbsp;&nbsp;
+
+00:07:55.280 --> 00:08:00.080
+lines up with the function of drawing cards. For&nbsp;
+example, if I’m playing a combo deck where the&nbsp;&nbsp;
+
+00:08:00.080 --> 00:08:04.480
+main thing my draw spells accomplish is digging&nbsp;
+for combo pieces or tutors, then the purpose of&nbsp;&nbsp;
+
+00:08:04.480 --> 00:08:10.400
+my draw is almost exclusively card selection, and&nbsp;
+tutors accomplish that. I’ve also reached the same&nbsp;&nbsp;
+
+00:08:10.400 --> 00:08:15.360
+conclusion in the opposite direction—my Breena&nbsp;
+deck is an aggro deck with lots of redundancy,&nbsp;&nbsp;
+
+00:08:15.360 --> 00:08:20.640
+so tutors aren’t much better than basic card draw.&nbsp;
+When I added Ayara’s Oathsworn because of its&nbsp;&nbsp;
+
+00:08:20.640 --> 00:08:24.720
+synergy with the commander, there was no reason&nbsp;
+for me not to group it with the deck’s draw,&nbsp;&nbsp;
+
+00:08:24.720 --> 00:08:29.760
+because it’s performing the same task. However,&nbsp;
+in other decks, tutors play a somewhat distinct&nbsp;&nbsp;
+
+00:08:29.760 --> 00:08:35.040
+role. In my strongest deck, I run tutors to find&nbsp;
+Time Sieve because that’s what I need to win,&nbsp;&nbsp;
+
+00:08:35.040 --> 00:08:39.680
+but I also run Bident of Thassa effects which&nbsp;
+generically draw cards when my creatures hit&nbsp;&nbsp;
+
+00:08:39.680 --> 00:08:44.400
+players. This can help find Time Sieve, but&nbsp;
+it can also draw me into counterspells to&nbsp;&nbsp;
+
+00:08:44.400 --> 00:08:49.360
+protect my combo, and if Time Sieve is up&nbsp;
+and running but I don’t have a full combo,&nbsp;&nbsp;
+
+00:08:49.360 --> 00:08:54.240
+having an engine that gives me an extra 3-4&nbsp;
+cards a turn is typically enough to turn a&nbsp;&nbsp;
+
+00:08:54.240 --> 00:08:59.200
+couple extra turns into a win by helping me&nbsp;
+find things to give extra artifacts. Card&nbsp;&nbsp;
+
+00:08:59.200 --> 00:09:04.080
+selection and card advantage are both helpful,&nbsp;
+and having a mixture of selection-only cards and&nbsp;&nbsp;
+
+00:09:04.080 --> 00:09:09.360
+generic card draw that provides both works out to&nbsp;
+fulfill the deck’s needs in the draw department.
+
+00:09:09.360 --> 00:09:14.960
+We can actually construct a spectrum and place&nbsp;
+all the types of cards I’ve mentioned today on it.&nbsp;&nbsp;
+
+00:09:14.960 --> 00:09:21.040
+On one side, we have pure selection—effects that&nbsp;
+are all about seeing extra cards—and on the other&nbsp;&nbsp;
+
+00:09:21.040 --> 00:09:26.560
+side, pure advantage—cards that turn mana into&nbsp;
+value without seeing any cards at all. Ledger&nbsp;&nbsp;
+
+00:09:26.560 --> 00:09:31.840
+Shredder? Pure filtering. Tutors? Generally&nbsp;
+also pure filtering, though a bit flexible&nbsp;&nbsp;
+
+00:09:31.840 --> 00:09:36.800
+depending on what you play to get. Cards like&nbsp;
+Dig Through Time still lean toward filtering,&nbsp;&nbsp;
+
+00:09:36.800 --> 00:09:40.640
+though at least here you’re getting some actual&nbsp;
+factual card advantage as well by being one card&nbsp;&nbsp;
+
+00:09:40.640 --> 00:09:45.520
+that finds two cards. I’d also put Greater&nbsp;
+Good here, a powerful green draw enchantment&nbsp;&nbsp;
+
+00:09:45.520 --> 00:09:50.240
+that tends to churn through cards at a fast&nbsp;
+rate. Nearing the center of this spectrum,&nbsp;&nbsp;
+
+00:09:50.240 --> 00:09:54.800
+you’ve got things that generate a decent bit of&nbsp;
+card advantage but also do a bit of extra digging,&nbsp;&nbsp;
+
+00:09:54.800 --> 00:09:59.680
+and this includes my personal favorite draw-X&nbsp;
+card in most decks, Pull from Tomorrow. It’s&nbsp;&nbsp;
+
+00:09:59.680 --> 00:10:03.280
+instant speed, reasonably costed, and&nbsp;
+the disadvantage of discarding a card&nbsp;&nbsp;
+
+00:10:03.280 --> 00:10:07.920
+is typically negligible since it’s attached&nbsp;
+to a card that draws a bunch of cards first.&nbsp;&nbsp;
+
+00:10:07.920 --> 00:10:12.880
+You could also put something like Necropotence&nbsp;
+here, since absent a Reliquary Tower you’ll&nbsp;&nbsp;
+
+00:10:12.880 --> 00:10:17.040
+generally be exiling some amount of what you&nbsp;
+draw even if there’s a lot of volume of cards&nbsp;&nbsp;
+
+00:10:17.040 --> 00:10:22.160
+entering your hand. Generic card draw leans a bit&nbsp;
+toward advantage as compared to other options,&nbsp;&nbsp;
+
+00:10:22.160 --> 00:10:26.400
+though a lot of the strongest draw is just generic&nbsp;
+card draw, so oftentimes decks will focus on this&nbsp;&nbsp;
+
+00:10:26.400 --> 00:10:31.520
+even if they mostly care about card selection.&nbsp;
+After that you’ve got impulse draw and recursion&nbsp;&nbsp;
+
+00:10:31.520 --> 00:10:36.320
+engines, and while the former is relatively&nbsp;
+straightforward, the latter will vary a bit&nbsp;&nbsp;
+
+00:10:36.320 --> 00:10:41.520
+depending on how much it’s supported. Recursion&nbsp;
+spells might lean very close to advantage,&nbsp;&nbsp;
+
+00:10:41.520 --> 00:10:45.200
+though they also might have some degree of&nbsp;
+selection as well depending on how much self-mill&nbsp;&nbsp;
+
+00:10:45.200 --> 00:10:50.560
+and discard a deck has. It’s often far easier&nbsp;
+to get cards into the graveyard than into hand,&nbsp;&nbsp;
+
+00:10:50.560 --> 00:10:55.360
+but the tools for hating on graveyards are far&nbsp;
+stronger and far more ubiquitous than cards that&nbsp;&nbsp;
+
+00:10:55.360 --> 00:11:01.920
+force opponents to discard are, so recursion has&nbsp;
+some natural limits in how reliable it can be. On&nbsp;&nbsp;
+
+00:11:01.920 --> 00:11:06.840
+the far end of things we have abilities that can&nbsp;
+soak up an unlimited amount of mana. Kessig Wolf&nbsp;&nbsp;
+
+00:11:06.840 --> 00:11:11.280
+Run is a land with a powerful activated ability&nbsp;
+that a deck can sink as much mana as they like&nbsp;&nbsp;
+
+00:11:11.280 --> 00:11:17.200
+into. It will never find you any cards, but it can&nbsp;
+grant the value of giving a creature you control&nbsp;&nbsp;
+
+00:11:17.200 --> 00:11:22.640
++X/+0 and trample, and the only cost to have this&nbsp;
+ability available is running a colorless land.
+
+00:11:22.640 --> 00:11:27.440
+So this is a spectrum of what different styles&nbsp;
+of draw and filtering will accomplish in terms&nbsp;&nbsp;
+
+00:11:27.440 --> 00:11:32.320
+of value and card selection, but I worry that&nbsp;
+all this categorization and visual flourish&nbsp;&nbsp;
+
+00:11:32.320 --> 00:11:36.800
+and such like might serve to abstract the&nbsp;
+issue beyond what’s helpful. So, how do you&nbsp;&nbsp;
+
+00:11:36.800 --> 00:11:42.240
+find the best options for your deck, and how do&nbsp;
+you know when you have enough? Let’s start with&nbsp;&nbsp;
+
+00:11:42.240 --> 00:11:47.120
+that first question. Broadly, what types of value&nbsp;
+generation and filtering you’ll want will depend&nbsp;&nbsp;
+
+00:11:47.120 --> 00:11:52.320
+on your gameplan, your colors, and what sorts&nbsp;
+of stuff your deck is made up of. Generally,&nbsp;&nbsp;
+
+00:11:52.320 --> 00:11:56.800
+the more variation that exists between your&nbsp;
+different cards, the more you’ll want to focus on&nbsp;&nbsp;
+
+00:11:56.800 --> 00:12:01.840
+filtering. If you have lots of situational cards,&nbsp;
+or a handful of specific cards you want to find,&nbsp;&nbsp;
+
+00:12:01.840 --> 00:12:06.560
+you’ll want to lean toward cards that allow&nbsp;
+you to see more of your deck. Look for options&nbsp;&nbsp;
+
+00:12:06.560 --> 00:12:10.400
+closer to the right end of the spectrum&nbsp;
+I gave earlier—tutors, draw and discard,&nbsp;&nbsp;
+
+00:12:10.400 --> 00:12:15.760
+topdeck manipulating cards, and so on. Notably,&nbsp;
+it’s generally pretty rare that a deck will want&nbsp;&nbsp;
+
+00:12:15.760 --> 00:12:21.120
+exclusively card selection, so your task will&nbsp;
+be in figuring out what amount and what forms of&nbsp;&nbsp;
+
+00:12:21.120 --> 00:12:26.480
+actual draw you want to pair with your filtering.&nbsp;
+In some cases, selection and advantage options&nbsp;&nbsp;
+
+00:12:26.480 --> 00:12:31.360
+will mesh together quite nicely—recursion and&nbsp;
+abilities that can be used from the graveyard&nbsp;&nbsp;
+
+00:12:31.360 --> 00:12:35.600
+work great as an advantage source to pair&nbsp;
+with card selection in the form of draw and&nbsp;&nbsp;
+
+00:12:35.600 --> 00:12:41.040
+discard—the selection feeds advantage options that&nbsp;
+might be a bit mediocre on their own. Likewise,&nbsp;&nbsp;
+
+00:12:41.040 --> 00:12:45.120
+running tutors to find a centerpiece draw&nbsp;
+engine is another popular way to combine a&nbsp;&nbsp;
+
+00:12:45.120 --> 00:12:50.080
+selection option with an advantage option. For a&nbsp;
+third, somewhat more specific example, sometimes&nbsp;&nbsp;
+
+00:12:50.080 --> 00:12:54.720
+you’ll have creatures that do some sort of topdeck&nbsp;
+filtering on an attack or combat damage trigger,&nbsp;&nbsp;
+
+00:12:54.720 --> 00:13:00.720
+and pairing these with Curiosity-style effects&nbsp;
+can set you up quite well for a second main phase.
+
+00:13:00.720 --> 00:13:05.040
+On the opposite end of things, decks that lean&nbsp;
+toward advantage as the preferred card type&nbsp;&nbsp;
+
+00:13:05.040 --> 00:13:10.160
+typically include more redundancy—put simply,&nbsp;
+you don’t need to spend nearly as much effort&nbsp;&nbsp;
+
+00:13:10.160 --> 00:13:14.560
+finding a specific sort of effect if you’re&nbsp;
+running 10 or 15 of it. I’ve also found that&nbsp;&nbsp;
+
+00:13:14.560 --> 00:13:19.680
+needing less card selection tends to correlate&nbsp;
+with a couple other things as well. For one,&nbsp;&nbsp;
+
+00:13:19.680 --> 00:13:24.640
+decks that rely on and leverage their commander&nbsp;
+more aggressively tend to run less card selection,&nbsp;&nbsp;
+
+00:13:24.640 --> 00:13:28.960
+since they already have their most&nbsp;
+important card available. Secondly,&nbsp;&nbsp;
+
+00:13:28.960 --> 00:13:33.680
+decks that ramp more tend to run less card&nbsp;
+selection and more actual factual draw,&nbsp;&nbsp;
+
+00:13:33.680 --> 00:13:38.160
+since they can generally afford to sink mana into&nbsp;
+multiple cards rather than digging around for one&nbsp;&nbsp;
+
+00:13:38.160 --> 00:13:43.520
+ideal one. Neither of these are set in stone&nbsp;
+rules—you’ll have decks that really want to&nbsp;&nbsp;
+
+00:13:43.520 --> 00:13:47.760
+find specific supporting cards for their powerful&nbsp;
+commander, and you’ll also have decks with very&nbsp;&nbsp;
+
+00:13:47.760 --> 00:13:52.240
+specific ideas of what they want to do once&nbsp;
+they’ve ramped up to a lot of mana. These are&nbsp;&nbsp;
+
+00:13:52.240 --> 00:13:56.720
+just trends to keep in mind when you’re trying&nbsp;
+to identify your deck’s needs. With that, let’s&nbsp;&nbsp;
+
+00:13:56.720 --> 00:14:02.160
+talk about the final question of the video—how&nbsp;
+much advantage acquisition should your deck run?
+
+00:14:02.160 --> 00:14:05.920
+If you’re playing a deck that doesn’t care&nbsp;
+as much about selection, focus on ability to&nbsp;&nbsp;
+
+00:14:05.920 --> 00:14:11.280
+generate mana versus ability to spend mana. If&nbsp;
+you’re missing land drops, add lands. If you’re&nbsp;&nbsp;
+
+00:14:11.280 --> 00:14:16.320
+falling behind in gameplay volume, add ramp.&nbsp;
+If you’re finding yourself with excess mana,&nbsp;&nbsp;
+
+00:14:16.320 --> 00:14:21.520
+add some mana sinks like draw, abilities, or&nbsp;
+graveyard themes. If you’re finding yourself with&nbsp;&nbsp;
+
+00:14:21.520 --> 00:14:26.480
+a lot of cards in hand, try trimming a bit of draw&nbsp;
+or orienting your deck more toward mana-efficient&nbsp;&nbsp;
+
+00:14:26.480 --> 00:14:31.920
+but card-inefficient options like single target&nbsp;
+removal, low-cost ramp, and situational parity&nbsp;&nbsp;
+
+00:14:31.920 --> 00:14:36.480
+breakers. You might think that your first priority&nbsp;
+should be the gameplan of your deck, and that does&nbsp;&nbsp;
+
+00:14:36.480 --> 00:14:41.360
+matter for sure, but for just about every type of&nbsp;
+effect you could want to lean toward there will be&nbsp;&nbsp;
+
+00:14:41.360 --> 00:14:45.920
+versions that are more mana efficient and versions&nbsp;
+that are more card efficient, so you can always&nbsp;&nbsp;
+
+00:14:45.920 --> 00:14:52.240
+be keeping an eye on that balance. Now let’s say&nbsp;
+you care more about card selection. For starters,&nbsp;&nbsp;
+
+00:14:52.240 --> 00:14:57.360
+you’ll want to make sure whatever you’re running&nbsp;
+card selection for is being attained—are you able&nbsp;&nbsp;
+
+00:14:57.360 --> 00:15:02.000
+to filter into key cards? Are you able to find&nbsp;
+your situational answers in reasonable lengths&nbsp;&nbsp;
+
+00:15:02.000 --> 00:15:06.880
+of time? Once this seems to be in a decent&nbsp;
+spot, start keeping an eye on how often&nbsp;&nbsp;
+
+00:15:06.880 --> 00:15:12.400
+you’re able to find your actual factual draw.&nbsp;
+Typically actual draw will be, at a minimum,&nbsp;&nbsp;
+
+00:15:12.400 --> 00:15:17.200
+helpful for finding interaction for what opponents&nbsp;
+are doing, particularly if you’re focused on mana&nbsp;&nbsp;
+
+00:15:17.200 --> 00:15:19.440
+efficient but card inefficient options like&nbsp;
+single target removal or counterspells. It&nbsp;&nbsp;
+
+00:15:19.440 --> 00:15:22.160
+also might be key for getting&nbsp;
+more definitively ahead once you&nbsp;&nbsp;
+
+00:15:22.160 --> 00:15:25.280
+have some amount of setup complete but&nbsp;
+don’t yet have control over the game.
+
+00:15:26.240 --> 00:15:29.920
+As you’ve probably noticed, the point of this&nbsp;
+video hasn’t been so much to tell you what is&nbsp;&nbsp;
+
+00:15:29.920 --> 00:15:33.760
+or isn’t draw, but rather to give you a&nbsp;
+framework to work with in analyzing cards&nbsp;&nbsp;
+
+00:15:33.760 --> 00:15:38.560
+and deciding if they’re what your deck needs. A&nbsp;
+lot of times building commander decks is reduced&nbsp;&nbsp;
+
+00:15:38.560 --> 00:15:43.680
+to following a template, and if a template calls&nbsp;
+for X number of draw spells, you’re gonna wanna&nbsp;&nbsp;
+
+00:15:43.680 --> 00:15:48.720
+know what counts as draw. And, don’t get me wrong,&nbsp;
+that sort of approach is a perfectly fine way to&nbsp;&nbsp;
+
+00:15:48.720 --> 00:15:58.480
+toss together a deck quickly. But take a bit of&nbsp;
+extra time to figure out how all the individual&nbsp;&nbsp;
+
+00:15:58.480 --> 00:16:03.360
+working parts of your deck fit together,&nbsp;
+and you’ll have a much stronger end product.
+
+00:16:03.360 --> 00:16:07.280
+Thanks for watching! And thanks to Archidekt&nbsp;
+for supporting the channel. You can find my&nbsp;&nbsp;
+
+00:16:07.280 --> 00:16:11.680
+decks and their lovely draw suites at the link&nbsp;
+down in the description. I’d also like to thank&nbsp;&nbsp;
+
+00:16:11.680 --> 00:16:16.320
+my Patrons for their support, some of whom are on&nbsp;
+screen now. If you want to support this channel,&nbsp;&nbsp;
+
+00:16:16.320 --> 00:16:19.040
+you can sign up for my Patreon at&nbsp;
+the link down in the description.
+

@@ -1,0 +1,1324 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.400 --> 00:00:05.760
+A little while back I saw a reddit post and linked&nbsp;
+article, both written by Joshua Wood, and it went&nbsp;&nbsp;
+
+00:00:05.760 --> 00:00:11.040
+something like this—Brackets are a useful tool,&nbsp;
+but they have limitations. They do cover power&nbsp;&nbsp;
+
+00:00:11.040 --> 00:00:14.880
+level to some extent, but they don’t address&nbsp;
+specific play pattern preferences aside from&nbsp;&nbsp;
+
+00:00:14.880 --> 00:00:19.920
+following general community preferences such as&nbsp;
+limitations on mana denial in lower brackets. A&nbsp;&nbsp;
+
+00:00:19.920 --> 00:00:23.200
+good solution to this problem is to have&nbsp;
+players come to the table with a basic 10&nbsp;&nbsp;
+
+00:00:23.200 --> 00:00:28.000
+second pitch for what their deck is doing. An&nbsp;
+example of this might be “This is my Gonti,&nbsp;&nbsp;
+
+00:00:28.000 --> 00:00:31.520
+Canny Acquisitor rogue deck. It’s a theft&nbsp;
+deck that wants to hit people with evasive&nbsp;&nbsp;
+
+00:00:31.520 --> 00:00:36.400
+Rogues to steal cards, and eventually pump&nbsp;
+up my rogues for the win. It’s bracket 3.”
+
+00:00:36.400 --> 00:00:41.360
+First thoughts, this is fine, a very normal&nbsp;
+opinion to have and a reasonable suggestion. I&nbsp;&nbsp;
+
+00:00:41.360 --> 00:00:46.320
+already do some version of this, as do most people&nbsp;
+I play with in public. At least half the time&nbsp;&nbsp;
+
+00:00:46.320 --> 00:00:49.920
+when I’m reading the commander of a stranger I’m&nbsp;
+playing against, or when I make a comment about&nbsp;&nbsp;
+
+00:00:49.920 --> 00:00:54.800
+it, they’ll drop me a basic pitch for how they’re&nbsp;
+using the commander and what their deck is doing.&nbsp;&nbsp;
+
+00:00:54.800 --> 00:00:58.000
+The only critique I might have of this&nbsp;
+idea is that it’s maybe a little odd to&nbsp;&nbsp;
+
+00:00:58.000 --> 00:01:02.320
+have a pitch like this rehearsed word for word and&nbsp;
+delivered like some sort of theatrical monologue,&nbsp;&nbsp;
+
+00:01:02.320 --> 00:01:07.680
+but the broader point about communication&nbsp;
+is good—or so I thought. This post was not&nbsp;&nbsp;
+
+00:01:07.680 --> 00:01:13.520
+all that popular on r/EDH—63 upvotes&nbsp;
+and 89 comments at time of recording,&nbsp;&nbsp;
+
+00:01:13.520 --> 00:01:17.840
+with some comments critical of the idea&nbsp;
+getting more upvotes than the post itself.
+
+00:01:17.840 --> 00:01:21.360
+[Arcosa] Revealing what your deck does by&nbsp;
+playing it sounds way more fun to me than&nbsp;&nbsp;
+
+00:01:21.360 --> 00:01:25.360
+everyone giving a synopsis on how the&nbsp;
+game is gonna go before it even starts.
+
+00:01:25.360 --> 00:01:29.520
+[Quips] You don't need to tell other&nbsp;
+players your deck’s life story,&nbsp;&nbsp;
+
+00:01:29.520 --> 00:01:34.400
+an interesting fact, or even a basic&nbsp;
+strategy. Once everyone chooses their&nbsp;&nbsp;
+
+00:01:34.400 --> 00:01:39.040
+commanders and commanders are revealed,&nbsp;
+they can deduce strategies from there.
+
+00:01:39.040 --> 00:01:42.880
+[Rebell] Leaving some mystery to the&nbsp;
+game is fun. It means we can play to&nbsp;&nbsp;
+
+00:01:42.880 --> 00:01:46.240
+figure out each other's weakness&nbsp;
+instead of basically being told.
+
+00:01:46.240 --> 00:01:49.920
+[Snail] In the broader scheme of things,&nbsp;
+this doesn’t matter. A modestly visible&nbsp;&nbsp;
+
+00:01:49.920 --> 00:01:54.400
+reddit post attracted some people with opinions I&nbsp;
+disagree with who then got a handful of upvotes,&nbsp;&nbsp;
+
+00:01:54.400 --> 00:01:58.320
+big whoop. However, I can’t get this&nbsp;
+line of thinking out of my brain,&nbsp;&nbsp;
+
+00:01:58.320 --> 00:02:03.440
+and these opinions are similar to comments I’ve&nbsp;
+received on my channel. There seems to be a large&nbsp;&nbsp;
+
+00:02:03.440 --> 00:02:07.600
+online faction of commander players who think&nbsp;
+this way, who treat commander as some sort of&nbsp;&nbsp;
+
+00:02:07.600 --> 00:02:11.520
+detective game where a large part of the gameplay&nbsp;
+is figuring out what’s going on in opposing decks,&nbsp;&nbsp;
+
+00:02:11.520 --> 00:02:15.680
+or alternatively as some sort of show that&nbsp;
+you wouldn’t want to spoil the ending of.&nbsp;&nbsp;
+
+00:02:15.680 --> 00:02:21.520
+So, I’m going to take this post as a jumping&nbsp;
+off point to talk about that broad faction,&nbsp;&nbsp;
+
+00:02:21.520 --> 00:02:25.920
+this group of players that I find fascinating,&nbsp;
+and I’m going to see if I can figure out what&nbsp;&nbsp;
+
+00:02:25.920 --> 00:02:30.240
+motivates their thinking, why they’re like this,&nbsp;
+and if there’s anything to the vision of commander&nbsp;&nbsp;
+
+00:02:30.240 --> 00:02:35.200
+they strive after. As a disclaimer—this video is&nbsp;
+more conceptual and social-theory-oriented than&nbsp;&nbsp;
+
+00:02:35.200 --> 00:02:39.760
+most of what I make, so I’d recommend treating&nbsp;
+it as some fun ideas to chew on rather than cold&nbsp;&nbsp;
+
+00:02:39.760 --> 00:02:44.240
+hard facts to destroy the libs with or whatever.&nbsp;
+Though this is a sort of a soft response to The&nbsp;&nbsp;
+
+00:02:44.240 --> 00:02:49.600
+Trinket Mage’s video about me in April, so I guess&nbsp;
+this can be cold hard facts to destroy him with.
+
+00:02:49.600 --> 00:02:53.760
+[Trinket narrating]
+
+00:02:56.560 --> 00:03:01.440
+EDH is typically a casual format, which simply&nbsp;
+means that players aren’t necessarily expected&nbsp;&nbsp;
+
+00:03:01.440 --> 00:03:07.360
+to try as hard as they can to win, either in-game&nbsp;
+or in deckbuilding. This is challenging for people&nbsp;&nbsp;
+
+00:03:07.360 --> 00:03:11.520
+because, in any sort of game setting, a lot of&nbsp;
+people will instinctually look for some sort&nbsp;&nbsp;
+
+00:03:11.520 --> 00:03:16.480
+of goal to optimize toward. We can see this&nbsp;
+play out in something like D&amp;D—role-playing&nbsp;&nbsp;
+
+00:03:16.480 --> 00:03:21.040
+games are even more casual than casual EDH&nbsp;
+in a lot of ways, but many players will&nbsp;&nbsp;
+
+00:03:21.040 --> 00:03:26.240
+still put a lot of effort into making their&nbsp;
+characters as powerful as possible in combat.&nbsp;&nbsp;
+
+00:03:26.240 --> 00:03:31.120
+This is kind of pointless on a party level since&nbsp;
+the DM can literally make combats easier or harder&nbsp;&nbsp;
+
+00:03:31.120 --> 00:03:36.800
+on a whim to suit the players, and even harder in&nbsp;
+a way that’s targeted to a specific player. Still,&nbsp;&nbsp;
+
+00:03:36.800 --> 00:03:41.760
+the power level of a character remains a thing&nbsp;
+that people optimize because they need a goal&nbsp;&nbsp;
+
+00:03:41.760 --> 00:03:46.320
+while building out a character sheet—something&nbsp;
+needs to motivate the decisions being made. The&nbsp;&nbsp;
+
+00:03:46.320 --> 00:03:51.360
+same goes for EDH—people will create goals in the&nbsp;
+deckbuilding process, and one of those goals will&nbsp;&nbsp;
+
+00:03:51.360 --> 00:03:56.560
+frequently be making a deck that is good under&nbsp;
+some set of criteria, at least if you’re not one&nbsp;&nbsp;
+
+00:03:56.560 --> 00:04:02.640
+of the mythical bracket 1 gamers. So that will&nbsp;
+be a part of deckbuilding, but what about in&nbsp;&nbsp;
+
+00:04:02.640 --> 00:04:08.240
+games? There are all sorts of skills tested in a&nbsp;
+competitive 1v1 magic environment—turn sequencing,&nbsp;&nbsp;
+
+00:04:08.240 --> 00:04:12.400
+mastery of a given decklist, assessment of&nbsp;
+opposing threats, probabilistic thinking,&nbsp;&nbsp;
+
+00:04:12.400 --> 00:04:18.080
+playing to outs, and so on. A 1v1 Magic tournament&nbsp;
+will stress-test a player’s skills in all these&nbsp;&nbsp;
+
+00:04:18.080 --> 00:04:23.200
+things to the limit, and in many cases games will&nbsp;
+be won and lost by the collective weight of a&nbsp;&nbsp;
+
+00:04:23.200 --> 00:04:29.440
+lot of tiny decisions. As in deckbuilding, EDH’s&nbsp;
+casual nature makes things trickier in the sense&nbsp;&nbsp;
+
+00:04:29.440 --> 00:04:35.120
+that winning isn’t as dominant a goal, and plays&nbsp;
+that are suboptimal in the strict sense might not&nbsp;&nbsp;
+
+00:04:35.120 --> 00:04:39.600
+necessarily be considered misplays in the same&nbsp;
+way they are in 60 card formats. As a result&nbsp;&nbsp;
+
+00:04:39.600 --> 00:04:44.080
+of this fact, a lot of EDH players subconsciously&nbsp;
+go looking for something to replace some of these&nbsp;&nbsp;
+
+00:04:44.080 --> 00:04:51.200
+competitive skills, and in a format as diverse&nbsp;
+as EDH, a very common substitute is knowledge.
+
+00:04:51.200 --> 00:04:57.040
+A certain subset of EDH players seem almost&nbsp;
+obsessed with knowing as many possible plays&nbsp;&nbsp;
+
+00:04:57.040 --> 00:05:02.000
+their opponents can do as possible. This is&nbsp;
+especially true for players playing at a level&nbsp;&nbsp;
+
+00:05:02.000 --> 00:05:07.520
+with sudden ways to win, where not being able to&nbsp;
+recognize a combo piece or central enabler for an&nbsp;&nbsp;
+
+00:05:07.520 --> 00:05:12.560
+opponent’s deck can rapidly lead to a game loss.&nbsp;
+Whether it’s as an outlet for an underutilized&nbsp;&nbsp;
+
+00:05:12.560 --> 00:05:17.600
+competitive instinct or as a trauma response to&nbsp;
+getting OTK’d one too many times, being able to&nbsp;&nbsp;
+
+00:05:17.600 --> 00:05:22.240
+shrewdly navigate the ins and outs of opposing&nbsp;
+plays and figure out how threatening a particular&nbsp;&nbsp;
+
+00:05:22.240 --> 00:05:27.280
+card is within the entire landscape of the EDH&nbsp;
+format is a skill that a lot of players have built&nbsp;&nbsp;
+
+00:05:27.280 --> 00:05:32.640
+up. This is especially true for commanders—a lot&nbsp;
+of commanders have a handful of cards they pair&nbsp;&nbsp;
+
+00:05:32.640 --> 00:05:37.200
+pretty powerfully with, and having it locked away&nbsp;
+in your dome what those cards might be for a given&nbsp;&nbsp;
+
+00:05:37.200 --> 00:05:41.280
+commander can give you a leg up in determining&nbsp;
+the possibilities for what an opponent might be&nbsp;&nbsp;
+
+00:05:41.280 --> 00:05:46.320
+doing. And, if we assume that most decks with a&nbsp;
+given commander will be somewhat similar, having&nbsp;&nbsp;
+
+00:05:46.320 --> 00:05:51.040
+an encyclopedic knowledge of commanders and what&nbsp;
+their typical decks look like can actually serve&nbsp;&nbsp;
+
+00:05:51.040 --> 00:05:55.920
+as somewhat of a replacement for rule 0. I don’t&nbsp;
+even need to have a conversation with my opponent,&nbsp;&nbsp;
+
+00:05:55.920 --> 00:06:01.120
+all I need to do is see that Teysa pull up and I’m&nbsp;
+already squaring up for some Ashnod’s Altar BS.
+
+00:06:01.120 --> 00:06:05.360
+So this is a skill that a lot of players have&nbsp;
+put effort into honing, whether consciously or&nbsp;&nbsp;
+
+00:06:05.360 --> 00:06:10.800
+unconsciously, and it shouldn’t be surprising&nbsp;
+that a lot of them want to use this skill. And,&nbsp;&nbsp;
+
+00:06:10.800 --> 00:06:15.040
+for a player who has spent a lot of time around&nbsp;
+various magic cards and is fully engaged in a&nbsp;&nbsp;
+
+00:06:15.040 --> 00:06:20.000
+game, it’s not hard to imagine this being a lot of&nbsp;
+fun. I see my opponent play a Blood Artist effect,&nbsp;&nbsp;
+
+00:06:20.000 --> 00:06:23.920
+and I start to look for possible loops, think&nbsp;
+about what sac outlets and supporting pieces are&nbsp;&nbsp;
+
+00:06:23.920 --> 00:06:28.240
+in-color for my opponent. I see a Karn’s Bastion&nbsp;
+hit the board, and start trying to deduce what&nbsp;&nbsp;
+
+00:06:28.240 --> 00:06:32.640
+counters are soon to pop into existence. I see&nbsp;
+an opponent with two lands untapped on my turn&nbsp;&nbsp;
+
+00:06:32.640 --> 00:06:36.240
+and I try to figure out what sorts of disruption&nbsp;
+they might be able to put together with red, blue,&nbsp;&nbsp;
+
+00:06:36.240 --> 00:06:40.160
+and white mana. I would be lying if I claimed&nbsp;
+that the description of the commander format&nbsp;&nbsp;
+
+00:06:40.160 --> 00:06:44.960
+I just described doesn’t sound fun—it’s&nbsp;
+appealing to play a game like that. So,&nbsp;&nbsp;
+
+00:06:44.960 --> 00:06:49.840
+what’s the problem? Surely there’s nothing&nbsp;
+wrong with people enjoying the format this way.
+
+00:06:51.440 --> 00:06:53.600
+[Elk narrating]
+
+00:06:55.920 --> 00:06:59.840
+Comedic name-calling aside, this is my most&nbsp;
+basic issue with the vision of the commander&nbsp;&nbsp;
+
+00:06:59.840 --> 00:07:04.400
+format I just presented. I dedicated a full&nbsp;
+20 minute video to this topic last summer,&nbsp;&nbsp;
+
+00:07:04.400 --> 00:07:10.160
+but here’s the short version. The EDH format has&nbsp;
+become effectively the onboarding format of paper&nbsp;&nbsp;
+
+00:07:10.160 --> 00:07:14.800
+Magic, the way new players get into the game and&nbsp;
+the way a lot of them continue to play the game.&nbsp;&nbsp;
+
+00:07:14.800 --> 00:07:19.600
+This is cool in a lot of ways, and there’s one&nbsp;
+especially new-player-friendly element at the&nbsp;&nbsp;
+
+00:07:19.600 --> 00:07:24.080
+heart of the commander format—it doesn’t have a&nbsp;
+meaningful metagame. You don’t have to learn the&nbsp;&nbsp;
+
+00:07:24.080 --> 00:07:27.760
+opposing decks you might be facing and figure&nbsp;
+out what decks can fare well against those,&nbsp;&nbsp;
+
+00:07:27.760 --> 00:07:31.600
+and more importantly you won’t have to worry&nbsp;
+that your deck will be too weak to face the&nbsp;&nbsp;
+
+00:07:31.600 --> 00:07:37.680
+competition. This is wonderful for creativity in&nbsp;
+deckbuilding—60 card magic typically relegates&nbsp;&nbsp;
+
+00:07:37.680 --> 00:07:42.080
+“creativity” or “brewing” to players with a&nbsp;
+relatively strong grasp of a given format,&nbsp;&nbsp;
+
+00:07:42.080 --> 00:07:46.880
+but since EDH lacks a metagame or set power&nbsp;
+level, players of any skill can innovate and&nbsp;&nbsp;
+
+00:07:46.880 --> 00:07:51.840
+create something of their own rather than needing&nbsp;
+to netdeck. This is an undoubtedly nice feature,&nbsp;&nbsp;
+
+00:07:51.840 --> 00:07:56.240
+but on the flip side, this lack of a metagame&nbsp;
+ironically also poses an entirely different&nbsp;&nbsp;
+
+00:07:56.240 --> 00:08:01.520
+set of challenges onto players that aren’t&nbsp;
+found in a competitive 1v1 format. You can’t&nbsp;&nbsp;
+
+00:08:01.520 --> 00:08:05.760
+learn the 4 most common decks you’ll be playing&nbsp;
+because there are thousands of possible decks&nbsp;&nbsp;
+
+00:08:05.760 --> 00:08:10.800
+you might find yourself facing. This might be&nbsp;
+manageable in a playgroup with unchanging decks,&nbsp;&nbsp;
+
+00:08:10.800 --> 00:08:16.320
+but playing out in the wild with strangers is&nbsp;
+a whole different story. Any set of 4 EDH decks&nbsp;&nbsp;
+
+00:08:16.320 --> 00:08:20.800
+will likely have more than 200 unique nonland&nbsp;
+cards, which is a fair amount to learn if the&nbsp;&nbsp;
+
+00:08:20.800 --> 00:08:25.680
+decks are unchanging, and an ongoing gauntlet for&nbsp;
+newer players in a public setting where each game&nbsp;&nbsp;
+
+00:08:25.680 --> 00:08:30.640
+might present dozens of new cards. I think most&nbsp;
+of us have been in a game among strangers where&nbsp;&nbsp;
+
+00:08:30.640 --> 00:08:34.720
+it becomes clear that one or more players are&nbsp;
+checked out from what opponents are doing,&nbsp;&nbsp;
+
+00:08:34.720 --> 00:08:38.560
+fatigued by the process of keeping up with all&nbsp;
+the new cardboard that’s hitting the table.
+
+00:08:38.560 --> 00:08:43.760
+So that’s the case I’m trying to present here.&nbsp;
+EDH has 3x the opponents and often around 10x&nbsp;&nbsp;
+
+00:08:43.760 --> 00:08:48.720
+the number of unique cards in opposing decks&nbsp;
+as compared to 1v1 formats. There are 30,000&nbsp;&nbsp;
+
+00:08:48.720 --> 00:08:53.520
+cards legal in the format now, and thousands of&nbsp;
+brand new cards entering the format every year.&nbsp;&nbsp;
+
+00:08:53.520 --> 00:08:57.760
+Each deck tends to play far more permanents than&nbsp;
+are seen in 1v1 formats due to the higher life&nbsp;&nbsp;
+
+00:08:57.760 --> 00:09:02.240
+totals and the multiplayer aspect of things,&nbsp;
+and the result is that boards rapidly clog up&nbsp;&nbsp;
+
+00:09:02.240 --> 00:09:07.280
+with assorted permanents for players to keep&nbsp;
+track of. The information density of EDH is&nbsp;&nbsp;
+
+00:09:07.280 --> 00:09:12.320
+untouched by any other widely-played format, and&nbsp;
+that is a feature about it that we need to keep&nbsp;&nbsp;
+
+00:09:12.320 --> 00:09:17.360
+in mind when we’re playing it. All of this is&nbsp;
+why I find the “knowledge competition” version&nbsp;&nbsp;
+
+00:09:17.360 --> 00:09:24.080
+of casual EDH frustrating, and seek to reduce it&nbsp;
+as much as possible. And that’s as somebody who&nbsp;&nbsp;
+
+00:09:24.080 --> 00:09:29.040
+is probably better equipped to threat analyze&nbsp;
+than at least 80% of EDH players—it’s not that&nbsp;&nbsp;
+
+00:09:29.040 --> 00:09:33.920
+I can’t figure out how potentially game-ending&nbsp;
+a sequencing of opposing plays is on the fly,&nbsp;&nbsp;
+
+00:09:33.920 --> 00:09:39.040
+it’s that I don’t think that should necessarily&nbsp;
+be a constant task expected of all EDH players.&nbsp;&nbsp;
+
+00:09:39.040 --> 00:09:43.440
+The game of figuring out what my opponent’s deck&nbsp;
+does is just not one I think is beneficial to&nbsp;&nbsp;
+
+00:09:43.440 --> 00:09:47.680
+have at the center of the EDH format. There are&nbsp;
+even plenty of days that I personally wish to&nbsp;&nbsp;
+
+00:09:47.680 --> 00:09:51.920
+avoid this part of the format, to kick my feet&nbsp;
+back and focus on resolving my cascade triggers&nbsp;&nbsp;
+
+00:09:51.920 --> 00:09:55.600
+instead of Sherlock-Holmesing my way to what the&nbsp;
+white-knuckled powergamer across the table is&nbsp;&nbsp;
+
+00:09:55.600 --> 00:10:01.280
+packing. But still. With all that said, I could&nbsp;
+see somebody thinking that I’m throwing out the&nbsp;&nbsp;
+
+00:10:01.280 --> 00:10:06.080
+baby with the bath water here. Sure, knowing a&nbsp;
+rough outline of what opposing decks are doing&nbsp;&nbsp;
+
+00:10:06.080 --> 00:10:10.560
+might reduce the mental load of the format&nbsp;
+and make it more approachable for all people,&nbsp;&nbsp;
+
+00:10:10.560 --> 00:10:16.720
+but what about the theatricality of it? What about&nbsp;
+surprises and zany moments and unexpected twists?
+
+00:10:19.600 --> 00:10:20.800
+[BDD Narrating]
+
+00:10:23.200 --> 00:10:26.880
+A fairly common mistake that’s made among&nbsp;
+newer game masters in a role playing game&nbsp;&nbsp;
+
+00:10:26.880 --> 00:10:32.240
+like D&amp;D or Pathfinder is placing too much&nbsp;
+importance on their own predetermined plot,&nbsp;&nbsp;
+
+00:10:32.240 --> 00:10:37.520
+and especially trying to create plot moments that&nbsp;
+will generate a notable reaction in players. This&nbsp;&nbsp;
+
+00:10:37.520 --> 00:10:42.000
+strange hilltop village? It’s actually&nbsp;
+on the back of a massive creature. Whoa,&nbsp;&nbsp;
+
+00:10:42.000 --> 00:10:46.720
+dude! Now you’re telling me these past 5 sessions&nbsp;
+have been playing out in the mind of Jackson the&nbsp;&nbsp;
+
+00:10:46.720 --> 00:10:51.840
+Frost Dragon during his fight with this world’s&nbsp;
+real enemy, Lord Xyrox? What a revelation!&nbsp;&nbsp;
+
+00:10:51.840 --> 00:10:57.040
+This isn’t to say that creating unexpected plot&nbsp;
+beats is never a good idea, but it’s not a good&nbsp;&nbsp;
+
+00:10:57.040 --> 00:11:02.480
+thing to dump most of your effort into as a GM or&nbsp;
+make a load-bearing centerpiece of your campaign,&nbsp;&nbsp;
+
+00:11:02.480 --> 00:11:07.040
+because it’s not really what makes a multiplayer&nbsp;
+RPG fun. Most players aren’t showing up to&nbsp;&nbsp;
+
+00:11:07.040 --> 00:11:11.520
+sessions to be recited your half-baked book idea,&nbsp;
+they’re there for collaborative storytelling,&nbsp;&nbsp;
+
+00:11:11.520 --> 00:11:16.000
+for experiencing funky situations outside the&nbsp;
+realm of reality, for throwing around die rolls&nbsp;&nbsp;
+
+00:11:16.000 --> 00:11:20.320
+and getting to play with the fun character they&nbsp;
+crafted. It might feel good to imagine your big&nbsp;&nbsp;
+
+00:11:20.320 --> 00:11:24.640
+reveal getting the same emotional response as&nbsp;
+some other big moment that arises organically,&nbsp;&nbsp;
+
+00:11:24.640 --> 00:11:28.960
+but that’s not necessarily going to happen.&nbsp;
+At this point you’re probably asking,&nbsp;&nbsp;
+
+00:11:28.960 --> 00:11:34.640
+what does this have to do with EDH, Alex? Well,&nbsp;
+a very similar dynamic takes place there. I&nbsp;&nbsp;
+
+00:11:34.640 --> 00:11:39.440
+dedicated a whole video to this topic about&nbsp;
+a year ago, but the basic idea there was that&nbsp;&nbsp;
+
+00:11:39.440 --> 00:11:45.040
+there are some inherent and unavoidable problems&nbsp;
+with decks that like to win in some grandiose way.
+
+00:11:45.040 --> 00:11:49.520
+I have a deck that wins by getting three Fiend&nbsp;
+Hunters in play at the same time to fiend-hunt&nbsp;&nbsp;
+
+00:11:49.520 --> 00:11:54.080
+each other indefinitely and cobble together an&nbsp;
+ETB-based win from there. I also brewed a list&nbsp;&nbsp;
+
+00:11:54.080 --> 00:11:58.880
+with the goal of casting Rograkh an arbitrarily&nbsp;
+large number of times before Jeska-ing all three&nbsp;&nbsp;
+
+00:11:58.880 --> 00:12:04.240
+of my opponents for an arbitrarily large amount&nbsp;
+of damage. These are undoubtedly flashy as far as&nbsp;&nbsp;
+
+00:12:04.240 --> 00:12:09.440
+wincons go, and they really play into the “showing&nbsp;
+off” side of EDH, the part of the format that&nbsp;&nbsp;
+
+00:12:09.440 --> 00:12:14.320
+is driven by the desire to have strangers ooh&nbsp;
+and ah at the cool things your deck is doing.&nbsp;&nbsp;
+
+00:12:14.320 --> 00:12:19.600
+In principle this is fine, but in reality you tend&nbsp;
+to get the desired response a lot less than you’d&nbsp;&nbsp;
+
+00:12:19.600 --> 00:12:24.400
+expect with this kind of deck. EDH is already&nbsp;
+full of combo decks that can pull off cool,&nbsp;&nbsp;
+
+00:12:24.400 --> 00:12:28.320
+explosive wins, and even if your&nbsp;
+combo deck is a cut above the rest,&nbsp;&nbsp;
+
+00:12:28.320 --> 00:12:32.400
+it’s still putting together a handful of&nbsp;
+cards that abruptly end the game. Effectively,&nbsp;&nbsp;
+
+00:12:32.400 --> 00:12:37.200
+this sort of deck ends up being more fun&nbsp;
+to build than to play—it’s fun to build&nbsp;&nbsp;
+
+00:12:37.200 --> 00:12:41.760
+and tune a deck that does something wacky and&nbsp;
+unusual, but something being fun to think about,&nbsp;&nbsp;
+
+00:12:41.760 --> 00:12:46.640
+fun to theorize, and fun to hear described as&nbsp;
+a concept doesn’t necessarily make it fun in an&nbsp;&nbsp;
+
+00:12:46.640 --> 00:12:52.880
+actual game. Because that’s what EDH is—a game.&nbsp;
+It’s not a museum of cool card interactions, it’s&nbsp;&nbsp;
+
+00:12:52.880 --> 00:12:56.800
+not a collaborative art installation, it’s not a&nbsp;
+competition to see who can do the wackiest thing,&nbsp;&nbsp;
+
+00:12:56.800 --> 00:13:02.720
+it’s a game with players and pieces and goals.&nbsp;
+It’s not identical to a conventional board game,&nbsp;&nbsp;
+
+00:13:02.720 --> 00:13:05.840
+obviously—in the best of times I’d argue&nbsp;
+it can be much more interesting than your&nbsp;&nbsp;
+
+00:13:05.840 --> 00:13:10.000
+average medium-complexity board game—but it&nbsp;
+should be a lot closer to that than it is to&nbsp;&nbsp;
+
+00:13:10.000 --> 00:13:13.360
+reading off a list of the most interesting&nbsp;
+things you can do with Second Harvest.
+
+00:13:13.360 --> 00:13:18.320
+So that’s my precautionary note about funky combo&nbsp;
+decks, and it also applies to any deck whose main&nbsp;&nbsp;
+
+00:13:18.320 --> 00:13:22.320
+gameplan is a bit of a one-trick pony, such as a&nbsp;
+deck that is built to cascade into a particular&nbsp;&nbsp;
+
+00:13:22.320 --> 00:13:26.640
+threat every game. Still, I’m guessing that&nbsp;
+argument probably isn’t all that persuasive&nbsp;&nbsp;
+
+00:13:26.640 --> 00:13:31.600
+to a lot of people in the context of pregame&nbsp;
+conversations. Sure, a deck that plans to win in&nbsp;&nbsp;
+
+00:13:31.600 --> 00:13:36.800
+some sudden, dramatic way shouldn’t be hiding its&nbsp;
+gameplan, but what about cool plays that aren’t&nbsp;&nbsp;
+
+00:13:36.800 --> 00:13:41.280
+game-winning? Are you just asking me to cough up&nbsp;
+all my deck’s secrets for my opponents to see, to&nbsp;&nbsp;
+
+00:13:41.280 --> 00:13:46.720
+spill the beans on my decks’ cool intricacies? If&nbsp;
+I’m to be totally honest, I don’t quite know how&nbsp;&nbsp;
+
+00:13:46.720 --> 00:13:51.760
+to respond to this sort of question, because to me&nbsp;
+it’s a clear indication that the person saying it&nbsp;&nbsp;
+
+00:13:51.760 --> 00:13:57.600
+and myself are really not on the same page about&nbsp;
+the terms of the discussion. So, let’s get on the&nbsp;&nbsp;
+
+00:13:57.600 --> 00:14:02.640
+same page—what is the purpose of a conversation&nbsp;
+at or near the start of a game where players&nbsp;&nbsp;
+
+00:14:02.640 --> 00:14:08.880
+describe their decks? Two things. One, it’s a&nbsp;
+rule zero conversation—anytime you’re mentioning&nbsp;&nbsp;
+
+00:14:08.880 --> 00:14:13.120
+the bracket of your deck, how it plans to win,&nbsp;
+and what its most powerful plays are, you’re&nbsp;&nbsp;
+
+00:14:13.120 --> 00:14:17.120
+giving your opponents the opportunity to decide&nbsp;
+if they want to play against that. This is why&nbsp;&nbsp;
+
+00:14:17.120 --> 00:14:22.320
+I find combo decks that win in some cool way the&nbsp;
+most relevant example—even if you’d quite like to&nbsp;&nbsp;
+
+00:14:22.320 --> 00:14:26.960
+keep your cool combo a secret to put on some sort&nbsp;
+of dramatic performance for anybody watching, when&nbsp;&nbsp;
+
+00:14:26.960 --> 00:14:30.400
+you’re playing that sort of deck you really should&nbsp;
+be making it clear to your opponents that that’s&nbsp;&nbsp;
+
+00:14:30.400 --> 00:14:34.720
+what you’re doing. This could be as simple as&nbsp;
+saying “I’m playing a deck with a combo win that&nbsp;&nbsp;
+
+00:14:34.720 --> 00:14:38.880
+frequently happens around turn 7,” which gives&nbsp;
+your opponents the tools they need to decide if&nbsp;&nbsp;
+
+00:14:38.880 --> 00:14:44.080
+they want to be in this game with a moderate speed&nbsp;
+combo deck. In contrast to this, a deck whose&nbsp;&nbsp;
+
+00:14:44.080 --> 00:14:49.760
+cool thing isn’t a combo win might not have this&nbsp;
+sort of relevant obligation in the rule 0 phase.
+
+00:14:49.760 --> 00:14:54.160
+The other purpose of a start-of-game conversation&nbsp;
+is getting players calibrated about what’s to&nbsp;&nbsp;
+
+00:14:54.160 --> 00:15:00.000
+come, and I actually think of this as the more&nbsp;
+important purpose. A lot of players will be okay&nbsp;&nbsp;
+
+00:15:00.000 --> 00:15:04.960
+playing against a somewhat spicy deck so long as&nbsp;
+they get some idea of what to expect and what to&nbsp;&nbsp;
+
+00:15:04.960 --> 00:15:09.840
+watch out for. With my most powerful deck, my&nbsp;
+Francisco Malcolm deck, I’ll generally tell my&nbsp;&nbsp;
+
+00:15:09.840 --> 00:15:15.440
+opponents that my deck is fast, with frequent turn&nbsp;
+5 wins, and that it usually wins with Time Sieve,&nbsp;&nbsp;
+
+00:15:15.440 --> 00:15:18.640
+and with these two things in their pocket&nbsp;
+my opponents will have a decent idea of&nbsp;&nbsp;
+
+00:15:18.640 --> 00:15:23.680
+what to watch out for and the tools to make&nbsp;
+strategic decisions against my deck. Likewise,&nbsp;&nbsp;
+
+00:15:23.680 --> 00:15:27.680
+with my Sharuum deck I’ll tell my opponents that&nbsp;
+my deck is a control deck built around Astral&nbsp;&nbsp;
+
+00:15:27.680 --> 00:15:32.480
+Slide. This is an exceptionally short description&nbsp;
+of my deck that leaves dozens of cool interactions&nbsp;&nbsp;
+
+00:15:32.480 --> 00:15:37.040
+unmentioned, but it communicates the two most&nbsp;
+important facts my opponents might want to know:&nbsp;&nbsp;
+
+00:15:37.040 --> 00:15:40.480
+that my deck will be able to exert more&nbsp;
+leverage over the game the longer it goes,&nbsp;&nbsp;
+
+00:15:40.480 --> 00:15:45.200
+and that flickering permanents is a central&nbsp;
+part of my gameplan. Performing this sort of&nbsp;&nbsp;
+
+00:15:45.200 --> 00:15:49.440
+“calibration” is a good practice because&nbsp;
+EDH is fundamentally a social format,&nbsp;&nbsp;
+
+00:15:49.440 --> 00:15:53.440
+and one where players should be thinking about&nbsp;
+their opponents’ decks and strategizing the best&nbsp;&nbsp;
+
+00:15:53.440 --> 00:15:57.680
+way to navigate around what their opponents are&nbsp;
+playing. If players don’t have basic information&nbsp;&nbsp;
+
+00:15:57.680 --> 00:16:01.680
+on their opponents’ decks, they’re in the&nbsp;
+dark. Who’s the threat now? Who might be&nbsp;&nbsp;
+
+00:16:01.680 --> 00:16:05.360
+the threat later? What on board currently&nbsp;
+is threaten-ing? If you’re struggling to&nbsp;&nbsp;
+
+00:16:05.360 --> 00:16:09.360
+make simple decisions because you lack basic&nbsp;
+information about the decks present, a whole&nbsp;&nbsp;
+
+00:16:09.360 --> 00:16:15.200
+lot of the depth and the skill of the EDH format&nbsp;
+is stripped out, with a lot of luck replacing it.&nbsp;&nbsp;
+
+00:16:15.200 --> 00:16:19.760
+This also ties in with the information density&nbsp;
+of the format—in his video about me in April,&nbsp;&nbsp;
+
+00:16:19.760 --> 00:16:24.480
+The Trinket Mage responded to my arguments about&nbsp;
+the complexity of the format with a game show.&nbsp;&nbsp;
+
+00:16:24.480 --> 00:16:29.440
+He gave me a set of cards played with a specific&nbsp;
+commander, and asked if I could tell why the given&nbsp;&nbsp;
+
+00:16:29.440 --> 00:16:34.240
+card was in the given deck. As an exercise to&nbsp;
+devote my full attention to, this was kinda fun,&nbsp;&nbsp;
+
+00:16:34.240 --> 00:16:39.120
+but the issue here is that a real commander game&nbsp;
+would have a bunch of that sort of exercise, PLUS&nbsp;&nbsp;
+
+00:16:39.120 --> 00:16:44.320
+threat assessing between different opponents, PLUS&nbsp;
+playing one’s own deck, PLUS PLUS PLUS reading a&nbsp;&nbsp;
+
+00:16:44.320 --> 00:16:48.720
+bunch of new cards if you’re not somebody who’s&nbsp;
+already deeply embedded in the commander format.&nbsp;&nbsp;
+
+00:16:48.720 --> 00:16:53.360
+In the context of all that extra stuff, having&nbsp;
+the slightest leg up by knowing a couple key&nbsp;&nbsp;
+
+00:16:53.360 --> 00:16:58.400
+elements of opposing decks can really help in&nbsp;
+not screwing up critical threat assessments.
+
+00:16:58.400 --> 00:17:02.080
+All of this brings me back to the people saying&nbsp;
+“What, you want me to spill my deck’s every secret&nbsp;&nbsp;
+
+00:17:02.080 --> 00:17:07.280
+for you?” If I’m to treat this as an entirely&nbsp;
+good faith question, I would respond like this:&nbsp;&nbsp;
+
+00:17:07.280 --> 00:17:11.680
+“Hi people! No, you don’t need to do that.&nbsp;
+Here’s a flowchart!” Is the part of your deck&nbsp;&nbsp;
+
+00:17:11.680 --> 00:17:16.400
+you’re thinking about a powerful wincon for you?&nbsp;
+If yes, maybe consider disclosing that. If not,&nbsp;&nbsp;
+
+00:17:16.400 --> 00:17:19.680
+is the part of your deck you’re thinking about&nbsp;
+something you’d describe as your core gameplan&nbsp;&nbsp;
+
+00:17:19.680 --> 00:17:24.000
+in a way that’d be helpful to decisionmaking&nbsp;
+for somebody playing against your deck? If yes,&nbsp;&nbsp;
+
+00:17:24.000 --> 00:17:29.280
+consider disclosing that. If not, you’re good!&nbsp;
+We’re talking about a 10 second or less pitch,&nbsp;&nbsp;
+
+00:17:29.280 --> 00:17:32.720
+you obviously don’t need to spill the beans&nbsp;
+about a cool side synergy chilling deep in&nbsp;&nbsp;
+
+00:17:32.720 --> 00:17:36.800
+your 99. But you shouldn’t need to hide&nbsp;
+the main gameplan of your deck or conceal&nbsp;&nbsp;
+
+00:17:36.800 --> 00:17:42.080
+the most powerful wincon. To put it bluntly, if&nbsp;
+giving somebody a synopsis of what your deck does&nbsp;&nbsp;
+
+00:17:42.080 --> 00:17:46.240
+ruins your experience playing it, it wasn’t&nbsp;
+all that interesting a deck to begin with.
+
+00:17:46.240 --> 00:17:51.040
+In all of this, I’ve also been dancing around&nbsp;
+a final group of players: the people who think&nbsp;&nbsp;
+
+00:17:51.040 --> 00:17:56.160
+deception is a critical part of the commander&nbsp;
+format. This is not generally a group of players I&nbsp;&nbsp;
+
+00:17:56.160 --> 00:18:00.560
+have a high opinion of, though to be fair some of&nbsp;
+it might be a sort of trauma response to playing&nbsp;&nbsp;
+
+00:18:00.560 --> 00:18:05.200
+with assholes. Some people in the reddit thread&nbsp;
+that inspired this video mentioned concealing what&nbsp;&nbsp;
+
+00:18:05.200 --> 00:18:09.520
+their deck is pre-game so opponents don’t&nbsp;
+try to switch to a deck that counters it,&nbsp;&nbsp;
+
+00:18:09.520 --> 00:18:13.040
+which would be a fair consideration if you&nbsp;
+accept that people treating you like shit is&nbsp;&nbsp;
+
+00:18:13.040 --> 00:18:18.000
+something you’re okay with in a commander game.&nbsp;
+But it shouldn’t be—commander is a social format,&nbsp;&nbsp;
+
+00:18:18.000 --> 00:18:22.960
+and if other people take pregame communication&nbsp;
+as an opportunity to be an antisocial bully&nbsp;&nbsp;
+
+00:18:22.960 --> 00:18:27.520
+that’s a problem with them, not a problem with&nbsp;
+communication as a concept. There’s also another&nbsp;&nbsp;
+
+00:18:27.520 --> 00:18:32.400
+group of players who specifically try to trick&nbsp;
+their opponents as a strategic play, trying to&nbsp;&nbsp;
+
+00:18:32.400 --> 00:18:37.760
+sneak through wins specifically taking advantage&nbsp;
+of opponents lacking knowledge of their deck. This&nbsp;&nbsp;
+
+00:18:37.760 --> 00:18:42.960
+is admittedly a spectrum—there are lesser versions&nbsp;
+of this like sandbagging plays and playing the&nbsp;&nbsp;
+
+00:18:42.960 --> 00:18:47.120
+small bean with a lategame centered deck, and&nbsp;
+while I personally don’t really care for this&nbsp;&nbsp;
+
+00:18:47.120 --> 00:18:51.040
+sort of table engagement I understand that it’s&nbsp;
+naturally going to be a part of a multiplayer,&nbsp;&nbsp;
+
+00:18:51.040 --> 00:18:57.120
+social format. But players doing the more serious&nbsp;
+versions of this—downplaying an obviously busted&nbsp;&nbsp;
+
+00:18:57.120 --> 00:19:00.960
+board to somebody who doesn’t know any better,&nbsp;
+pretending that a powerful centerpiece card is&nbsp;&nbsp;
+
+00:19:00.960 --> 00:19:04.880
+some normal filler, and otherwise skating&nbsp;
+by on their opponents lack of experience,&nbsp;&nbsp;
+
+00:19:04.880 --> 00:19:09.760
+knowledge, or focus—this behavior is toxic to&nbsp;
+any sort of casual format, and if you need to&nbsp;&nbsp;
+
+00:19:09.760 --> 00:19:14.320
+do this to win my natural assumption is that&nbsp;
+you’re not very good at Magic: the Gathering.
+
+00:19:14.320 --> 00:19:16.640
+[Ian Narrating]
+
+00:19:19.120 --> 00:19:22.960
+This video has been kind of meandering, and&nbsp;
+has involved various different arguments in&nbsp;&nbsp;
+
+00:19:22.960 --> 00:19:26.640
+favor of open communication, as well as&nbsp;
+various arguments against the opposite&nbsp;&nbsp;
+
+00:19:26.640 --> 00:19:31.920
+sort of table behavior. Despite this, I’m less&nbsp;
+singleminded about this than you might think,&nbsp;&nbsp;
+
+00:19:31.920 --> 00:19:37.200
+and there are some pretty reasonable arguments for&nbsp;
+less table disclosure that I’ve heard in the past.&nbsp;&nbsp;
+
+00:19:37.200 --> 00:19:41.920
+One of these is that treating less experienced&nbsp;
+players as full-fledged commander players, as&nbsp;&nbsp;
+
+00:19:41.920 --> 00:19:46.640
+well as not trying to baby them with lots of extra&nbsp;
+treatment, is both more respectful and a better&nbsp;&nbsp;
+
+00:19:46.640 --> 00:19:51.280
+learning environment for a lot of players. This&nbsp;
+is an idea I’m sympathetic to—different players&nbsp;&nbsp;
+
+00:19:51.280 --> 00:19:55.360
+do well in different environments, and a situation&nbsp;
+where everybody else is playing with the kiddie&nbsp;&nbsp;
+
+00:19:55.360 --> 00:20:00.160
+gloves on might not necessarily be the ideal one&nbsp;
+for learning the format, depending on the player.&nbsp;&nbsp;
+
+00:20:00.160 --> 00:20:05.280
+Although, I think this reasoning can work the&nbsp;
+other way as well—when I play a very impactful&nbsp;&nbsp;
+
+00:20:05.280 --> 00:20:10.560
+card, I’ll generally emphasize it to the table,&nbsp;
+oftentimes saying something like “I attempt to&nbsp;&nbsp;
+
+00:20:10.560 --> 00:20:16.160
+cast Captivating Crew.” To me, this is saying to&nbsp;
+my opponents “I’m doing something that, of course,&nbsp;&nbsp;
+
+00:20:16.160 --> 00:20:20.320
+you all as sensible players who know my gameplan&nbsp;
+might want to stop, and I’m respectfully giving&nbsp;&nbsp;
+
+00:20:20.320 --> 00:20:25.520
+you the opportunity to do so.” Same reasoning of&nbsp;
+respecting my opponents’ capabilities of players,&nbsp;&nbsp;
+
+00:20:25.520 --> 00:20:30.240
+but in this instance it leads to more table&nbsp;
+communication rather than less. Regardless of&nbsp;&nbsp;
+
+00:20:30.240 --> 00:20:34.160
+where you go with this idea, it’s important to&nbsp;
+remember different players learn better under&nbsp;&nbsp;
+
+00:20:34.160 --> 00:20:37.920
+different circumstances, and we should never&nbsp;
+assume we have the one-size-fits-all solution&nbsp;&nbsp;
+
+00:20:37.920 --> 00:20:41.920
+to teaching, playing with, and showing&nbsp;
+respect to less experienced players.
+
+00:20:41.920 --> 00:20:47.120
+A related argument that I find compelling is that&nbsp;
+over-emphasizing rule 0 as a part of the game can&nbsp;&nbsp;
+
+00:20:47.120 --> 00:20:51.920
+encourage a mindset of fear and avoidance in&nbsp;
+newer players rather than the curiosity and&nbsp;&nbsp;
+
+00:20:51.920 --> 00:20:56.800
+openness to experience that arguably make for a&nbsp;
+better experience in commander. If players are&nbsp;&nbsp;
+
+00:20:56.800 --> 00:21:01.520
+immediately told to watch out for stax, to avoid&nbsp;
+mana denial, to fear infect, to not play mill,&nbsp;&nbsp;
+
+00:21:01.520 --> 00:21:06.080
+to disrespect discard, and to ask for no goad&nbsp;
+in their games, suddenly you end up with a bunch&nbsp;&nbsp;
+
+00:21:06.080 --> 00:21:11.760
+of players who exist in echo chambers and avoid&nbsp;
+experiences they find uncomfortable. The Trinket&nbsp;&nbsp;
+
+00:21:11.760 --> 00:21:16.880
+Mage has discussed how newer players in his games&nbsp;
+have had relatively neutral reactions to Humility&nbsp;&nbsp;
+
+00:21:16.880 --> 00:21:21.760
+of all cards, seeming curious about this card&nbsp;
+they’d never seen before more than anything else.&nbsp;&nbsp;
+
+00:21:21.760 --> 00:21:25.760
+While I don’t think I’d try this with one of&nbsp;
+the most oppressive stax pieces in the game,&nbsp;&nbsp;
+
+00:21:25.760 --> 00:21:30.240
+the broader point is an interesting one—players&nbsp;
+are subtly influenced by the ways other people&nbsp;&nbsp;
+
+00:21:30.240 --> 00:21:35.040
+react to cards, and when they haven’t been taught&nbsp;
+to hate and fear a card, they’ll be more engaged&nbsp;&nbsp;
+
+00:21:35.040 --> 00:21:40.240
+and more prepared to problem solve when playing&nbsp;
+against it. This is also part of why I care more&nbsp;&nbsp;
+
+00:21:40.240 --> 00:21:44.880
+about the establishing expectations part of a&nbsp;
+pregame conversation than I care about the rule&nbsp;&nbsp;
+
+00:21:44.880 --> 00:21:50.080
+0 part. It’s valid for players to not want to play&nbsp;
+against a particular thing, but I’d rather play&nbsp;&nbsp;
+
+00:21:50.080 --> 00:21:54.640
+in a landscape where the list of hard no’s for&nbsp;
+players is smaller, and an alternative to keeping&nbsp;&nbsp;
+
+00:21:54.640 --> 00:21:59.600
+something like stax or combos out of a game&nbsp;
+altogether is disclosing those things up front and&nbsp;&nbsp;
+
+00:21:59.600 --> 00:22:03.440
+allowing players the time to prepare themselves&nbsp;
+for those things rather than getting blindsided&nbsp;&nbsp;
+
+00:22:03.440 --> 00:22:07.920
+later. As general practices, your opponents&nbsp;
+should know about the most threatening parts&nbsp;&nbsp;
+
+00:22:07.920 --> 00:22:11.680
+of your deck because that’s the part they might&nbsp;
+want to strategize against. Your opponents should&nbsp;&nbsp;
+
+00:22:11.680 --> 00:22:16.080
+know the strongest wincon in your deck not just so&nbsp;
+they can decide if they want to play against it,&nbsp;&nbsp;
+
+00:22:16.080 --> 00:22:20.880
+but also so they can decide how they should&nbsp;
+be playing against you once the game starts.&nbsp;&nbsp;
+
+00:22:20.880 --> 00:22:24.960
+These suggestions might feel frustrating for&nbsp;
+the people used to grabbing at every strand&nbsp;&nbsp;
+
+00:22:24.960 --> 00:22:29.040
+of advantage and playing close to the chest for&nbsp;
+a better shot at winning, but I can promise you&nbsp;&nbsp;
+
+00:22:29.040 --> 00:22:33.120
+they’ll make for better commander games and a&nbsp;
+healthier commander ecosystem in the long term.
+
+00:22:33.120 --> 00:22:37.520
+The final takeaway I’d want to impart here is&nbsp;
+simply that the EDH format being accessible or&nbsp;&nbsp;
+
+00:22:37.520 --> 00:22:43.040
+good for new players or for players who play less&nbsp;
+often or so on—none of these considerations are&nbsp;&nbsp;
+
+00:22:43.040 --> 00:22:48.800
+binaries. I will happily admit that much of the&nbsp;
+EDH format’s information density is inherent to&nbsp;&nbsp;
+
+00:22:48.800 --> 00:22:53.920
+its basic construction. The number of players,&nbsp;
+the deck size, the higher life totals—all of&nbsp;&nbsp;
+
+00:22:53.920 --> 00:22:59.040
+these things are factors in producing overwhelming&nbsp;
+games for players. The lazy response to noticing&nbsp;&nbsp;
+
+00:22:59.040 --> 00:23:04.720
+this is to throw in the towel before you’ve even&nbsp;
+begun. EDH is complicated, so it’s pointless to&nbsp;&nbsp;
+
+00:23:04.720 --> 00:23:08.800
+take any steps to make it more approachable or&nbsp;
+more enjoyable for a wider range of players,&nbsp;&nbsp;
+
+00:23:08.800 --> 00:23:13.440
+a coward might say. The issue with this sort of&nbsp;
+statement is that the commander format, along&nbsp;&nbsp;
+
+00:23:13.440 --> 00:23:19.600
+with most other things in life, is not a binary.&nbsp;
+It can always be modulated one way or another—even&nbsp;&nbsp;
+
+00:23:19.600 --> 00:23:23.120
+if commander’s inherent features mean that&nbsp;
+some number of players will struggle with the&nbsp;&nbsp;
+
+00:23:23.120 --> 00:23:27.760
+information density, there are still things we as&nbsp;
+players can do to decrease the number of players&nbsp;&nbsp;
+
+00:23:27.760 --> 00:23:32.320
+who feel overwhelmed or fatigued, or make the&nbsp;
+experience of commander more enjoyable even for&nbsp;&nbsp;
+
+00:23:32.320 --> 00:23:37.040
+the players who aren’t keeping up perfectly well.&nbsp;
+Solutions should be viewed not based on whether&nbsp;&nbsp;
+
+00:23:37.040 --> 00:23:42.320
+they fix all problems, but rather whether&nbsp;
+they solve more problems than they create.
+
+00:23:42.320 --> 00:23:46.640
+There are undoubtedly some solutions that don’t&nbsp;
+pass that test. Pushing players to run simpler&nbsp;&nbsp;
+
+00:23:46.640 --> 00:23:50.480
+and more conventional decks. Pressuring new&nbsp;
+players to play a different format instead&nbsp;&nbsp;
+
+00:23:50.480 --> 00:23:54.720
+of commander. Asking Wizards of the Coast to&nbsp;
+get heavily involved in fixing commander’s&nbsp;&nbsp;
+
+00:23:54.720 --> 00:23:58.800
+information density problem. These are all&nbsp;
+things that you could argue might help,&nbsp;&nbsp;
+
+00:23:58.800 --> 00:24:03.520
+but they leave open the potential for all sorts&nbsp;
+of negative side effects. What isn’t loaded with&nbsp;&nbsp;
+
+00:24:03.520 --> 00:24:08.080
+potential negative side effects is talking&nbsp;
+to your opponents. You don’t need to share&nbsp;&nbsp;
+
+00:24:08.080 --> 00:24:12.400
+your deck’s life story or list out every card&nbsp;
+or any other piece of hyperbole thrown out by&nbsp;&nbsp;
+
+00:24:12.400 --> 00:24:17.200
+some denizen of the internet. My video a year&nbsp;
+ago spent a while going over suggestions so&nbsp;&nbsp;
+
+00:24:17.200 --> 00:24:21.760
+I’ll keep it brief and simple here. Treat your&nbsp;
+opponents like people you’re playing a game with,&nbsp;&nbsp;
+
+00:24:21.760 --> 00:24:26.000
+and give them the information they need to&nbsp;
+engage with your deck on a basic level. If&nbsp;&nbsp;
+
+00:24:26.000 --> 00:24:29.760
+you’re worried that 10 seconds of talking about&nbsp;
+your deck is going to ruin its fun surprises,&nbsp;&nbsp;
+
+00:24:29.760 --> 00:24:33.760
+that’s probably a good indicator that the&nbsp;
+surprises aren’t actually fun and that all you&nbsp;&nbsp;
+
+00:24:33.760 --> 00:24:38.240
+have on your hands is a gimmick that you and/or&nbsp;
+everyone you know will be sick of in approximately&nbsp;&nbsp;
+
+00:24:38.240 --> 00:24:43.360
+27 seconds. Finally, it’s okay if you enjoy&nbsp;
+any of the versions of information-limited&nbsp;&nbsp;
+
+00:24:43.360 --> 00:24:47.120
+commander I’ve been complaining about in&nbsp;
+this video—I even see the appeal of some&nbsp;&nbsp;
+
+00:24:47.120 --> 00:24:51.520
+aspects of that style. At the end of the day,&nbsp;
+the biggest takeaway here should simply be to&nbsp;&nbsp;
+
+00:24:51.520 --> 00:24:55.600
+keep audience in mind—what’s fun for you isn’t&nbsp;
+inherently going to be fun for other people,&nbsp;&nbsp;
+
+00:24:55.600 --> 00:24:59.840
+what you can handle cognitively isn’t inherently&nbsp;
+going to be handled as well by other people,&nbsp;&nbsp;
+
+00:24:59.840 --> 00:25:04.880
+and what works for one table might not work for&nbsp;
+all tables. Casual EDH is a format inherently&nbsp;&nbsp;
+
+00:25:04.880 --> 00:25:10.320
+built on compromise and collaboration, and leaning&nbsp;
+into that will only lead to having more fun.
+
+00:25:10.320 --> 00:25:14.240
+Thanks for watching, and thanks to Archidekt&nbsp;
+for supporting the channel. I recently did a&nbsp;&nbsp;
+
+00:25:14.240 --> 00:25:18.480
+deck review on my second channel, and the flexible&nbsp;
+UI of Archidekt was so helpful for both helping&nbsp;&nbsp;
+
+00:25:18.480 --> 00:25:23.040
+me analyze decks and helping me display their&nbsp;
+different elements. A link to all of my decks&nbsp;&nbsp;
+
+00:25:23.040 --> 00:25:28.000
+is in the description. Also, shout out to all of&nbsp;
+these people for being cool creators and lending&nbsp;&nbsp;
+
+00:25:28.000 --> 00:25:33.280
+their vocal talents in this video. A link to each&nbsp;
+of their channels is in the description. Finally,&nbsp;&nbsp;
+
+00:25:33.280 --> 00:25:36.160
+thanks to my Patrons and YouTube members&nbsp;
+for their ongoing support of everything I&nbsp;&nbsp;
+
+00:25:36.160 --> 00:25:41.440
+do here. I have some extra thoughts about how&nbsp;
+brackets interact with rule 0 that didn’t make&nbsp;&nbsp;
+
+00:25:41.440 --> 00:25:44.560
+sense to put anywhere in this video, so&nbsp;
+I’ve tossed those in a three-minute video&nbsp;&nbsp;
+
+00:25:44.560 --> 00:25:48.400
+for supporter. I wanted to get this bad boy out&nbsp;
+the door so that bit’s not quite finished yet,&nbsp;&nbsp;
+
+00:25:48.400 --> 00:25:52.240
+but keep your eyes peeled for that, it’ll&nbsp;
+be out in the next couple days. Saloob out.
+

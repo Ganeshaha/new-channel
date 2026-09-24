@@ -1,0 +1,638 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.320 --> 00:00:04.720
+In my last video, I discussed some patterns&nbsp;
+I’d noticed during my time reviewing decks,&nbsp;&nbsp;
+
+00:00:04.720 --> 00:00:09.840
+and there I gave 5 common deckbuilding&nbsp;
+mistakes that I’ve seen people make. However,&nbsp;&nbsp;
+
+00:00:09.840 --> 00:00:15.200
+that video only covered some of my observations,&nbsp;
+with the other thing I calculated being how often&nbsp;&nbsp;
+
+00:00:15.200 --> 00:00:20.720
+I suggested adding more of different types&nbsp;
+of card to a deck. And, after interaction,&nbsp;&nbsp;
+
+00:00:20.720 --> 00:00:26.080
+the second most common element here is a&nbsp;
+tie between lands and ramp. To be honest,&nbsp;&nbsp;
+
+00:00:26.080 --> 00:00:31.200
+this surprised me a little, particularly the&nbsp;
+ramp part. Adding ramp feels like a somewhat&nbsp;&nbsp;
+
+00:00:31.200 --> 00:00:36.800
+dated suggestion, a tip offered to newer players&nbsp;
+in 2018 for how to keep up with the competition in&nbsp;&nbsp;
+
+00:00:36.800 --> 00:00:42.480
+the hottest new format on the block. In 2025,&nbsp;
+card draw and synergy feel like bigger focal&nbsp;&nbsp;
+
+00:00:42.480 --> 00:00:49.280
+points for EDH critique, with a trendy hot take&nbsp;
+these days being that people run too much ramp,&nbsp;&nbsp;
+
+00:00:49.280 --> 00:00:54.880
+that the focus on ramp of the past decade has&nbsp;
+gone too far in some cases. And, undoubtedly,&nbsp;&nbsp;
+
+00:00:54.880 --> 00:01:00.640
+there is probably some truth to that—ramp has&nbsp;
+become an accepted part of every deck, and adding&nbsp;&nbsp;
+
+00:01:00.640 --> 00:01:05.200
+ramp to a deck without thinking about why you’re&nbsp;
+adding it is both a commonplace action for people,&nbsp;&nbsp;
+
+00:01:05.200 --> 00:01:10.560
+and a recipe for decks that aren’t as lean and&nbsp;
+powerful as they could be. And yet, there have&nbsp;&nbsp;
+
+00:01:10.560 --> 00:01:16.080
+been 9 decks I’ve seen that I thought needed more&nbsp;
+ramp, as opposed to only 6 that needed more draw.&nbsp;&nbsp;
+
+00:01:16.080 --> 00:01:20.720
+So in this video, I want to get to the bottom of&nbsp;
+that discrepancy, and hopefully build a framework&nbsp;&nbsp;
+
+00:01:20.720 --> 00:01:24.716
+that can help you tell if your deck is in need&nbsp;
+of ramp, or in need of something that’s not ramp.
+
+00:01:24.716 --> 00:01:25.760
+Why ramp?
+
+00:01:25.760 --> 00:01:31.040
+The first point that needs to be made is that&nbsp;
+ramp spells don’t fulfill one single task. Rather,&nbsp;&nbsp;
+
+00:01:31.040 --> 00:01:36.480
+they perform two separate functions—curving&nbsp;
+out, and increasing total mana quantity. Let’s&nbsp;&nbsp;
+
+00:01:36.480 --> 00:01:40.960
+start with the first one of those. What I mean by&nbsp;
+curving out is deploying your cards in an order&nbsp;&nbsp;
+
+00:01:40.960 --> 00:01:45.680
+and on a timeline that lets your deck best perform&nbsp;
+its gameplan in the first five turns of the game.&nbsp;&nbsp;
+
+00:01:45.680 --> 00:01:50.320
+If we consider a dinosaur deck as an example,&nbsp;
+most Pantlaza players would probably prefer to&nbsp;&nbsp;
+
+00:01:50.320 --> 00:01:55.280
+get him out on turn 4, since Dinosaurs played&nbsp;
+after him generate extra value and dinosaurs&nbsp;&nbsp;
+
+00:01:55.280 --> 00:02:00.080
+played before him do not. If we assume that&nbsp;
+most ramp spells ramp for a single mana,&nbsp;&nbsp;
+
+00:02:00.080 --> 00:02:05.120
+this means that we need to choose whether we&nbsp;
+want that ramp to happen on turn 1, 2, or 3,&nbsp;&nbsp;
+
+00:02:05.120 --> 00:02:09.920
+or what mixture of those values we’d prefer.&nbsp;
+Let’s map out those different options—with&nbsp;&nbsp;
+
+00:02:09.920 --> 00:02:14.640
+a turn 1 ramp spell, we skip 2 mana and have&nbsp;
+turns with 3 and 4 mana in addition to the turn&nbsp;&nbsp;
+
+00:02:14.640 --> 00:02:20.640
+4 Pantlaza. With a turn 2 ramp spell, we skip 3&nbsp;
+mana and have a single 4 mana turn before our 5&nbsp;&nbsp;
+
+00:02:20.640 --> 00:02:25.920
+mana Pantlaza turn. With a 3 mana ramp spell,&nbsp;
+we have 1 and 2 mana turns, but skip directly&nbsp;&nbsp;
+
+00:02:25.920 --> 00:02:30.800
+to 5 without a 4 mana turn. So, how do we make&nbsp;
+our decision between these different options?
+
+00:02:30.800 --> 00:02:35.840
+On a basic level, it might just be coordinating&nbsp;
+with the mana values of the non-ramp cards. If&nbsp;&nbsp;
+
+00:02:35.840 --> 00:02:40.240
+I have lots of 4 drops I like and not many two&nbsp;
+drops, adding a bunch of 2-cost ramp works out&nbsp;&nbsp;
+
+00:02:40.240 --> 00:02:44.880
+well. If I have some setup plays I want to make&nbsp;
+with two mana and not much on three or four mana,&nbsp;&nbsp;
+
+00:02:44.880 --> 00:02:49.600
+adding some three cost ramp likely works well with&nbsp;
+that. There are a couple other factors, though,&nbsp;&nbsp;
+
+00:02:49.600 --> 00:02:54.800
+such as that some ramp will simply be better for&nbsp;
+our deck than other ramp. Ramping on turn 1 is&nbsp;&nbsp;
+
+00:02:54.800 --> 00:03:00.320
+theoretically the most efficient from a mana-spent&nbsp;
+standpoint, but basically all 1 mana ramp will be&nbsp;&nbsp;
+
+00:03:00.320 --> 00:03:04.640
+in the form of mana dorks, which could amplify&nbsp;
+the weakness to boardwipes that already exists&nbsp;&nbsp;
+
+00:03:04.640 --> 00:03:09.520
+for dinosaur decks. Meanwhile, though 3 mana&nbsp;
+ramp is less mana efficient and takes up an&nbsp;&nbsp;
+
+00:03:09.520 --> 00:03:14.560
+often-contested mana slot, it’s also likely to&nbsp;
+have upsides beyond just boosting us up 1 mana,&nbsp;&nbsp;
+
+00:03:14.560 --> 00:03:19.120
+and additionally might contain more cards that&nbsp;
+synergize with the rest of our gameplan. If we&nbsp;&nbsp;
+
+00:03:19.120 --> 00:03:23.520
+have lots of great plays to land on 3 and 4&nbsp;
+mana that one mana dork might still be great,&nbsp;&nbsp;
+
+00:03:23.520 --> 00:03:27.520
+but it’s all about weighing the risk vs the&nbsp;
+reward, and there are plenty of decks where&nbsp;&nbsp;
+
+00:03:27.520 --> 00:03:32.560
+the reward won’t be great enough. One final&nbsp;
+consideration is how taplands affect our&nbsp;&nbsp;
+
+00:03:32.560 --> 00:03:37.680
+curve. If you build the most optimized possible&nbsp;
+mana base you could probably mostly avoid these,&nbsp;&nbsp;
+
+00:03:37.680 --> 00:03:42.320
+but this may not even be necessary. Lots of&nbsp;
+mana curves build in a bit of breathing room&nbsp;&nbsp;
+
+00:03:42.320 --> 00:03:47.440
+where they can play a tapland consequence-free,&nbsp;
+often on turn 1 but also on later turns as well.&nbsp;&nbsp;
+
+00:03:47.440 --> 00:03:51.600
+With our hypothetical dino deck, I’d expect&nbsp;
+a pretty normal curve to be nothing turn 1,&nbsp;&nbsp;
+
+00:03:51.600 --> 00:03:56.080
+a ramp spell turn 2, and 3 mana&nbsp;
+card turn 3, and Pantlaza turn 4,&nbsp;&nbsp;
+
+00:03:56.080 --> 00:04:02.320
+and that curve gives us two different places&nbsp;
+to play a tapped land. Budget players, rejoice!
+
+00:04:02.320 --> 00:04:07.280
+So that’s curveout. The other function of mana&nbsp;
+ramp is to increase the total amount of mana a&nbsp;&nbsp;
+
+00:04:07.280 --> 00:04:12.560
+player has, agnostic to the timing of any one&nbsp;
+card. The easiest example of this is high-cost&nbsp;&nbsp;
+
+00:04:12.560 --> 00:04:18.640
+commanders—you might run some ramp to curve into&nbsp;
+it, but if you have a 6 or 7 mana commander that&nbsp;&nbsp;
+
+00:04:18.640 --> 00:04:23.520
+poses a major threat, command tax is probably&nbsp;
+going to be the bigger factor that compels you&nbsp;&nbsp;
+
+00:04:23.520 --> 00:04:27.680
+to ramp. A deck with a high-30s land count is&nbsp;
+naturally going to start missing land drops&nbsp;&nbsp;
+
+00:04:27.680 --> 00:04:33.120
+around turn 6 absent any draw or filtering, and&nbsp;
+even if you manage to hit every single land drop,&nbsp;&nbsp;
+
+00:04:33.120 --> 00:04:37.840
+the escalating cost of a commander can get&nbsp;
+pretty painful to keep forking over. So, this&nbsp;&nbsp;
+
+00:04:37.840 --> 00:04:42.880
+is the other thing ramp does—it works alongside a&nbsp;
+deck’s land count to keep total mana increasing.&nbsp;&nbsp;
+
+00:04:42.880 --> 00:04:45.760
+Aside from an expensive commander, there are a&nbsp;
+few other reasons you might want your mana to&nbsp;&nbsp;
+
+00:04:45.760 --> 00:04:50.400
+keep increasing. One is that you’re playing a deck&nbsp;
+with a lot of card draw and other ways to churn&nbsp;&nbsp;
+
+00:04:50.400 --> 00:04:55.520
+through your mana, but where your gameplan isn’t&nbsp;
+all that fast. In principle spending more mana is&nbsp;&nbsp;
+
+00:04:55.520 --> 00:04:59.840
+a good starting point for trying to win EDH games,&nbsp;
+though there will be differences in how much mana&nbsp;&nbsp;
+
+00:04:59.840 --> 00:05:04.720
+is required to win. Some decks will be lean and&nbsp;
+proactive enough to be able to win by spending&nbsp;&nbsp;
+
+00:05:04.720 --> 00:05:09.600
+only 20 mana, whereas others might take 30, 40,&nbsp;
+or even more than that. If you’re just getting&nbsp;&nbsp;
+
+00:05:09.600 --> 00:05:14.400
+started with a new deck, or even just getting into&nbsp;
+the format, a good starting point will be to aim&nbsp;&nbsp;
+
+00:05:14.400 --> 00:05:19.600
+high with both draw and ramp, since you might&nbsp;
+not know the amount of mana you need to win.&nbsp;&nbsp;
+
+00:05:19.600 --> 00:05:23.600
+If it ends up being higher than expected, you’ll&nbsp;
+be glad to have a deck with more draw and ramp,&nbsp;&nbsp;
+
+00:05:23.600 --> 00:05:28.960
+whose gameplan is volumetrically larger and&nbsp;
+prepared to play later into the game. As a final&nbsp;&nbsp;
+
+00:05:28.960 --> 00:05:33.280
+precaution, if increased maximum mana is the role&nbsp;
+of ramp you’re leaning into, you’re going to be&nbsp;&nbsp;
+
+00:05:33.280 --> 00:05:38.880
+best-served to prioritize more permanent forms of&nbsp;
+ramp—preferably land ramp, mana rocks in a pinch,&nbsp;&nbsp;
+
+00:05:38.880 --> 00:05:43.760
+and mana dorks at your own caution. An Elvish&nbsp;
+Mystic will be great for a buttery-smooth&nbsp;&nbsp;
+
+00:05:43.760 --> 00:05:49.187
+curveout, but an EDH game is a hostile climate&nbsp;
+for a squishy guy like that in the long term.
+
+00:05:49.187 --> 00:05:49.200
+Why not ramp?
+
+00:05:49.200 --> 00:05:52.560
+So, these are the reasons why you might&nbsp;
+want to play a lot of ramp in your deck,&nbsp;&nbsp;
+
+00:05:52.560 --> 00:05:57.440
+and I do think it is helpful to start by laying&nbsp;
+them out like this. However, this leaves a&nbsp;&nbsp;
+
+00:05:57.440 --> 00:06:01.520
+couple other questions still on the table. For&nbsp;
+one, how much ramp should a deck be running,&nbsp;&nbsp;
+
+00:06:01.520 --> 00:06:06.480
+assuming it wants it in the first place? Well, if&nbsp;
+we’re talking about ramp for curveout purposes,&nbsp;&nbsp;
+
+00:06:06.480 --> 00:06:10.560
+this is a thing you can quantify pretty well&nbsp;
+ahead of time. Figure out your target you’re&nbsp;&nbsp;
+
+00:06:10.560 --> 00:06:14.640
+ramping to and the appropriate mana values of&nbsp;
+ramp to get you there, and then shove it into&nbsp;&nbsp;
+
+00:06:14.640 --> 00:06:19.120
+a hypergeometric calculator. You can find such a&nbsp;
+calculator on my website, linked in description,&nbsp;&nbsp;
+
+00:06:19.120 --> 00:06:23.680
+and you can also use one built into a deckbuilding&nbsp;
+website. Looking at my Radha deck, you can see&nbsp;&nbsp;
+
+00:06:23.680 --> 00:06:28.800
+that Archidekt gives a 77% chance of a ramp spell&nbsp;
+playable on turn 3 in my opening hand with 18&nbsp;&nbsp;
+
+00:06:28.800 --> 00:06:33.120
+copies in the deck, and this is a comfortable&nbsp;
+figure for me since it’s a type of card I’ll&nbsp;&nbsp;
+
+00:06:33.120 --> 00:06:37.520
+always want. You can also tweak the cards-draw&nbsp;
+parameter to match the amount of cards you’ve&nbsp;&nbsp;
+
+00:06:37.520 --> 00:06:41.680
+seen by the turn you’ll want something, though&nbsp;
+only do that if you’re okay keeping opening hands&nbsp;&nbsp;
+
+00:06:41.680 --> 00:06:46.400
+without it. Also, if you don’t want to&nbsp;
+do any math, here are some benchmarks:
+
+00:06:46.400 --> 00:06:50.240
+18 cards of a certain role, like we see&nbsp;
+here, is a good number if you always want&nbsp;&nbsp;
+
+00:06:50.240 --> 00:06:53.840
+to see it in your opening hand, and&nbsp;
+are okay getting multiple sometimes&nbsp;
+
+00:06:53.840 --> 00:06:57.920
+15 is a healthy total if it’s a tool you want&nbsp;
+every game, but there’s a bit of wiggle room for&nbsp;&nbsp;
+
+00:06:57.920 --> 00:07:02.400
+alternate paths, or maybe some early filtering
+12 is nice for if you want a tool in most games&nbsp;&nbsp;
+
+00:07:02.400 --> 00:07:06.480
+but some have alternate options for curving out
+9 is good for if a thing is a frequent part&nbsp;&nbsp;
+
+00:07:06.480 --> 00:07:10.080
+of your curve-out, but not a core part
+Finally, 6 is good for a thing you want&nbsp;&nbsp;
+
+00:07:10.080 --> 00:07:13.600
+sometimes, and 3 is good for a thing you&nbsp;
+don’t really want to draw early very often
+
+00:07:14.480 --> 00:07:19.040
+All of this is for the “curving out” purpose&nbsp;
+of ramp. For the total-mana function of ramp,&nbsp;&nbsp;
+
+00:07:19.040 --> 00:07:22.640
+it’s going to be easier to feel it out&nbsp;
+than anything else. My Sharuum deck’s&nbsp;&nbsp;
+
+00:07:22.640 --> 00:07:26.800
+ramp suite is pretty narrow on paper, but&nbsp;
+in practice it feels like just enough to&nbsp;&nbsp;
+
+00:07:26.800 --> 00:07:30.160
+let me achieve a mana advantage in the&nbsp;
+late game, which can be really helpful&nbsp;&nbsp;
+
+00:07:30.160 --> 00:07:34.240
+for a control deck that wants to outscale&nbsp;
+opponents. Relevantly to the point here,&nbsp;&nbsp;
+
+00:07:34.240 --> 00:07:39.280
+that goldilocks total was the product of dozens&nbsp;
+of games feeling out the deck’s needs. However,&nbsp;&nbsp;
+
+00:07:39.280 --> 00:07:43.600
+that advice might not give you any helpful&nbsp;
+information in the here and now, so I’ll now pivot&nbsp;&nbsp;
+
+00:07:43.600 --> 00:07:48.800
+to answering a second question that might offer&nbsp;
+a bit of insight—when does a deck not want ramp?
+
+00:07:48.800 --> 00:07:52.400
+Conveniently, the answer to this question is&nbsp;
+kinda just the inverse of the two reasons for&nbsp;&nbsp;
+
+00:07:52.400 --> 00:07:56.480
+wanting ramp I laid out earlier. Let’s think&nbsp;
+about mana curve—if you’re playing a deck&nbsp;&nbsp;
+
+00:07:56.480 --> 00:08:00.560
+with a lot of important low-cost plays, you&nbsp;
+might not have a turn where you even want to&nbsp;&nbsp;
+
+00:08:00.560 --> 00:08:05.520
+be playing a mana rock. I have a Meria voltron&nbsp;
+deck that is packed with 1 and 2 mana equipment,&nbsp;&nbsp;
+
+00:08:05.520 --> 00:08:09.360
+and since I’m building around a 3 mana&nbsp;
+commander that means that my turns 1-3&nbsp;&nbsp;
+
+00:08:09.360 --> 00:08:13.760
+are basically already spoken for. Going purely&nbsp;
+by the standard of curveout, this deck wouldn’t&nbsp;&nbsp;
+
+00:08:13.760 --> 00:08:19.360
+want any ramp at all. However, I still do run a&nbsp;
+moderate quantity of mostly-equipment-based ramp,&nbsp;&nbsp;
+
+00:08:19.360 --> 00:08:25.760
+and that’s because this deck always, always wants&nbsp;
+to be able to pay commander tax. My commander is&nbsp;&nbsp;
+
+00:08:25.760 --> 00:08:30.960
+a big part of my value and my plan for winning,&nbsp;
+and her Urza-like presence is massively important&nbsp;&nbsp;
+
+00:08:30.960 --> 00:08:36.720
+to the deck’s mana economy. While being a 3-cost&nbsp;
+commander helps in recastability, I still like to&nbsp;&nbsp;
+
+00:08:36.720 --> 00:08:41.520
+be able to stockpile a bit of extra total mana&nbsp;
+just in case I end up needing to recast her. So&nbsp;&nbsp;
+
+00:08:41.520 --> 00:08:47.280
+this is a deck that doesn’t want ramp for curveout&nbsp;
+reasons, but does want it for total mana reasons.
+
+00:08:47.280 --> 00:08:50.960
+For a point of contrast, we can think about a&nbsp;
+deck that doesn’t want ramp for either of these&nbsp;&nbsp;
+
+00:08:50.960 --> 00:08:55.600
+two reasons. My Malfegor deck runs very&nbsp;
+little ramp, and looking at its gameplan&nbsp;&nbsp;
+
+00:08:55.600 --> 00:08:59.600
+it’s not too hard to see why. My curve is&nbsp;
+heaviest on 3 mana, followed by 2 mana,&nbsp;&nbsp;
+
+00:08:59.600 --> 00:09:04.240
+with most of these being either engines to build&nbsp;
+in value or discard spells to strip resources&nbsp;&nbsp;
+
+00:09:04.240 --> 00:09:09.040
+away from opponents. Since I don’t really&nbsp;
+consistent turn 4 or 5 plays, a mana rock&nbsp;&nbsp;
+
+00:09:09.040 --> 00:09:13.840
+would do absolutely nothing for this deck’s early&nbsp;
+game. Importantly, this deck also doesn’t need&nbsp;&nbsp;
+
+00:09:13.840 --> 00:09:19.920
+total mana—the goal of it is to push all players,&nbsp;
+myself included, into a low-resources state,&nbsp;&nbsp;
+
+00:09:19.920 --> 00:09:24.320
+and even with a draw engine or two up I’m still&nbsp;
+not going to be drawing that much mana worth of&nbsp;&nbsp;
+
+00:09:24.320 --> 00:09:30.000
+stuff since my curve is moderately low. Previous&nbsp;
+iterations of this deck had a lower land count,&nbsp;&nbsp;
+
+00:09:30.000 --> 00:09:34.560
+and ramp felt useful there for casting the&nbsp;
+commander, but I’ve since come to the conclusion&nbsp;&nbsp;
+
+00:09:34.560 --> 00:09:39.280
+that consistent land drops are really all that’s&nbsp;
+needed to keep up with Malfegor’s command tax,&nbsp;&nbsp;
+
+00:09:39.280 --> 00:09:44.480
+so the total-mana reason for ramp kind of just&nbsp;
+evaporated with a few extra lands in the mix.&nbsp;&nbsp;
+
+00:09:44.480 --> 00:09:48.240
+I mentioned earlier that high counts of draw&nbsp;
+and ramp is going to be a solid starting point&nbsp;&nbsp;
+
+00:09:48.240 --> 00:09:53.120
+for a lot of decks, and that is true, but as you&nbsp;
+get a feel for a deck you might find that your&nbsp;&nbsp;
+
+00:09:53.120 --> 00:09:58.000
+counts can be a bit lower. Maybe your deck is more&nbsp;
+efficient and simply needs less mana in general,&nbsp;&nbsp;
+
+00:09:58.000 --> 00:10:03.440
+or maybe your deck is like my Malfegor deck—not&nbsp;
+necessarily wildly fast or powerful, but also not&nbsp;&nbsp;
+
+00:10:03.440 --> 00:10:08.480
+looking to pump up the scale of its gameplay&nbsp;
+a whole lot, even in a late-game scenario.
+
+00:10:08.480 --> 00:10:13.840
+As a final point, let’s just back to the idea of&nbsp;
+lands being a replacement for ramp in some cases.&nbsp;&nbsp;
+
+00:10:13.840 --> 00:10:17.920
+This is an idea that has been bubbling just&nbsp;
+below the surface in EDH discourse for several&nbsp;&nbsp;
+
+00:10:17.920 --> 00:10:23.120
+years now. A couple of extremely talented magic&nbsp;
+players—Frank Karsten and Sam Black—have each&nbsp;&nbsp;
+
+00:10:23.120 --> 00:10:27.520
+weighed in on this relationship, and both came to&nbsp;
+the conclusion through use of simulations or other&nbsp;&nbsp;
+
+00:10:27.520 --> 00:10:32.480
+mathematical means that the average EDH deck would&nbsp;
+be served well to focus more on land count and&nbsp;&nbsp;
+
+00:10:32.480 --> 00:10:37.280
+less on quantity of ramp. While I would hesitate&nbsp;
+to endorse the exact numbers they’ve come up with,&nbsp;&nbsp;
+
+00:10:37.280 --> 00:10:41.280
+or really any exact numbers given the many&nbsp;
+layers of complexity in the commander format,&nbsp;&nbsp;
+
+00:10:41.280 --> 00:10:45.680
+the fundamentals of the critique still hold&nbsp;
+true. A lot of ramp and a low land count is&nbsp;&nbsp;
+
+00:10:45.680 --> 00:10:50.160
+frequently a recipe for inefficiency.&nbsp;
+Now, land count is an area where a lot&nbsp;&nbsp;
+
+00:10:50.160 --> 00:10:54.640
+of commander players have shifted in the past&nbsp;
+couple years—no longer are we in an era where&nbsp;&nbsp;
+
+00:10:54.640 --> 00:11:00.080
+35-36 lands is universally accepted as a good&nbsp;
+starting point for a deck’s land count. Still,&nbsp;&nbsp;
+
+00:11:00.080 --> 00:11:04.640
+the inertia of the previous eras of commander&nbsp;
+wisdom still means that a lot of players haven’t&nbsp;&nbsp;
+
+00:11:04.640 --> 00:11:10.960
+followed this shift. One might ask, are they&nbsp;
+justified in this? Sometimes. Some decks don’t&nbsp;&nbsp;
+
+00:11:10.960 --> 00:11:14.800
+need that many lands—they don’t need much mana&nbsp;
+to do what they want to do, they have options&nbsp;&nbsp;
+
+00:11:14.800 --> 00:11:19.680
+for early filtering that can find them more lands,&nbsp;
+or their deck benefits enough from maximizing gas&nbsp;&nbsp;
+
+00:11:19.680 --> 00:11:23.680
+that it’s worth it to sometimes miss a land&nbsp;
+drop—an example of this I gave in my lands&nbsp;&nbsp;
+
+00:11:23.680 --> 00:11:28.640
+video at the start of this year was pseudo-storm&nbsp;
+commanders such as Jhoira, Weatherlight Captain.&nbsp;&nbsp;
+
+00:11:28.640 --> 00:11:32.400
+Whether or not your deck is justified in running&nbsp;
+a lower land count for one of these reasons might&nbsp;&nbsp;
+
+00:11:32.400 --> 00:11:37.680
+not be a simple judgment to make, but here’s a&nbsp;
+basic test you should try running. Whenever you&nbsp;&nbsp;
+
+00:11:37.680 --> 00:11:42.240
+miss a land drop with a piece of ramp in hand,&nbsp;
+or a piece of ramp that was recently played,&nbsp;&nbsp;
+
+00:11:42.240 --> 00:11:47.440
+make note of that. If that is happening for&nbsp;
+you every game or even multiple times per game,&nbsp;&nbsp;
+
+00:11:47.440 --> 00:11:51.920
+that’s an indication that you probably need&nbsp;
+to swap some ramp spells for some lands.
+
+00:11:51.920 --> 00:11:55.200
+Thanks for watching! And thanks to&nbsp;
+Archidekt for supporting the channel.&nbsp;&nbsp;
+
+00:11:55.200 --> 00:11:58.960
+Archidekt’s tools for visualizing categories&nbsp;
+make it a lot easier to figure out questions&nbsp;&nbsp;
+
+00:11:58.960 --> 00:12:04.160
+of lands and ramp. How early does my draw and&nbsp;
+filtering come online? About that early. What&nbsp;&nbsp;
+
+00:12:04.160 --> 00:12:08.000
+does my curve look like after I cut out the&nbsp;
+instants I know I’ll be using reactively rather&nbsp;&nbsp;
+
+00:12:08.000 --> 00:12:12.160
+than playing on curve? It looks like that. A&nbsp;
+link to my decks is in the description if you&nbsp;&nbsp;
+
+00:12:12.160 --> 00:12:16.000
+want to play around with these tools on decks&nbsp;
+I’ve built. I also want to thank my supporters,&nbsp;&nbsp;
+
+00:12:16.000 --> 00:12:20.560
+some of whom are onscreen now. If you want to&nbsp;
+join this illustrious crowd, you can become&nbsp;&nbsp;
+
+00:12:20.560 --> 00:12:25.480
+a YouTube member or sign up for my Patreon. With&nbsp;
+that said, I hope you have a lovely new year. Bye!
+

@@ -1,0 +1,774 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.000 --> 00:00:04.240
+In late last year, I started&nbsp;
+watching a YouTube channel called Playing&nbsp;&nbsp;
+
+00:00:04.240 --> 00:00:10.120
+with Power MTG. It’s primarily a cEDH channel,&nbsp;
+short for competitive EDH, and though I hadn’t&nbsp;&nbsp;
+
+00:00:10.120 --> 00:00:14.560
+played high power EDH much at all, let alone&nbsp;
+playing competitively, the spectacle of it all,&nbsp;&nbsp;
+
+00:00:14.560 --> 00:00:18.920
+along with the quality of the editing and the&nbsp;
+voiceover, kept me watching. The first 5 or so&nbsp;&nbsp;
+
+00:00:18.920 --> 00:00:23.320
+games I watched were really cool, you know, seeing&nbsp;
+all these expensive cards I’d never played with,&nbsp;&nbsp;
+
+00:00:23.320 --> 00:00:28.560
+these cutthroat plays, these hyper-optimized&nbsp;
+decks. But then gradually I started to notice&nbsp;&nbsp;
+
+00:00:28.560 --> 00:00:34.040
+something. It seemed like all of the cards were&nbsp;
+the same, like the ways decks gain mana are the&nbsp;&nbsp;
+
+00:00:34.040 --> 00:00:38.160
+same and the ways they draw cards are the same&nbsp;
+and the ways they end the game are the same&nbsp;&nbsp;
+
+00:00:38.160 --> 00:00:42.920
+and the ways they stop other people from ending&nbsp;
+the game are also the same. This intrigued me,&nbsp;&nbsp;
+
+00:00:42.920 --> 00:00:48.160
+and with this observation I did what any normal&nbsp;
+person would do—I looked up the top 10 cEDH decks&nbsp;&nbsp;
+
+00:00:48.160 --> 00:00:54.280
+and a popular decklist for each and compared the&nbsp;
+lists to find out how many cards they shared.
+
+00:00:54.280 --> 00:00:59.360
+All told, there were 20 cards shared by all&nbsp;
+ten decks, with nine of these being lands,&nbsp;&nbsp;
+
+00:00:59.360 --> 00:01:04.520
+five being mana rocks, four being counterspells,&nbsp;
+and two being card draw enchantments. There are&nbsp;&nbsp;
+
+00:01:04.520 --> 00:01:07.520
+also a number of cards shared by all&nbsp;
+decks that play a particular color,&nbsp;&nbsp;
+
+00:01:07.520 --> 00:01:12.640
+such as Dockside Extortionist, Silence,&nbsp;
+and Demonic Tutor. Most interesting of all&nbsp;&nbsp;
+
+00:01:12.640 --> 00:01:17.600
+were the wincons, with the two dominant ones&nbsp;
+being Thassa’s Oracle-Demonic Consultation,&nbsp;&nbsp;
+
+00:01:17.600 --> 00:01:22.360
+run in 7 of the 10 decks, and Underworld&nbsp;
+Breach-Brain Freeze-Lion’s Eye Diamond,&nbsp;&nbsp;
+
+00:01:22.360 --> 00:01:27.760
+run in 6 of the 10 decks. Only two decks&nbsp;
+ran neither of these, those being Kinnan,&nbsp;&nbsp;
+
+00:01:27.760 --> 00:01:32.320
+which generally wins through an infinite mana&nbsp;
+combo followed by playing out its entire library,&nbsp;&nbsp;
+
+00:01:32.320 --> 00:01:36.960
+and Sisay, which generally wins through a family&nbsp;
+of flicker-based combos that it can tutor out with&nbsp;&nbsp;
+
+00:01:36.960 --> 00:01:42.400
+its commander. With this exercise out of the way,&nbsp;
+I had established that, yes, there is quite a lot&nbsp;&nbsp;
+
+00:01:42.400 --> 00:01:48.800
+of card overlap in cEDH. But why is this, exactly?&nbsp;
+And what effects does it have on the format?
+
+00:01:48.800 --> 00:01:53.200
+The first reason that there’s so much overlap&nbsp;
+is simple—at a competitive level, players want&nbsp;&nbsp;
+
+00:01:53.200 --> 00:01:58.520
+to run cards that are as fast, as flexible, and&nbsp;
+as efficient as possible. When you’re playing&nbsp;&nbsp;
+
+00:01:58.520 --> 00:02:02.680
+a chance-based card game, where you might have&nbsp;
+access to only a small portion of your deck at a&nbsp;&nbsp;
+
+00:02:02.680 --> 00:02:08.400
+time, every draw needs to do as much as possible.&nbsp;
+This is also the case for other competitive Magic:&nbsp;&nbsp;
+
+00:02:08.400 --> 00:02:14.080
+the Gathering formats, but EDH is different&nbsp;
+from Modern or Legacy in that it’s 100 cards&nbsp;&nbsp;
+
+00:02:14.080 --> 00:02:19.400
+and singleton. This means that, for a given&nbsp;
+type of card, you need to play a lot more&nbsp;&nbsp;
+
+00:02:19.400 --> 00:02:25.360
+different copies of that type of card than in a&nbsp;
+60 card format. If we look at Modern Murktide,&nbsp;&nbsp;
+
+00:02:25.360 --> 00:02:30.120
+it’s running 9ish counterspells in the&nbsp;
+mainboard—the MTGGoldfish list contains&nbsp;&nbsp;
+
+00:02:30.120 --> 00:02:35.120
+4 copies of Counterspell, 2 copies of Spell&nbsp;
+Pierce, and a single copy each of Spell Snare,&nbsp;&nbsp;
+
+00:02:35.120 --> 00:02:40.680
+Stern Scolding, and Subtlety. A similarly&nbsp;
+interactive cEDH deck will often end up running&nbsp;&nbsp;
+
+00:02:40.680 --> 00:02:45.480
+12 or more differently-named counterspells.&nbsp;
+While there will usually be a shortlist of&nbsp;&nbsp;
+
+00:02:45.480 --> 00:02:50.840
+potential meta pivots in a format like modern&nbsp;
+or legacy, in cEDH you’re already playing the&nbsp;&nbsp;
+
+00:02:50.840 --> 00:02:56.800
+maximum allowed number of your 7th, 8th, and&nbsp;
+9th favorite counterspells, because you have to.
+
+00:02:56.800 --> 00:03:02.600
+This effect applies to most other areas&nbsp;
+too—particularly ramp, draw, and win conditions.&nbsp;&nbsp;
+
+00:03:02.600 --> 00:03:07.920
+Ramp is the most homogenous—fast rocks, rituals,&nbsp;
+1 mana dorks, and lands that tap for multiple mana&nbsp;&nbsp;
+
+00:03:07.920 --> 00:03:12.480
+are king here, though decks usually want rocks&nbsp;
+badly enough to run a couple two mana rocks&nbsp;&nbsp;
+
+00:03:12.480 --> 00:03:18.200
+as well. Draw usually ends up being things that&nbsp;
+abuse either the multiplayer aspect of EDH or the&nbsp;&nbsp;
+
+00:03:18.200 --> 00:03:24.720
+40 life aspect—Rhystic Study, Mystic Remora, and&nbsp;
+Esper Sentinel are ubiquitous, and Ad Nauseam is&nbsp;&nbsp;
+
+00:03:24.720 --> 00:03:30.360
+so powerful that it blurs the line between draw&nbsp;
+spell and one-card wincon. Speaking of wincons,&nbsp;&nbsp;
+
+00:03:30.360 --> 00:03:35.160
+these tend to be overwhelmingly combo based.&nbsp;
+Underworld Breach and Thassa’s Oracle-based&nbsp;&nbsp;
+
+00:03:35.160 --> 00:03:40.480
+combos tend to be by far the strongest available&nbsp;
+due to their low investment and resiliency,&nbsp;&nbsp;
+
+00:03:40.480 --> 00:03:45.640
+and most cEDH decks contain either one of&nbsp;
+these or a combo directly tied to their&nbsp;&nbsp;
+
+00:03:45.640 --> 00:03:51.560
+commander in some way. This doesn’t necessarily&nbsp;
+mean that cEDH decks are boring in how they win,&nbsp;&nbsp;
+
+00:03:51.560 --> 00:03:55.280
+but it does mean that when you look at somebody’s&nbsp;
+commander and the colors they’re playing,&nbsp;&nbsp;
+
+00:03:55.280 --> 00:03:59.400
+you’ll often be able to immediately guess&nbsp;
+one or more of their win conditions.
+
+00:03:59.400 --> 00:04:03.920
+In addition to the previously mentioned reasons,&nbsp;
+a big contributing factor to why there’s so much&nbsp;&nbsp;
+
+00:04:03.920 --> 00:04:08.360
+card overlap between different decks can be&nbsp;
+seen right at the outset of looking at the top&nbsp;&nbsp;
+
+00:04:08.360 --> 00:04:15.840
+10 decks—these decks run a lot of colors. There&nbsp;
+are three five color decks, two four color decks,&nbsp;&nbsp;
+
+00:04:15.840 --> 00:04:21.640
+four three color decks, and a single two color&nbsp;
+deck. Fundamentally, this comes down to the fact&nbsp;&nbsp;
+
+00:04:21.640 --> 00:04:27.280
+cEDH is an essentially budgetless format, which&nbsp;
+allows for very good manabases at very little&nbsp;&nbsp;
+
+00:04:27.280 --> 00:04:32.880
+gameplay expense to the player, barring nonbasic&nbsp;
+hate. This, paired with the singleton nature of&nbsp;&nbsp;
+
+00:04:32.880 --> 00:04:37.600
+the format reducing the number of efficient&nbsp;
+options in each color, means that decks will&nbsp;&nbsp;
+
+00:04:37.600 --> 00:04:42.680
+generally want as many colors as possible, and&nbsp;
+only choose to run fewer when there’s a great&nbsp;&nbsp;
+
+00:04:42.680 --> 00:04:47.160
+card in the command zone to make up for that&nbsp;
+loss in efficiency. This can be seen in all of&nbsp;&nbsp;
+
+00:04:47.160 --> 00:04:52.040
+the partner commander pairings that people go&nbsp;
+with—are Vial Smasher the Fierce and Tana, the&nbsp;&nbsp;
+
+00:04:52.040 --> 00:04:58.480
+Bloodsower insanely powerful cards? No, they’re&nbsp;
+pretty mediocre—the reason they’re popular is that&nbsp;&nbsp;
+
+00:04:58.480 --> 00:05:03.600
+they let a player run a commander they actively&nbsp;
+like such as Tymna or Malcolm and add to it a&nbsp;&nbsp;
+
+00:05:03.600 --> 00:05:09.120
+couple colors they want to have, plus the utility&nbsp;
+of having an extra playable card in a pinch.
+
+00:05:09.120 --> 00:05:15.040
+The result of this is that a lot of meta decks end&nbsp;
+up being 4-5 color piles of the best cards in the&nbsp;&nbsp;
+
+00:05:15.040 --> 00:05:19.640
+format. These decks can be quite interesting&nbsp;
+on their own, mind you, as decks with quality&nbsp;&nbsp;
+
+00:05:19.640 --> 00:05:25.040
+synergies and flexible play paths that better use&nbsp;
+these premium cards will outperform decks whose&nbsp;&nbsp;
+
+00:05:25.040 --> 00:05:29.280
+construction could be described as a jumbled&nbsp;
+mishmash of assorted and sundry good stuff.&nbsp;&nbsp;
+
+00:05:29.280 --> 00:05:33.720
+But the difference between those two decks can&nbsp;
+come down to a small handful of cards that the&nbsp;&nbsp;
+
+00:05:33.720 --> 00:05:39.640
+deck then tutors for, rendering these differences&nbsp;
+subtle on the scale of a decklist. In addition,&nbsp;&nbsp;
+
+00:05:39.640 --> 00:05:44.680
+the realm of what’s possible is limited by&nbsp;
+the sheer speed, flexibility, and efficiency&nbsp;&nbsp;
+
+00:05:44.680 --> 00:05:50.200
+required by the format. Value engines and&nbsp;
+wincons must be some combination of fast,&nbsp;&nbsp;
+
+00:05:50.200 --> 00:05:55.200
+explosive, consistent, resilient, and compact,&nbsp;
+and if a deck’s gameplan doesn’t satisfy enough&nbsp;&nbsp;
+
+00:05:55.200 --> 00:06:00.360
+of these conditions, the deck likely won’t&nbsp;
+be able to keep up and pull off wins. This,&nbsp;&nbsp;
+
+00:06:00.360 --> 00:06:05.640
+to me, might be the biggest issue as you climb&nbsp;
+to the highest power levels of EDH—the range&nbsp;&nbsp;
+
+00:06:05.640 --> 00:06:11.240
+of possible decks you can build and plays&nbsp;
+you can make contracts further and further.
+
+00:06:11.240 --> 00:06:15.480
+It’s at this point that I can hear some of you&nbsp;
+saying “who does this casual EDH youtuber think&nbsp;&nbsp;
+
+00:06:15.480 --> 00:06:19.520
+he is to complain about cEDH?” Or maybe you&nbsp;
+were saying that earlier when I was talking&nbsp;&nbsp;
+
+00:06:19.520 --> 00:06:23.520
+about comparing the top 10 decks. Or maybe&nbsp;
+when you saw the thumbnail before clicking&nbsp;&nbsp;
+
+00:06:23.520 --> 00:06:29.080
+on the video. Regardless, I hear you, and you&nbsp;
+know what? I asked myself the same thing while&nbsp;&nbsp;
+
+00:06:29.080 --> 00:06:34.760
+brainstorming for this video. So I downloaded&nbsp;
+Cockatrice and played a bunch of cEDH games.&nbsp;&nbsp;
+
+00:06:34.760 --> 00:06:38.880
+And between bullying strangers on the internet&nbsp;
+with Winota and conversations I’ve had with&nbsp;&nbsp;
+
+00:06:38.880 --> 00:06:43.360
+various people who play cEDH, several things&nbsp;
+about the format beyond the decks themselves&nbsp;&nbsp;
+
+00:06:43.360 --> 00:06:47.920
+have become clear to me, and a lot of them&nbsp;
+are actually pretty interesting. First of all,&nbsp;&nbsp;
+
+00:06:47.920 --> 00:06:52.800
+there’s generally no rule 0 conversation, because&nbsp;
+the whole idea is to be as powerful as possible&nbsp;&nbsp;
+
+00:06:52.800 --> 00:06:58.000
+within the confines of the EDH format. This&nbsp;
+is nice in itself, as a big challenge I’ve&nbsp;&nbsp;
+
+00:06:58.000 --> 00:07:02.920
+had in casual EDH is the pre-game struggle of&nbsp;
+putting together a game that’s actually fun for&nbsp;&nbsp;
+
+00:07:02.920 --> 00:07:08.200
+everybody at the table. An extension of this&nbsp;
+is that there’s not much salt at cEDH tables&nbsp;&nbsp;
+
+00:07:08.200 --> 00:07:13.640
+compared to casual—the whole idea of the format is&nbsp;
+that everything is on the table, so when somebody&nbsp;&nbsp;
+
+00:07:13.640 --> 00:07:19.520
+rushes a combo or staxes the table into oblivion,&nbsp;
+nobody gets particularly bothered about it,&nbsp;&nbsp;
+
+00:07:19.520 --> 00:07:24.360
+other than maybe about the fact that they weren’t&nbsp;
+able to stop it. The social aspects that make&nbsp;&nbsp;
+
+00:07:24.360 --> 00:07:30.560
+casual EDH fun to me are still present—threat&nbsp;
+analysis, table coordination against a scary foe,&nbsp;&nbsp;
+
+00:07:30.560 --> 00:07:36.680
+trying to curry favor with a potential ally—but a&nbsp;
+lot of the more negative social aspects, ones that&nbsp;&nbsp;
+
+00:07:36.680 --> 00:07:42.120
+come from the friction of players having different&nbsp;
+play styles and objectives, are eliminated.
+
+00:07:42.120 --> 00:07:46.280
+In addition, another cool thing about the&nbsp;
+culture of cEDH is the proxy question,&nbsp;&nbsp;
+
+00:07:46.280 --> 00:07:50.240
+in the sense that it’s basically a solved&nbsp;
+issue. The goal of the format is to play&nbsp;&nbsp;
+
+00:07:50.240 --> 00:07:54.600
+as powerfully as possible, so the community&nbsp;
+is generally very proxy friendly, and some&nbsp;&nbsp;
+
+00:07:54.600 --> 00:07:59.160
+circles are proxy-friendly to the point where not&nbsp;
+choosing to proxy fast mana or dual lands that&nbsp;&nbsp;
+
+00:07:59.160 --> 00:08:04.640
+would make your deck better is considered kinda&nbsp;
+weird. This stands in contrast to casual EDH,&nbsp;&nbsp;
+
+00:08:04.640 --> 00:08:09.000
+where on the one hand you’ll encounter people who&nbsp;
+get offended by the whole idea of proxying, and&nbsp;&nbsp;
+
+00:08:09.000 --> 00:08:12.920
+on the other hand you’ll get awkward situations&nbsp;
+where somebody proxies a bunch of power cards&nbsp;&nbsp;
+
+00:08:12.920 --> 00:08:17.760
+for their janky midrange deck in order to crush&nbsp;
+the janky midrange decks of their friends. Having&nbsp;&nbsp;
+
+00:08:17.760 --> 00:08:22.680
+this issue solved so gracefully in cEDH, with&nbsp;
+the answer arising naturally from the format’s&nbsp;&nbsp;
+
+00:08:22.680 --> 00:08:28.840
+culture of everybody getting the chance to play&nbsp;
+EDH as powerfully as they possibly can, is nice.
+
+00:08:28.840 --> 00:08:32.440
+With all this context in mind, I think&nbsp;
+it’s worth going back to reexamine the&nbsp;&nbsp;
+
+00:08:32.440 --> 00:08:38.040
+premise of this video. I started this video&nbsp;
+with an analysis of the top 10 cEDH decks,&nbsp;&nbsp;
+
+00:08:38.040 --> 00:08:43.720
+and I think it’s important to talk about where&nbsp;
+that list came from—EDH Top 16 compiles cEDH&nbsp;&nbsp;
+
+00:08:43.720 --> 00:08:49.000
+tournament data and ranks decks according&nbsp;
+to number of top 16 placements. These are&nbsp;&nbsp;
+
+00:08:49.000 --> 00:08:54.480
+the decks that consistently show up and place&nbsp;
+highly at tournaments, and on a macro scale they&nbsp;&nbsp;
+
+00:08:54.480 --> 00:08:58.800
+do represent the format on some level. But&nbsp;
+the tournaments these decks are pulled from&nbsp;&nbsp;
+
+00:08:58.800 --> 00:09:03.920
+aren’t just these 10 decks mashing against each&nbsp;
+other in pod after pod, and beneath the surface&nbsp;&nbsp;
+
+00:09:03.920 --> 00:09:08.240
+there’s actually a lot of really interesting&nbsp;
+stuff happening here. I’m pretty unqualified&nbsp;&nbsp;
+
+00:09:08.240 --> 00:09:12.960
+to talk about those things as somebody whose&nbsp;
+cEDH career spans a dozen or so Cockatrice&nbsp;&nbsp;
+
+00:09:12.960 --> 00:09:17.560
+games with random people on the internet, so&nbsp;
+I’m going to pull in somebody who is qualified.
+
+00:09:17.560 --> 00:09:18.636
+[Start The Trinket Mage Section]
+
+00:09:18.636 --> 00:09:23.720
+Hi, I’m the trinket mage and I have been&nbsp;
+playing in cEDH tournaments since 2016.&nbsp;&nbsp;
+
+00:09:23.720 --> 00:09:28.840
+Alex is 100% correct those top 10 decks are&nbsp;
+the most common builds you will see but,&nbsp;&nbsp;
+
+00:09:28.840 --> 00:09:33.800
+there is something to be said about playing off&nbsp;
+meta builds. I’ve exclusively been playing Jace&nbsp;&nbsp;
+
+00:09:33.800 --> 00:09:39.360
+Vryn’s Prodigy at tournaments since 2016. I&nbsp;
+just love manual storm! On paper mono blue&nbsp;&nbsp;
+
+00:09:39.360 --> 00:09:44.520
+seems un-optimal due to the lack of options.&nbsp;
+But my list for example does not run thassa’s&nbsp;&nbsp;
+
+00:09:44.520 --> 00:09:50.080
+oracle so I am able to win through hate like&nbsp;
+hushbringer or torpor orb that people commonly&nbsp;&nbsp;
+
+00:09:50.080 --> 00:09:55.840
+play against oracle decks. And since nobody&nbsp;
+plays jace with any regularity when I go to&nbsp;&nbsp;
+
+00:09:55.840 --> 00:10:01.160
+a new store or play at a magic fest nobody&nbsp;
+knows what my wincons are or how my combos&nbsp;&nbsp;
+
+00:10:01.160 --> 00:10:07.320
+work! I’ve won plenty of games simply because&nbsp;
+my opponent's lacked matchup knowledge. Plus&nbsp;&nbsp;
+
+00:10:07.320 --> 00:10:12.680
+your pet deck can also be tuned to be more&nbsp;
+effective in your personal local meta. For&nbsp;&nbsp;
+
+00:10:12.680 --> 00:10:18.200
+me I recently included wipe away so I can&nbsp;
+forcefully remove permanents without having&nbsp;&nbsp;
+
+00:10:18.200 --> 00:10:22.840
+to worry about countermagic since my local meta&nbsp;
+is more blue farm heavy than most! So don’t be&nbsp;&nbsp;
+
+00:10:22.840 --> 00:10:28.730
+afraid to try some lower tier cEDH decks! You can&nbsp;
+still get great results from an off meta build!
+
+00:10:28.730 --> 00:10:28.760
+[End The Trinket Mage section]
+
+00:10:28.760 --> 00:10:31.720
+As the Trinket Mage’s choice&nbsp;
+to run Wipe Away suggests,&nbsp;&nbsp;
+
+00:10:31.720 --> 00:10:36.120
+interaction suites can be a real divergence&nbsp;
+point in card choice. In addition,&nbsp;&nbsp;
+
+00:10:36.120 --> 00:10:39.720
+there are different decks that will thrive in&nbsp;
+different metas—some decks are better against&nbsp;&nbsp;
+
+00:10:39.720 --> 00:10:43.440
+decks which execute their gameplan as quickly&nbsp;
+as possible, some decks are better against&nbsp;&nbsp;
+
+00:10:43.440 --> 00:10:47.440
+slower decks which try to be flexible and&nbsp;
+grind value, and others are better against&nbsp;&nbsp;
+
+00:10:47.440 --> 00:10:52.720
+stax-heavy decks. Depending on the composition&nbsp;
+of decks played at a given place at a given time,&nbsp;&nbsp;
+
+00:10:52.720 --> 00:10:57.600
+it can be highly effective to run decks that&nbsp;
+wouldn’t normally be considered top contenders.
+
+00:10:57.600 --> 00:11:00.880
+As a final point in this section, I think&nbsp;
+it’s interesting to think about some of the&nbsp;&nbsp;
+
+00:11:00.880 --> 00:11:05.480
+weirder implications of the cEDH meta,&nbsp;
+ones that specifically derive from the&nbsp;&nbsp;
+
+00:11:05.480 --> 00:11:10.960
+predictability of top decks. Praetor’s Grasp&nbsp;
+is a card commonly played in Ad Nauseam decks,&nbsp;&nbsp;
+
+00:11:10.960 --> 00:11:15.480
+because as long as there’s at least one similar&nbsp;
+deck at the table, it’s effectively a Grim Tutor&nbsp;&nbsp;
+
+00:11:15.480 --> 00:11:20.400
+with upside that also pulls a pivotal card&nbsp;
+out of an opponent’s deck. Mnemonic Betrayal&nbsp;&nbsp;
+
+00:11:20.400 --> 00:11:25.080
+is an even more powerful example of this&nbsp;
+idea—since decks often share so many cards,&nbsp;&nbsp;
+
+00:11:25.080 --> 00:11:30.800
+in a lot of games it effectively becomes a&nbsp;
+better Yawgmoth’s Will. As a third example,&nbsp;&nbsp;
+
+00:11:30.800 --> 00:11:36.040
+Ragavan effectively offers a downside-less&nbsp;
+Outpost Siege effect. It would suck to exile&nbsp;&nbsp;
+
+00:11:36.040 --> 00:11:40.480
+a Demonic Consultation or Underworld Breach off&nbsp;
+the top of your own library on a turn you’re&nbsp;&nbsp;
+
+00:11:40.480 --> 00:11:44.360
+not ready to play it, but when it’s your&nbsp;
+opponent’s library you’re gambling with,&nbsp;&nbsp;
+
+00:11:44.360 --> 00:11:49.080
+hitting a card like that is all upside, since&nbsp;
+either you can go for the win or you can just let&nbsp;&nbsp;
+
+00:11:49.080 --> 00:11:54.640
+your opponent’s win outlet go to permanent exile.&nbsp;
+You will also see cards that get put in a deck for&nbsp;&nbsp;
+
+00:11:54.640 --> 00:12:00.240
+one purpose, but a given situation might call for&nbsp;
+a different one. Birgi, a great mana generator,&nbsp;&nbsp;
+
+00:12:00.240 --> 00:12:03.960
+can instead be cast as a draw engine if a&nbsp;
+player really needs a way to dig through their&nbsp;&nbsp;
+
+00:12:03.960 --> 00:12:09.760
+library during a given game, and a famously&nbsp;
+spicy part of cEDH is the “forbidden tutor”,&nbsp;&nbsp;
+
+00:12:09.760 --> 00:12:15.720
+wherein a player uses Demonic Consultation, a&nbsp;
+popular combo piece, for its original purpose—as&nbsp;&nbsp;
+
+00:12:15.720 --> 00:12:22.120
+a highly risky tutor. I find these sorts of cases&nbsp;
+really fun, as they turn the ostensibly bland card&nbsp;&nbsp;
+
+00:12:22.120 --> 00:12:29.320
+diversity of some of cEDH’s top decks on its head,&nbsp;
+inventing new use cases for existing staples.
+
+00:12:29.320 --> 00:12:33.160
+This video has been a bit of a journey, because&nbsp;
+painting a picture of a whole format is an&nbsp;&nbsp;
+
+00:12:33.160 --> 00:12:38.280
+inherently challenging thing. I’d encourage&nbsp;
+anybody who is interested to give cEDH a try,&nbsp;&nbsp;
+
+00:12:38.280 --> 00:12:44.080
+since it’s a pretty unique MTG experience. It’s&nbsp;
+also just about as proxy-friendly as EDH gets,&nbsp;&nbsp;
+
+00:12:44.080 --> 00:12:49.000
+especially if you use a program like Cockatrice&nbsp;
+where not owning the cards is already built in. My&nbsp;&nbsp;
+
+00:12:49.000 --> 00:12:54.360
+feelings about cEDH are mixed, because as a format&nbsp;
+it has some pretty cool attributes—individual&nbsp;&nbsp;
+
+00:12:54.360 --> 00:12:59.040
+decks are stuffed with interesting plays and&nbsp;
+synergies, and often represent the pinnacle of&nbsp;&nbsp;
+
+00:12:59.040 --> 00:13:04.640
+a given archetype. Games are fast-paced, complex,&nbsp;
+and exciting, with battles for the stack often&nbsp;&nbsp;
+
+00:13:04.640 --> 00:13:10.200
+containing 5 or more spells and abilities. And&nbsp;
+yet, there is a sort of cookie-cutter blandness&nbsp;&nbsp;
+
+00:13:10.200 --> 00:13:15.240
+when it comes to card diversity, and more&nbsp;
+interesting options for draw, mana generation,&nbsp;&nbsp;
+
+00:13:15.240 --> 00:13:21.040
+and closing out the game will often simply lack&nbsp;
+the raw efficiency to be fully viable. For these&nbsp;&nbsp;
+
+00:13:21.040 --> 00:13:27.000
+reasons, among others, I personally don’t&nbsp;
+enjoy cEDH as much as casual, but I think an&nbsp;&nbsp;
+
+00:13:27.000 --> 00:13:32.880
+understanding of the cEDH format can give a lot of&nbsp;
+insights for how to have more fun playing casual.
+
+00:13:32.880 --> 00:13:37.520
+As far as deckbuilding goes, I think an idea a&nbsp;
+lot of people take from cEDH is that playing the&nbsp;&nbsp;
+
+00:13:37.520 --> 00:13:42.440
+best combos will make your deck better, and while&nbsp;
+this is true in the sense that it might make you&nbsp;&nbsp;
+
+00:13:42.440 --> 00:13:49.720
+win more games, it’s not a useful fact for having&nbsp;
+fun with casual EDH unless you like those combos,&nbsp;&nbsp;
+
+00:13:49.720 --> 00:13:54.800
+like actually like them beyond the novelty value,&nbsp;
+and unless you can find opponents who enjoy&nbsp;&nbsp;
+
+00:13:54.800 --> 00:14:00.400
+playing at a table with those combos. cEDH decks&nbsp;
+have gameplans that they’re looking to follow, but&nbsp;&nbsp;
+
+00:14:00.400 --> 00:14:06.280
+a decent portion of games end with a combo pushed&nbsp;
+through either earlier than people can interact or&nbsp;&nbsp;
+
+00:14:06.280 --> 00:14:11.640
+at an opportune moment when the table is depleted&nbsp;
+of resources to respond with. This is not to say&nbsp;&nbsp;
+
+00:14:11.640 --> 00:14:16.080
+that this is a bad dynamic, and indeed it invites&nbsp;
+lots of interesting strategic gameplay and&nbsp;&nbsp;
+
+00:14:16.080 --> 00:14:20.920
+deckbuilding choices, but these choices&nbsp;
+naturally come down to how to win a competitive&nbsp;&nbsp;
+
+00:14:20.920 --> 00:14:26.760
+game of Magic: the Gathering more so than how to&nbsp;
+optimize a “gameplan” in the traditional sense,&nbsp;&nbsp;
+
+00:14:26.760 --> 00:14:31.640
+and I’d wager that following a cohesive gameplan&nbsp;
+to its conclusion is what a lot of people find fun&nbsp;&nbsp;
+
+00:14:31.640 --> 00:14:37.800
+about casual commander. To me, the more applicable&nbsp;
+lesson to be taken from cEDH is the card quality&nbsp;&nbsp;
+
+00:14:37.800 --> 00:14:43.640
+filter—running cards that are more flexible and&nbsp;
+more efficient, cards that consistently feel&nbsp;&nbsp;
+
+00:14:43.640 --> 00:14:50.040
+at least decent to draw, will improve your deck.&nbsp;
+Basically, minimize dead draws, and if cards rely&nbsp;&nbsp;
+
+00:14:50.040 --> 00:14:55.480
+on other cards to be good, their effect needs to&nbsp;
+be very strong to make up for the amount of time&nbsp;&nbsp;
+
+00:14:55.480 --> 00:15:00.520
+they’ll sit dead in hand. What an efficient&nbsp;
+or flexible card means will differ from deck&nbsp;&nbsp;
+
+00:15:00.520 --> 00:15:06.000
+to deck, but prioritizing these things will&nbsp;
+improve your deck’s overall functionality.
+
+00:15:06.000 --> 00:15:10.560
+Finally, I think cEDH can also serve&nbsp;
+as a lesson for why casual EDH can be&nbsp;&nbsp;
+
+00:15:10.560 --> 00:15:15.280
+difficult to have fun playing sometimes.&nbsp;
+cEDH games are generally friendlier and&nbsp;&nbsp;
+
+00:15:15.280 --> 00:15:20.560
+less salty than casual EDH games in large part&nbsp;
+because player expectations are aligned from&nbsp;&nbsp;
+
+00:15:20.560 --> 00:15:25.080
+the outset of the game in the sense that&nbsp;
+everybody is there to win at all costs,&nbsp;&nbsp;
+
+00:15:25.080 --> 00:15:31.160
+and deck power levels are affixed at the&nbsp;
+most concrete value: as high as possible.&nbsp;&nbsp;
+
+00:15:31.160 --> 00:15:36.800
+This is certainly not to say that playing at that&nbsp;
+power level is the way to have fun playing EDH,&nbsp;&nbsp;
+
+00:15:36.800 --> 00:15:41.800
+but it is to say that aligning expectations&nbsp;
+and power levels before the game is a step&nbsp;&nbsp;
+
+00:15:41.800 --> 00:15:47.360
+that exists in casual EDH, an unsolved problem&nbsp;
+that is presented anytime four people walk up&nbsp;&nbsp;
+
+00:15:47.360 --> 00:15:52.320
+to a table to play a game of commander. EDH&nbsp;
+is a social game, and the way to have more&nbsp;&nbsp;
+
+00:15:52.320 --> 00:15:58.760
+fun is by talking to your opponents more, both&nbsp;
+during the game and before the game even starts.
+
+00:15:58.760 --> 00:16:02.920
+Thanks for watching! And big shoutout to the&nbsp;
+Trinket Mage for helping with this video,&nbsp;&nbsp;
+
+00:16:02.920 --> 00:16:06.960
+a link to his channel is in the description&nbsp;
+if you wanna go check his stuff out. I also&nbsp;&nbsp;
+
+00:16:06.960 --> 00:16:09.840
+have an announcement, which is that&nbsp;
+the Patron deck I randomly selected&nbsp;&nbsp;
+
+00:16:09.840 --> 00:16:15.720
+to be reviewed next week is Gruul Control. So&nbsp;
+that should be cool and fun. Alright, bye now.
+

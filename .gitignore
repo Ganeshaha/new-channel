@@ -1,0 +1,8 @@
+# Raw yt-dlp metadata (hundreds of MB); distilled into <channel>/analysis/dataset.json
+*/analysis/meta/**/*.info.json
+*/analysis/clips/
+# Scratch files from the fetch runs
+*/analysis/batch_*
+*/analysis/todo.txt
+*/analysis/*_err.txt
+*/analysis/meta_errors.txt

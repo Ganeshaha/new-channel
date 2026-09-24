@@ -1,0 +1,875 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.360 --> 00:00:05.480
+A common unspoken rule of commander is that people&nbsp;
+should get to have a gameplan, to do a thing,&nbsp;&nbsp;
+
+00:00:05.480 --> 00:00:11.080
+to do their thing. And on the surface, this makes&nbsp;
+a lot of sense. It’s a casual format, people are&nbsp;&nbsp;
+
+00:00:11.080 --> 00:00:16.680
+just here to have fun. In other casual multiplayer&nbsp;
+games, universal participation is understood to be&nbsp;&nbsp;
+
+00:00:16.680 --> 00:00:22.520
+a core tenet, and steps are taken to ensure that&nbsp;
+all players get to play a part. In a roleplaying&nbsp;&nbsp;
+
+00:00:22.520 --> 00:00:27.760
+game like D&amp;D or Pathfinder, you don’t want to let&nbsp;
+a player be a Wizard only to then have them spend&nbsp;&nbsp;
+
+00:00:27.760 --> 00:00:33.640
+the entire campaign in places with some mysterious&nbsp;
+anti-magic field. That’s not ideal gameplay! So&nbsp;&nbsp;
+
+00:00:33.640 --> 00:00:39.280
+broadly, it’s understandable that commander echoes&nbsp;
+this understanding, and even allows players 100&nbsp;&nbsp;
+
+00:00:39.280 --> 00:00:44.000
+cards worth of expression in how they play the&nbsp;
+game. This is all fine and good, but what’s easy&nbsp;&nbsp;
+
+00:00:44.000 --> 00:00:48.840
+to forget is that commander is a multiplayer&nbsp;
+offshoot of a generally two player game, an&nbsp;&nbsp;
+
+00:00:48.840 --> 00:00:53.800
+offshoot that didn’t always exist. The fact that&nbsp;
+the format has a higher life total than 60 card&nbsp;&nbsp;
+
+00:00:53.800 --> 00:00:59.600
+1v1 formats is intentional—it works to make space&nbsp;
+for decks that would otherwise struggle. There are&nbsp;&nbsp;
+
+00:00:59.600 --> 00:01:05.000
+a lot of potential creative strategies that simply&nbsp;
+can’t hold up in a 20 health format—attacking&nbsp;&nbsp;
+
+00:01:05.000 --> 00:01:10.240
+people with creatures early is just a bit too&nbsp;
+good. In this way, commander’s 40 starting&nbsp;&nbsp;
+
+00:01:10.240 --> 00:01:16.160
+health itself serves as a built-in do-the-thing&nbsp;
+enabler—no extra effort needed from players. This&nbsp;&nbsp;
+
+00:01:16.160 --> 00:01:20.920
+higher life total was intended to accomplish&nbsp;
+a task, and it did so admirably. However,&nbsp;&nbsp;
+
+00:01:20.920 --> 00:01:26.280
+over time it has accomplished a lot more than&nbsp;
+just this. I’m getting ahead of myself, though.
+
+00:01:26.280 --> 00:01:30.400
+Commander has basically grown up with this&nbsp;
+identity of being a slower format where a&nbsp;&nbsp;
+
+00:01:30.400 --> 00:01:34.720
+more laid-back form of magic can be played.&nbsp;
+This is reflected in the mana curves of a lot&nbsp;&nbsp;
+
+00:01:34.720 --> 00:01:39.480
+of the original precons—zany, high cost&nbsp;
+stuff is a staple feature of the format,&nbsp;&nbsp;
+
+00:01:39.480 --> 00:01:44.200
+and these sorts of cards are often core pillars&nbsp;
+in their respective decks. There are a couple&nbsp;&nbsp;
+
+00:01:44.200 --> 00:01:48.080
+frameworks we could use to think about how&nbsp;
+EDH decks compare to decks in a 60 card,&nbsp;&nbsp;
+
+00:01:48.080 --> 00:01:53.720
+20 health format. One is the “turning point” of&nbsp;
+a given game—basically, if we separate each game&nbsp;&nbsp;
+
+00:01:53.720 --> 00:01:59.000
+into a buildup phase where players are preparing&nbsp;
+and a climax phase where players are starting to&nbsp;&nbsp;
+
+00:01:59.000 --> 00:02:04.640
+perform whatever action will win them the game,&nbsp;
+roughly when is there a transition? In a lot of&nbsp;&nbsp;
+
+00:02:04.640 --> 00:02:10.280
+classic 60 card decks this turning point is quite&nbsp;
+early—Delver decks look to land a turn 1 threat&nbsp;&nbsp;
+
+00:02:10.280 --> 00:02:15.480
+and gradually chip down opponents, and other&nbsp;
+decks like Jund similarly look to land early&nbsp;&nbsp;
+
+00:02:15.480 --> 00:02:20.960
+threats. In contrast to this, most commander decks&nbsp;
+spend the first several turns of the game ramping,&nbsp;&nbsp;
+
+00:02:20.960 --> 00:02:25.600
+setting up engines, tutoring, and starting to&nbsp;
+piece together synergy packages. A big piece&nbsp;&nbsp;
+
+00:02:25.600 --> 00:02:31.280
+of this likely comes down to life totals. 40 life&nbsp;
+means that a threat needs to be larger to pose a&nbsp;&nbsp;
+
+00:02:31.280 --> 00:02:36.400
+risk to opponents—whereas in Legacy a single mana&nbsp;
+can be spent on a deck’s win plan followed by a&nbsp;&nbsp;
+
+00:02:36.400 --> 00:02:40.800
+long sequence of turns purely spent defending&nbsp;
+that plan and suppressing a player’s opponent,&nbsp;&nbsp;
+
+00:02:40.800 --> 00:02:44.680
+a much larger mana investment is necessary&nbsp;
+to break through 40 life without the help of&nbsp;&nbsp;
+
+00:02:44.680 --> 00:02:48.360
+an infinite combo. In addition, even&nbsp;
+if a deck defeats a single opponent,&nbsp;&nbsp;
+
+00:02:48.360 --> 00:02:52.680
+there are two opponents still at the table, so&nbsp;
+it’s often wise to invest an even greater amount&nbsp;&nbsp;
+
+00:02:52.680 --> 00:02:58.120
+of mana upfront to formulate a threat that can&nbsp;
+subdue two or more players in rapid succession.
+
+00:02:58.120 --> 00:03:02.840
+The fact that larger investments are needed to&nbsp;
+win games means that draw and ramp are almost&nbsp;&nbsp;
+
+00:03:02.840 --> 00:03:07.640
+necessities—plans will involve lots of cards&nbsp;
+that don’t directly contribute to winning a&nbsp;&nbsp;
+
+00:03:07.640 --> 00:03:13.160
+game. This is another point of contrast between&nbsp;
+commander and 60 card 1v1 formats—in a burn deck,&nbsp;&nbsp;
+
+00:03:13.160 --> 00:03:18.360
+an ever-popular archetype in 60-card formats, a&nbsp;
+majority of a deck will often be spent on the task&nbsp;&nbsp;
+
+00:03:18.360 --> 00:03:23.400
+of reducing opposing life totals. Though you could&nbsp;
+point to control decks as spending less deck space&nbsp;&nbsp;
+
+00:03:23.400 --> 00:03:28.320
+on direct wincons, these decks still use cards&nbsp;
+like removal and draw to build up to the dominant&nbsp;&nbsp;
+
+00:03:28.320 --> 00:03:34.040
+gamestate they need to be in to win. A Lava Spike&nbsp;
+performs a similar role for an aggro deck as an Up&nbsp;&nbsp;
+
+00:03:34.040 --> 00:03:38.080
+the Beanstalk does for a control deck, and this&nbsp;
+comes down to the fact that different decks are&nbsp;&nbsp;
+
+00:03:38.080 --> 00:03:44.280
+different. If we focus on ramp, removal, and draw&nbsp;
+as categories of card, a large portion of decks&nbsp;&nbsp;
+
+00:03:44.280 --> 00:03:51.160
+in 60 card formats exclude one, two, or even all&nbsp;
+three of these things, which is notable when you&nbsp;&nbsp;
+
+00:03:51.160 --> 00:03:56.240
+consider that basically all commander decks are&nbsp;
+expected to have all of these things. This is also&nbsp;&nbsp;
+
+00:03:56.240 --> 00:04:02.280
+in spite of the fact that commander decks have&nbsp;
+access to, well, a commander—an additional card&nbsp;&nbsp;
+
+00:04:02.280 --> 00:04:08.840
+that is available at all times, a permanent eighth&nbsp;
+card in hand. A lot of people fail to acknowledge&nbsp;&nbsp;
+
+00:04:08.840 --> 00:04:13.760
+how incredible that is—a deck could easily pick&nbsp;
+out a commander that mostly fulfills a particular&nbsp;&nbsp;
+
+00:04:13.760 --> 00:04:19.000
+role to allow their deck to focus less on that.&nbsp;
+But this isn’t generally what happens—taking a&nbsp;&nbsp;
+
+00:04:19.000 --> 00:04:23.280
+look at some popular recent commanders, it’s&nbsp;
+mostly payoff or escalation of some kind—when&nbsp;&nbsp;
+
+00:04:23.280 --> 00:04:28.280
+a thing happens, either more of that thing or&nbsp;
+something different happens. A lot of commanders&nbsp;&nbsp;
+
+00:04:28.280 --> 00:04:33.800
+will draw cards in some form or other, but these&nbsp;
+decks will then still include a lot of card draw.
+
+00:04:33.800 --> 00:04:38.160
+These features paint a specific picture of&nbsp;
+commander as a format. Decks are expected to&nbsp;&nbsp;
+
+00:04:38.160 --> 00:04:43.000
+run decent quantities of ramp and draw because&nbsp;
+they’re expected to be bigger, taller than decks&nbsp;&nbsp;
+
+00:04:43.000 --> 00:04:48.640
+in 60 card formats, and this is facilitated by&nbsp;
+having more cards and more mana. This much is&nbsp;&nbsp;
+
+00:04:48.640 --> 00:04:54.240
+unsurprising—on some level these attributes are&nbsp;
+encoded into the very DNA of the format. However,&nbsp;&nbsp;
+
+00:04:54.240 --> 00:04:58.880
+over time this DNA has twisted and metastasized&nbsp;
+into an increasingly homogenous version of the&nbsp;&nbsp;
+
+00:04:58.880 --> 00:05:04.960
+format, one where decks are “expected” to look a&nbsp;
+certain way. Decks have grown bigger and taller&nbsp;&nbsp;
+
+00:05:04.960 --> 00:05:10.600
+over time—they gain more mana and draw more cards&nbsp;
+than decks in the past did. The funny thing about&nbsp;&nbsp;
+
+00:05:10.600 --> 00:05:15.680
+ramp and draw is that they have an amplifying&nbsp;
+effect—while a wincon or a removal spell won’t&nbsp;&nbsp;
+
+00:05:15.680 --> 00:05:20.800
+generate more of those things, ramp gives mana&nbsp;
+to cast more ramp spells, and card draw finds&nbsp;&nbsp;
+
+00:05:20.800 --> 00:05:26.160
+more card draw. As more and more powerful draw&nbsp;
+engines have been printed over the last 10 years,&nbsp;&nbsp;
+
+00:05:26.160 --> 00:05:31.440
+along with EDH developing a more streamlined&nbsp;
+deckbuilding culture, decks that focus heavily on&nbsp;&nbsp;
+
+00:05:31.440 --> 00:05:37.160
+draw and ramp have become more and more prevalent.&nbsp;
+In tandem with this, deviance from this version of&nbsp;&nbsp;
+
+00:05:37.160 --> 00:05:42.120
+commander has become increasingly challenging from&nbsp;
+a social standpoint. When players see opponents&nbsp;&nbsp;
+
+00:05:42.120 --> 00:05:48.320
+doing some sort of tall gameplan, one deckbuilding&nbsp;
+reaction could be to go under it. This is common&nbsp;&nbsp;
+
+00:05:48.320 --> 00:05:52.840
+in competitive 1v1 formats—you play aggro to rip&nbsp;
+away your opponent’s life total while they’re&nbsp;&nbsp;
+
+00:05:52.840 --> 00:05:58.080
+still in the setup phase of their greedy nonsense,&nbsp;
+you play combo to take advantage of them ignoring&nbsp;&nbsp;
+
+00:05:58.080 --> 00:06:03.560
+you, and you play stax pieces to clamp down on&nbsp;
+specific play patterns. All of this is possible&nbsp;&nbsp;
+
+00:06:03.560 --> 00:06:08.440
+in some form or other in commander—you can play&nbsp;
+voltron or group slug, you can play combo, and you&nbsp;&nbsp;
+
+00:06:08.440 --> 00:06:14.200
+can play stax pieces. The issue is, these things&nbsp;
+are often considered rude at a lot of mid-power&nbsp;&nbsp;
+
+00:06:14.200 --> 00:06:20.600
+EDH tables—it’s uncouth to see your opponent doing&nbsp;
+some greedy nonsense and to then try to cramp down&nbsp;&nbsp;
+
+00:06:20.600 --> 00:06:28.040
+on it. The polite counterplay is to go bigger—to&nbsp;
+get more mana and more cards and escalate harder.
+
+00:06:28.040 --> 00:06:32.640
+Commander as a casual format has the awkward&nbsp;
+dynamic that there isn’t a metagame per-se,&nbsp;&nbsp;
+
+00:06:32.640 --> 00:06:37.120
+and everything that happens is basically&nbsp;
+moderated by a giant glob of expectations&nbsp;&nbsp;
+
+00:06:37.120 --> 00:06:41.640
+that players and their opponents decide&nbsp;
+on, verbally or otherwise. While certain&nbsp;&nbsp;
+
+00:06:41.640 --> 00:06:46.680
+plays might not be explicitly disallowed, there&nbsp;
+will be varying levels of social acceptance of&nbsp;&nbsp;
+
+00:06:46.680 --> 00:06:50.560
+various different options a player could&nbsp;
+decide on. These social pressures then&nbsp;&nbsp;
+
+00:06:50.560 --> 00:06:55.520
+reinforce themselves as different players enter&nbsp;
+and exit the format under these new conditions—if&nbsp;&nbsp;
+
+00:06:55.520 --> 00:07:00.760
+a player base decides that Armageddon is&nbsp;
+unacceptable, well Winter Orb is almost as bad,&nbsp;&nbsp;
+
+00:07:00.760 --> 00:07:06.640
+and Gaddock Teeg is a bit too staxy as well, and&nbsp;
+Archon of Emeria also constricts player agency,&nbsp;&nbsp;
+
+00:07:06.640 --> 00:07:10.680
+doesn’t it? And I dunno about poison&nbsp;
+counters and commander damage either,&nbsp;&nbsp;
+
+00:07:10.680 --> 00:07:15.720
+those seem pretty sus as well. As countermeasures&nbsp;
+become less and less widespread, players will feel&nbsp;&nbsp;
+
+00:07:15.720 --> 00:07:21.160
+more and more emboldened to chase big, greedy&nbsp;
+decks to their logical endpoint. As snowbally&nbsp;&nbsp;
+
+00:07:21.160 --> 00:07:25.720
+midrange decks are allowed to become a more&nbsp;
+and more dominant part of the EDH landscape,&nbsp;&nbsp;
+
+00:07:25.720 --> 00:07:31.880
+they become all but synonymous with the format.&nbsp;
+They become the way to play casual commander.
+
+00:07:31.880 --> 00:07:36.920
+Now, I don’t want to necessarily say that this&nbsp;
+is inherently a purely bad thing. I have multiple&nbsp;&nbsp;
+
+00:07:36.920 --> 00:07:42.200
+decks that are absurdly tall or absurdly greedy,&nbsp;
+and I’ve also made decks with the explicit intent&nbsp;&nbsp;
+
+00:07:42.200 --> 00:07:47.640
+of being taller than other decks. The dominance&nbsp;
+of tall commander means that players are able to&nbsp;&nbsp;
+
+00:07:47.640 --> 00:07:52.880
+do big, expressive plays with a wide degree of&nbsp;
+freedom. It means that new players are allowed&nbsp;&nbsp;
+
+00:07:52.880 --> 00:07:57.040
+to explore the format without getting immediately&nbsp;
+pressured down by decks built with the intent to&nbsp;&nbsp;
+
+00:07:57.040 --> 00:08:02.680
+kneecap slower and greedier decks. Any given&nbsp;
+deck’s “thing” may take more or less time&nbsp;&nbsp;
+
+00:08:02.680 --> 00:08:07.120
+than any other deck’s “thing”, and allowing&nbsp;
+the most of these things to happen involves&nbsp;&nbsp;
+
+00:08:07.120 --> 00:08:11.760
+pushing back the point at which decks begin&nbsp;
+to focus on closing out games, letting decks&nbsp;&nbsp;
+
+00:08:11.760 --> 00:08:16.960
+focus more on the buildup stage. If the goal&nbsp;
+is to accommodate the most of those and allow&nbsp;&nbsp;
+
+00:08:16.960 --> 00:08:23.880
+the most people to do the most of their thing,&nbsp;
+tall EDH is really the only way to go. However,&nbsp;&nbsp;
+
+00:08:23.880 --> 00:08:28.720
+it’s also worth keeping in mind that this form&nbsp;
+of commander isn’t without issues all of its own.
+
+00:08:28.720 --> 00:08:33.080
+One issue with the gradual upward race of tall&nbsp;
+commander is something I spent an entire 20&nbsp;&nbsp;
+
+00:08:33.080 --> 00:08:39.320
+minute video on a couple months ago: information&nbsp;
+overload. EDH boards are wildly complex these&nbsp;&nbsp;
+
+00:08:39.320 --> 00:08:44.600
+days—while 60 card 1v1 formats feature the&nbsp;
+relatively simple boardstate of two players,&nbsp;&nbsp;
+
+00:08:44.600 --> 00:08:48.440
+EDH features the boardstates of four&nbsp;
+players, boardstates that are often&nbsp;&nbsp;
+
+00:08:48.440 --> 00:08:52.880
+far more complex than ones that would be&nbsp;
+found in 60 card formats. As a result,&nbsp;&nbsp;
+
+00:08:52.880 --> 00:08:57.760
+players in a game of commander need to process a&nbsp;
+lot more different cards than players in a 60 card&nbsp;&nbsp;
+
+00:08:57.760 --> 00:09:02.840
+format, and doing so will use mental energy that&nbsp;
+could be spent on planning turns, strategizing,&nbsp;&nbsp;
+
+00:09:02.840 --> 00:09:07.760
+politicking, or performing alternative forms&nbsp;
+of threat analysis. This will naturally fall&nbsp;&nbsp;
+
+00:09:07.760 --> 00:09:12.640
+hardest on newer players, who are familiar with&nbsp;
+fewer cards and thus need to take more time to&nbsp;&nbsp;
+
+00:09:12.640 --> 00:09:17.200
+process the cards being played in a game. Some of&nbsp;
+this added information is inherent to commander&nbsp;&nbsp;
+
+00:09:17.200 --> 00:09:22.040
+as a format. Having four players is kinda&nbsp;
+baked into how we do things here in EDH-ville,&nbsp;&nbsp;
+
+00:09:22.040 --> 00:09:26.960
+and having a massive thirty-year-long card&nbsp;
+pool is lifewise a fact of life. Commander&nbsp;&nbsp;
+
+00:09:26.960 --> 00:09:31.800
+is unavoidably going to be more complicated&nbsp;
+than 60 card formats and that’s just kind of&nbsp;&nbsp;
+
+00:09:31.800 --> 00:09:37.600
+the price of entry—it was originally popularized&nbsp;
+by judges after all. What’s not a fact of life is&nbsp;&nbsp;
+
+00:09:37.600 --> 00:09:43.040
+everybody playing these big, escalatory midrange&nbsp;
+piles, with each deck developing more and more&nbsp;&nbsp;
+
+00:09:43.040 --> 00:09:47.480
+utility or value permanents over the course&nbsp;
+of the game, each with probably way too much&nbsp;&nbsp;
+
+00:09:47.480 --> 00:09:52.960
+text. Commander is inherently complex,&nbsp;
+but it doesn’t need to be this complex.
+
+00:09:52.960 --> 00:09:57.320
+Big complex boardstates, paired with decks that&nbsp;
+want to perform exponentially more actions as a&nbsp;&nbsp;
+
+00:09:57.320 --> 00:10:02.680
+game progresses, lead to an additional&nbsp;
+problem—turn lengths. Casual EDH games&nbsp;&nbsp;
+
+00:10:02.680 --> 00:10:07.880
+have a reputation for being mercilessly long at&nbsp;
+times, and I’d argue a lion’s share of this is&nbsp;&nbsp;
+
+00:10:07.880 --> 00:10:13.800
+due to long turns. Long games aren’t always a bad&nbsp;
+thing—I’ve had multi-hour back-and-forth grinds&nbsp;&nbsp;
+
+00:10:13.800 --> 00:10:19.840
+that were genuinely exciting. However, when turn&nbsp;
+length is the primary cause of a game’s length,&nbsp;&nbsp;
+
+00:10:19.840 --> 00:10:26.000
+things are rarely this enjoyable. One of the&nbsp;
+issues is that long turns beget long turns—if the&nbsp;&nbsp;
+
+00:10:26.000 --> 00:10:31.040
+game’s turns are a sequence of back to back 5-10&nbsp;
+minute fiddle fests, other people are going to&nbsp;&nbsp;
+
+00:10:31.040 --> 00:10:36.280
+start chatting or checking their phone or gazing&nbsp;
+off into space. Then, when it does get back around&nbsp;&nbsp;
+
+00:10:36.280 --> 00:10:41.040
+to somebody’s turn, instead of planning ahead for&nbsp;
+it their mind has been wandering, and they need to&nbsp;&nbsp;
+
+00:10:41.040 --> 00:10:46.200
+recalibrate on what they’ll be doing, increasing&nbsp;
+how long their turn takes. This cycle reminds me&nbsp;&nbsp;
+
+00:10:46.200 --> 00:10:50.400
+of some of the less pleasant D&amp;D encounters I’ve&nbsp;
+partaken in, and it’s a cycle that can really&nbsp;&nbsp;
+
+00:10:50.400 --> 00:10:56.800
+take a toll on the goal of maintaining a dynamic&nbsp;
+game of EDH. The issue of long turns—and thereby&nbsp;&nbsp;
+
+00:10:56.800 --> 00:11:03.400
+long games—then ends up decreasing the social&nbsp;
+acceptability of more aggressive strategies. This&nbsp;&nbsp;
+
+00:11:03.400 --> 00:11:07.960
+pattern is most clear with Voltron, an archetype&nbsp;
+that involves putting a bunch of auras or&nbsp;&nbsp;
+
+00:11:07.960 --> 00:11:12.560
+equipments on a particular creature and defeating&nbsp;
+opponents with it one by one, but it really&nbsp;&nbsp;
+
+00:11:12.560 --> 00:11:17.640
+applies to focusing down opponents in general.&nbsp;
+Despite the fact that strategically it might be&nbsp;&nbsp;
+
+00:11:17.640 --> 00:11:23.480
+correct to fully focus down a particularly scary&nbsp;
+player, this is somewhat unpopular in part because&nbsp;&nbsp;
+
+00:11:23.480 --> 00:11:29.040
+of how long EDH games go. If knocking out a player&nbsp;
+meant them sitting around for 10 or 20 minutes for&nbsp;&nbsp;
+
+00:11:29.040 --> 00:11:33.400
+the game to finish, I doubt most people would&nbsp;
+have too big of an issue with that. However,&nbsp;&nbsp;
+
+00:11:33.400 --> 00:11:38.360
+when it means sitting around for 45 minutes&nbsp;
+or even an hour while the remaining players&nbsp;&nbsp;
+
+00:11:38.360 --> 00:11:42.680
+fiddle around with their fussy boards of&nbsp;
+snowball midrange, it’s a bit less ideal.
+
+00:11:42.680 --> 00:11:44.480
+In addition to the other issues I’ve mentioned,&nbsp;&nbsp;
+
+00:11:44.480 --> 00:11:49.000
+the current commander landscape is one that&nbsp;
+favors board wipes quite heavily. Players&nbsp;&nbsp;
+
+00:11:49.000 --> 00:11:54.040
+will put together these wild snowbally packages&nbsp;
+that explode out of control in a matter of turns,&nbsp;&nbsp;
+
+00:11:54.040 --> 00:11:58.600
+and when there are multiple of these sorts&nbsp;
+of decks with taboos against stax and aggro,&nbsp;&nbsp;
+
+00:11:58.600 --> 00:12:03.240
+the only only option is to board wipe, and&nbsp;
+to board wipe frequently. The collateral&nbsp;&nbsp;
+
+00:12:03.240 --> 00:12:07.320
+damage of this will be the players trying&nbsp;
+to advance their gameplan at a normal pace,&nbsp;&nbsp;
+
+00:12:07.320 --> 00:12:13.080
+trying to gradually build up something of their&nbsp;
+own. This is the paradox of “doing the thing”—the&nbsp;&nbsp;
+
+00:12:13.080 --> 00:12:17.600
+form of commander that gives players the most&nbsp;
+time to develop a slower gameplan is the exact&nbsp;&nbsp;
+
+00:12:17.600 --> 00:12:22.800
+same form of commander that cultivates board&nbsp;
+wipes as this constant and unavoidable factor.&nbsp;&nbsp;
+
+00:12:22.800 --> 00:12:27.000
+You get to do the thing, and I sure hope you&nbsp;
+liked doing that thing because you’re gonna&nbsp;&nbsp;
+
+00:12:27.000 --> 00:12:29.442
+get about five more chances to do it over again&nbsp;
+after getting boardwiped. Me and my friend Hans&nbsp;&nbsp;
+
+00:12:29.442 --> 00:12:30.073
+had an interesting conversation about board wipes&nbsp;
+a few days ago, and it gave me some ideas that&nbsp;&nbsp;
+
+00:12:30.073 --> 00:12:31.400
+I’ll probably throw into a little facecam video&nbsp;
+that’ll go up on my Patreon in a couple days.
+
+00:12:31.400 --> 00:12:36.680
+So those are some of my problems with the state of&nbsp;
+commander as it currently exists—this wildly tall&nbsp;&nbsp;
+
+00:12:36.680 --> 00:12:41.800
+version of the format—, and a natural followup&nbsp;
+question might be “can those problems be solved in&nbsp;&nbsp;
+
+00:12:41.800 --> 00:12:46.320
+a way that improves the format?.” I mentioned the&nbsp;
+taboos against shorter strategies such as aggro&nbsp;&nbsp;
+
+00:12:46.320 --> 00:12:52.320
+and stax, and I know some of you probably thought&nbsp;
+to yourselves—”but Alex, even without taboos,&nbsp;&nbsp;
+
+00:12:52.320 --> 00:12:58.280
+aggro simply isn’t a viable strategy in&nbsp;
+casual commander.” Is this true? Kind of yes,&nbsp;&nbsp;
+
+00:12:58.280 --> 00:13:02.720
+but also kind of no. It’s true in the sense&nbsp;
+that if you pull out an aggro deck against three&nbsp;&nbsp;
+
+00:13:02.720 --> 00:13:07.880
+snowbally midrange decks, the table will likely&nbsp;
+get annoyed at you and beat you into submission.&nbsp;&nbsp;
+
+00:13:07.880 --> 00:13:12.240
+It’s almost considered rude at a lot of EDH&nbsp;
+tables to introduce life total into the game&nbsp;&nbsp;
+
+00:13:12.240 --> 00:13:16.960
+as a relevant factor before people have generated&nbsp;
+a bunch of value in whatever way their particular&nbsp;&nbsp;
+
+00:13:16.960 --> 00:13:21.880
+deck likes to do such a thing. However, the fact&nbsp;
+that games so often involve nothing but snowbally&nbsp;&nbsp;
+
+00:13:21.880 --> 00:13:26.480
+value decks isn’t some kind of set in stone fact&nbsp;
+of life. A good counter-example to the current&nbsp;&nbsp;
+
+00:13:26.480 --> 00:13:31.840
+state of commander is a pool of $25 decks I played&nbsp;
+with a few years back. That pool had some pretty&nbsp;&nbsp;
+
+00:13:31.840 --> 00:13:37.600
+tall decks—a Simic toolbox midrange deck and&nbsp;
+a Gruul big mana deck come to mind. However,&nbsp;&nbsp;
+
+00:13:37.600 --> 00:13:42.680
+the tallness of these decks was modulated by the&nbsp;
+diversity of the rest of the pool. The pool had&nbsp;&nbsp;
+
+00:13:42.680 --> 00:13:46.640
+four faster decks that would put on pressure,&nbsp;
+as well as a couple control decks that could&nbsp;&nbsp;
+
+00:13:46.640 --> 00:13:51.720
+punish overextensions from any other deck. The&nbsp;
+result of this was that all slower decks needed&nbsp;&nbsp;
+
+00:13:51.720 --> 00:13:57.880
+to build in tools to hold off aggro—blockers,&nbsp;
+lifegain, early removal, and so on. Likewise,&nbsp;&nbsp;
+
+00:13:57.880 --> 00:14:01.880
+all of the midrange decks in the pool needed&nbsp;
+to include tools for maintaining a gameplan&nbsp;&nbsp;
+
+00:14:01.880 --> 00:14:06.880
+through the unrelenting grasp of the pool’s&nbsp;
+control decks. This little metagame resulted&nbsp;&nbsp;
+
+00:14:06.880 --> 00:14:11.680
+in well-rounded and resilient decks—when the&nbsp;
+situations a deck is likely to end up in are&nbsp;&nbsp;
+
+00:14:11.680 --> 00:14:16.760
+more specific and dramatic than simply facing a&nbsp;
+squishy blob of generic midrange, those decks need&nbsp;&nbsp;
+
+00:14:16.760 --> 00:14:21.720
+to be built in a way that adapts to that rather&nbsp;
+than just following a formulaic plan every game.
+
+00:14:21.720 --> 00:14:26.200
+The other thing this pool did was guarantee deck&nbsp;
+diversity in games, since decks were selected&nbsp;&nbsp;
+
+00:14:26.200 --> 00:14:31.400
+randomly from a pool of 10. The average 4-pod&nbsp;
+deck pool would have two faster midrange decks,&nbsp;&nbsp;
+
+00:14:31.400 --> 00:14:36.360
+one slower midrange deck, and one control deck.&nbsp;
+Even in games where slower decks were represented&nbsp;&nbsp;
+
+00:14:36.360 --> 00:14:41.360
+more heavily, a singular faster deck in the&nbsp;
+pod could usually still do just fine—the slower&nbsp;&nbsp;
+
+00:14:41.360 --> 00:14:46.200
+decks were somewhat diverse, and none of them were&nbsp;
+all-in on a snowbally game plan because doing this&nbsp;&nbsp;
+
+00:14:46.200 --> 00:14:51.400
+would likely lead to getting destroyed in any game&nbsp;
+with more than one fast deck. The randomization&nbsp;&nbsp;
+
+00:14:51.400 --> 00:14:56.360
+also had the side benefit of forcing players into&nbsp;
+playing all decks and experiencing all sides of&nbsp;&nbsp;
+
+00:14:56.360 --> 00:15:01.560
+things, which gave greater insight into how to&nbsp;
+play strategically. Something funny is that the&nbsp;&nbsp;
+
+00:15:01.560 --> 00:15:07.400
+Gruul big mana deck, the greediest deck in the&nbsp;
+pool and decidedly mid-pack in terms of winrate,&nbsp;&nbsp;
+
+00:15:07.400 --> 00:15:13.480
+ended up feeling the strongest outside of the&nbsp;
+pool. Its weakness within the pool was other decks&nbsp;&nbsp;
+
+00:15:13.480 --> 00:15:19.040
+pressuring it down knowing it would pop off in the&nbsp;
+late game, but in the general commander ecosystem&nbsp;&nbsp;
+
+00:15:19.040 --> 00:15:23.960
+people play slower decks and don’t have the same&nbsp;
+built-in understanding that a late-game deck is&nbsp;&nbsp;
+
+00:15:23.960 --> 00:15:29.200
+one that should be attacked early and often. It’s&nbsp;
+rude to throw your creatures at the snowballiest&nbsp;&nbsp;
+
+00:15:29.200 --> 00:15:33.120
+opponent turn after turn—you’d better spread&nbsp;
+out that damage, they’re just trying to do&nbsp;&nbsp;
+
+00:15:33.120 --> 00:15:37.200
+their thing after all. If you want to&nbsp;
+hear more about this specific dynamic,&nbsp;&nbsp;
+
+00:15:37.200 --> 00:15:40.520
+my friend The Trinket Mage just released&nbsp;
+a video that dives into the question of&nbsp;&nbsp;
+
+00:15:40.520 --> 00:15:45.360
+whether to allow decks to do their thing, and&nbsp;
+a link to his video is in the description.
+
+00:15:45.360 --> 00:15:50.240
+Now, does any of this information provide a&nbsp;
+solution to the issues I have with tall decks?&nbsp;&nbsp;
+
+00:15:50.240 --> 00:15:55.360
+Well, not exactly, but it’s a useful window into&nbsp;
+how formats get conceptualized by the people who&nbsp;&nbsp;
+
+00:15:55.360 --> 00:16:00.560
+play them. I’d encourage players to give building&nbsp;
+their own deck pool a try, as navigating a little&nbsp;&nbsp;
+
+00:16:00.560 --> 00:16:05.200
+metagame can be a lot of fun and is a type of&nbsp;
+fun that commander players usually miss out&nbsp;&nbsp;
+
+00:16:05.200 --> 00:16:11.680
+on. However, most commander games will continue&nbsp;
+to feature unpredictable combinations of decks.&nbsp;&nbsp;
+
+00:16:11.680 --> 00:16:16.320
+Likewise, having decks that deviate from&nbsp;
+the snowball midrange mold can be quite fun,&nbsp;&nbsp;
+
+00:16:16.320 --> 00:16:21.360
+but generally you need at least two deviating&nbsp;
+decks in a game to really break out of the&nbsp;&nbsp;
+
+00:16:21.360 --> 00:16:27.000
+conventional mold. For my part, I’m in my aggro&nbsp;
+era—over the summer I revamped my Liesa hatebears&nbsp;&nbsp;
+
+00:16:27.000 --> 00:16:30.960
+deck to have a bit less stax and some additional&nbsp;
+tools for beatdown and value generation,&nbsp;&nbsp;
+
+00:16:30.960 --> 00:16:35.520
+and it’s been a lot of fun to be threatening life&nbsp;
+totals more consistently. I’m also tinkering with&nbsp;&nbsp;
+
+00:16:35.520 --> 00:16:39.080
+a handful of other decks that can put on a healthy&nbsp;
+amount of pressure while still fitting nicely&nbsp;&nbsp;
+
+00:16:39.080 --> 00:16:45.120
+into a typical EDH game, including an update&nbsp;
+of the Malfegor deck from the $25 deck pool.&nbsp;&nbsp;
+
+00:16:45.120 --> 00:16:49.840
+Obviously you shouldn’t make it a goal to ruin&nbsp;
+the fun of other players—some players do this,&nbsp;&nbsp;
+
+00:16:49.840 --> 00:16:55.360
+and they should stop—but I’d argue it’s perfectly&nbsp;
+fine to at least push other players out of their&nbsp;&nbsp;
+
+00:16:55.360 --> 00:17:00.840
+comfort zone a bit. EDH is a game, not an&nbsp;
+art palette or a drawing cards simulator,&nbsp;&nbsp;
+
+00:17:00.840 --> 00:17:05.440
+and though the increased 40 life is nice for&nbsp;
+allowing a greater diversity of slower decks,&nbsp;&nbsp;
+
+00:17:05.440 --> 00:17:09.840
+it’s also valid to treat opposing life totals the&nbsp;
+way they’re treated in other formats—a thing that&nbsp;&nbsp;
+
+00:17:09.840 --> 00:17:15.600
+wins you the game if you reduce it to zero. There&nbsp;
+is no one right answer to how to navigate a social&nbsp;&nbsp;
+
+00:17:15.600 --> 00:17:21.400
+format like EDH, and people should largely be&nbsp;
+allowed to play what they wanna play. We should,&nbsp;&nbsp;
+
+00:17:21.400 --> 00:17:25.680
+however, give faster and more suppressive decks&nbsp;
+at least a portion of the leeway given to the&nbsp;&nbsp;
+
+00:17:25.680 --> 00:17:31.880
+synergy blobs of the world. A more vibrant&nbsp;
+and dynamic format is a thing worth pursuing.
+
+00:17:31.880 --> 00:17:35.800
+Thanks for watching! And thank you to Archidekt&nbsp;
+for supporting the channel. I’ve been using&nbsp;&nbsp;
+
+00:17:35.800 --> 00:17:40.750
+Archidekt for years, and the UI is so crisp and&nbsp;
+neat-looking that I’ve used screenshots from&nbsp;&nbsp;
+
+00:17:40.750 --> 00:17:45.200
+Archidekt in videos going back months before they&nbsp;
+were even giving me money. You can check out all&nbsp;&nbsp;
+
+00:17:45.200 --> 00:17:48.960
+my decks at the link down in the description.&nbsp;
+I also want to thank my Patrons for supporting&nbsp;&nbsp;
+
+00:17:48.960 --> 00:17:53.760
+the channel, and if you want to join them you&nbsp;
+can do so over at patreon.com/SalubriousSnail.&nbsp;
+
+00:17:53.760 --> 00:17:57.280
+Finally, if you want to pick up some cards for&nbsp;
+that new stax deck you just got inspired to build,&nbsp;&nbsp;
+
+00:17:57.280 --> 00:18:01.320
+I left a TCGPlayer affiliate link down in&nbsp;
+the description. I’ve found TCGPlayer to&nbsp;&nbsp;
+
+00:18:01.320 --> 00:18:05.000
+be the best place out there for buying lots&nbsp;
+of cheap cards in one fell swoop, which has&nbsp;&nbsp;
+
+00:18:05.000 --> 00:18:10.000
+been helpful over the years for all the budget&nbsp;
+decks I’ve bought. Alright, that’s all. Bye now.
+

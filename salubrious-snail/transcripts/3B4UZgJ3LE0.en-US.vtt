@@ -1,0 +1,780 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.320 --> 00:00:04.000
+Earlier this year, the bracket system was rolled&nbsp;
+out in the commander format, providing guidelines&nbsp;&nbsp;
+
+00:00:04.000 --> 00:00:08.480
+for separating decks into different rough&nbsp;
+groupings to be played together. Soon after,&nbsp;&nbsp;
+
+00:00:08.480 --> 00:00:13.360
+though, I noticed a problem. I noticed a problem—I&nbsp;
+didn’t have any bracket two decks. I had a lovely&nbsp;&nbsp;
+
+00:00:13.360 --> 00:00:17.840
+variety of different bracket 3 decks from&nbsp;
+battlecruiser to aggro to control to low-slung&nbsp;&nbsp;
+
+00:00:17.840 --> 00:00:22.960
+staxy midrange, but nothing I’d feel comfortable&nbsp;
+consistently pulling out in games against three&nbsp;&nbsp;
+
+00:00:22.960 --> 00:00:28.080
+precons or equivalent decks, at least not without&nbsp;
+the expectation of playing a 1v3 archenemy sort&nbsp;&nbsp;
+
+00:00:28.080 --> 00:00:33.840
+of role. So, that seemed like a problem worth&nbsp;
+remedying. Now, I had built a low-power deck&nbsp;&nbsp;
+
+00:00:33.840 --> 00:00:38.880
+in the past—a couple years previously I’d built a&nbsp;
+Skeleton Ship proliferate deck, and that was kind&nbsp;&nbsp;
+
+00:00:38.880 --> 00:00:43.680
+of funny, but it was lower power purely because&nbsp;
+it ran a hot garbage commander and a number of&nbsp;&nbsp;
+
+00:00:43.680 --> 00:00:49.600
+hot garbage cards in the 99 such as Shrine of&nbsp;
+Piercing Vision, Mindless Automaton, Time Bomb,&nbsp;&nbsp;
+
+00:00:49.600 --> 00:00:55.360
+and a whole four of the 90s storage lands that&nbsp;
+couldn’t tap for non-stored mana. It was funny,&nbsp;&nbsp;
+
+00:00:55.360 --> 00:01:00.080
+but the play pattern was jarring, with the deck&nbsp;
+being glacially slow to get going but potentially&nbsp;&nbsp;
+
+00:01:00.080 --> 00:01:04.400
+quite oppressive in the late game if it was&nbsp;
+left alone to fully build up an engine. You can&nbsp;&nbsp;
+
+00:01:04.400 --> 00:01:09.200
+probably imagine why I mostly stopped playing this&nbsp;
+deck. One alternative option for having a bracket&nbsp;&nbsp;
+
+00:01:09.200 --> 00:01:14.640
+2 deck would be just buying a precon, and maybe&nbsp;
+doing a slight round of upgrades or sidegrades,&nbsp;&nbsp;
+
+00:01:14.640 --> 00:01:19.520
+but I wanted something that felt more my own&nbsp;
+than that. There’s also another problem with both&nbsp;&nbsp;
+
+00:01:19.520 --> 00:01:26.000
+precons and the Skeleton Ship deck—they feel kinda&nbsp;
+suboptimal. This probably sounds like a very silly&nbsp;&nbsp;
+
+00:01:26.000 --> 00:01:31.280
+criticism of a deck intended to play in relatively&nbsp;
+low-power games, but I really like the process&nbsp;&nbsp;
+
+00:01:31.280 --> 00:01:36.080
+of tightening up a deck’s cohesion, of finding&nbsp;
+the perfect cards for its mechanical needs, the&nbsp;&nbsp;
+
+00:01:36.080 --> 00:01:42.080
+process of turning the deck into a machine that&nbsp;
+does something. I like that process and I like to&nbsp;&nbsp;
+
+00:01:42.080 --> 00:01:46.800
+play decks that feel like they’re performing the&nbsp;
+role I want them to perform as well as they can.
+
+00:01:46.800 --> 00:01:51.200
+Immediately this is a bit of a conflict—this&nbsp;
+preference for optimization works fine for&nbsp;&nbsp;
+
+00:01:51.200 --> 00:01:55.920
+bracket 3, because there are a whole lot of&nbsp;
+somewhat funky ideas whose optimized version&nbsp;&nbsp;
+
+00:01:55.920 --> 00:02:01.200
+ends up in that sort of nice mid-power zone.&nbsp;
+But bracket 2 is harder—what sort of idea is&nbsp;&nbsp;
+
+00:02:01.200 --> 00:02:07.040
+so inherently mediocre that optimizing it ends up&nbsp;
+at the power level of a precon? In this case, I&nbsp;&nbsp;
+
+00:02:07.040 --> 00:02:12.480
+actually took inspiration from precons themselves.&nbsp;
+See, preconstructed commander decks are typically&nbsp;&nbsp;
+
+00:02:12.480 --> 00:02:17.680
+unfocused by design—they feature slightly too&nbsp;
+many themes and elements because they’re trying to&nbsp;&nbsp;
+
+00:02:17.680 --> 00:02:22.640
+give players a taste of different playstyles, and&nbsp;
+also give some easy paths to upgrade a given deck&nbsp;&nbsp;
+
+00:02:22.640 --> 00:02:28.480
+such as cutting a singular subtheme for some more&nbsp;
+relevant stuff. So, what if I did the same thing,&nbsp;&nbsp;
+
+00:02:28.480 --> 00:02:34.240
+but on overdrive: what if I built a deck&nbsp;
+with way too many subthemes, like a truly&nbsp;&nbsp;
+
+00:02:34.240 --> 00:02:39.440
+irresponsible number of subthemes, and then&nbsp;
+tried my hardest to optimize it into a workable&nbsp;&nbsp;
+
+00:02:39.440 --> 00:02:45.520
+decklist? Thus began the process of building&nbsp;
+Phyrexian-flavored Subtheme Soup. Longtime&nbsp;&nbsp;
+
+00:02:45.520 --> 00:02:50.160
+Snail heads out there might remember that I had a&nbsp;
+Glissa Sunslayer battlecruiser deck a while back,&nbsp;&nbsp;
+
+00:02:50.160 --> 00:02:55.520
+and while I love Glissa as a character, both&nbsp;
+that deck and that Glissa ran a bit generic for&nbsp;&nbsp;
+
+00:02:55.520 --> 00:03:00.320
+my tastes. Glissa the Traitor could be fun&nbsp;
+as an old-school sort of commander choice,&nbsp;&nbsp;
+
+00:03:00.320 --> 00:03:05.280
+but that one is actually a bit too specific for&nbsp;
+my purposes her, with a setup and payoff that&nbsp;&nbsp;
+
+00:03:05.280 --> 00:03:10.320
+don’t offer a super wide variety of options.&nbsp;
+However, there’s another green black option,&nbsp;&nbsp;
+
+00:03:10.320 --> 00:03:16.160
+and that one actually lands right in the sweet&nbsp;
+spot for me—Glissa, Herald of Predation. This is&nbsp;&nbsp;
+
+00:03:16.160 --> 00:03:22.080
+a 5 mana 3/5 that offers a choice at the beginning&nbsp;
+of combat on your turn—Incubate 2 twice, flip all&nbsp;&nbsp;
+
+00:03:22.080 --> 00:03:27.920
+your incubator tokens, or give your Phyrexians&nbsp;
+first strike and deathtouch. Incubate as a&nbsp;&nbsp;
+
+00:03:27.920 --> 00:03:33.200
+mechanic is pretty unique—it creates a noncreature&nbsp;
+artifact token with +1/+1 counters on it that&nbsp;&nbsp;
+
+00:03:33.200 --> 00:03:38.400
+can later be flipped into a Phyrexian artifact&nbsp;
+creature by paying two mana. Obviously this lends&nbsp;&nbsp;
+
+00:03:38.400 --> 00:03:43.440
+itself to a deck that cares about counters,&nbsp;
+so we’ll call that subtheme #1, but honestly&nbsp;&nbsp;
+
+00:03:43.440 --> 00:03:48.800
+the first thing I noticed about Glissa is “wow&nbsp;
+this card generates a lot of artifact tokens”.
+
+00:03:48.800 --> 00:03:53.120
+There’s a number of fairly straightforward ways&nbsp;
+to take advantage of having artifact tokens. Cards&nbsp;&nbsp;
+
+00:03:53.120 --> 00:03:57.600
+like Tarrian’s Journal and Eviscerator’s Insight&nbsp;
+sacrifice artifacts to draw, Monumental Corruption&nbsp;&nbsp;
+
+00:03:57.600 --> 00:04:01.920
+can either be a big draw spell or a player-killing&nbsp;
+spell depending on the artifact count, and Throne&nbsp;&nbsp;
+
+00:04:01.920 --> 00:04:06.800
+of Geth is a potent one-card engine with the&nbsp;
+commander, also boosting the counters theme. So&nbsp;&nbsp;
+
+00:04:06.800 --> 00:04:11.920
+for our purposes here, having a lot of artifacts&nbsp;
+is subtheme #2, and it’s one of the more central&nbsp;&nbsp;
+
+00:04:11.920 --> 00:04:17.360
+themes here. It also contains arguably the deck’s&nbsp;
+most powerful card, and one that inspired much&nbsp;&nbsp;
+
+00:04:17.360 --> 00:04:22.960
+of the rest of the list—Clock of Omens. This is a&nbsp;
+four mana artifact that allows a player to tap two&nbsp;&nbsp;
+
+00:04:22.960 --> 00:04:28.960
+artifacts to untap a different artifact, and while&nbsp;
+it’s not quite a combo piece here—I think—it still&nbsp;&nbsp;
+
+00:04:28.960 --> 00:04:33.760
+has the potential for some big turns. The most&nbsp;
+basic version of that is with some of my bigger,&nbsp;&nbsp;
+
+00:04:33.760 --> 00:04:38.880
+counter-based mana rocks—repeatedly tapping and&nbsp;
+untapping Everflowing Chalice, Astral Cornucopia,&nbsp;&nbsp;
+
+00:04:38.880 --> 00:04:43.760
+or Empowered Autogenerator can really push the&nbsp;
+deck’s mana into new territory and let it do&nbsp;&nbsp;
+
+00:04:43.760 --> 00:04:49.280
+some big plays. There are a lot of other options&nbsp;
+as well, though—Idol of Oblivion for card draw,&nbsp;&nbsp;
+
+00:04:49.280 --> 00:04:53.920
+Staff of Compleation for proliferates and&nbsp;
+more, and both Twitching Doll and Lux Cannon&nbsp;&nbsp;
+
+00:04:53.920 --> 00:04:58.960
+as cool cards that also use counters. The deck&nbsp;
+contains a couple other options for untapping,&nbsp;&nbsp;
+
+00:04:58.960 --> 00:05:03.280
+but it does sometimes run into a problem—not&nbsp;
+all of the cool tap abilities I want to run&nbsp;&nbsp;
+
+00:05:03.920 --> 00:05:08.320
+are on artifacts. I have cards like Plaguemaw&nbsp;
+Beast and Wight of the Reliquary that take&nbsp;&nbsp;
+
+00:05:08.320 --> 00:05:12.320
+advantage of my tokens, and I’d quite like&nbsp;
+to activate them repeatedly after flipping&nbsp;&nbsp;
+
+00:05:12.320 --> 00:05:17.520
+a bunch of incubators with Glissa, so…&nbsp;
+what if I just turned them into artifacts?
+
+00:05:17.520 --> 00:05:22.640
+Enter the liquimetal package. This features&nbsp;
+Liquimetal Torque and Phyrexian Scriptures,&nbsp;&nbsp;
+
+00:05:22.640 --> 00:05:26.520
+both cards that can turn a creature into an&nbsp;
+artifact creature, as well as being a mana&nbsp;&nbsp;
+
+00:05:26.520 --> 00:05:31.760
+rock and a board wipe, respectively. This&nbsp;
+package also contains two other cards, and&nbsp;&nbsp;
+
+00:05:31.760 --> 00:05:38.480
+these are actually my two favorite cards in the&nbsp;
+deck—Dollhouse of Horrors and Nexus of Becoming.&nbsp;&nbsp;
+
+00:05:38.480 --> 00:05:43.040
+Both of these create token copies of cards&nbsp;
+that are also artifact creature constructs,&nbsp;&nbsp;
+
+00:05:43.040 --> 00:05:48.000
+with Dollhouse doing this by exiling creatures&nbsp;
+from the graveyard and Nexus doing this by exiling&nbsp;&nbsp;
+
+00:05:48.000 --> 00:05:53.520
+artifacts or creatures from a player’s hand. The&nbsp;
+downside of exiling the copied card is certainly&nbsp;&nbsp;
+
+00:05:53.520 --> 00:05:59.440
+real, but the potential volume of liquimetal-ed&nbsp;
+creature creation is really potent here. And,&nbsp;&nbsp;
+
+00:05:59.440 --> 00:06:04.400
+due to a particular quirk of these cards, they’re&nbsp;
+able to form the bedrock for yet another one of&nbsp;&nbsp;
+
+00:06:04.400 --> 00:06:10.000
+the deck’s subthemes—token copy populate. Since&nbsp;
+the artifact creature copies created by Nexus&nbsp;&nbsp;
+
+00:06:10.000 --> 00:06:15.520
+and Dollhouse are tokens, they can be further&nbsp;
+copied by cards like Selesnya Eulogist and Esika’s&nbsp;&nbsp;
+
+00:06:15.520 --> 00:06:20.400
+Chariot, cards that copy tokens. This can allow&nbsp;
+for some nutty levels of advantage building, and&nbsp;&nbsp;
+
+00:06:20.400 --> 00:06:25.200
+to improve the odds for things to come together&nbsp;
+I threw in a few extra token copy generators as&nbsp;&nbsp;
+
+00:06:25.200 --> 00:06:30.160
+well. This still isn’t a huge package—just five&nbsp;
+setup and four payoff—but most of these cards&nbsp;&nbsp;
+
+00:06:30.160 --> 00:06:34.960
+are fine enough on their own, and the payoff&nbsp;
+for putting them together can be pretty huge.
+
+00:06:34.960 --> 00:06:40.480
+A late edition to this deck was a graveyard&nbsp;
+subtheme. I adore Dollhouse of Horrors and on&nbsp;&nbsp;
+
+00:06:40.480 --> 00:06:45.280
+paper it’s perfect for this deck, but too often&nbsp;
+in my early games I was finding myself without&nbsp;&nbsp;
+
+00:06:45.280 --> 00:06:50.000
+much to do with it, making copies of maybe one or&nbsp;
+two creatures but not feeling like I was getting&nbsp;&nbsp;
+
+00:06:50.800 --> 00:06:55.200
+the full potential out of the card. This was&nbsp;
+also my experience with another card I like,&nbsp;&nbsp;
+
+00:06:55.200 --> 00:06:59.680
+Vat of Rebirth, so I decided to help these cards&nbsp;
+out with the addition of some other graveyard&nbsp;&nbsp;
+
+00:06:59.680 --> 00:07:04.480
+payoffs and especially some more graveyard&nbsp;
+enablers. I went with mostly pretty flexible&nbsp;&nbsp;
+
+00:07:04.480 --> 00:07:08.960
+options here—Millikin as a card that’s also&nbsp;
+a mana dork, Sarinth Steelseeker as a sort&nbsp;&nbsp;
+
+00:07:08.960 --> 00:07:13.360
+of value engine that works well with my artifact&nbsp;
+tokens, Old Rutstein as a card that also itself&nbsp;&nbsp;
+
+00:07:13.360 --> 00:07:19.520
+pushes my tokens plan, and Tyvar as a planeswalker&nbsp;
+that also ties into activated abilities. With the&nbsp;&nbsp;
+
+00:07:19.520 --> 00:07:23.680
+graveyard package covered we’ve capped off the&nbsp;
+list of all the major subthemes, but there are&nbsp;&nbsp;
+
+00:07:23.680 --> 00:07:29.120
+a few more minor packages as well. The deck runs&nbsp;
+a constructs package with Scrapyard Recombiner,&nbsp;&nbsp;
+
+00:07:29.120 --> 00:07:34.400
+which gives it access to a removal spell and a&nbsp;
+few synergy options of different calibers. There’s&nbsp;&nbsp;
+
+00:07:34.400 --> 00:07:39.040
+also five cards that create powerstones, which&nbsp;
+can pay for one of the deck’s 31 artifacts, one of&nbsp;&nbsp;
+
+00:07:39.040 --> 00:07:44.400
+the deck’s 23 cards with a colorless-mana-payable&nbsp;
+activated ability, or any of the incubator tokens&nbsp;&nbsp;
+
+00:07:44.400 --> 00:07:50.400
+Glissa makes. For the weirdest little tidbit here,&nbsp;
+the deck can actually populate incubator tokens.&nbsp;&nbsp;
+
+00:07:50.400 --> 00:07:55.760
+This might seem bad since the copy won’t enter&nbsp;
+with counters and will instantly die when flipped,&nbsp;&nbsp;
+
+00:07:55.760 --> 00:08:00.400
+or instantly instantly if it’s already on the&nbsp;
+creature side, but this actually allows for&nbsp;&nbsp;
+
+00:08:00.400 --> 00:08:05.440
+on-demand usage of on-death trigger cards&nbsp;
+like Dross Scorpion and Morbid Opportunist&nbsp;&nbsp;
+
+00:08:05.440 --> 00:08:10.800
+without needing a sac outlet. Sort of like&nbsp;
+aristocrats without the aristocrats, I guess.
+
+00:08:10.800 --> 00:08:14.880
+So this deck kind of does a little bit of&nbsp;
+everything, and all of that everything is anchored&nbsp;&nbsp;
+
+00:08:14.880 --> 00:08:19.760
+by Glissa. The artifact tokens she provides are&nbsp;
+certainly a big help for sacrificing and whatnot,&nbsp;&nbsp;
+
+00:08:19.760 --> 00:08:24.880
+but the biggest thing Glissa does is provide the&nbsp;
+deck with a reliable wincon. Typically I’ll try&nbsp;&nbsp;
+
+00:08:24.880 --> 00:08:30.080
+to ramp out Glissa on turn 4 and start gradually&nbsp;
+accumulating incubators, maybe sacrifice one here&nbsp;&nbsp;
+
+00:08:30.080 --> 00:08:34.480
+or there. Once that’s up and chugging, I can just&nbsp;
+focus on cobbling together whatever stupid little&nbsp;&nbsp;
+
+00:08:34.480 --> 00:08:38.880
+engine I have the tools to create, whether that be&nbsp;
+a value engine, a ramp engine, a removal engine,&nbsp;&nbsp;
+
+00:08:38.880 --> 00:08:42.880
+or some combination of these things. What’s&nbsp;
+important is that I eventually find my way&nbsp;&nbsp;
+
+00:08:42.880 --> 00:08:47.520
+to some proliferate, at which point I can use my&nbsp;
+resource advantage to amplify the counters on my&nbsp;&nbsp;
+
+00:08:47.520 --> 00:08:53.120
+accumulated tokens before having Glissa flip them,&nbsp;
+allowing me to swing big at an opponent. The fact&nbsp;&nbsp;
+
+00:08:53.120 --> 00:08:57.760
+that such an absurdly complex and multifaceted&nbsp;
+deck typically wins by swinging in with a bunch&nbsp;&nbsp;
+
+00:08:57.760 --> 00:09:03.840
+of vanilla 6/6s is a pretty juicy morsel of irony,&nbsp;
+and it really lets the deck feel truly belonging&nbsp;&nbsp;
+
+00:09:03.840 --> 00:09:08.960
+in bracket 2. And actually, this feature about&nbsp;
+the deck is part of what helps it stay comfortably&nbsp;&nbsp;
+
+00:09:08.960 --> 00:09:14.000
+bracket 2. In theory this deck has some gross&nbsp;
+plays—first of all, there’s an infinite mana combo&nbsp;&nbsp;
+
+00:09:14.000 --> 00:09:18.240
+that involves popping out Empowered Autogenerator&nbsp;
+as a creature with Nexus of Becoming before&nbsp;&nbsp;
+
+00:09:18.240 --> 00:09:23.120
+repeatedly untapping it with Voltaic Construct&nbsp;
+the following turn. It’s a rather strange one&nbsp;&nbsp;
+
+00:09:23.120 --> 00:09:28.640
+and requires a nontrivial amount of setup, but&nbsp;
+it is still a three card combo. In addition,&nbsp;&nbsp;
+
+00:09:28.640 --> 00:09:33.040
+the deck features pretty powerful cards&nbsp;
+like Clock of Omens, Kudoltha Forgemaster,&nbsp;&nbsp;
+
+00:09:33.040 --> 00:09:37.760
+and Staff of Compleation, and these can help the&nbsp;
+deck assemble some pretty disgusting engines.&nbsp;&nbsp;
+
+00:09:37.760 --> 00:09:42.480
+Despite this, I have not once had a win with&nbsp;
+this deck that didn’t heavily involve Glissa,&nbsp;&nbsp;
+
+00:09:42.480 --> 00:09:46.320
+and that puts a natural cap on things. As&nbsp;
+long as she’s out, I get two incubators&nbsp;&nbsp;
+
+00:09:46.320 --> 00:09:50.800
+per turn every turn, but that’s all I get. I can&nbsp;
+make them bigger—in some cases a lot bigger if&nbsp;&nbsp;
+
+00:09:50.800 --> 00:09:55.200
+I had a proliferate engine really pop off—but&nbsp;
+I’m still going to be winning the game with a&nbsp;&nbsp;
+
+00:09:55.200 --> 00:09:59.920
+fairly ordinary and extremely predictable&nbsp;
+number of most-likely-vanilla creatures.
+
+00:09:59.920 --> 00:10:03.600
+So that’s the deck, and I do find it&nbsp;
+quite fun, but I worry that the process&nbsp;&nbsp;
+
+00:10:03.600 --> 00:10:08.800
+of describing it might be making it seem a bit&nbsp;
+more functional than it actually is. A deck that&nbsp;&nbsp;
+
+00:10:08.800 --> 00:10:13.360
+tries to cram in as many subthemes as possible&nbsp;
+is naturally going to struggle with dead cards,&nbsp;&nbsp;
+
+00:10:13.360 --> 00:10:17.360
+when the cards intended to work with those&nbsp;
+cards decide not to show up. The only deck&nbsp;&nbsp;
+
+00:10:17.360 --> 00:10:21.600
+I have that comes even close to this one&nbsp;
+in terms of complexity is my Sharuum deck,&nbsp;&nbsp;
+
+00:10:21.600 --> 00:10:26.320
+but there’s a pretty clear difference between&nbsp;
+these two—that deck is a toolbox deck that runs&nbsp;&nbsp;
+
+00:10:26.320 --> 00:10:31.760
+11 conditional tutors to help it piece together&nbsp;
+engines, whereas this deck has two tutors. I&nbsp;&nbsp;
+
+00:10:31.760 --> 00:10:35.920
+don’t know if there’s been an exact tutor limit&nbsp;
+given for bracket 2, but I’ve heard the number&nbsp;&nbsp;
+
+00:10:35.920 --> 00:10:39.360
+3 floated around and that felt like a nice&nbsp;
+number to shoot for here that would force some&nbsp;&nbsp;
+
+00:10:39.360 --> 00:10:43.760
+creative workarounds without being an outright&nbsp;
+barrier against tutoring. All this to say,&nbsp;&nbsp;
+
+00:10:43.760 --> 00:10:47.760
+with the daring vision and self-imposed&nbsp;
+restrictions I had going into this deck,&nbsp;&nbsp;
+
+00:10:47.760 --> 00:10:53.040
+dead cards were inevitably going to be a&nbsp;
+challenge. So, how does this deck mitigate that?
+
+00:10:53.040 --> 00:10:58.560
+A big one is that I try pretty hard not to let&nbsp;
+a card perform only one task for the deck. There&nbsp;&nbsp;
+
+00:10:58.560 --> 00:11:02.800
+is no generic removal here—when I highlight the&nbsp;
+cards in my interaction suite that proliferate,&nbsp;&nbsp;
+
+00:11:02.800 --> 00:11:08.720
+use counters, or are lands in Archidekt, that&nbsp;
+excludes only five cards, and all of those either&nbsp;&nbsp;
+
+00:11:08.720 --> 00:11:13.600
+fit into another subtheme or have some sort of&nbsp;
+useful synergy in a removal engine. The same goes&nbsp;&nbsp;
+
+00:11:13.600 --> 00:11:18.800
+for the ramp—of the deck’s 19 cards that perform&nbsp;
+some sort of ramp function, the two most generic&nbsp;&nbsp;
+
+00:11:18.800 --> 00:11:23.600
+are Golgari Signet and Talisman of Resilience,&nbsp;
+with every single other one involving counters,&nbsp;&nbsp;
+
+00:11:23.600 --> 00:11:28.400
+producing powerstones, or otherwise slotting&nbsp;
+into one of the deck’s themes. Likewise for draw,&nbsp;&nbsp;
+
+00:11:28.400 --> 00:11:32.640
+with Morbid Opportunist being by far the most&nbsp;
+generic of the deck’s 17 sources of value,&nbsp;&nbsp;
+
+00:11:32.640 --> 00:11:36.800
+and that’s even considering the weird populate&nbsp;
+trick I mentioned earlier. Something else you&nbsp;&nbsp;
+
+00:11:36.800 --> 00:11:40.800
+might notice here is that the number of&nbsp;
+ramp and draw spells are fairly high,&nbsp;&nbsp;
+
+00:11:40.800 --> 00:11:45.200
+and this is another pretty essential feature&nbsp;
+for letting the deck run smoothly. Since there&nbsp;&nbsp;
+
+00:11:45.200 --> 00:11:49.840
+are single digit counts of setup and payoff for a&nbsp;
+number of different subthemes throughout the deck,&nbsp;&nbsp;
+
+00:11:49.840 --> 00:11:54.640
+it becomes very important to see more of the&nbsp;
+deck in order to piece together engines. I&nbsp;&nbsp;
+
+00:11:54.640 --> 00:11:58.240
+actually bought a couple of draw engines on the&nbsp;
+convention floor at MagicCon Vegas because I was&nbsp;&nbsp;
+
+00:11:58.240 --> 00:12:02.400
+noticing some light stallouts in the games&nbsp;
+I was playing, and sure enough that helped&nbsp;&nbsp;
+
+00:12:02.400 --> 00:12:06.480
+the deck out quite a bit. This also applies&nbsp;
+to ramp—since there’s no guarantee that the&nbsp;&nbsp;
+
+00:12:06.480 --> 00:12:10.800
+low-cost cards I have available will be what I’m&nbsp;
+looking for in a given moment, having some extra&nbsp;&nbsp;
+
+00:12:10.800 --> 00:12:15.760
+ramp to let me use activated abilities and more&nbsp;
+expensive cards instead also contributes a bit of&nbsp;&nbsp;
+
+00:12:15.760 --> 00:12:20.400
+flexibility. Having a high count of ramp is also&nbsp;
+quite helpful since the deck has a relatively high&nbsp;&nbsp;
+
+00:12:20.400 --> 00:12:24.560
+mana commander that’s relatively central to its&nbsp;
+gameplan, and always having the mana to replay&nbsp;&nbsp;
+
+00:12:24.560 --> 00:12:29.760
+her kinda lets me avoid needing to think too hard&nbsp;
+about how consistent my alternate wincons are.
+
+00:12:29.760 --> 00:12:34.560
+Despite this effort, there are still ongoing&nbsp;
+challenges here. Some subthemes just don’t&nbsp;&nbsp;
+
+00:12:34.560 --> 00:12:38.240
+really have cards that are good on their&nbsp;
+own, or which tie into other themes.&nbsp;&nbsp;
+
+00:12:38.240 --> 00:12:43.520
+Selesnya Eulogist and Rootcast Apprenticeship are&nbsp;
+somewhat subpar interaction if I don’t have token&nbsp;&nbsp;
+
+00:12:43.520 --> 00:12:48.800
+copies, the two non-clock untapping effects&nbsp;
+are both fairly restrictive in their effect&nbsp;&nbsp;
+
+00:12:48.800 --> 00:12:53.680
+even if their ceiling is high. And, that’s to&nbsp;
+say nothing of the graveyard package. I might&nbsp;&nbsp;
+
+00:12:53.680 --> 00:12:57.360
+have made it sound like I had the problem of&nbsp;
+not enough cards for Dollhouse to reanimate&nbsp;&nbsp;
+
+00:12:57.360 --> 00:13:02.320
+and I solved it by adding 4 or 5 graveyard&nbsp;
+enablers, but honestly it still feels like&nbsp;&nbsp;
+
+00:13:02.320 --> 00:13:07.600
+barely enough—the card still runs out of useful&nbsp;
+stuff to copy pretty regularly. In addition,&nbsp;&nbsp;
+
+00:13:07.600 --> 00:13:12.560
+there’s another similar card I want to add to this&nbsp;
+deck—God-Pharaoh’s Gift has a higher upfront cost&nbsp;&nbsp;
+
+00:13:12.560 --> 00:13:16.800
+but is otherwise pretty similar to Dollhouse&nbsp;
+of Horrors, making token copies of creatures&nbsp;&nbsp;
+
+00:13:16.800 --> 00:13:22.160
+in graveyard by exiling them. This is another one&nbsp;
+of my favorite cards, but it currently makes no&nbsp;&nbsp;
+
+00:13:22.160 --> 00:13:26.880
+sense at all here—it’d have the same problems as&nbsp;
+Dollhouse in not having enough targets to copy,&nbsp;&nbsp;
+
+00:13:26.880 --> 00:13:31.040
+and it doesn’t even tie into the tap/untap,&nbsp;
+liquimetal, or construct subthemes like Dollhouse&nbsp;&nbsp;
+
+00:13:31.040 --> 00:13:36.080
+does. There are two problems with the graveyard&nbsp;
+package currently—only 6 cards that put cards&nbsp;&nbsp;
+
+00:13:36.080 --> 00:13:41.360
+into the yard at the moment, and only 23 total&nbsp;
+creatures in the deck. It’s kinda discouraging&nbsp;&nbsp;
+
+00:13:41.360 --> 00:13:47.040
+to do the math on this—if I’ve gone through 20&nbsp;
+cards of my deck, I’ve only seen 4 or 5 creatures,&nbsp;&nbsp;
+
+00:13:47.040 --> 00:13:50.880
+and the number of those that have made their way&nbsp;
+to the graveyard is almost certainly less than&nbsp;&nbsp;
+
+00:13:50.880 --> 00:13:55.360
+that. Current goals for the deck are increasing&nbsp;
+the creature count, finding a third tutor for the&nbsp;&nbsp;
+
+00:13:55.360 --> 00:14:00.960
+deck that helps alleviate current challenges, and&nbsp;
+possibly fleshing out other packages as well. My&nbsp;&nbsp;
+
+00:14:00.960 --> 00:14:05.680
+maybeboard on archidekt goes kinda crazy—I&nbsp;
+have four different categories of possible&nbsp;&nbsp;
+
+00:14:05.680 --> 00:14:10.640
+additions within the maybeboard, in addition to&nbsp;
+a more generic category. If you have ideas for&nbsp;&nbsp;
+
+00:14:10.640 --> 00:14:15.680
+how to cram more deck into this deck, please&nbsp;
+let me know. I’d genuinely love to hear them.
+
+00:14:15.680 --> 00:14:19.920
+It’s funny when I think about what advice I’d&nbsp;
+give if somebody else presented this deck to me&nbsp;&nbsp;
+
+00:14:19.920 --> 00:14:24.720
+saying they wanted to make it better. Because, the&nbsp;
+answer is obviously “please cut some subthemes,&nbsp;&nbsp;
+
+00:14:24.720 --> 00:14:29.040
+you have way too many of them.” Why am I spending&nbsp;
+deck space on tap/untap cards other than Clock&nbsp;&nbsp;
+
+00:14:29.040 --> 00:14:33.840
+of Omens? Why am I going to the effort of a&nbsp;
+copy populate package? Why am I bothering to&nbsp;&nbsp;
+
+00:14:33.840 --> 00:14:39.440
+integrate graveyard synergies into this? Why am&nbsp;
+I even thinking about aristocratless aristocrats?&nbsp;&nbsp;
+
+00:14:39.440 --> 00:14:43.680
+A sensible player trying to improve this would&nbsp;
+cut most of the graveyard support, at least two&nbsp;&nbsp;
+
+00:14:43.680 --> 00:14:49.120
+of the populate cards, and all of the token copy&nbsp;
+cards aside from Nexus of Becoming. But that’s the&nbsp;&nbsp;
+
+00:14:49.120 --> 00:14:53.840
+joy of this deck to me—I shouldn’t be doing what&nbsp;
+I’m doing if I wanted a deck that plays smoothly,&nbsp;&nbsp;
+
+00:14:53.840 --> 00:14:58.320
+and the fact that I’m doing it anyway is what&nbsp;
+makes this a bracket 2 deck. It’s the same&nbsp;&nbsp;
+
+00:14:58.320 --> 00:15:02.960
+reason this deck includes some kinda-not-great&nbsp;
+proliferate cards. Would a sensible player trying&nbsp;&nbsp;
+
+00:15:02.960 --> 00:15:07.680
+to upgrade this deck include Plaguemaw Beast,&nbsp;
+Carnivorous Canopy, and Spread the Sickness?&nbsp;&nbsp;
+
+00:15:07.680 --> 00:15:12.000
+Probably not! But it’s not like I’m going to&nbsp;
+be playing these flavorful cards anywhere else,&nbsp;&nbsp;
+
+00:15:12.000 --> 00:15:17.920
+and here they’re… fine. They feel acceptable.&nbsp;
+And that’s pretty cool if you ask me.
+
+00:15:17.920 --> 00:15:21.280
+Thanks for watching! I talked a bit about&nbsp;
+my Skeleton Ship deck in this video,&nbsp;&nbsp;
+
+00:15:21.280 --> 00:15:25.600
+and if you want to know more about that I posted&nbsp;
+a short video for supporters discussing that deck,&nbsp;&nbsp;
+
+00:15:25.600 --> 00:15:29.280
+its play patterns, its pitfalls, and&nbsp;
+some of the dumbest games I had with it.&nbsp;&nbsp;
+
+00:15:29.280 --> 00:15:33.120
+If you want the full version, you can join my&nbsp;
+Patreon or become a YouTube member, but there will&nbsp;&nbsp;
+
+00:15:33.120 --> 00:15:38.320
+be a sneak preview for it in about 10 seconds.&nbsp;
+I also released an older patron video about my&nbsp;&nbsp;
+
+00:15:38.320 --> 00:15:42.560
+original Glissa deck over on my 2nd channel,&nbsp;
+with some included commentary of why I swapped&nbsp;&nbsp;
+
+00:15:42.560 --> 00:15:49.840
+it out for a new deck, so you can also check that&nbsp;
+out. With that, it’s time to enter the bone zone.
+

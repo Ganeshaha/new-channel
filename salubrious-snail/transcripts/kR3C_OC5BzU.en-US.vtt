@@ -1,0 +1,892 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.000 --> 00:00:04.400
+Any deck I find myself playing for a long&nbsp;
+enough period of time generally earns itself&nbsp;&nbsp;
+
+00:00:04.400 --> 00:00:10.480
+its own dedicated video, a deck tech. That&nbsp;
+happened 21 months after I built Sharuum Slide,&nbsp;&nbsp;
+
+00:00:10.480 --> 00:00:15.920
+7 months after I built Glissa Incubators, 4&nbsp;
+months after I built my Malcolm Time Sieve deck,&nbsp;&nbsp;
+
+00:00:15.920 --> 00:00:20.400
+1 month after building my Radha deck, and also 1&nbsp;
+month after putting together an updated version&nbsp;&nbsp;
+
+00:00:20.400 --> 00:00:25.840
+of my Malfegor deck. In part, this is for&nbsp;
+entirely ordinary YouTuber reasons—I need&nbsp;&nbsp;
+
+00:00:25.840 --> 00:00:30.320
+to figure out 2 things per month to talk about,&nbsp;
+and a deck I like to play makes for an easy thing&nbsp;&nbsp;
+
+00:00:30.320 --> 00:00:36.400
+to make one of those 2. However, this is also&nbsp;
+because my favorite decks tend to be evocative,&nbsp;&nbsp;
+
+00:00:36.400 --> 00:00:41.680
+meticulously crafted to scratch a very specific&nbsp;
+itch, and for this reason they also often serve&nbsp;&nbsp;
+
+00:00:41.680 --> 00:00:47.040
+as good lenses through which to analyze a specific&nbsp;
+playstyle or a specific motivation when building&nbsp;&nbsp;
+
+00:00:47.040 --> 00:00:51.680
+a deck. Relevant to this discussion is the fact&nbsp;
+that my decks tend to revolve around a specific&nbsp;&nbsp;
+
+00:00:51.680 --> 00:00:56.720
+vibe I find appealing, whether that be forcing&nbsp;
+the table into a cutthroat low-resource game,&nbsp;&nbsp;
+
+00:00:56.720 --> 00:01:02.240
+unstoppably accumulating resources for myself,&nbsp;
+or navigating a strategic minefield to a narrow&nbsp;&nbsp;
+
+00:01:02.240 --> 00:01:07.280
+control victory. Because my decks feature specific&nbsp;
+play patterns I find personally satisfying,&nbsp;&nbsp;
+
+00:01:07.280 --> 00:01:11.600
+I like to think they can be helpful documents of&nbsp;
+how I crafted an enjoyable experience for myself,&nbsp;&nbsp;
+
+00:01:11.600 --> 00:01:14.800
+and possible inspiration for&nbsp;
+how others can do the same.
+
+00:01:14.800 --> 00:01:19.360
+It’s with all this in the mind that we need to&nbsp;
+talk about the elephant in the room: my Liesa&nbsp;&nbsp;
+
+00:01:19.360 --> 00:01:26.960
+deck. I first built this deck in April 2023, 35&nbsp;
+months ago, and it has stayed among my 5-6 core&nbsp;&nbsp;
+
+00:01:26.960 --> 00:01:31.520
+decks ever since. I’ve even talked about it in&nbsp;
+a handful of different videos, because it has&nbsp;&nbsp;
+
+00:01:31.520 --> 00:01:36.720
+accomplished some interesting things and offered&nbsp;
+some intriguing lessons. What it hasn’t done,&nbsp;&nbsp;
+
+00:01:36.720 --> 00:01:41.920
+though, is ever be quite satisfying enough to&nbsp;
+make a whole video about—it’s never scratched&nbsp;&nbsp;
+
+00:01:41.920 --> 00:01:47.120
+the itch I wanted it to scratch well enough to be&nbsp;
+worth talking about. This is kind of funny to me,&nbsp;&nbsp;
+
+00:01:47.120 --> 00:01:52.240
+because I’ve known precisely what itch I wanted&nbsp;
+to scratch basically the whole time—I wanted&nbsp;&nbsp;
+
+00:01:52.240 --> 00:01:57.840
+to make people think about their life total a&nbsp;
+lot. I said so, in a Discord message I sent to&nbsp;&nbsp;
+
+00:01:57.840 --> 00:02:03.360
+a friend in June of 2023, and I also laid out this&nbsp;
+thought process in a video about aggro in October&nbsp;&nbsp;
+
+00:02:03.360 --> 00:02:08.720
+of that year. An aggressive gameplan can mean the&nbsp;
+ability to knock opponents out of the game early,&nbsp;&nbsp;
+
+00:02:08.720 --> 00:02:14.320
+but even before that happens, the first 20-30&nbsp;
+damage dealt to an opponent already influences the&nbsp;&nbsp;
+
+00:02:14.320 --> 00:02:19.360
+way they play the game. It makes them play more&nbsp;
+conservatively, attack less confidently, and get&nbsp;&nbsp;
+
+00:02:19.360 --> 00:02:23.840
+substantially less comfort with the lifepay tools&nbsp;
+that are such a defining feature of commander.&nbsp;&nbsp;
+
+00:02:23.840 --> 00:02:29.680
+And, relevantly here, a low life total especially&nbsp;
+does that if I can keep around a creature that&nbsp;&nbsp;
+
+00:02:29.680 --> 00:02:35.200
+drains opponents whenever they cast spells. So,&nbsp;
+I was already in a great starting position, with&nbsp;&nbsp;
+
+00:02:35.200 --> 00:02:41.120
+my command zone being a command-tax-dodger who&nbsp;
+drains anybody who casts spells. So, how exactly&nbsp;&nbsp;
+
+00:02:41.120 --> 00:02:46.960
+did I manage to fail at adequately scratching this&nbsp;
+itch for multiple years? Well, it’s been a complex&nbsp;&nbsp;
+
+00:02:46.960 --> 00:02:51.840
+road of confused intentions and muddied goals,&nbsp;
+with multiple rounds of heavy reworks, and even&nbsp;&nbsp;
+
+00:02:51.840 --> 00:02:56.960
+a commander swap followed by a later swap-back&nbsp;
+along the way. The place this deck has ended up is&nbsp;&nbsp;
+
+00:02:56.960 --> 00:03:02.000
+a pretty satisfying one, but there have been more&nbsp;
+than enough mistakes and lessons along the way.
+
+00:03:02.000 --> 00:03:05.920
+Something I should address before going much&nbsp;
+further is that this deck has ended up being&nbsp;&nbsp;
+
+00:03:05.920 --> 00:03:10.960
+a departure from my usual tight budget I keep&nbsp;
+myself to when deckbuilding. Whereas this deck&nbsp;&nbsp;
+
+00:03:10.960 --> 00:03:17.040
+began at the budget of most of my other decks, in&nbsp;
+the $50-150 range, recent iterations of this deck&nbsp;&nbsp;
+
+00:03:17.040 --> 00:03:22.400
+would cost between $300 and $400 to buy new.&nbsp;
+A big part of the reason for this is the long&nbsp;&nbsp;
+
+00:03:22.400 --> 00:03:28.240
+evolution this deck took—it gradually became clear&nbsp;
+that extra budget was going to go a long way,&nbsp;&nbsp;
+
+00:03:28.240 --> 00:03:31.280
+and I had plenty of spare cards lying&nbsp;
+around that could be gradually sold off&nbsp;&nbsp;
+
+00:03:31.280 --> 00:03:36.480
+to help fund upgrades. And, how I went&nbsp;
+about that process was using Cardsphere,&nbsp;&nbsp;
+
+00:03:36.480 --> 00:03:40.560
+the lovely folks at which kindly agreed to&nbsp;
+sponsor this video when I asked. Cardsphere&nbsp;&nbsp;
+
+00:03:40.560 --> 00:03:45.040
+is a peer to peer card trading website where&nbsp;
+sellers initiate sales, rather than buyers.&nbsp;&nbsp;
+
+00:03:45.040 --> 00:03:49.520
+On the buying end this can mean some great deals&nbsp;
+on cards if you don’t need them immediately—just&nbsp;&nbsp;
+
+00:03:49.520 --> 00:03:53.120
+put in how much you’re willing to pay, and after&nbsp;
+that a seller willing to sell it to you for that&nbsp;&nbsp;
+
+00:03:53.120 --> 00:03:58.080
+price can initiate a sale and send it to you. More&nbsp;
+importantly, I’ve found the process of selling&nbsp;&nbsp;
+
+00:03:58.080 --> 00:04:03.680
+cards much easier than other options—rather&nbsp;
+than getting 60% of market price on a buylist or&nbsp;&nbsp;
+
+00:04:03.680 --> 00:04:07.920
+needing to fry my brain keeping up with multiple&nbsp;
+auctions on a more general selling platform, I&nbsp;&nbsp;
+
+00:04:07.920 --> 00:04:12.800
+can just log into Cardsphere, accept any offers I&nbsp;
+find high enough on cards I own, spend 15 minutes&nbsp;&nbsp;
+
+00:04:12.800 --> 00:04:17.040
+throwing a few envelopes in the mail, and then&nbsp;
+be done with things. Most of my sales have been&nbsp;&nbsp;
+
+00:04:17.040 --> 00:04:22.560
+for between 80 and 90% of market price, but I’ve&nbsp;
+gotten even more than that in some cases. Follow&nbsp;&nbsp;
+
+00:04:22.560 --> 00:04:26.480
+my link in the description to get started, and&nbsp;
+thanks to Cardsphere for supporting the channel.
+
+00:04:26.480 --> 00:04:31.040
+Okay, with that endpoint in mind, let’s talk about&nbsp;
+some of the pivots this deck took along the way,&nbsp;&nbsp;
+
+00:04:31.040 --> 00:04:36.000
+and why all but one of them failed at the task of&nbsp;
+scratching the itch I was trying to scratch. To&nbsp;&nbsp;
+
+00:04:36.000 --> 00:04:40.880
+start with, there were some issues in the original&nbsp;
+deck, but the basic idea of what I was going for&nbsp;&nbsp;
+
+00:04:40.880 --> 00:04:46.880
+was a simple one. The phrase “hatebear” typically&nbsp;
+refers to a 2 or 3 mana creature with an attached&nbsp;&nbsp;
+
+00:04:46.880 --> 00:04:52.080
+effect that slows down opponents in some way or&nbsp;
+other, typically by imposing a tax, setting a rule&nbsp;&nbsp;
+
+00:04:52.080 --> 00:04:57.360
+about how the game can be played, or preventing&nbsp;
+a specific type of effect. In 60 card formats,&nbsp;&nbsp;
+
+00:04:57.360 --> 00:05:02.160
+hatebears are a relatively common sight,&nbsp;
+particularly in the game’s older formats.&nbsp;&nbsp;
+
+00:05:02.160 --> 00:05:06.400
+Death and Taxes is a type of legacy deck&nbsp;
+specifically built around this sort of creature,&nbsp;&nbsp;
+
+00:05:06.400 --> 00:05:10.160
+and vintage usually has at least a couple decks&nbsp;
+centered around hatebears such as Archon of&nbsp;&nbsp;
+
+00:05:10.160 --> 00:05:15.760
+Emeria or 2 mana Lavinia. This is because these&nbsp;
+creatures have an appealing profile—they keep&nbsp;&nbsp;
+
+00:05:15.760 --> 00:05:19.600
+your opponent’s plans in check, and their&nbsp;
+average size means that they can reliably&nbsp;&nbsp;
+
+00:05:19.600 --> 00:05:23.200
+whittle down a single 20-health opponent if&nbsp;
+you’re able to slow the pace of the game a bit,&nbsp;&nbsp;
+
+00:05:23.200 --> 00:05:29.680
+which their attached stax effects already do.&nbsp;
+Cool! How about in EDH, though? Hatebears are&nbsp;&nbsp;
+
+00:05:29.680 --> 00:05:35.680
+still useful for their effects, but the attached&nbsp;
+2/2 or 3/3 body typically isn’t nearly as helpful.&nbsp;&nbsp;
+
+00:05:35.680 --> 00:05:41.200
+This is where the command zone comes into play—my&nbsp;
+hatebears can whittle down life totals a little&nbsp;&nbsp;
+
+00:05:41.200 --> 00:05:46.160
+and generally gum up the works of the game, and&nbsp;
+then Liesa is my followup that can really start to&nbsp;&nbsp;
+
+00:05:46.160 --> 00:05:51.600
+cut down life totals in this slowed environment.&nbsp;
+This theory largely worked out in reality—I&nbsp;&nbsp;
+
+00:05:51.600 --> 00:05:57.200
+had a suite of 16 hate bears alongside modest&nbsp;
+counts of protection, ramp, draw, and removal,&nbsp;&nbsp;
+
+00:05:57.200 --> 00:06:01.920
+as well as some extra tools to help Liesa in&nbsp;
+cutting down opposing life totals. Still, I&nbsp;&nbsp;
+
+00:06:01.920 --> 00:06:07.520
+found myself having some issues with that original&nbsp;
+deck. In retrospect the biggest one is that it&nbsp;&nbsp;
+
+00:06:07.520 --> 00:06:10.680
+felt more stax than it did Liesa—my opponents were&nbsp;
+being hindered, but more so by an Archon of Emeria&nbsp;&nbsp;
+
+00:06:10.680 --> 00:06:13.760
+than by their painfully low life total. However,&nbsp;
+at the time I was only distantly aware of this,&nbsp;&nbsp;
+
+00:06:13.760 --> 00:06:19.360
+and more focused on another undeniably-present&nbsp;
+problem: the deck didn’t have all that much draw,&nbsp;&nbsp;
+
+00:06:19.360 --> 00:06:24.880
+which just made it kinda boring to play. My&nbsp;
+opponents couldn’t do much, but neither could I.
+
+00:06:24.880 --> 00:06:29.840
+So, in early 2024, I did a round of tweaks on&nbsp;
+the deck to get more value generation in there,&nbsp;&nbsp;
+
+00:06:29.840 --> 00:06:36.320
+and generally to make it more interesting to play.&nbsp;
+And I added a lot of value generation—three more&nbsp;&nbsp;
+
+00:06:36.320 --> 00:06:40.880
+general purpose options, and five cards that&nbsp;
+contain a particular mechanic I wanted to play&nbsp;&nbsp;
+
+00:06:40.880 --> 00:06:45.760
+around with: the initiative. The initiative is a&nbsp;
+mechanic that causes a player to travel through&nbsp;&nbsp;
+
+00:06:45.760 --> 00:06:50.240
+the Undercity, which triggers an effect in a&nbsp;
+room whenever a player “takes the initiative”,&nbsp;&nbsp;
+
+00:06:50.240 --> 00:06:53.680
+whenever they start their turn with the&nbsp;
+initiative, or whenever they take back&nbsp;&nbsp;
+
+00:06:53.680 --> 00:06:58.800
+the initiative from an opponent who stole it by&nbsp;
+attacking them. It’s like Monarch, but needlessly&nbsp;&nbsp;
+
+00:06:58.800 --> 00:07:04.400
+complicated for entirely aesthetic purposes.&nbsp;
+Anyway, this had some undeniable appeals. In&nbsp;&nbsp;
+
+00:07:04.400 --> 00:07:09.920
+a slow-paced game, any once-per-turn triggers&nbsp;
+naturally gain a bit of extra relevance. Also,&nbsp;&nbsp;
+
+00:07:09.920 --> 00:07:14.320
+my deck already benefitted from running a small&nbsp;
+handful of defensive cards due to its grindy,&nbsp;&nbsp;
+
+00:07:14.320 --> 00:07:18.560
+life-total-race-winning commander, and these&nbsp;
+defensive cards also help with keeping the&nbsp;&nbsp;
+
+00:07:18.560 --> 00:07:23.520
+initiative. Also, I didn’t have an undercity&nbsp;
+token, so I drew one on a full-sized piece of&nbsp;&nbsp;
+
+00:07:23.520 --> 00:07:27.520
+paper, and brought miniatures to commander games&nbsp;
+so that people could represent their positions on&nbsp;&nbsp;
+
+00:07:27.520 --> 00:07:32.960
+it, and who wouldn’t love that? Well, me, and&nbsp;
+that was part of my issue with this version&nbsp;&nbsp;
+
+00:07:32.960 --> 00:07:37.600
+of the deck. A commander deck can easily be&nbsp;
+this pretty compact, self-contained thing,&nbsp;&nbsp;
+
+00:07:37.600 --> 00:07:42.240
+and here I’d introduced an extra mechanic that&nbsp;
+required me to use this full sheet of paper prop,&nbsp;&nbsp;
+
+00:07:42.240 --> 00:07:47.280
+or else buy a replacement that’s irritatingly&nbsp;
+small? It just felt like a pointless extra hassle&nbsp;&nbsp;
+
+00:07:47.280 --> 00:07:52.320
+to need to deal with, particularly given that my&nbsp;
+deck only ran 5 initiative cards and didn’t draw&nbsp;&nbsp;
+
+00:07:52.320 --> 00:07:57.520
+any of them in some games. The other part of my&nbsp;
+issue was that I’d cut a bunch of damaging cards&nbsp;&nbsp;
+
+00:07:57.520 --> 00:08:02.400
+in order to make the round of changes I’d made,&nbsp;
+and while those damaging cards weren’t great,&nbsp;&nbsp;
+
+00:08:02.400 --> 00:08:06.880
+their absence pulled the deck even further away&nbsp;
+from the life-total-pressuring ideal that I’d be&nbsp;&nbsp;
+
+00:08:06.880 --> 00:08:10.720
+striving for. I had a functional&nbsp;
+deck that I didn’t mind playing,&nbsp;&nbsp;
+
+00:08:10.720 --> 00:08:16.160
+but the itch was still not being scratched.&nbsp;
+So, it was time for another change.
+
+00:08:16.160 --> 00:08:21.600
+One of my favorite cards in the deck was Breena,&nbsp;
+the Demagogue. She is a three mana creature with&nbsp;&nbsp;
+
+00:08:21.600 --> 00:08:25.360
+the text “Whenever a player attacks one of your&nbsp;
+opponents, if that opponent has more life than&nbsp;&nbsp;
+
+00:08:25.360 --> 00:08:28.800
+another of your opponents, that attacking&nbsp;
+player draws a card and you put two +1/+1&nbsp;&nbsp;
+
+00:08:28.800 --> 00:08:33.040
+counters on a creature you control.” It might&nbsp;
+not be immediately clear what that means, but&nbsp;&nbsp;
+
+00:08:33.040 --> 00:08:37.760
+basically drawing her instantly granted the deck&nbsp;
+a whole bunch of both value generation and damage&nbsp;&nbsp;
+
+00:08:37.760 --> 00:08:42.960
+in the form of +1/+1 counters, and also created&nbsp;
+a fun sort of political game for my opponents.&nbsp;&nbsp;
+
+00:08:42.960 --> 00:08:48.080
+In theory she offered opponents card advantage,&nbsp;
+but trading a card for two +1/+1 counters on one&nbsp;&nbsp;
+
+00:08:48.080 --> 00:08:53.200
+of my creatures didn’t usually feel too bad, and&nbsp;
+her benefits were much more consistent on my side&nbsp;&nbsp;
+
+00:08:53.200 --> 00:08:58.080
+of the table. After four or five games of drawing&nbsp;
+her and greatly enjoying what she did to the deck,&nbsp;&nbsp;
+
+00:08:58.080 --> 00:09:03.040
+I decided to rework the deck with her in the&nbsp;
+command zone. In theory, this swap made sense&nbsp;&nbsp;
+
+00:09:03.040 --> 00:09:07.280
+to me. Liesa is damage-focused commander&nbsp;
+who operates through the use of a life tax,&nbsp;&nbsp;
+
+00:09:07.280 --> 00:09:11.760
+and Breena is a damage-focused commander who&nbsp;
+operated through the use of +1/+1 counters.&nbsp;&nbsp;
+
+00:09:11.760 --> 00:09:16.240
+My theory about having a hatebear-oriented 99&nbsp;
+along with a commander who pushed a lot of damage?&nbsp;&nbsp;
+
+00:09:16.240 --> 00:09:20.880
+Still absolutely intact. The other appeal here&nbsp;
+was that hatebears are naturally a type of card&nbsp;&nbsp;
+
+00:09:20.880 --> 00:09:26.880
+better-suited to somewhat higher power games, and&nbsp;
+Breena was a more powerful commander than Liesa,&nbsp;&nbsp;
+
+00:09:26.880 --> 00:09:31.760
+so that was an added bit of congruence. With this&nbsp;
+new bird in the zone, I was better equipped to&nbsp;&nbsp;
+
+00:09:31.760 --> 00:09:36.080
+handle the sorts of higher-power commander&nbsp;
+games that Thalia’s blade was itching for.
+
+00:09:36.080 --> 00:09:41.440
+So, how was that? Well, in a lot of ways I was&nbsp;
+correct, and the deck I ended up producing was&nbsp;&nbsp;
+
+00:09:41.440 --> 00:09:45.440
+undoubtedly a workable one that I could&nbsp;
+have some fun playing. It got going fast,&nbsp;&nbsp;
+
+00:09:45.440 --> 00:09:50.080
+Breena’s +1/+1 counters could turn my hatebears&nbsp;
+into terrifying beaters, and the card advantage&nbsp;&nbsp;
+
+00:09:50.080 --> 00:09:55.360
+options meant it rarely totally ran out of steam.&nbsp;
+Even better, with such a potent command zone,&nbsp;&nbsp;
+
+00:09:55.360 --> 00:10:00.000
+I could afford to run more interaction than ever&nbsp;
+before without sacrificing other things. So,&nbsp;&nbsp;
+
+00:10:00.000 --> 00:10:05.120
+what was the problem? Put simply, the nature of&nbsp;
+a Breena command zone is dramatically different&nbsp;&nbsp;
+
+00:10:05.120 --> 00:10:09.680
+from the nature of a Liesa command zone, and&nbsp;
+it’s different in a way that totally destroyed&nbsp;&nbsp;
+
+00:10:09.680 --> 00:10:14.800
+the feel of the deck that I was going for. On&nbsp;
+some level Liesa is an inevitability commander,&nbsp;&nbsp;
+
+00:10:14.800 --> 00:10:18.800
+an unstoppable life total tax that always&nbsp;
+represents a way to grind the game toward&nbsp;&nbsp;
+
+00:10:18.800 --> 00:10:24.320
+a single-digit-hitpoint slogfest. With her in&nbsp;
+the command zone, the 99 could focus on keeping&nbsp;&nbsp;
+
+00:10:24.320 --> 00:10:28.800
+opponents in check and putting in chip damage,&nbsp;
+knowing that every chunk of health my opponents&nbsp;&nbsp;
+
+00:10:28.800 --> 00:10:34.720
+lost was a spell they couldn’t safely cast later&nbsp;
+in the game. By contrast, Breena is very much&nbsp;&nbsp;
+
+00:10:34.720 --> 00:10:40.080
+a tempo commander, as I laid out in my glass&nbsp;
+cannon commanders video last year. Like Liesa,&nbsp;&nbsp;
+
+00:10:40.080 --> 00:10:45.440
+she helps me deal a ton of damage to opponents,&nbsp;
+but the profile of that damage is front-loaded and&nbsp;&nbsp;
+
+00:10:45.440 --> 00:10:50.240
+reliant on creatures sticking around on board.&nbsp;
+If I had a smooth first several turns, I might&nbsp;&nbsp;
+
+00:10:50.240 --> 00:10:56.160
+be swinging in with a few 7/7s or 8/8s or 9/9s&nbsp;
+on turn 5, and if those creatures stuck around&nbsp;&nbsp;
+
+00:10:56.160 --> 00:11:01.520
+there was a solid chance I’d be winning that game.&nbsp;
+Problem was, if some of my creatures got removed,&nbsp;&nbsp;
+
+00:11:01.520 --> 00:11:06.400
+or if god-forbid there was a board wipe played&nbsp;
+that I couldn’t dodge, all of that damage momentum&nbsp;&nbsp;
+
+00:11:06.400 --> 00:11:10.800
+would slow to a stall. In that case I’d still&nbsp;
+have some card advantage from Breena drawing me an&nbsp;&nbsp;
+
+00:11:10.800 --> 00:11:15.600
+extra 1-2 cards per turn, but it would take some&nbsp;
+time for me to re-develop a board that could once&nbsp;&nbsp;
+
+00:11:15.600 --> 00:11:19.600
+again threaten opponents, and whether I could&nbsp;
+pull that off successfully might come down to&nbsp;&nbsp;
+
+00:11:19.600 --> 00:11:25.280
+a variety of different factors. To be clear,&nbsp;
+what I’m describing is a very normal type of&nbsp;&nbsp;
+
+00:11:25.280 --> 00:11:30.240
+deck. If your deck works like this, that’s fine,&nbsp;
+and I did enjoy some things about playing it. It&nbsp;&nbsp;
+
+00:11:30.240 --> 00:11:35.040
+even makes sense as an aggro deck—this deck came&nbsp;
+out of the gate swinging, and routinely knocked&nbsp;&nbsp;
+
+00:11:35.040 --> 00:11:39.120
+50 points of life off of its opponents within&nbsp;
+the first six turns of the game, even in games&nbsp;&nbsp;
+
+00:11:39.120 --> 00:11:44.800
+it eventually lost control of. The problem&nbsp;
+was, I wasn’t just looking for an aggro deck,&nbsp;&nbsp;
+
+00:11:44.800 --> 00:11:49.680
+I was looking for a sort of inevitability-aggro&nbsp;
+experience where opponents would spend time&nbsp;&nbsp;
+
+00:11:49.680 --> 00:11:56.720
+dealing with the consequences of a painfully low&nbsp;
+life total. And, this deck decidedly was not that.
+
+00:11:56.720 --> 00:12:02.080
+So, how did I solve my aggro problem? How did&nbsp;
+I create a deck that scratches this itch of&nbsp;&nbsp;
+
+00:12:02.080 --> 00:12:06.960
+wanting opponents to spend a lot of time looking&nbsp;
+at their life total? Well, step one was going back&nbsp;&nbsp;
+
+00:12:06.960 --> 00:12:11.920
+to Liesa. Part of me was a little hesitant to&nbsp;
+do this for purely power reasons, because the&nbsp;&nbsp;
+
+00:12:11.920 --> 00:12:17.040
+Breena deck had been sort of bracket 4 curious,&nbsp;
+and Liesa is a pretty firmly mid-power sort of&nbsp;&nbsp;
+
+00:12:17.040 --> 00:12:22.640
+commander. A small part of me wishes she drained&nbsp;
+opponents for 3 per spell, but alas, my girl&nbsp;&nbsp;
+
+00:12:22.640 --> 00:12:28.080
+Liesa just doesn’t quite have that kind of sauce.&nbsp;
+However, this fact also gives some opportunities,&nbsp;&nbsp;
+
+00:12:28.080 --> 00:12:32.320
+the biggest one of which I’ll get to in a bit. To&nbsp;
+start with, though, let’s talk about how I fixed&nbsp;&nbsp;
+
+00:12:32.320 --> 00:12:37.680
+some of the issues from the previous Liesa decks.&nbsp;
+A big piece of this was the beatdown suite—an&nbsp;&nbsp;
+
+00:12:37.680 --> 00:12:42.240
+issue with previous iterations of the deck was&nbsp;
+that the 99 didn’t actually do a good job getting&nbsp;&nbsp;
+
+00:12:42.240 --> 00:12:46.640
+life totals low enough for Liesa to matter. In&nbsp;
+the case of the original deck that was a result&nbsp;&nbsp;
+
+00:12:46.640 --> 00:12:51.360
+of running a bunch of mediocre damage tools such&nbsp;
+as Blood Artist effects, and in the initiative&nbsp;&nbsp;
+
+00:12:51.360 --> 00:12:55.280
+version that was just not really running very many&nbsp;
+damage tools in general, unless you count making&nbsp;&nbsp;
+
+00:12:55.280 --> 00:13:01.040
+target opponent lose 5 life once every 5 turns.&nbsp;
+So here, assisted by a more lax budget than I&nbsp;&nbsp;
+
+00:13:01.040 --> 00:13:06.400
+was using in the past, I picked out a bunch of new&nbsp;
+damage options. Ankh of Mishra, Wound Reflection,&nbsp;&nbsp;
+
+00:13:06.400 --> 00:13:11.840
+Suture Priest, and iconic political aggro&nbsp;
+tool Hunted Horror. This card is so much fun,&nbsp;&nbsp;
+
+00:13:11.840 --> 00:13:15.680
+and if you have an opponent who’s receptive to&nbsp;
+the idea of smacking Fredrick over there who’s&nbsp;&nbsp;
+
+00:13:15.680 --> 00:13:21.920
+playing a gross value pile, it’s effectively&nbsp;
+13/13 in stats for 2 mana. In terms of value,&nbsp;&nbsp;
+
+00:13:21.920 --> 00:13:26.400
+I dialed into the small creature beats realm and&nbsp;
+grabbed Enduring Innocence, Assemble the Players,&nbsp;&nbsp;
+
+00:13:26.400 --> 00:13:31.280
+and Elegy Acolyte. This deck is running&nbsp;
+more draw-oriented cards than the original,&nbsp;&nbsp;
+
+00:13:31.280 --> 00:13:36.240
+and while it’s running less value generation in&nbsp;
+total than the initiative version of the deck,&nbsp;&nbsp;
+
+00:13:36.240 --> 00:13:40.960
+much of the draw here is quite dense&nbsp;
+and impactful. Barrowgoyf was a final&nbsp;&nbsp;
+
+00:13:40.960 --> 00:13:45.520
+inclusion here as just an all-around solid&nbsp;
+beatstick with a bunch of value attached.
+
+00:13:45.520 --> 00:13:51.440
+The biggest area I tweaked this deck, though, was&nbsp;
+dead-simple: I cut a lot of hate-bears. This was&nbsp;&nbsp;
+
+00:13:51.440 --> 00:13:55.760
+kind of painful, because I really like having&nbsp;
+hate bears in my deck. It feels good to have a&nbsp;&nbsp;
+
+00:13:55.760 --> 00:13:59.600
+way to slow opposing gameplans, to build around&nbsp;
+the restrictions of those tools so I’m breaking&nbsp;&nbsp;
+
+00:13:59.600 --> 00:14:03.440
+parity, and to be able to keep a high power&nbsp;
+table in check with something like a rule of&nbsp;&nbsp;
+
+00:14:03.440 --> 00:14:08.720
+law effect. And to be clear, I’m still running&nbsp;
+some—some taxes, some enters-tapped effects,&nbsp;&nbsp;
+
+00:14:08.720 --> 00:14:14.000
+an Aven Mindcensor—but the real gameplan&nbsp;
+smashers like Hushbringer and Archon of Emeria&nbsp;&nbsp;
+
+00:14:14.000 --> 00:14:20.080
+got left behind. One reason for this I alluded to&nbsp;
+earlier—these cards feel most appropriate and most&nbsp;&nbsp;
+
+00:14:20.080 --> 00:14:25.840
+needed in higher bracket games, and Liesa isn’t&nbsp;
+a commander that really belongs at those tables.&nbsp;&nbsp;
+
+00:14:25.840 --> 00:14:31.200
+The other reason for this choice was that stax in&nbsp;
+general, and rule-of-law effects in particular,&nbsp;&nbsp;
+
+00:14:31.200 --> 00:14:36.240
+have this weird clash with Liesa because&nbsp;
+they cause opponents to cast fewer spells,&nbsp;&nbsp;
+
+00:14:36.240 --> 00:14:40.560
+but Liesa wants opponents to be casting more&nbsp;
+spells, or at least wants the fact that spells&nbsp;&nbsp;
+
+00:14:40.560 --> 00:14:45.840
+cost 2 life to feel relevant. It almost felt like&nbsp;
+doing her a little dirty as well as undermining&nbsp;&nbsp;
+
+00:14:45.840 --> 00:14:50.480
+the goal of the deck. Like, think about it:&nbsp;
+if I have an opponent at a low-ish life total,&nbsp;&nbsp;
+
+00:14:50.480 --> 00:14:56.240
+Liesa in play, and also a Phyrexian Censor in&nbsp;
+play, is Liesa reducing the number of spells my&nbsp;&nbsp;
+
+00:14:56.240 --> 00:15:01.520
+opponent wants to play? The answer is who knows!&nbsp;
+They’re not running a whole-ass Phyrexian deck,&nbsp;&nbsp;
+
+00:15:01.520 --> 00:15:06.320
+they can only play one spell a turn anyway! In a&nbsp;
+way, this is similar to some lessons I’ve stumbled&nbsp;&nbsp;
+
+00:15:06.320 --> 00:15:11.440
+into with my other decks. When I’m making a deck&nbsp;
+to celebrate Astral Slide based value engines,&nbsp;&nbsp;
+
+00:15:11.440 --> 00:15:15.280
+I don’t want to run more generic sources of&nbsp;
+draw that might step on the toes of what I’m&nbsp;&nbsp;
+
+00:15:15.280 --> 00:15:19.440
+celebrating. When I’m making a deck to bask&nbsp;
+in the glory of having 20 lands in play,&nbsp;&nbsp;
+
+00:15:19.440 --> 00:15:22.480
+I don’t want to run a bunch of high-quality&nbsp;
+finishers that will end the game as soon as&nbsp;&nbsp;
+
+00:15:22.480 --> 00:15:27.840
+I’m at 12 or 13. The same goes here—this is a&nbsp;
+deck intended to celebrate Liesa in specific&nbsp;&nbsp;
+
+00:15:27.840 --> 00:15:32.880
+and group-slug-aggro in general, and though a bit&nbsp;
+of stax can be nice to manage the pace of a game,&nbsp;&nbsp;
+
+00:15:32.880 --> 00:15:37.680
+it’s a powerful tool whose ability to warp&nbsp;
+the playstyle of a deck needs to be respected.
+
+00:15:37.680 --> 00:15:43.360
+Still, I find it hard to fault my past impulses&nbsp;
+too much. Aggro remains arguably the hardest&nbsp;&nbsp;
+
+00:15:43.360 --> 00:15:49.680
+archetype to build, particularly a sort of grindy,&nbsp;
+resilient aggro that poses a continuing threat to&nbsp;&nbsp;
+
+00:15:49.680 --> 00:15:55.200
+any greedy opponents. For that reason, this deck&nbsp;
+probably isn’t going to ever enter the same sort&nbsp;&nbsp;
+
+00:15:55.200 --> 00:15:59.520
+of “finished” state that I’m willing to mentally&nbsp;
+categorize some of my other decks as being in.&nbsp;&nbsp;
+
+00:15:59.520 --> 00:16:04.560
+However, after focusing in harder on what makes&nbsp;
+this deck satisfying, the current version feels&nbsp;&nbsp;
+
+00:16:04.560 --> 00:16:09.280
+much better than either previous iteration of&nbsp;
+Liesa. The deck’s average mana value has gone&nbsp;&nbsp;
+
+00:16:09.280 --> 00:16:14.160
+up over time, and yet the current version feels&nbsp;
+like it’s packing more quality 2-mana plays than&nbsp;&nbsp;
+
+00:16:14.160 --> 00:16:18.720
+previous ones. The reason why this is becomes&nbsp;
+clear when I filter each deck by mana value in&nbsp;&nbsp;
+
+00:16:18.720 --> 00:16:23.040
+Archidekt and then look at what’s actually there:&nbsp;
+whereas the older versions had a lot of kinda&nbsp;&nbsp;
+
+00:16:23.040 --> 00:16:27.760
+filler 2 mana cards like Blood Artist effects&nbsp;
+and catchup ramp, the current version’s 2 drops&nbsp;&nbsp;
+
+00:16:27.760 --> 00:16:33.120
+are almost entirely value engines and actually&nbsp;
+decent beatdown tools. Another way I honed my&nbsp;&nbsp;
+
+00:16:33.120 --> 00:16:38.000
+intentions here was being willing to accept a&nbsp;
+firmly bracket 3 status and adapt my playstyle&nbsp;&nbsp;
+
+00:16:38.000 --> 00:16:42.160
+to be more appropriate to that. The deck still&nbsp;
+punches above its weight class against decks&nbsp;&nbsp;
+
+00:16:42.160 --> 00:16:47.360
+that lean in a combo or storm sort of direction,&nbsp;
+but it’s no longer the lumbering pile of stax&nbsp;&nbsp;
+
+00:16:47.360 --> 00:16:52.320
+that it was before, and that lets it feel much&nbsp;
+more appropriate in a wider range of contexts.&nbsp;&nbsp;
+
+00:16:52.320 --> 00:16:56.880
+So broadly, the current version of this deck feels&nbsp;
+like a success in figuring out what I wanted from&nbsp;&nbsp;
+
+00:16:56.880 --> 00:17:02.240
+it above all else, and the funny thing is, I think&nbsp;
+the year with Breena in the command zone was a&nbsp;&nbsp;
+
+00:17:02.240 --> 00:17:06.800
+really important part of that. There are a lot of&nbsp;
+cards out there with a powerful, iconic playstyle,&nbsp;&nbsp;
+
+00:17:06.800 --> 00:17:11.200
+and there’s a reason people gravitate toward&nbsp;
+them. They feel good to draw, and good to play,&nbsp;&nbsp;
+
+00:17:11.200 --> 00:17:15.120
+and if you could put one in the command zone,&nbsp;
+why wouldn’t you? If that specific thing is&nbsp;&nbsp;
+
+00:17:15.120 --> 00:17:19.360
+something you want every single game rather than&nbsp;
+just occasionally, that might absolutely be the&nbsp;&nbsp;
+
+00:17:19.360 --> 00:17:24.080
+right call. Even if it’s not meant to be long&nbsp;
+term, as it wasn’t in this case, playing with&nbsp;&nbsp;
+
+00:17:24.080 --> 00:17:28.720
+more extreme command zone choices can be a great&nbsp;
+exercise in figuring out what you do or don’t&nbsp;&nbsp;
+
+00:17:28.720 --> 00:17:33.840
+enjoy about your deck, and it’s absolutely worth&nbsp;
+a try if you have a deck you’re not happy with!
+
+00:17:33.840 --> 00:17:38.320
+Thanks for watching! You can catch me this&nbsp;
+weekend at LDXP Tacoma, where I’ll be along with&nbsp;&nbsp;
+
+00:17:38.320 --> 00:17:43.680
+my podcast cohosts 3/3 Elk and The Trinket Mage.&nbsp;
+I’ll be there with my Dragonshield-sleeved decks,&nbsp;&nbsp;
+
+00:17:43.680 --> 00:17:47.360
+and if you want to be enjoying the same excellent&nbsp;
+durability and wide range of design options,&nbsp;&nbsp;
+
+00:17:47.360 --> 00:17:50.640
+you can follow my affiliate link down in the&nbsp;
+description and score yourself some with a&nbsp;&nbsp;
+
+00:17:50.640 --> 00:17:55.520
+little discount. If you want to support what I do&nbsp;
+here another way, you can become a YouTube member&nbsp;&nbsp;
+
+00:17:55.520 --> 00:18:00.160
+or join my Patreon, and you’ll receive access&nbsp;
+to a back catalogue of bonus videos along with&nbsp;&nbsp;
+
+00:18:00.160 --> 00:18:04.720
+a new one I’m putting out around the same time as&nbsp;
+this video drops. That one will feature me doing&nbsp;&nbsp;
+
+00:18:04.720 --> 00:18:10.560
+a deep dive into the first two Liesa lists, and&nbsp;
+a preview for that video will start RIGHT NOW!
+

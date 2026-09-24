@@ -1,0 +1,640 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.320 --> 00:00:05.720
+Picture this: it’s an average Thursday night.&nbsp;
+You’re just doing your thing — that thing being&nbsp;&nbsp;
+
+00:00:05.720 --> 00:00:10.760
+playing your groovy blue red combo deck in a&nbsp;
+game of commander with all your cool friends.
+
+00:00:10.760 --> 00:00:14.480
+You’re out there, drawing the cards,&nbsp;
+making the plays, living your best&nbsp;&nbsp;
+
+00:00:14.480 --> 00:00:20.240
+life. The pivotal moment fast approaches.&nbsp;
+A pesky Thalia hits the board—not to fear,&nbsp;&nbsp;
+
+00:00:20.240 --> 00:00:24.720
+you’ve got a counter. Your Kiki-Jiki meets a&nbsp;
+Dissipate—and though the ensuing counter war&nbsp;&nbsp;
+
+00:00:24.720 --> 00:00:29.360
+is lost, you’ve got a back-up plan.&nbsp;
+You throw down that Splinter Twin.&nbsp;&nbsp;
+
+00:00:29.360 --> 00:00:36.000
+What follows is those dreaded words.&nbsp;
+“In Response.” It’s a removal spell.
+
+00:00:36.000 --> 00:00:39.840
+Suddenly, this game has become a lot&nbsp;
+less cozy. What’s the backup plan,&nbsp;&nbsp;
+
+00:00:39.840 --> 00:00:45.680
+champ? You keep cycling through your deck, finding&nbsp;
+plenty of draw and mana, but nothing much of use.&nbsp;&nbsp;
+
+00:00:45.680 --> 00:00:53.880
+Things are desperate. Where do you even go from&nbsp;
+here? Well, you don’t. Go from here, I mean.
+
+00:00:53.880 --> 00:00:58.440
+Combo holds an interesting position within the&nbsp;
+landscape of Magic: the Gathering. Is it a type of&nbsp;&nbsp;
+
+00:00:58.440 --> 00:01:06.000
+deck? A type of wincon? A flavor of playstyle?&nbsp;
+Yes, it is indeed these things, and many&nbsp;&nbsp;
+
+00:01:06.000 --> 00:01:12.200
+more probably. The basic gist of what combo is is&nbsp;
+exactly what it sounds like—a combination of cards&nbsp;&nbsp;
+
+00:01:12.200 --> 00:01:16.840
+that together do something much stronger, but that&nbsp;
+can take a lot of forms. The spooky scary version&nbsp;&nbsp;
+
+00:01:16.840 --> 00:01:21.880
+is a two or three card combo that wins on the&nbsp;
+spot, such as Splinter Twin Pestermite, but there&nbsp;&nbsp;
+
+00:01:21.880 --> 00:01:27.520
+also exist infinite life and infinite mana combos&nbsp;
+that need additional cards to win, as well as less&nbsp;&nbsp;
+
+00:01:27.520 --> 00:01:33.480
+game-ending combos that only kill situationally,&nbsp;
+or even just create a lot of value. Though combo&nbsp;&nbsp;
+
+00:01:33.480 --> 00:01:38.560
+is wide-ranging and has undoubtedly been a part of&nbsp;
+the game for basically its whole existence, many&nbsp;&nbsp;
+
+00:01:38.560 --> 00:01:44.920
+players have a negative association with it, and&nbsp;
+I think it’s useful to go over why that might be.
+
+00:01:44.920 --> 00:01:50.400
+To start with, it’s pretty common for combo decks&nbsp;
+to feel un-interactive, and like they win out of&nbsp;&nbsp;
+
+00:01:50.400 --> 00:01:55.720
+nowhere. You can be doing your own game plan and&nbsp;
+watching with dread as your opponent spends very&nbsp;&nbsp;
+
+00:01:55.720 --> 00:02:00.680
+little resources on board state and interaction,&nbsp;
+instead relentlessly digging their way toward a&nbsp;&nbsp;
+
+00:02:00.680 --> 00:02:06.400
+one turn win until either they find it or you&nbsp;
+reduce their life total to zero. This kind of&nbsp;&nbsp;
+
+00:02:06.400 --> 00:02:12.160
+magic isn’t particularly fun for anybody—it’s&nbsp;
+just another kind of solitaire. The other thing&nbsp;&nbsp;
+
+00:02:12.160 --> 00:02:16.760
+I’ve seen complaints about is the fact that, in&nbsp;
+a way, a lot of combo decks break the rules of&nbsp;&nbsp;
+
+00:02:16.760 --> 00:02:21.840
+the game as understood by most players. Games&nbsp;
+that involve conventional aggro, midrange,&nbsp;&nbsp;
+
+00:02:21.840 --> 00:02:27.240
+and control decks feature a common language—board&nbsp;
+presence is a thing to be fought over, and cards&nbsp;&nbsp;
+
+00:02:27.240 --> 00:02:33.040
+and life total exist as resources to be taken&nbsp;
+into consideration and leveraged. By contrast,&nbsp;&nbsp;
+
+00:02:33.040 --> 00:02:38.880
+combo decks throw this playbook in the toilet—they&nbsp;
+operate using additional, more subtle resources,&nbsp;&nbsp;
+
+00:02:38.880 --> 00:02:44.440
+and they can win even when they are behind&nbsp;
+in board state, life total, and hand size.
+
+00:02:44.440 --> 00:02:48.800
+Now, there are a lot of things to be said about&nbsp;
+these points, but I’ll keep it to this for now—the&nbsp;&nbsp;
+
+00:02:48.800 --> 00:02:53.800
+volatility and un-interactiveness of combo decks&nbsp;
+can indeed be negatives, and I’ll be talking about&nbsp;&nbsp;
+
+00:02:53.800 --> 00:02:59.040
+how to minimize them. However, breaking the&nbsp;
+conventional rules of the game can be a good&nbsp;&nbsp;
+
+00:02:59.040 --> 00:03:04.800
+thing, particularly in a format like EDH. The&nbsp;
+fact that commander is a format with 40 health&nbsp;&nbsp;
+
+00:03:04.800 --> 00:03:09.480
+per player and three opponents rather than one&nbsp;
+encourages some styles of play which are too&nbsp;&nbsp;
+
+00:03:09.480 --> 00:03:15.480
+risky in 20 health 1v1 formats. These empowered&nbsp;
+styles tend to be slower and greedier than a lot&nbsp;&nbsp;
+
+00:03:15.480 --> 00:03:20.840
+of what you find in other formats. In mid-power&nbsp;
+EDH it’s very common to see decks that pile on&nbsp;&nbsp;
+
+00:03:20.840 --> 00:03:26.160
+heaps upon heaps of creature-based value, and then&nbsp;
+you get decks like my Glissa list, calling card&nbsp;&nbsp;
+
+00:03:26.160 --> 00:03:31.360
+“Midrange Crusher 5000”, that make it their whole&nbsp;
+goal to demolish these sort of decks by piling on&nbsp;&nbsp;
+
+00:03:31.360 --> 00:03:36.840
+an even larger amount of greed. And though I&nbsp;
+enjoy playing Midrange Crusher 5000, I know&nbsp;&nbsp;
+
+00:03:36.840 --> 00:03:42.800
+that this environment isn’t always a very dynamic&nbsp;
+one. A game where everyone always has big piles&nbsp;&nbsp;
+
+00:03:42.800 --> 00:03:47.480
+of value-generating permanents and where turns&nbsp;
+involve five minutes of abilities and triggers&nbsp;&nbsp;
+
+00:03:47.480 --> 00:03:53.200
+with little movement or strategy or actual action&nbsp;
+isn’t one I enjoy finding myself in. The fact&nbsp;&nbsp;
+
+00:03:53.200 --> 00:03:58.800
+that there are decks that can cut through slow,&nbsp;
+greedy, board-centered decks is a good thing.
+
+00:03:58.800 --> 00:04:03.040
+Now that I’ve laid out why I think combos&nbsp;
+and combo decks occupy a useful niche,&nbsp;&nbsp;
+
+00:04:03.040 --> 00:04:07.760
+we can ask the question of the video:&nbsp;
+where do they usually go wrong in EDH?&nbsp;&nbsp;
+
+00:04:07.760 --> 00:04:11.640
+I think a lot of it comes down to the&nbsp;
+structure of decks. The example I gave&nbsp;&nbsp;
+
+00:04:11.640 --> 00:04:18.320
+in the intro is a deck that’s basically an EDH&nbsp;
+adaptation of 2015-era modern Splinter twin,&nbsp;&nbsp;
+
+00:04:18.320 --> 00:04:25.120
+a pure combo deck. And the operative word for&nbsp;
+why that doesn’t work so well is *pure*. So okay,&nbsp;&nbsp;
+
+00:04:25.120 --> 00:04:29.600
+there’s this weird paradoxical thing—as you&nbsp;
+get to higher and higher powers in commander,&nbsp;&nbsp;
+
+00:04:29.600 --> 00:04:34.400
+combo becomes more and more ubiquitous for the&nbsp;
+simple fact that everybody’s got 120 health to&nbsp;&nbsp;
+
+00:04:34.400 --> 00:04:40.600
+chisel through, right, and it takes a lot of time&nbsp;
+to fair-magic your way through that level of meat.&nbsp;&nbsp;
+
+00:04:40.600 --> 00:04:46.840
+But what this also means is that stax cards to&nbsp;
+slow down and break combos also become ubiquitous,&nbsp;&nbsp;
+
+00:04:46.840 --> 00:04:52.400
+much more ubiquitous than they are in a&nbsp;
+20 health 1v1 format. The result is that&nbsp;&nbsp;
+
+00:04:52.400 --> 00:04:57.120
+pure combo actually works better in conventional&nbsp;
+formats, and it is indeed very common for combo&nbsp;&nbsp;
+
+00:04:57.120 --> 00:05:02.400
+decks in these formats to have no other wincons.&nbsp;
+By contrast, for a high power commander player,&nbsp;&nbsp;
+
+00:05:02.400 --> 00:05:06.520
+who must always contend with the possibility&nbsp;
+of encountering a quagmire of stax effects&nbsp;&nbsp;
+
+00:05:06.520 --> 00:05:11.760
+and counterspells, it’s a good idea to&nbsp;
+run alternate wincons just to be safe.
+
+00:05:11.760 --> 00:05:16.240
+As a high level example, we can consider&nbsp;
+Dargo-Thrasios, a partner commander pair&nbsp;&nbsp;
+
+00:05:16.240 --> 00:05:21.720
+that is sometimes played in competitive EDH.&nbsp;
+Thrasios is a beast of a card—it’s a generally&nbsp;&nbsp;
+
+00:05:21.720 --> 00:05:26.880
+decent value engine, and more importantly,&nbsp;
+it’s an outlet for infinite-mana combos that’s&nbsp;&nbsp;
+
+00:05:26.880 --> 00:05:31.080
+in the command zone—you combo off to get your&nbsp;
+infinite mana, and then you play Thrasios and&nbsp;&nbsp;
+
+00:05:31.080 --> 00:05:36.400
+draw through your deck to find the kill. Good&nbsp;
+stuff, Thrasios is real good. Dargo is there&nbsp;&nbsp;
+
+00:05:36.400 --> 00:05:41.440
+to add a bunch of utility—he can be used with&nbsp;
+Life’s Legacy or Greater Good to generate cards,&nbsp;&nbsp;
+
+00:05:41.440 --> 00:05:47.000
+and he can also be sac-ed to Neoform or Pod to&nbsp;
+grab Tidespout for one of the deck’s combos. He&nbsp;&nbsp;
+
+00:05:47.000 --> 00:05:52.080
+also, more pertinently to the point here, is a&nbsp;
+beefy boy who can three tap your opponents, and&nbsp;&nbsp;
+
+00:05:52.080 --> 00:05:56.280
+that can be a useful thing to have in your pocket&nbsp;
+if your combo plan gets shut down somewhere along&nbsp;&nbsp;
+
+00:05:56.280 --> 00:06:01.680
+the road. The multiple different combo wincons&nbsp;
+along with a backup beatdown wincon make the&nbsp;&nbsp;
+
+00:06:01.680 --> 00:06:07.960
+deck exceedingly flexible and adaptable, and help&nbsp;
+it to weather a lot of challenging situations.
+
+00:06:07.960 --> 00:06:14.720
+However, I hear a clamoring. But Alex, I hear some&nbsp;
+of you say. I’m not a cEDH player. I’m not going&nbsp;&nbsp;
+
+00:06:14.720 --> 00:06:20.000
+to be facing a wall of stax high enough to be an&nbsp;
+eighth wonder of the world. And you know what,&nbsp;&nbsp;
+
+00:06:20.000 --> 00:06:25.400
+that’s fair. So for now let’s stop considering&nbsp;
+what’s good, and switch to considering what’s fun&nbsp;&nbsp;
+
+00:06:25.400 --> 00:06:30.200
+and what works well within a somewhat lower-power&nbsp;
+group. For starters, I’m gonna have to crush your&nbsp;&nbsp;
+
+00:06:30.200 --> 00:06:34.520
+dreams a little. Combos are powerful and&nbsp;
+can be quite fun, but it’s important that&nbsp;&nbsp;
+
+00:06:34.520 --> 00:06:40.240
+the combos be well-situated within a deck. This&nbsp;
+means that if the combo is central to the deck,&nbsp;&nbsp;
+
+00:06:40.240 --> 00:06:43.960
+the deck should be able to pull it off reasonably&nbsp;
+consistently with the assumption of at least&nbsp;&nbsp;
+
+00:06:43.960 --> 00:06:48.200
+light resistance from your opponents. If&nbsp;
+the combo is less central to the deck,&nbsp;&nbsp;
+
+00:06:48.200 --> 00:06:52.360
+it should blend in naturalistically with the&nbsp;
+deck, requiring mostly cards and types of&nbsp;&nbsp;
+
+00:06:52.360 --> 00:06:56.640
+setup that the deck achieves through its normal&nbsp;
+gameplan and not feeling wildly out of sync&nbsp;&nbsp;
+
+00:06:56.640 --> 00:07:02.000
+with the normal gameplan. If you put a two card&nbsp;
+infinite combo in your low-power midrange deck,&nbsp;&nbsp;
+
+00:07:02.000 --> 00:07:06.240
+your deck is gonna be a low-power midrange deck&nbsp;
+90% of the time and an unprotected infinite&nbsp;&nbsp;
+
+00:07:06.240 --> 00:07:11.040
+combo deck 10% of the time. That’s gonna&nbsp;
+give your playgroup some serious whiplash,&nbsp;&nbsp;
+
+00:07:11.040 --> 00:07:15.640
+and it’s decidedly not an example of fun&nbsp;
+and dynamic gameplay. See part two of my&nbsp;&nbsp;
+
+00:07:15.640 --> 00:07:21.160
+budget cards video if you wanna hear me waffle&nbsp;
+about this topic for another five minutes or so.
+
+00:07:21.160 --> 00:07:25.320
+For an example of an elegant execution of a&nbsp;
+lower-power combo deck, I’m gonna use a deck&nbsp;&nbsp;
+
+00:07:25.320 --> 00:07:30.600
+from my friend Mr. Hans, because he’s much&nbsp;
+more of a Johnny than I’ll ever be. He built&nbsp;&nbsp;
+
+00:07:30.600 --> 00:07:35.440
+a Vadrok deck—it’s a toolbox mutate deck that&nbsp;
+tries to generate value through its commander&nbsp;&nbsp;
+
+00:07:35.440 --> 00:07:39.880
+and a suite of other value engines throughout&nbsp;
+the deck. An equipment subtheme with several&nbsp;&nbsp;
+
+00:07:39.880 --> 00:07:44.880
+tutors also exists within the deck, giving it&nbsp;
+access to several reconfigure cards which offer&nbsp;&nbsp;
+
+00:07:44.880 --> 00:07:51.720
+various forms of utility, as well as the central&nbsp;
+pillar of the deck—Sunforger. With Sunforger,&nbsp;&nbsp;
+
+00:07:51.720 --> 00:07:55.880
+the deck has access to yet a further&nbsp;
+suite of options—assorted interaction,&nbsp;&nbsp;
+
+00:07:55.880 --> 00:08:03.240
+draw spells, burst damage, and also a couple of&nbsp;
+distinctly spicier cards. Glorious End can put&nbsp;&nbsp;
+
+00:08:03.240 --> 00:08:08.400
+an immediate stop to a problematic combat phase&nbsp;
+or effectively counter a concerning spell, and&nbsp;&nbsp;
+
+00:08:08.400 --> 00:08:13.600
+Chance for Glory is an extra turn spell that also&nbsp;
+doubles as a protection spell. For both cards,&nbsp;&nbsp;
+
+00:08:13.600 --> 00:08:18.080
+Angel’s Grace can be played on that following&nbsp;
+turn in order to prevent the lose-the-game clause.
+
+00:08:18.080 --> 00:08:23.480
+Now, this is a decidedly useful tool on its own,&nbsp;
+but it is also within the interaction between&nbsp;&nbsp;
+
+00:08:23.480 --> 00:08:28.680
+these cards and the mutate mechanic that the combo&nbsp;
+exists. Vadrok can repeat low-cost noncreature&nbsp;&nbsp;
+
+00:08:28.680 --> 00:08:33.040
+spells from the graveyard when creatures mutate&nbsp;
+onto it, and since the mutate stack counts as a&nbsp;&nbsp;
+
+00:08:33.040 --> 00:08:39.440
+single creature, a bounce spell returns the entire&nbsp;
+stack to hand. So… the combo goes something like&nbsp;&nbsp;
+
+00:08:39.440 --> 00:08:46.120
+this. Get an extra turn via Chance for Glory and&nbsp;
+prevent loss on that turn via Angel’s Grace. Then,&nbsp;&nbsp;
+
+00:08:46.120 --> 00:08:50.880
+repeat this on each subsequent extra turn&nbsp;
+by mutating three creatures onto Vadrok—one&nbsp;&nbsp;
+
+00:08:50.880 --> 00:08:56.040
+for Chance, one for Grace, and one for a&nbsp;
+bounce spell. If you have the correct setup,&nbsp;&nbsp;
+
+00:08:56.040 --> 00:09:00.945
+this means infinite turns and infinite&nbsp;
+combat steps swinging with Vadrok.
+
+00:09:00.945 --> 00:09:06.040
+Now, the first thing you should note is that,&nbsp;
+as combos go, this one is very convoluted&nbsp;&nbsp;
+
+00:09:06.040 --> 00:09:10.360
+and difficult to achieve. In addition to&nbsp;
+the three cards required for the combo,&nbsp;&nbsp;
+
+00:09:10.360 --> 00:09:14.520
+there is also the requirement of having&nbsp;
+14 mana and three mutate creatures, as&nbsp;&nbsp;
+
+00:09:14.520 --> 00:09:20.800
+well as the commander. However, this is actually&nbsp;
+okay, for a couple different reasons. For one,&nbsp;&nbsp;
+
+00:09:20.800 --> 00:09:25.760
+Vadrok isn’t a pure combo deck—maintaining a&nbsp;
+solid mutate stack with the commander leads&nbsp;&nbsp;
+
+00:09:25.760 --> 00:09:30.680
+to having a decent beater that deals commander&nbsp;
+damage and generates a lot of value. The deck&nbsp;&nbsp;
+
+00:09:30.680 --> 00:09:35.280
+isn’t playing at high power levels, and it can&nbsp;
+and does win games simply by hitting people,&nbsp;&nbsp;
+
+00:09:35.280 --> 00:09:38.360
+drawing cards, and holding up enough&nbsp;
+protection to prevent the stack from&nbsp;&nbsp;
+
+00:09:38.360 --> 00:09:43.320
+dying. A common strategy for the deck is&nbsp;
+to build the stack on top of a manland,&nbsp;&nbsp;
+
+00:09:43.320 --> 00:09:47.840
+which allows it to dodge sorcery speed removal&nbsp;
+in general and board wipes in particular, and the&nbsp;&nbsp;
+
+00:09:47.840 --> 00:09:53.320
+pivotal Sunforger boosts Vadrok’s power to 7—the&nbsp;
+exact amount you need to kill a player in three&nbsp;&nbsp;
+
+00:09:53.320 --> 00:09:59.120
+hits. It’s a very real win plan, with a solid&nbsp;
+shell for generating value and controlling things.
+
+00:10:00.480 --> 00:10:04.520
+The other reason the difficulty of setting&nbsp;
+up the combo is okay is that all three of&nbsp;&nbsp;
+
+00:10:04.520 --> 00:10:09.520
+the combo pieces have their own utility, and more&nbsp;
+importantly, the requirement of having a lot of&nbsp;&nbsp;
+
+00:10:09.520 --> 00:10:15.200
+mutate creatures and mana is achieved by the deck&nbsp;
+just generally doing what it wants to be doing.&nbsp;&nbsp;
+
+00:10:15.200 --> 00:10:20.480
+Generating a lot of value leads to drawing into&nbsp;
+mutate creatures and mana rocks, and successfully&nbsp;&nbsp;
+
+00:10:20.480 --> 00:10:26.240
+protecting its ever-important Sunforger allows the&nbsp;
+deck to grab its combo pieces. Everything needed&nbsp;&nbsp;
+
+00:10:26.240 --> 00:10:31.160
+to set up the combo is a solid goal in its own&nbsp;
+right, so simply playing the deck in ways that&nbsp;&nbsp;
+
+00:10:31.160 --> 00:10:36.800
+are generally effective also naturalistically&nbsp;
+leads into having the combo. Sometimes the combo&nbsp;&nbsp;
+
+00:10:36.800 --> 00:10:41.280
+will get stopped, but if it does, guess what?&nbsp;
+The deck has been doing a good job of pursuing&nbsp;&nbsp;
+
+00:10:41.280 --> 00:10:47.440
+its general goals, so you’re still gonna have&nbsp;
+a decent shot of winning via commander damage.
+
+00:10:47.440 --> 00:10:52.960
+This idea of the combo fitting naturally into the&nbsp;
+deck is the biggest thing I want to convey here.&nbsp;&nbsp;
+
+00:10:52.960 --> 00:10:59.080
+A combo you run shouldn’t feel abrupt or out of&nbsp;
+place—it shouldn’t feel like the deck either does&nbsp;&nbsp;
+
+00:10:59.080 --> 00:11:04.960
+nothing or everything depending if it draws&nbsp;
+a certain 3 or 4 cards. If you’ve got a deck&nbsp;&nbsp;
+
+00:11:04.960 --> 00:11:10.600
+where a combo is the centerpiece, it should have&nbsp;
+tutors or big piles of draw in order to get there,&nbsp;&nbsp;
+
+00:11:10.600 --> 00:11:16.280
+with control cards used as a sort of extending&nbsp;
+element to buy the deck time. If you have a&nbsp;&nbsp;
+
+00:11:16.280 --> 00:11:20.320
+deck where it’s going to take a long time to put&nbsp;
+together the combo, you should fill up space in&nbsp;&nbsp;
+
+00:11:20.320 --> 00:11:26.960
+the deck with a game plan that works concurrently&nbsp;
+with setting up the combo. That can be ramping in&nbsp;&nbsp;
+
+00:11:26.960 --> 00:11:32.160
+a deck where the combo is mana-intensive, running&nbsp;
+lots of draw in a deck where the combo involves&nbsp;&nbsp;
+
+00:11:32.160 --> 00:11:36.680
+looping with a number of different cards, or&nbsp;
+running lots of tutors in a deck where getting&nbsp;&nbsp;
+
+00:11:36.680 --> 00:11:42.160
+discrete pieces together is a challenge. And then,&nbsp;
+once you’ve constructed a framework for piling on&nbsp;&nbsp;
+
+00:11:42.160 --> 00:11:47.520
+particular resources, you can devise how to fit in&nbsp;
+an alternative winplan that also takes advantage&nbsp;&nbsp;
+
+00:11:47.520 --> 00:11:53.640
+of these resources. Don’t trust your combo to&nbsp;
+win you the game—because guess what? Removal,&nbsp;&nbsp;
+
+00:11:53.640 --> 00:11:57.520
+counterspells, and stax exist, and optimizing&nbsp;
+your combo deck is going to put you at power&nbsp;&nbsp;
+
+00:11:57.520 --> 00:12:03.087
+levels where increasing quantities of these&nbsp;
+roadblocks exist. The higher power you get,&nbsp;&nbsp;
+
+00:12:03.087 --> 00:12:03.160
+the more useful it becomes to just&nbsp;
+have a good, old-fashioned beefy lad.
+
+00:12:03.160 --> 00:12:07.040
+As a final point, I want to discuss the&nbsp;
+opposite of a combo deck with an alternative&nbsp;&nbsp;
+
+00:12:07.040 --> 00:12:13.040
+beatdown wincon—that being a beatdown deck&nbsp;
+with an alternative combo wincon. Now,&nbsp;&nbsp;
+
+00:12:13.040 --> 00:12:17.960
+this is a little more unusual, but hear me out&nbsp;
+here. Sometimes a beatdown deck is able to get&nbsp;&nbsp;
+
+00:12:17.960 --> 00:12:22.520
+ahead on resources, but then it gets locked out&nbsp;
+of swinging for on-board damage for some reason&nbsp;&nbsp;
+
+00:12:22.520 --> 00:12:28.320
+or other. For example, a couple years back&nbsp;
+I built a $25 Grismold, the Dreadsower deck,&nbsp;&nbsp;
+
+00:12:28.320 --> 00:12:34.040
+a fast midrange deck. Plan A of the deck is&nbsp;
+the pseudo-Voltron beatdown plan where the&nbsp;&nbsp;
+
+00:12:34.040 --> 00:12:38.880
+deck creates a bunch of tokens on board and then&nbsp;
+deletes said tokens in order to swing for lethal&nbsp;&nbsp;
+
+00:12:38.880 --> 00:12:43.880
+amounts of commander damage. You might note,&nbsp;
+however, that the deck is not running blue,&nbsp;&nbsp;
+
+00:12:43.880 --> 00:12:49.720
+and a $25 budget is too small to afford nice&nbsp;
+shoes for my Grismold, and as you might expect,&nbsp;&nbsp;
+
+00:12:49.720 --> 00:12:54.240
+there are games where Grismold kinda just&nbsp;
+gets bullied out of existence by removal.
+
+00:12:54.240 --> 00:13:00.320
+So, what else can you do with a lot of tokens&nbsp;
+dying? Run some Blood Artist effects, of course.&nbsp;&nbsp;
+
+00:13:00.320 --> 00:13:05.400
+The win plan of generate tokens, play Syr Konrad,&nbsp;
+and then kill the tokens isn’t as effective at&nbsp;&nbsp;
+
+00:13:05.400 --> 00:13:10.240
+killing players as a pure voltron Grismold&nbsp;
+plan, but relying on the Grizzy plan alone&nbsp;&nbsp;
+
+00:13:10.240 --> 00:13:15.120
+is a bad idea, and having a backup means that&nbsp;
+the deck can win even if it just gets a couple&nbsp;&nbsp;
+
+00:13:15.120 --> 00:13:20.040
+medium-sized Grismold swings rather than living&nbsp;
+the dream and one-tapping three players back to&nbsp;&nbsp;
+
+00:13:20.040 --> 00:13:26.840
+back. The important point here is that both of&nbsp;
+these wincons use the same basic resource—tokens,&nbsp;&nbsp;
+
+00:13:26.840 --> 00:13:31.720
+so the deck doesn’t really need to *do* anything&nbsp;
+different to have both of these wincons. And this&nbsp;&nbsp;
+
+00:13:31.720 --> 00:13:37.160
+is the crux of things, really. At lower powers,&nbsp;
+alternate wincons should ideally be using the&nbsp;&nbsp;
+
+00:13:37.160 --> 00:13:42.840
+same resources as the main wincon for the&nbsp;
+sake of deck cohesion. And when in doubt,&nbsp;&nbsp;
+
+00:13:42.840 --> 00:13:47.440
+just engineer your deck so that it has&nbsp;
+a meaty lad it can use, just in case.
+

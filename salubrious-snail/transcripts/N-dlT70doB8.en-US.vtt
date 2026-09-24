@@ -1,0 +1,620 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.360 --> 00:00:05.640
+Hey folks. It’s precon review time! I’m going&nbsp;
+to be critiquing the Eternal Might precon for&nbsp;&nbsp;
+
+00:00:05.640 --> 00:00:10.320
+Aetherdrift, and offering some potential points of&nbsp;
+improvement. The last two precons I’ve discussed&nbsp;&nbsp;
+
+00:00:10.320 --> 00:00:14.120
+have impressed me with their construction, seeming&nbsp;
+surprisingly streamlined in their functionality,&nbsp;&nbsp;
+
+00:00:14.120 --> 00:00:19.720
+and easily upgradeable into a quite decent magic&nbsp;
+deck. It’s actually been a bit disappointing,&nbsp;&nbsp;
+
+00:00:19.720 --> 00:00:23.880
+what am I supposed to do aside from say “this&nbsp;
+is pretty good, cut these five bad cards and&nbsp;&nbsp;
+
+00:00:23.880 --> 00:00:29.440
+it’ll be even better.” Thankfully, that’s not&nbsp;
+a problem with this precon. Though containing&nbsp;&nbsp;
+
+00:00:29.440 --> 00:00:32.880
+good card quality, lots of nice assorted&nbsp;
+zombie cards, and some nice attention to&nbsp;&nbsp;
+
+00:00:32.880 --> 00:00:37.800
+detail in terms of aesthetics, in terms of&nbsp;
+construction this deck is a hot mess express,&nbsp;&nbsp;
+
+00:00:37.800 --> 00:00:42.840
+a disgusting mishmash of conflicting gameplans&nbsp;
+and synergistic dead-ends, and I’m excited to&nbsp;&nbsp;
+
+00:00:42.840 --> 00:00:48.160
+tackle it. To start with, though, let’s talk&nbsp;
+about what this deck is trying to accomplish.
+
+00:00:48.160 --> 00:00:54.000
+The commander of this deck is Temmet, a five mana&nbsp;
+4/4 in Esper colors with vigilance and menace,&nbsp;&nbsp;
+
+00:00:54.000 --> 00:00:57.960
+as well as the following text: “Whenever you&nbsp;
+attack, draw a card, then discard a card.&nbsp;&nbsp;
+
+00:00:57.960 --> 00:01:03.200
+Whenever you draw a card, zombies you control&nbsp;
+get +1/+1 until end of turn.” So, on the surface,&nbsp;&nbsp;
+
+00:01:03.200 --> 00:01:08.560
+this is a card that rewards token zombies or&nbsp;
+otherwise wide boards of zombies, and also a&nbsp;&nbsp;
+
+00:01:08.560 --> 00:01:14.440
+card that rewards big draw that happens before the&nbsp;
+combat damage step in a turn. Simple effect, but&nbsp;&nbsp;
+
+00:01:14.440 --> 00:01:20.080
+there are a lot of implied features of this card&nbsp;
+we should keep in mind. To be maximally effective,&nbsp;&nbsp;
+
+00:01:20.080 --> 00:01:25.040
+Temmet wants a large board of zombies to attack&nbsp;
+with as well as a large draw spell to amp up&nbsp;&nbsp;
+
+00:01:25.040 --> 00:01:29.560
+the buff it grants, and it’s also a thing that is&nbsp;
+likely going to be a removal magnet if we have a&nbsp;&nbsp;
+
+00:01:29.560 --> 00:01:34.680
+large board since it can threaten a lot of damage.&nbsp;
+Importantly, this means that the deck will want a&nbsp;&nbsp;
+
+00:01:34.680 --> 00:01:40.440
+lot of mana to both pay the casting cost and also&nbsp;
+either draw some cards or hold up mana to protect&nbsp;&nbsp;
+
+00:01:40.440 --> 00:01:45.080
+it. Looking at the rest of the deck, some parts&nbsp;
+of it reflect these specific needs. There are&nbsp;&nbsp;
+
+00:01:45.080 --> 00:01:50.160
+eight cards that create small zombie tokens and&nbsp;
+three army generators, cards that create or add&nbsp;&nbsp;
+
+00:01:50.160 --> 00:01:55.560
+counters to a singular growing zombie token, and&nbsp;
+there are also a handful of cards that create 4/4&nbsp;&nbsp;
+
+00:01:55.560 --> 00:02:00.640
+zombie tokens as well. The deck also contains&nbsp;
+a healthy 9 ramp spells to help bolster it up&nbsp;&nbsp;
+
+00:02:00.640 --> 00:02:05.960
+to larger quantities of mana. From there, the deck&nbsp;
+also has a large number of zombie creatures in it,&nbsp;&nbsp;
+
+00:02:05.960 --> 00:02:13.080
+which range from cards that drain opponents to&nbsp;
+lords to draw spells and beyond. An interesting&nbsp;&nbsp;
+
+00:02:13.080 --> 00:02:17.920
+additional package in the deck is the discard&nbsp;
+package—the alternate commander for this deck is&nbsp;&nbsp;
+
+00:02:17.920 --> 00:02:24.200
+Hashaton, Scarab’s Fist which can allow a player&nbsp;
+to make 4/4 zombie copies of discarded creatures,&nbsp;&nbsp;
+
+00:02:24.200 --> 00:02:29.080
+and the deck also contains a handful of other&nbsp;
+discard payoffs. The amount of discard in the&nbsp;&nbsp;
+
+00:02:29.080 --> 00:02:33.520
+deck isn’t wildly large, though, consisting of&nbsp;
+five or six cards that allow you to discard plus&nbsp;&nbsp;
+
+00:02:33.520 --> 00:02:38.160
+a handful of cycling cards. There’s also&nbsp;
+a light graveyard package to go along with&nbsp;&nbsp;
+
+00:02:38.160 --> 00:02:42.960
+this. Rounding out the deck, we have a pretty&nbsp;
+average number of removal spells. Overall,&nbsp;&nbsp;
+
+00:02:42.960 --> 00:02:46.480
+this deck looks to be looking to create a&nbsp;
+wide board of zombies and utilize its cute&nbsp;&nbsp;
+
+00:02:46.480 --> 00:02:51.960
+discard and graveyard subthemes, and swing&nbsp;
+in at opponents with a Temmet-buffed board.
+
+00:02:51.960 --> 00:02:55.920
+I obviously pre-empted my overall thoughts on&nbsp;
+this deck a bit, but I’ll start with what I like&nbsp;&nbsp;
+
+00:02:55.920 --> 00:03:01.800
+about what’s happening here. As I said, it has a&nbsp;
+larger than average ramp suite for an Esper deck,&nbsp;&nbsp;
+
+00:03:01.800 --> 00:03:06.840
+which I think is appropriate for this gameplan.&nbsp;
+Crowded Crypt and Bontu’s Monument both stand&nbsp;&nbsp;
+
+00:03:06.840 --> 00:03:10.960
+out as fun ramp options with a lot of&nbsp;
+utility in this deck, offering token&nbsp;&nbsp;
+
+00:03:10.960 --> 00:03:16.360
+production and drain respectively. This deck&nbsp;
+also contains some number of token producers,&nbsp;&nbsp;
+
+00:03:16.360 --> 00:03:21.280
+and some of these are pretty good—I like the ones&nbsp;
+that make 1/1 white zombie tokens, and On Wing’s&nbsp;&nbsp;
+
+00:03:21.280 --> 00:03:25.960
+Of Gold’s flying + anthem effect is good enough&nbsp;
+to make the card seem worthwhile even though this&nbsp;&nbsp;
+
+00:03:25.960 --> 00:03:29.760
+isn’t a deck with a super heavy graveyard&nbsp;
+theme, at least by zombie deck standards.&nbsp;&nbsp;
+
+00:03:30.360 --> 00:03:35.760
+The manabase here is excellent—really robust&nbsp;
+symbol counts even with a couple great colorless&nbsp;&nbsp;
+
+00:03:35.760 --> 00:03:41.000
+utility lands, and a moderately high but not&nbsp;
+overwhelming tapland density that also gives&nbsp;&nbsp;
+
+00:03:41.000 --> 00:03:46.600
+players room to gradually update taplands&nbsp;
+with better untapped duals. There are also&nbsp;&nbsp;
+
+00:03:46.600 --> 00:03:52.240
+some number of cards that slot in elegantly to&nbsp;
+this deck—Forgotten Creation pairs perfectly&nbsp;&nbsp;
+
+00:03:52.240 --> 00:03:58.360
+with both Temmet and Hashaton, as do the newly&nbsp;
+printed Prophet of the Scarab and Rhet-Tomb&nbsp;&nbsp;
+
+00:03:58.360 --> 00:04:03.640
+Mystic. There are also gestures at a number&nbsp;
+of packages that could exist—a couple Impact&nbsp;&nbsp;
+
+00:04:03.640 --> 00:04:08.040
+Tremors style cards paired with the deck’s&nbsp;
+tokens package, and a selection of different&nbsp;&nbsp;
+
+00:04:08.040 --> 00:04:13.680
+graveyard and discard enablers and payoffs to give&nbsp;
+a sampling platter of what that could look like.&nbsp;&nbsp;
+
+00:04:13.680 --> 00:04:18.520
+That’s the most generous way to view this deck&nbsp;
+in my mind—it’s a sample of possible gameplans,&nbsp;&nbsp;
+
+00:04:18.520 --> 00:04:23.120
+and/or a toolbox of possible implements&nbsp;
+for beginning the journey of building them.
+
+00:04:23.120 --> 00:04:28.440
+So what about this as a deck that’s trying&nbsp;
+to play a game of Magic: the Gathering? Well,&nbsp;&nbsp;
+
+00:04:28.440 --> 00:04:33.400
+it’s a bit disappointing. Hashaton has gotten a&nbsp;
+lot of attention as an undeniably cool secondary&nbsp;&nbsp;
+
+00:04:33.400 --> 00:04:38.400
+commander, but it doesn’t even really work as a&nbsp;
+secondary commander—this deck just doesn’t have&nbsp;&nbsp;
+
+00:04:38.400 --> 00:04:44.000
+enough discard to consistently enable Hashaton’s&nbsp;
+ability. With Hashaton in the 99 you at least&nbsp;&nbsp;
+
+00:04:44.000 --> 00:04:49.800
+have the consistent discard effect of Temmet, but&nbsp;
+he’s also a five mana card with an overrun-esque&nbsp;&nbsp;
+
+00:04:49.800 --> 00:04:55.320
+ability, so trusting him to stick around as&nbsp;
+an engine is highly optimistic. This lack&nbsp;&nbsp;
+
+00:04:55.320 --> 00:05:00.000
+of discard likewise stands out in the case for&nbsp;
+other discard payoffs such as Lazotep Chancellor&nbsp;&nbsp;
+
+00:05:00.000 --> 00:05:05.760
+and Archfiend of Ifnir, though those at least get&nbsp;
+triggered by the deck’s cycling lands. The deck’s&nbsp;&nbsp;
+
+00:05:05.760 --> 00:05:10.880
+graveyard package is another thing that stands&nbsp;
+out—it’s not massive but it is decidedly present,&nbsp;&nbsp;
+
+00:05:10.880 --> 00:05:15.400
+as you’d expect with a zombie deck. This&nbsp;
+deck is kinda thin on ways to enable it,&nbsp;&nbsp;
+
+00:05:15.400 --> 00:05:20.520
+though—most zombie decks would be using sacrifice&nbsp;
+abilities in addition to discard, and while this&nbsp;&nbsp;
+
+00:05:20.520 --> 00:05:25.440
+deck does have the sorts of payoffs when creatures&nbsp;
+die that those decks tend to have, it’s almost&nbsp;&nbsp;
+
+00:05:25.440 --> 00:05:30.480
+entirely lacking in ways to sacrifice creatures.&nbsp;
+The result is that this deck really lacks a&nbsp;&nbsp;
+
+00:05:30.480 --> 00:05:35.600
+lot of what might give a zombie deck a sense of&nbsp;
+mechanical identity, its disjointedness causing&nbsp;&nbsp;
+
+00:05:35.600 --> 00:05:41.760
+both play pattern issue—when disparate synergy&nbsp;
+packages don’t line up—and vibes issues—when it&nbsp;&nbsp;
+
+00:05:41.760 --> 00:05:47.760
+just plays like a generic blob of typal midrange&nbsp;
+gameplay instead of, you know, like a zombie deck.
+
+00:05:47.760 --> 00:05:53.000
+Okay, so I obviously have issues with this deck’s&nbsp;
+handling of some traditional key zombie subthemes,&nbsp;&nbsp;
+
+00:05:53.000 --> 00:05:57.640
+but let’s set that aside. This is a precon,&nbsp;
+this is meant to be a toolbox and/or a sampling&nbsp;&nbsp;
+
+00:05:57.640 --> 00:06:02.440
+platter, we can give it some slack. Does this&nbsp;
+deck at least hold up in supporting Temmet as&nbsp;&nbsp;
+
+00:06:02.440 --> 00:06:07.360
+a commander? Are we forging an alternative zombie&nbsp;
+playstyle here? In some ways the answer to that is&nbsp;&nbsp;
+
+00:06:07.360 --> 00:06:13.120
+yes, but in a lot of other ways the answer is no.&nbsp;
+As I said earlier, this deck’s ramp and mana are&nbsp;&nbsp;
+
+00:06:13.120 --> 00:06:17.200
+well-constructed, which is good as Temmet is the&nbsp;
+sort of card that’s going to work better when the&nbsp;&nbsp;
+
+00:06:17.200 --> 00:06:23.240
+deck has mana to play him plus something else&nbsp;
+in a turn. The token-generating suite is okay,&nbsp;&nbsp;
+
+00:06:23.240 --> 00:06:26.920
+and actually contains some pretty high-quality&nbsp;
+stuff, but there are fewer cards that&nbsp;&nbsp;
+
+00:06:26.920 --> 00:06:32.720
+create a lot of small zombie tokens than I’d like.&nbsp;
+Creating 4/4 tokens is cool and all, but Temmet’s&nbsp;&nbsp;
+
+00:06:32.720 --> 00:06:38.600
+design heavily incentivizes pairing him with lots&nbsp;
+of small creatures, so the bigger tokens with more&nbsp;&nbsp;
+
+00:06:38.600 --> 00:06:44.120
+rigorous requirements to be created simply feel&nbsp;
+out of place, even if they’re more aesthetically&nbsp;&nbsp;
+
+00:06:44.120 --> 00:06:49.520
+fitting. Even more problematically, this deck&nbsp;
+doesn’t have much of the sort of bursty draw that&nbsp;&nbsp;
+
+00:06:49.520 --> 00:06:55.400
+pairs best with Temmet. There isn’t a lot of draw&nbsp;
+overall, and a lot of the draw that is here isn’t&nbsp;&nbsp;
+
+00:06:55.400 --> 00:07:00.080
+great for taking advantage of Temmet’s ability.&nbsp;
+There isn’t a reliable way to sacrifice Corpse&nbsp;&nbsp;
+
+00:07:00.080 --> 00:07:05.080
+Augur, nor any good way to let Midnight Reaper&nbsp;
+or Undead Augur translate into Temmet Triggers,&nbsp;&nbsp;
+
+00:07:05.080 --> 00:07:08.640
+and you’re not gonna tap down your zombies&nbsp;
+to Cryptbreaker if you want to swing in that&nbsp;&nbsp;
+
+00:07:08.640 --> 00:07:14.080
+turn. Most of the other draw options are mana&nbsp;
+expensive, so you’re looking at 10 mana minimum&nbsp;&nbsp;
+
+00:07:14.080 --> 00:07:19.520
+to do a Temmet + draw maneuver. The one thing&nbsp;
+working in Temmet’s favor here is the half-dozen&nbsp;&nbsp;
+
+00:07:19.520 --> 00:07:24.320
+or so cycling cards in the deck, but at that&nbsp;
+point you’re paying five mana for the commander&nbsp;&nbsp;
+
+00:07:24.320 --> 00:07:29.520
+plus two mana to cycle during the combat step&nbsp;
+for roughly an Undead Warchief worth of anthem.
+
+00:07:30.240 --> 00:07:34.520
+The final problem is this deck’s interaction&nbsp;
+suite. It has 10 cards that perform a removal&nbsp;&nbsp;
+
+00:07:34.520 --> 00:07:39.200
+role in some way or other, which might work&nbsp;
+for a faster zombie deck, but I’m not sold on&nbsp;&nbsp;
+
+00:07:39.200 --> 00:07:45.360
+this deck’s ability to win quickly. Worse, it has&nbsp;
+very little protection and no counterspells—a blue&nbsp;&nbsp;
+
+00:07:45.360 --> 00:07:51.320
+deck that’s vulnerable to removal and board&nbsp;
+wipes runs no counterspells. C’mon. I dunno,&nbsp;&nbsp;
+
+00:07:51.320 --> 00:07:55.760
+this deck isn’t unplayably bad or anything, but&nbsp;
+it fails to meaningfully commit to any of its&nbsp;&nbsp;
+
+00:07:55.760 --> 00:07:59.880
+subthemes, and with the way it’s currently&nbsp;
+built its command zone feels arbitrary&nbsp;&nbsp;
+
+00:07:59.880 --> 00:08:04.920
+at best, just a generic zombie guy that gives&nbsp;
+the deck its colors. It is a bit more cohesive&nbsp;&nbsp;
+
+00:08:04.920 --> 00:08:10.480
+when we look at the visual presentation, with&nbsp;
+a clear emphasis on Amonkhet-style zombies, and&nbsp;&nbsp;
+
+00:08:10.480 --> 00:08:15.000
+there’s certainly some admirable effort put into&nbsp;
+new art for a lot of the cards present. I don’t&nbsp;&nbsp;
+
+00:08:15.000 --> 00:08:20.840
+usually treat these as product or value reviews,&nbsp;
+you know, I’m much more interested in the deck and&nbsp;&nbsp;
+
+00:08:20.840 --> 00:08:24.800
+the sort of experience that Wizards of the Coast&nbsp;
+is handing to a newer player who is pulling this&nbsp;&nbsp;
+
+00:08:24.800 --> 00:08:30.320
+out of the box to play a game of commander with,&nbsp;
+but I’ll make a minor exception here. As a product&nbsp;&nbsp;
+
+00:08:30.320 --> 00:08:34.240
+there is a lot going for this, and if you are a&nbsp;
+zombie player who’s looking for a bundle of good&nbsp;&nbsp;
+
+00:08:34.240 --> 00:08:39.560
+zombie cards plus some cool new arts, this&nbsp;
+absolutely might be a great purchase. Just&nbsp;&nbsp;
+
+00:08:39.560 --> 00:08:44.320
+don’t buy this if you’re looking for a cohesive&nbsp;
+deck out of the box, because this is not that.
+
+00:08:44.320 --> 00:08:48.520
+With all that said, I still want to try an&nbsp;
+upgrade for this. When I first saw this precon, my&nbsp;&nbsp;
+
+00:08:48.520 --> 00:08:53.880
+immediate thought was that it’d be cool to morph&nbsp;
+it into a Hashaton deck. But honestly, this deck&nbsp;&nbsp;
+
+00:08:53.880 --> 00:08:58.360
+is so far from enabling Hashaton well that I’m&nbsp;
+inclined to stick with Temmet instead and see what&nbsp;&nbsp;
+
+00:08:58.360 --> 00:09:04.000
+we can do with 15 swap-outs to try and actually&nbsp;
+let him feel like a legitimate commander. So&nbsp;&nbsp;
+
+00:09:04.000 --> 00:09:09.280
+let’s do that, and I’m going to start by talking&nbsp;
+about what I’m cutting. Binding Mummy and Twisted&nbsp;&nbsp;
+
+00:09:09.280 --> 00:09:13.820
+Abomination aren’t great in general, and I’m also&nbsp;
+going to cut a couple discard payoffs that just&nbsp;&nbsp;
+
+00:09:13.820 --> 00:09:19.720
+aren’t adequately supported here. Sorry Hashaton.&nbsp;
+Beyond that, Maskwood Nexus seems out of place&nbsp;&nbsp;
+
+00:09:19.720 --> 00:09:29.600
+here, and I’m also going to cut out a handful of&nbsp;
+zombies that are just a bit mediocre. This deck is&nbsp;&nbsp;
+
+00:09:29.600 --> 00:09:35.160
+a rare Gravecrawler L—with no sacrifice, this&nbsp;
+card just doesn’t really do anything. Nothing&nbsp;&nbsp;
+
+00:09:35.160 --> 00:09:39.280
+beyond these particularly offends me, but I&nbsp;
+will trim a handful more mediocre cards just&nbsp;&nbsp;
+
+00:09:39.280 --> 00:09:43.640
+to make space for better support—these are cards&nbsp;
+that are just on the weaker side mechanically,&nbsp;&nbsp;
+
+00:09:43.640 --> 00:09:48.320
+or which don’t tie in particularly well with&nbsp;
+the gameplan I’m trying to cultivate. For our&nbsp;&nbsp;
+
+00:09:48.320 --> 00:09:52.680
+additions, the first order of business is that&nbsp;
+I want to add a bunch more draw and filtering,&nbsp;&nbsp;
+
+00:09:52.680 --> 00:09:57.560
+since they do double duty in smoothing out the&nbsp;
+way this deck plays and making it punchier with&nbsp;&nbsp;
+
+00:09:57.560 --> 00:10:03.360
+Temmet. Keep Watch, Distant Melody, Pact of the&nbsp;
+Serpent, and Raffine all allow the deck to give&nbsp;&nbsp;
+
+00:10:03.360 --> 00:10:08.200
+its zombies a massive pump-up for a reasonable&nbsp;
+amount of mana. In addition to these, I’m&nbsp;&nbsp;
+
+00:10:08.200 --> 00:10:13.120
+choosing to add three cards for protection that&nbsp;
+can also draw cards, which are Change of Plans,&nbsp;&nbsp;
+
+00:10:13.120 --> 00:10:17.680
+You Find the Villains’ Lair, and Your Temple Is&nbsp;
+Under Attack, and these are nice because of their&nbsp;&nbsp;
+
+00:10:17.680 --> 00:10:22.720
+flexibility. The other major thing I’m choosing to&nbsp;
+add is cards to create zombie tokens, three total&nbsp;&nbsp;
+
+00:10:22.720 --> 00:10:29.480
+in this case. Syphon Flesh and Dark Salvation both&nbsp;
+provide removal and token generation, and Endless&nbsp;&nbsp;
+
+00:10:29.480 --> 00:10:34.840
+Ranks of the Dead is a good singular zombie token&nbsp;
+maker. Honestly there are a bunch of other zombie&nbsp;&nbsp;
+
+00:10:34.840 --> 00:10:40.040
+token generators in the $5-10 range that I didn’t&nbsp;
+add due to price, and if you’re really trying to&nbsp;&nbsp;
+
+00:10:40.040 --> 00:10:44.960
+build a good Temmet deck you should probably go&nbsp;
+find some of those. Varina stands out as a card&nbsp;&nbsp;
+
+00:10:44.960 --> 00:10:50.800
+that is absurdly good in a Temmet deck, performing&nbsp;
+both key tasks I’m looking for at a good rate.
+
+00:10:50.800 --> 00:10:55.880
+For a few final additions, Diregraf Captain is&nbsp;
+just a generically good zombie, and I’m basically&nbsp;&nbsp;
+
+00:10:55.880 --> 00:11:00.640
+having it replace a couple zombie-typal cards&nbsp;
+I’m cutting. Lethal Scheme is a removal spell&nbsp;&nbsp;
+
+00:11:00.640 --> 00:11:04.840
+that also includes a good amount of draw/discard&nbsp;
+filtering, and it’s easily payable with black&nbsp;&nbsp;
+
+00:11:04.840 --> 00:11:10.680
+zombie tokens. Felwar Stone and Ponder are here to&nbsp;
+give some extra ramp and filtering respectively,&nbsp;&nbsp;
+
+00:11:10.680 --> 00:11:16.960
+just smoothing out the overall gameplan. The last&nbsp;
+addition is Cephalid Coliseum, a land that can&nbsp;&nbsp;
+
+00:11:16.960 --> 00:11:21.040
+provide a burst of draw triggers at a great rate&nbsp;
+at a point in the game when the deck is looking&nbsp;&nbsp;
+
+00:11:21.040 --> 00:11:26.560
+to close things out. Through these changes my hope&nbsp;
+is that Temmet will more consistently be useful,&nbsp;&nbsp;
+
+00:11:26.560 --> 00:11:30.920
+sticking around longer and providing larger&nbsp;
+buffs to zombies. The addition of some more&nbsp;&nbsp;
+
+00:11:30.920 --> 00:11:35.120
+zombie tokens and removal will hopefully also&nbsp;
+direct the gameplan of the deck in the right&nbsp;&nbsp;
+
+00:11:35.120 --> 00:11:40.960
+direction. Temmet definitely isn’t my favorite&nbsp;
+commander, like there’s definitely less depth&nbsp;&nbsp;
+
+00:11:40.960 --> 00:11:45.680
+there than with the alternate commander Hashaton,&nbsp;
+but I still can’t help but respect the attempt at&nbsp;&nbsp;
+
+00:11:45.680 --> 00:11:50.480
+making a different sort of zombie deck, one more&nbsp;
+based around drawing and discarding than around&nbsp;&nbsp;
+
+00:11:50.480 --> 00:11:55.600
+death triggers and sacrificing. Hopefully we see&nbsp;
+more exploration in this direction in the future,&nbsp;&nbsp;
+
+00:11:55.600 --> 00:11:59.240
+and hopefully future zombie precons end&nbsp;
+up a bit more coherently constructed.
+
+00:12:00.080 --> 00:12:05.320
+Announcement! I have a PO box now, and the address&nbsp;
+is on screen. Feel free to send me your favorite&nbsp;&nbsp;
+
+00:12:05.320 --> 00:12:10.560
+card or a handwritten poem proclaiming your love&nbsp;
+of Brushwaggs. The PO box isn’t wildly large, so&nbsp;&nbsp;
+
+00:12:10.560 --> 00:12:14.200
+don’t send me anything bulky as there is a solid&nbsp;
+chance it will be thrown away instead of finding&nbsp;&nbsp;
+
+00:12:14.200 --> 00:12:19.200
+its way to me. This should go without saying,&nbsp;
+but please also don’t send me anything dangerous&nbsp;&nbsp;
+
+00:12:19.200 --> 00:12:24.320
+or disgusting. Thanks! If I get enough cards I&nbsp;
+might turn them into a deck or make them into&nbsp;&nbsp;
+
+00:12:24.320 --> 00:12:30.160
+a video of some sort. Delicious future content&nbsp;
+for the gaping, content-hungry maws of the world.
+
+00:12:30.160 --> 00:12:33.960
+With that said, thanks for watching, and thanks&nbsp;
+to Archidekt for supporting the channel. I’m a&nbsp;&nbsp;
+
+00:12:33.960 --> 00:12:38.160
+fan of Archidekt’s UI, a thing which was&nbsp;
+on screen for basically the whole video,&nbsp;&nbsp;
+
+00:12:38.160 --> 00:12:42.600
+and an especially nice feature for tweaking&nbsp;
+decks is the maybeboard categories, which let&nbsp;&nbsp;
+
+00:12:42.600 --> 00:12:47.520
+me keep thoughts and card additions nice and&nbsp;
+organized. A link to my upgraded precon list&nbsp;&nbsp;
+
+00:12:47.520 --> 00:12:51.560
+is in the description. I also want to thank&nbsp;
+my patrons for their support, some of whose&nbsp;&nbsp;
+
+00:12:51.560 --> 00:12:56.880
+names are on screen now. I’ll be doing a Q&amp;A next&nbsp;
+week, so if you want to submit questions for that&nbsp;&nbsp;
+
+00:12:56.880 --> 00:13:01.800
+and/or watch it, you can sign up for $3 a month&nbsp;
+at the link in the description. Alright, bye now.
+

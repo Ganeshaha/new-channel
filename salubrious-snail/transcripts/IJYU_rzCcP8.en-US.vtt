@@ -1,0 +1,976 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.240 --> 00:00:04.880
+In an October 2025 announcement, Wizards of the&nbsp;
+Coast floated the idea of a change to the way&nbsp;&nbsp;
+
+00:00:04.880 --> 00:00:09.600
+hybrid mana is treated in the deckbuilding rules&nbsp;
+of EDH. This caused quite a lot of discourse,&nbsp;&nbsp;
+
+00:00:09.600 --> 00:00:14.000
+which I laid out some thoughts on in a previous&nbsp;
+video that was uncontroversial and universally&nbsp;&nbsp;
+
+00:00:14.000 --> 00:00:19.600
+beloved by the EDH community. However, that&nbsp;
+October 2025 announcement also featured some other&nbsp;&nbsp;
+
+00:00:19.600 --> 00:00:26.080
+things, one of which was proposing the banning&nbsp;
+of Rhystic Study, the powerful blue draw engine.&nbsp;&nbsp;
+
+00:00:26.080 --> 00:00:30.800
+That particular card has been in a perpetual&nbsp;
+state of low-level controversy for some years now,&nbsp;&nbsp;
+
+00:00:30.800 --> 00:00:35.920
+being both the third most widely played blue&nbsp;
+card but also the second most hated blue card&nbsp;&nbsp;
+
+00:00:35.920 --> 00:00:41.600
+according to salt polls conducted by EDHREC. And I&nbsp;
+won’t bury the lead here: I don’t like this card,&nbsp;&nbsp;
+
+00:00:41.600 --> 00:00:46.080
+and I absolutely think it should be banned.&nbsp;
+However, my reasons for thinking that are&nbsp;&nbsp;
+
+00:00:46.080 --> 00:00:50.080
+different from those of a lot of other people, and&nbsp;
+I actually think that this card and the discourse&nbsp;&nbsp;
+
+00:00:50.080 --> 00:00:55.040
+around it is a fascinating window into some of&nbsp;
+the grittier instincts of EDH players, the ones&nbsp;&nbsp;
+
+00:00:55.040 --> 00:00:59.680
+we don’t like to think about or talk about.&nbsp;
+At the end of the day, Rhystic Study’s power&nbsp;&nbsp;
+
+00:00:59.680 --> 00:01:04.880
+level is certainly quite high, but the destructive&nbsp;
+social dynamics it creates are the more pernicious&nbsp;&nbsp;
+
+00:01:04.880 --> 00:01:10.720
+element of the card, and these two factors combine&nbsp;
+to make it a card that absolutely warrants a ban.
+
+00:01:10.720 --> 00:01:15.440
+To start with, though, we need to understand&nbsp;
+what it is we’re talking about: why is it that&nbsp;&nbsp;
+
+00:01:15.440 --> 00:01:20.160
+a card should be banned in EDH? After all,&nbsp;
+it’s a casual format—a lot of the usual rules&nbsp;&nbsp;
+
+00:01:20.160 --> 00:01:25.120
+of tournament frequency and meta dominance don’t&nbsp;
+really apply. We can look at the current banlist,&nbsp;&nbsp;
+
+00:01:25.120 --> 00:01:30.000
+as well as other actions taken against specific&nbsp;
+cards, to start to paint a picture. I choose to&nbsp;&nbsp;
+
+00:01:30.000 --> 00:01:34.960
+begin in a familiar place—Yuriko, the Tiger’s&nbsp;
+Shadow is a card that spent seven months on the&nbsp;&nbsp;
+
+00:01:34.960 --> 00:01:39.920
+gamechangers list last year. It was eventually&nbsp;
+delisted under the reasoning that a rule 0 tool&nbsp;&nbsp;
+
+00:01:39.920 --> 00:01:43.440
+like the changechanger list is far less&nbsp;
+necessary for policing commander cards,&nbsp;&nbsp;
+
+00:01:43.440 --> 00:01:48.240
+which are visible at the outset of a game, but&nbsp;
+Yuriko still works nicely as an example of a&nbsp;&nbsp;
+
+00:01:48.240 --> 00:01:53.840
+card that sometimes feels problematic in EDH. As&nbsp;
+I laid out a couple months ago, Yuriko feeling&nbsp;&nbsp;
+
+00:01:53.840 --> 00:02:00.000
+problematic comes down to two things. For one,&nbsp;
+she is efficient and powerful, being very cheap&nbsp;&nbsp;
+
+00:02:00.000 --> 00:02:05.120
+to play and providing a ton of utility through&nbsp;
+her mixture of damage and card draw. Secondly,&nbsp;&nbsp;
+
+00:02:05.120 --> 00:02:10.080
+her play pattern is frustrating—since her&nbsp;
+commander ninjutsu ability dodges commander tax,&nbsp;&nbsp;
+
+00:02:10.080 --> 00:02:14.400
+it is quite hard to keep her off the board, and&nbsp;
+it often feels like the Yuriko player effectively&nbsp;&nbsp;
+
+00:02:14.400 --> 00:02:19.200
+gets to cheat the normal rules of the format.&nbsp;
+So, these are typically the two things required&nbsp;&nbsp;
+
+00:02:19.200 --> 00:02:24.560
+to make a card truly problematic—a high power&nbsp;
+level, and a play pattern that is frustrating.
+
+00:02:24.560 --> 00:02:29.440
+We can see this echoed in some cards on the&nbsp;
+banlist—Hullbreacher and Leovold are efficiently&nbsp;&nbsp;
+
+00:02:29.440 --> 00:02:34.720
+costed creatures, and they also easily combine&nbsp;
+with wheels to blast away opposing hands. Primeval&nbsp;&nbsp;
+
+00:02:34.720 --> 00:02:39.120
+Titan and 15 mana Emrakul are both high-quality&nbsp;
+bombs that would see wide play if legal,&nbsp;&nbsp;
+
+00:02:39.120 --> 00:02:43.360
+and their abilities also let their controller&nbsp;
+rapidly snowball and end up playing a lot more&nbsp;&nbsp;
+
+00:02:43.360 --> 00:02:49.600
+Magic than opponents. We can even see this in&nbsp;
+the fast mana bans of 2024—Mana Crypt and Jeweled&nbsp;&nbsp;
+
+00:02:49.600 --> 00:02:54.560
+Lotus are obviously very powerful, and the fact&nbsp;
+that they allow such explosive turn 1 plays can&nbsp;&nbsp;
+
+00:02:54.560 --> 00:02:59.840
+be frustrating and disempowering for opponents in&nbsp;
+a way that some other powerful cards might not be.&nbsp;&nbsp;
+
+00:02:59.840 --> 00:03:04.480
+Not everything currently on the ban list or the&nbsp;
+gamechanger list perfectly fits this framework,&nbsp;&nbsp;
+
+00:03:04.480 --> 00:03:09.760
+but this power level + play pattern pairing&nbsp;
+is still a decently reliable template. For&nbsp;&nbsp;
+
+00:03:09.760 --> 00:03:14.800
+something to be worth banning in EDH in the year&nbsp;
+of our lord 2026, it needs to be frustrating in a&nbsp;&nbsp;
+
+00:03:14.800 --> 00:03:19.680
+way that creates bad experiences for people, and&nbsp;
+it also needs to be powerful enough to see wide&nbsp;&nbsp;
+
+00:03:19.680 --> 00:03:24.720
+play and make that bad experience commonplace,&nbsp;
+so as to actually warrant a ban rather than&nbsp;&nbsp;
+
+00:03:24.720 --> 00:03:30.880
+just being an occasional annoyance. As we will see&nbsp;
+shortly, Rhystic Study checks both of these boxes.
+
+00:03:30.880 --> 00:03:35.600
+To start with, let’s talk power level. On an&nbsp;
+objective level, Rhystic Study’s power level&nbsp;&nbsp;
+
+00:03:35.600 --> 00:03:41.360
+is very high, and this is evident in the fact&nbsp;
+that it’s one of the best cards in cEDH. Surely&nbsp;&nbsp;
+
+00:03:41.360 --> 00:03:46.800
+these expert gamers know how to play around this&nbsp;
+bad boy, right? But no, Rhystic Study is quite&nbsp;&nbsp;
+
+00:03:46.800 --> 00:03:52.080
+powerful even if all of your opponents are being&nbsp;
+tactical about paying the 1. If somebody wants to&nbsp;&nbsp;
+
+00:03:52.080 --> 00:03:56.560
+cast a piece of interaction that spends all their&nbsp;
+mana, they’re not going to be paying the 1. If&nbsp;&nbsp;
+
+00:03:56.560 --> 00:04:01.520
+somebody has a pivotal play on their turn and no&nbsp;
+extra mana to pay, the correct choice is to play&nbsp;&nbsp;
+
+00:04:01.520 --> 00:04:06.480
+the card and let the Rhystic Study player draw,&nbsp;
+not to skip your own turn. There are all sorts of&nbsp;&nbsp;
+
+00:04:06.480 --> 00:04:11.360
+cases in which it is absolutely the correct choice&nbsp;
+not to pay the 1, and that makes Rhystic Study&nbsp;&nbsp;
+
+00:04:11.360 --> 00:04:17.120
+a pretty great card draw engine on base. Now, as&nbsp;
+you move down in power level, decks will get a bit&nbsp;&nbsp;
+
+00:04:17.120 --> 00:04:23.680
+less lean, have spare mana a bit more often, and&nbsp;
+cast fewer overall spells each turn. If I’m being&nbsp;&nbsp;
+
+00:04:23.680 --> 00:04:27.600
+generous, I think this is where a lot of people&nbsp;
+get the idea that Rhystic Study isn’t really&nbsp;&nbsp;
+
+00:04:27.600 --> 00:04:33.040
+problematic after all. It does scale with power&nbsp;
+level to some extent, especially when we consider&nbsp;&nbsp;
+
+00:04:33.040 --> 00:04:38.080
+that the maximum card draw in a game with 3 spells&nbsp;
+per player per turn cycle is significantly more&nbsp;&nbsp;
+
+00:04:38.080 --> 00:04:44.160
+than in a game with 1-2 spells per player per turn&nbsp;
+cycle. However, this still misses some things.
+
+00:04:44.160 --> 00:04:49.760
+For one, at bracket 3, cards are going to cost&nbsp;
+more mana typically. Whereas an engine in cEDH&nbsp;&nbsp;
+
+00:04:49.760 --> 00:04:54.800
+might be 2 or 3 mana, it’s pretty common to see&nbsp;
+engines in bracket three that cost 4 or 5 mana,&nbsp;&nbsp;
+
+00:04:54.800 --> 00:04:59.040
+and if you only have 4 or 5 mana to work with, one&nbsp;
+of these cards is going to be much more possible&nbsp;&nbsp;
+
+00:04:59.040 --> 00:05:05.040
+to pay the tax on than the other. This is true for&nbsp;
+engines, and it also certainly applies to removal.&nbsp;&nbsp;
+
+00:05:05.040 --> 00:05:08.560
+A lot of people will make the argument that&nbsp;
+Rhystic Study can be answered by simply&nbsp;&nbsp;
+
+00:05:08.560 --> 00:05:13.840
+removing it, but this misses two key things.&nbsp;
+For one, you can say this about basically any&nbsp;&nbsp;
+
+00:05:13.840 --> 00:05:18.480
+problematic permanent, but there are still&nbsp;
+very good reasons to ban permanents. Prophet&nbsp;&nbsp;
+
+00:05:18.480 --> 00:05:22.800
+of Kruphix is a piddly little creature that can&nbsp;
+be removed far more easily than Rhystic Study,&nbsp;&nbsp;
+
+00:05:22.800 --> 00:05:27.680
+but there are still very good reasons for it to&nbsp;
+stay banned. “Just remove it” is a strategy you&nbsp;&nbsp;
+
+00:05:27.680 --> 00:05:32.560
+can employ, just as making somebody the archenemy&nbsp;
+is a strategy you can employ, but neither of these&nbsp;&nbsp;
+
+00:05:32.560 --> 00:05:37.520
+things are arguments to keep a card legal on&nbsp;
+the scale of a format-wide banlist. Secondly,&nbsp;&nbsp;
+
+00:05:37.520 --> 00:05:42.880
+any removal spells cast on Rhystic Study are&nbsp;
+themselves Rhystic-taxed. Best case scenario&nbsp;&nbsp;
+
+00:05:42.880 --> 00:05:47.440
+it costs an opponent a mana, but if the removal&nbsp;
+isn’t super mana-cheap there’s a good chance the&nbsp;&nbsp;
+
+00:05:47.440 --> 00:05:52.160
+Rhystic Studying player will get a card as well,&nbsp;
+and that’s all assuming that the blue player isn’t&nbsp;&nbsp;
+
+00:05:52.160 --> 00:05:56.240
+prepared to play counterspells in defense of&nbsp;
+their copy of the most powerful draw engine in&nbsp;&nbsp;
+
+00:05:56.240 --> 00:06:01.680
+the format. In the land of reality, counterspells&nbsp;
+frequently are present, and any multi-spell fight&nbsp;&nbsp;
+
+00:06:01.680 --> 00:06:06.560
+over whether a Rhystic Study stays on board will&nbsp;
+often itself draw the Studying player a lot of&nbsp;&nbsp;
+
+00:06:06.560 --> 00:06:11.600
+cards. There are also people who downplay the&nbsp;
+severity of a Rhystic Study sticking around on&nbsp;&nbsp;
+
+00:06:11.600 --> 00:06:16.640
+board. A lot of pro-Rhystic folks will casually&nbsp;
+present Rhystic Study as a one-sided Sphere of&nbsp;&nbsp;
+
+00:06:16.640 --> 00:06:21.440
+Resistance. “Like c’mon bro, if you just pay the 1&nbsp;
+it’s only 3 mana to make all opposing spells cost&nbsp;&nbsp;
+
+00:06:21.440 --> 00:06:27.120
+one more, a tax tool more powerful than any other&nbsp;
+that has ever existed. It’s not that bad.” This is&nbsp;&nbsp;
+
+00:06:27.120 --> 00:06:32.000
+just patently absurd. A three mana one-sided&nbsp;
+Sphere of Resistance is obviously good, and&nbsp;&nbsp;
+
+00:06:32.000 --> 00:06:38.080
+there’s a reason Grand Arbiter Augustin IV is such&nbsp;
+a salty card even as a 4 mana multicolor card.
+
+00:06:38.080 --> 00:06:42.400
+I think all of what I just said is pretty&nbsp;
+reasonable, but also I worry that my engaging&nbsp;&nbsp;
+
+00:06:42.400 --> 00:06:46.960
+with the one-sided Sphere of Resistance talk&nbsp;
+legitimizes it in a way that it absolutely does&nbsp;&nbsp;
+
+00:06:46.960 --> 00:06:52.000
+not deserve. Rhystic Study would be an extremely&nbsp;
+powerful Magic card if it was a one-sided Sphere&nbsp;&nbsp;
+
+00:06:52.000 --> 00:06:56.480
+of Resistance, but it is not that, and this&nbsp;
+is where this video is going to really start&nbsp;&nbsp;
+
+00:06:56.480 --> 00:07:01.600
+to diverge from most critiques of the card I’ve&nbsp;
+seen. To start with, let’s just establish that&nbsp;&nbsp;
+
+00:07:01.600 --> 00:07:06.960
+people will inevitably end up giving the studying&nbsp;
+player cards for any number of reasons. I laid&nbsp;&nbsp;
+
+00:07:06.960 --> 00:07:12.400
+out a couple reasons earlier that frequently apply&nbsp;
+to cEDH, and these reasons arguably strengthen at&nbsp;&nbsp;
+
+00:07:12.400 --> 00:07:17.040
+lower levels. “Just pay the one” can be a sensible&nbsp;
+strategy when a deck features high quality plays&nbsp;&nbsp;
+
+00:07:17.040 --> 00:07:21.360
+at multiple different mana values, like if you’re&nbsp;
+forced to play a three mana ramp spell instead of&nbsp;&nbsp;
+
+00:07:21.360 --> 00:07:26.800
+a 4 mana amplifier, that really might not be a&nbsp;
+huge hit to your gameplan. On the other hand,&nbsp;&nbsp;
+
+00:07:26.800 --> 00:07:31.520
+if your deck has a wider spread of mana values and&nbsp;
+card effects, paying the one could keep you away&nbsp;&nbsp;
+
+00:07:31.520 --> 00:07:36.400
+from a critical play that you really need on a&nbsp;
+particular turn. This effect is further amplified&nbsp;&nbsp;
+
+00:07:36.400 --> 00:07:40.960
+when there are power level differences present.&nbsp;
+If one player has a deck that is less tuned,&nbsp;&nbsp;
+
+00:07:40.960 --> 00:07:45.840
+whose ramp isn’t as well calibrated, and whose&nbsp;
+plays are less mana efficient, that player is&nbsp;&nbsp;
+
+00:07:45.840 --> 00:07:50.320
+going to get hit harder by the Rhystic Study&nbsp;
+tax. Ditto for somebody who gets unlucky or&nbsp;&nbsp;
+
+00:07:50.320 --> 00:07:55.040
+keeps a subpar hand—anyone who misses land drops&nbsp;
+or fumbles their setup turns a bit is going to be&nbsp;&nbsp;
+
+00:07:55.040 --> 00:08:00.400
+much less able to spare mana for Rhystic Study,&nbsp;
+and being pressured to do so on a critical turn&nbsp;&nbsp;
+
+00:08:00.400 --> 00:08:06.320
+might, in one fell swoop, destroy any chance they&nbsp;
+had of catching back up. I say pressure because&nbsp;&nbsp;
+
+00:08:06.320 --> 00:08:11.280
+Rhystic-Study-esque effects frequently come with&nbsp;
+a dose of social pressure not to feed the studying&nbsp;&nbsp;
+
+00:08:11.280 --> 00:08:16.880
+player too many resources, and this fact can feel&nbsp;
+reasonable on the surface, but this pressure to&nbsp;&nbsp;
+
+00:08:16.880 --> 00:08:21.920
+pay will be experienced very differently by&nbsp;
+different players. The players most harmed by&nbsp;&nbsp;
+
+00:08:21.920 --> 00:08:26.720
+needing to pay an extra 1 for their spells will&nbsp;
+be, on average, the less experienced players&nbsp;&nbsp;
+
+00:08:26.720 --> 00:08:31.520
+piloting the less powerful decks and getting less&nbsp;
+lucky, and whether or not these players are pushed&nbsp;&nbsp;
+
+00:08:31.520 --> 00:08:36.560
+into ruining their own gameplan may come down&nbsp;
+to how they react to the social forces at play.&nbsp;&nbsp;
+
+00:08:36.560 --> 00:08:42.800
+With this in mind, the “just pay the 1 lol” crowd&nbsp;
+starts to appear in a somewhat different light.
+
+00:08:42.800 --> 00:08:47.680
+In a weird way, arguments in defense of Rhystic&nbsp;
+Study often end up very similar to conservative&nbsp;&nbsp;
+
+00:08:47.680 --> 00:08:52.880
+economic arguments in favor of the status quo.&nbsp;
+Hear me out on this one. Let’s imagine somebody&nbsp;&nbsp;
+
+00:08:52.880 --> 00:08:58.960
+trying to introduce a policy in a society with a&nbsp;
+lot of economic inequality. John Allocation says&nbsp;&nbsp;
+
+00:08:58.960 --> 00:09:02.720
+“We should implement my tax credit plan, as it&nbsp;
+will give all the people of this great nation more&nbsp;&nbsp;
+
+00:09:02.720 --> 00:09:07.520
+of a fighting chance at succeeding in this economy&nbsp;
+and joining the middle class.” This is an economic&nbsp;&nbsp;
+
+00:09:07.520 --> 00:09:12.000
+argument, and whether it’s likely to do what John&nbsp;
+says it will do can be determined by digging into&nbsp;&nbsp;
+
+00:09:12.000 --> 00:09:17.440
+the details, running some models, and whatever&nbsp;
+else economists do. Now, let’s imagine John’s&nbsp;&nbsp;
+
+00:09:17.440 --> 00:09:22.480
+political rival has something to say about that.&nbsp;
+Jeff Business says “This economy already gives&nbsp;&nbsp;
+
+00:09:22.480 --> 00:09:26.240
+citizens a fighting chance at joining the middle&nbsp;
+class, just look at all the hardworking people who&nbsp;&nbsp;
+
+00:09:26.240 --> 00:09:32.720
+have already succeeded.” In a society with a lot&nbsp;
+of inequality, this is not an economic argument.&nbsp;&nbsp;
+
+00:09:32.720 --> 00:09:37.600
+This is a moral argument. The people currently&nbsp;
+below the middle class indisputably exist,&nbsp;&nbsp;
+
+00:09:37.600 --> 00:09:42.560
+and rather than asking why that is or what can&nbsp;
+be done to help them, Jeff Business is instead&nbsp;&nbsp;
+
+00:09:42.560 --> 00:09:47.280
+choosing to turn them into an out-group to be&nbsp;
+ignored. His implied message is that there is&nbsp;&nbsp;
+
+00:09:47.280 --> 00:09:51.280
+something wrong with the people who are currently&nbsp;
+poor, that they are less deserving, that they have&nbsp;&nbsp;
+
+00:09:51.280 --> 00:09:55.280
+been given opportunities and squandered them,&nbsp;
+and that they have earned their shake in life.&nbsp;&nbsp;
+
+00:09:55.280 --> 00:09:59.280
+It wouldn’t matter if John Allocation’s tax&nbsp;
+credit had been highly successful at helping&nbsp;&nbsp;
+
+00:09:59.280 --> 00:10:04.000
+people elsewhere in the world, here it would&nbsp;
+be disrupting a divine order that has put this&nbsp;&nbsp;
+
+00:10:04.000 --> 00:10:09.680
+pathetic outgroup in their correct place. It is an&nbsp;
+argument in favor of human suffering based on the&nbsp;&nbsp;
+
+00:10:09.680 --> 00:10:14.960
+idea that those people have earned that suffering,&nbsp;
+and no longer deserve our consideration.
+
+00:10:14.960 --> 00:10:19.360
+When somebody says “Rhystic Study isn’t that good,&nbsp;
+people just need to pay the 1,” they are making&nbsp;&nbsp;
+
+00:10:19.360 --> 00:10:24.480
+a very similar argument, if a less consequential&nbsp;
+one. Not saying they’re identical, nor that these&nbsp;&nbsp;
+
+00:10:24.480 --> 00:10:28.400
+are patterns of thought held by all Rhystic Study&nbsp;
+defenders or all conservatives for that matter,&nbsp;&nbsp;
+
+00:10:28.400 --> 00:10:33.680
+but there’s a strong resemblance. What I mean by&nbsp;
+that is this: if telling everybody to just pay the&nbsp;&nbsp;
+
+00:10:33.680 --> 00:10:38.560
+1 was actually a successful strategy for making&nbsp;
+Rhystic Study a fair and enjoyable Magic card,&nbsp;&nbsp;
+
+00:10:38.560 --> 00:10:43.680
+we wouldn’t be having this conversation. The fact&nbsp;
+that it’s not a solution, that it’s an unhelpful&nbsp;&nbsp;
+
+00:10:43.680 --> 00:10:48.880
+thing to say, is already proven by the observable&nbsp;
+facts that surround us, namely that Rhystic Study&nbsp;&nbsp;
+
+00:10:48.880 --> 00:10:54.000
+is a very powerful card at all levels of EDH.&nbsp;
+Every day, thousands of Magic players don’t&nbsp;&nbsp;
+
+00:10:54.000 --> 00:10:58.560
+pay the 1, and there are a variety of different&nbsp;
+reasons for that. As I suggested earlier, some&nbsp;&nbsp;
+
+00:10:58.560 --> 00:11:02.960
+of them are playing a weak deck, or having a weak&nbsp;
+game with their deck, and playing a couple cards&nbsp;&nbsp;
+
+00:11:02.960 --> 00:11:07.280
+into the Rhystic Study is the only way to keep&nbsp;
+up. Or maybe they’re newer to the game and don’t&nbsp;&nbsp;
+
+00:11:07.280 --> 00:11:11.360
+have a firm grasp on the power level of an engine&nbsp;
+like Rhystic Study, as suggested by the Trinket&nbsp;&nbsp;
+
+00:11:11.360 --> 00:11:15.600
+Mage in his video on this subject. Maybe they’re&nbsp;
+overwhelmed by the current state of a game, and&nbsp;&nbsp;
+
+00:11:15.600 --> 00:11:20.000
+choose to go about their turns ignoring Rhystic&nbsp;
+Study for that reason, only paying when doing&nbsp;&nbsp;
+
+00:11:20.000 --> 00:11:24.720
+so is a convenient afterthought. Maybe somebody&nbsp;
+sees other players not paying the 1 for any of the&nbsp;&nbsp;
+
+00:11:24.720 --> 00:11:29.440
+previous reasons, and decides that it’s time for&nbsp;
+them to stop paying as well. This is the reality&nbsp;&nbsp;
+
+00:11:29.440 --> 00:11:34.640
+of Rhystic Study, not the quippy hypothetical&nbsp;
+of a smug power-gamer. You can make some sort&nbsp;&nbsp;
+
+00:11:34.640 --> 00:11:39.520
+of argument toward educating people about playing&nbsp;
+against the card, just as an economic conservative&nbsp;&nbsp;
+
+00:11:39.520 --> 00:11:44.160
+might meekly gesture toward the importance of&nbsp;
+teaching people to budget, but all of the four&nbsp;&nbsp;
+
+00:11:44.160 --> 00:11:49.120
+situations I described earlier will continue&nbsp;
+to exist no matter how high a rooftop you yell&nbsp;&nbsp;
+
+00:11:49.120 --> 00:11:55.440
+“just pay the 1” from. “Rhystic Study is fine,&nbsp;
+people just need to pay the 1” is not an argument&nbsp;&nbsp;
+
+00:11:55.440 --> 00:12:01.120
+about game balance, it is a moral argument&nbsp;
+about the people currently not paying the 1.
+
+00:12:01.120 --> 00:12:06.080
+So, if saying “just pay the 1” isn’t a helpful&nbsp;
+solution to the problem of Rhystic Study,&nbsp;&nbsp;
+
+00:12:06.080 --> 00:12:11.360
+why do people say it? Well, one answer to this&nbsp;
+is pretty simple—taking this stance solidifies&nbsp;&nbsp;
+
+00:12:11.360 --> 00:12:16.080
+hierarchies in the EDH community in a way that&nbsp;
+some people find emotionally satisfying. It&nbsp;&nbsp;
+
+00:12:16.080 --> 00:12:21.040
+forges an in-group to be a part of—genius gamers&nbsp;
+who understand Rhystic Study—and an out-group to&nbsp;&nbsp;
+
+00:12:21.040 --> 00:12:27.280
+be scorned—everybody else. On a basic level,&nbsp;
+this is kinda inevitable—tribalism is a folly&nbsp;&nbsp;
+
+00:12:27.280 --> 00:12:31.440
+pretty inherent to being human, and the fact&nbsp;
+that it shows up in a card game whose formats&nbsp;&nbsp;
+
+00:12:31.440 --> 00:12:35.680
+are traditionally competitive isn’t much of&nbsp;
+a surprise. Where things start to get hairy&nbsp;&nbsp;
+
+00:12:35.680 --> 00:12:40.480
+is when these sorts of social forces worm their&nbsp;
+way into the basic operation of a Commander game,&nbsp;&nbsp;
+
+00:12:40.480 --> 00:12:46.000
+and this is precisely what Rhystic Study&nbsp;
+encourages. Players not paying, a thing that&nbsp;&nbsp;
+
+00:12:46.000 --> 00:12:51.120
+happens frequently for a wide variety of reasons,&nbsp;
+can become treated as a crime punishable in-game&nbsp;&nbsp;
+
+00:12:51.120 --> 00:12:56.320
+and out-of-game. Frustrations grow, resentments&nbsp;
+smolder, a game ends up feeling unsatisfying&nbsp;&nbsp;
+
+00:12:56.320 --> 00:13:00.560
+for one reason or another. One player’s attempt&nbsp;
+to have any shot at their own gameplan working&nbsp;&nbsp;
+
+00:13:00.560 --> 00:13:04.240
+suddenly gets seen as them handing the game to&nbsp;
+another player out of their own foolishness,&nbsp;&nbsp;
+
+00:13:04.240 --> 00:13:08.640
+and they are often derided as such. And&nbsp;
+you know what? Sometimes those deriders&nbsp;&nbsp;
+
+00:13:08.640 --> 00:13:13.040
+are right. Many a Rhystic-Studying player has&nbsp;
+been brought to a victory through the power of&nbsp;&nbsp;
+
+00:13:13.040 --> 00:13:18.720
+opponents feeding them too many cards. But the&nbsp;
+line here is blurry. The difference between a&nbsp;&nbsp;
+
+00:13:18.720 --> 00:13:23.040
+player handing another the win and a player just&nbsp;
+trying to play the game they showed up to play,&nbsp;&nbsp;
+
+00:13:23.040 --> 00:13:29.120
+just trying not to fall too far behind in tempo to&nbsp;
+have any shot—it can be pretty ambiguous. However,&nbsp;&nbsp;
+
+00:13:29.120 --> 00:13:33.440
+acknowledging that ambiguity, acknowledging&nbsp;
+that Rhystic Study frequently puts opponents&nbsp;&nbsp;
+
+00:13:33.440 --> 00:13:39.040
+in a lose-lose scenario where even the&nbsp;
+“correct” choice isn’t all that correct… well,&nbsp;&nbsp;
+
+00:13:39.040 --> 00:13:43.680
+it makes it too obvious just how powerful&nbsp;
+the card is. This is precisely why a lot&nbsp;&nbsp;
+
+00:13:43.680 --> 00:13:48.080
+of Rhystic Study defenders frame the issue&nbsp;
+in such black and white terms—if they spoke&nbsp;&nbsp;
+
+00:13:48.080 --> 00:13:52.640
+to the reality of the card, it’d be clear&nbsp;
+why it’s such an outlier in the EDH format.
+
+00:13:52.640 --> 00:13:57.680
+So, this is my ultimate issue with the card. It&nbsp;
+applies to the most basic of game actions—casting&nbsp;&nbsp;
+
+00:13:57.680 --> 00:14:02.400
+a spell—and turns the game into a maze of social&nbsp;
+pressure. From the perspective of somebody playing&nbsp;&nbsp;
+
+00:14:02.400 --> 00:14:07.040
+against it in a decent position, you can watch as&nbsp;
+your opponents all but hand the Rhystic Studying&nbsp;&nbsp;
+
+00:14:07.040 --> 00:14:11.520
+player a win, and from the perspective of somebody&nbsp;
+struggling in that game, you might be presented&nbsp;&nbsp;
+
+00:14:11.520 --> 00:14:16.160
+with a choice between attracting the ire of your&nbsp;
+non-studying opponents and not really getting to&nbsp;&nbsp;
+
+00:14:16.160 --> 00:14:21.440
+meaningfully play the game. I’ve heard some people&nbsp;
+describe it as a political tool, but really it’s&nbsp;&nbsp;
+
+00:14:21.440 --> 00:14:26.560
+the opposite of most political tools—instead of&nbsp;
+encouraging players to collaborate and make deals,&nbsp;&nbsp;
+
+00:14:26.560 --> 00:14:31.040
+it divides opponents and gets them to foster&nbsp;
+resentments amongst each other. A natural&nbsp;&nbsp;
+
+00:14:31.040 --> 00:14:35.520
+counterargument that you might be getting ready to&nbsp;
+type right now is that this can be a fun dynamic&nbsp;&nbsp;
+
+00:14:35.520 --> 00:14:40.400
+for a card to create, and I’d get where you’re&nbsp;
+coming from. Prisoner’s Dilemma is a decently&nbsp;&nbsp;
+
+00:14:40.400 --> 00:14:45.280
+popular damage spell for a reason—sowing discord&nbsp;
+amongst your opponents can be a pretty good time,&nbsp;&nbsp;
+
+00:14:45.280 --> 00:14:48.800
+and I can’t say there isn’t something a little&nbsp;
+delightful about a blood feud being declared&nbsp;&nbsp;
+
+00:14:48.800 --> 00:14:54.320
+by a player who just took 12. However, you might&nbsp;
+remember that Rhystic Study’s social dynamics are&nbsp;&nbsp;
+
+00:14:54.320 --> 00:14:59.280
+only part of my case for why it should be banned,&nbsp;
+with that other part being its power level.
+
+00:14:59.280 --> 00:15:03.120
+A disorder-creating card at a very high&nbsp;
+power level is quite a different story&nbsp;&nbsp;
+
+00:15:03.120 --> 00:15:07.280
+from one at a lower power. The stakes are&nbsp;
+quite high due to the card’s extremely high&nbsp;&nbsp;
+
+00:15:07.280 --> 00:15:12.000
+power level, and as a result this card sows&nbsp;
+resentments, forges in-groups and out-groups,&nbsp;&nbsp;
+
+00:15:12.000 --> 00:15:17.520
+and intensifies the information density of the&nbsp;
+EDH format at a rate of no other card. It also&nbsp;&nbsp;
+
+00:15:17.520 --> 00:15:22.000
+shouldn’t go unmentioned that the power level&nbsp;
+of Rhystic Study leads to it being played quite&nbsp;&nbsp;
+
+00:15:22.000 --> 00:15:26.320
+frequently even with its gamechanger status,&nbsp;
+in addition to having massive implications for&nbsp;&nbsp;
+
+00:15:26.320 --> 00:15:31.840
+any game it exists in. This power level plus&nbsp;
+disorder interaction also manifests especially&nbsp;&nbsp;
+
+00:15:31.840 --> 00:15:37.360
+brutally for Rhystic Study because it lacks&nbsp;
+the intentionality of an actual political card.&nbsp;&nbsp;
+
+00:15:37.360 --> 00:15:41.760
+The playerbase at large isn’t running this card&nbsp;
+because they have a blast with its play patterns,&nbsp;&nbsp;
+
+00:15:41.760 --> 00:15:46.000
+they play it because it draws them a metric&nbsp;
+shitload of cards, and the negative play&nbsp;&nbsp;
+
+00:15:46.000 --> 00:15:51.040
+experiences sowed by the card are an incidental&nbsp;
+side effect. If you remember my Malfegor video,&nbsp;&nbsp;
+
+00:15:51.040 --> 00:15:55.200
+this is very similar to the reason I dislike&nbsp;
+the play pattern of Tergrid decks—the&nbsp;&nbsp;
+
+00:15:55.200 --> 00:16:00.240
+oppressive tools Tergrid encourages end up&nbsp;
+being impassive engine-fodder rather than&nbsp;&nbsp;
+
+00:16:00.240 --> 00:16:05.040
+tactically deployed instruments meant to handle&nbsp;
+the actual situations a player finds themself in,&nbsp;&nbsp;
+
+00:16:05.040 --> 00:16:09.760
+and this ends up turning the destruction of&nbsp;
+opposing gameplans into a frivolous side effect.&nbsp;&nbsp;
+
+00:16:09.760 --> 00:16:14.400
+Play patterns like this alienate players from the&nbsp;
+effects of what they’re playing, replacing the&nbsp;&nbsp;
+
+00:16:14.400 --> 00:16:21.440
+tangibility of process and intent with something&nbsp;
+simpler and bleaker: the means to a powerful end.&nbsp;&nbsp;
+
+00:16:21.440 --> 00:16:26.320
+As with “just pay the 1 lol”, appealing to the&nbsp;
+supposed fascinating political implications of&nbsp;&nbsp;
+
+00:16:26.320 --> 00:16:32.640
+Rhystic Study is usually just a smokescreen to&nbsp;
+conceal the true, more basic, motivations at play.
+
+00:16:32.640 --> 00:16:37.680
+So, in conclusion, yes, Rhystic Study should be&nbsp;
+banned. There’s a solid argument that Smothering&nbsp;&nbsp;
+
+00:16:37.680 --> 00:16:41.520
+Tithe should join it, as another card that&nbsp;
+rapidly generates resources off of opponents&nbsp;&nbsp;
+
+00:16:41.520 --> 00:16:47.120
+taking basic game actions, but I won’t delve more&nbsp;
+into that here. What I do want to discuss is the&nbsp;&nbsp;
+
+00:16:47.120 --> 00:16:51.920
+other camp of Rhystic Study defenders, basically&nbsp;
+just the people saying “This card shouldn’t be&nbsp;&nbsp;
+
+00:16:51.920 --> 00:16:56.400
+banned because it’s a popular and iconic part&nbsp;
+of the format.” I unfortunately can’t really&nbsp;&nbsp;
+
+00:16:56.400 --> 00:17:00.800
+attack the topmost level of this argument.&nbsp;
+If within your prefrontal cortex lives the&nbsp;&nbsp;
+
+00:17:00.800 --> 00:17:05.120
+unshakeable axiom that popular cards should&nbsp;
+stay unbanned, there’s not a whole lot I can&nbsp;&nbsp;
+
+00:17:05.120 --> 00:17:10.240
+say to change your mind on Rhystic Study. What&nbsp;
+I can say is I find the underlying assumption,&nbsp;&nbsp;
+
+00:17:10.240 --> 00:17:16.000
+that popularity and iconic-ness should&nbsp;
+influence bannability, to be a little strange.
+
+00:17:16.000 --> 00:17:22.080
+Firstly, Rhystic Study is iconic in large part&nbsp;
+due to how unpleasant many people find it. “Do&nbsp;&nbsp;
+
+00:17:22.080 --> 00:17:27.920
+you pay the 1” is an annoying thing to hear dozens&nbsp;
+of times, obviously. Regarding its popularity,&nbsp;&nbsp;
+
+00:17:27.920 --> 00:17:32.000
+I find this a bit odd as well, since a&nbsp;
+card needs to be some level of popular,&nbsp;&nbsp;
+
+00:17:32.000 --> 00:17:36.240
+to actually affect a lot of EDH games,&nbsp;
+to be worth banning in the first place.&nbsp;&nbsp;
+
+00:17:36.240 --> 00:17:41.280
+You could make a card called Smoogle’s Snotgun&nbsp;
+that’s the most annoying thing to ever exist,&nbsp;&nbsp;
+
+00:17:41.280 --> 00:17:46.480
+but it wouldn’t be worth banning if only 12 people&nbsp;
+end up playing it. Things get even weirder when&nbsp;&nbsp;
+
+00:17:46.480 --> 00:17:51.520
+we dig into the implications of the popularity&nbsp;
+argument—one explanation for why Rhystic Study&nbsp;&nbsp;
+
+00:17:51.520 --> 00:17:56.080
+is so popular is that it’s a very powerful card&nbsp;
+that wasn’t banned by the RC at any point in&nbsp;&nbsp;
+
+00:17:56.080 --> 00:18:00.880
+the first couple decades of the format. This is&nbsp;
+interesting when we consider that another card,&nbsp;&nbsp;
+
+00:18:00.880 --> 00:18:05.760
+Primeval Titan, was banned 15 months after&nbsp;
+it was printed, and if it hadn’t been banned&nbsp;&nbsp;
+
+00:18:05.760 --> 00:18:12.080
+it would likely be an even more popular and even&nbsp;
+more iconic card than Rhystic Study. So, what do&nbsp;&nbsp;
+
+00:18:12.080 --> 00:18:17.680
+we make of that? In that alternate reality would&nbsp;
+it be wrong to ban prime time now? Are all ban&nbsp;&nbsp;
+
+00:18:17.680 --> 00:18:22.160
+decisions effectively being left up to whatever&nbsp;
+the RC wanted to do a decade or two ago, back when&nbsp;&nbsp;
+
+00:18:22.160 --> 00:18:26.720
+the format was largely a charming and slow-paced&nbsp;
+sideshow to other Magic events? It’s just a&nbsp;&nbsp;
+
+00:18:26.720 --> 00:18:32.160
+very strange way to justify the decisions we’re&nbsp;
+making in 2026. All this to say, the popularity&nbsp;&nbsp;
+
+00:18:32.160 --> 00:18:37.760
+or iconicness of a card should not be our primary&nbsp;
+concerns when it comes to the EDH banlist. These&nbsp;&nbsp;
+
+00:18:37.760 --> 00:18:41.840
+are understandable motives for somebody&nbsp;
+who produces Magic: the Gathering content,&nbsp;&nbsp;
+
+00:18:41.840 --> 00:18:46.560
+who is intimately tied in with the tropes and the&nbsp;
+mythos and the paratext that surrounds the game,&nbsp;&nbsp;
+
+00:18:46.560 --> 00:18:52.640
+but those things are not the EDH format. EDH games&nbsp;
+are the EDH format, and we should be concerned&nbsp;&nbsp;
+
+00:18:52.640 --> 00:18:58.080
+with how a card impacts real EDH games that&nbsp;
+millions of people play. Does it have a positive&nbsp;&nbsp;
+
+00:18:58.080 --> 00:19:02.560
+impact, to improve the experience of people&nbsp;
+playing this game, or does it do the opposite?&nbsp;&nbsp;
+
+00:19:02.560 --> 00:19:08.240
+What is the extent of that impact, how widespread?&nbsp;
+These are the actual questions worth asking about&nbsp;&nbsp;
+
+00:19:08.240 --> 00:19:13.760
+Rhystic Study, and I hope I’ve done an adequate&nbsp;
+job giving my answer to them in this video.
+
+00:19:13.760 --> 00:19:17.200
+Thanks for watching, and thanks to&nbsp;
+Archidekt for supporting the channel.&nbsp;&nbsp;
+
+00:19:17.200 --> 00:19:21.440
+Archidekt is my deckbuilding website of choice,&nbsp;
+and one thing I like about it is how smoothly it&nbsp;&nbsp;
+
+00:19:21.440 --> 00:19:26.720
+integrates EDHREC’s Salt Scores into its design,&nbsp;
+letting you easily see both individual card salt&nbsp;&nbsp;
+
+00:19:26.720 --> 00:19:30.880
+scores and the aggregate salt score of&nbsp;
+a deck. A link to my decks is down in&nbsp;&nbsp;
+
+00:19:30.880 --> 00:19:35.520
+the description. Also supporting the channel&nbsp;
+is Dragonshield—you can get yourself durable&nbsp;&nbsp;
+
+00:19:35.520 --> 00:19:39.520
+sleeves in a fabulously wide range of colors&nbsp;
+at my affiliate link down in the description,&nbsp;&nbsp;
+
+00:19:39.520 --> 00:19:43.440
+and you’ll be helping out the channel in&nbsp;
+the process. Finally, a big shout out to&nbsp;&nbsp;
+
+00:19:43.440 --> 00:19:46.880
+my supporters on Patreon and YouTube, who&nbsp;
+give me the freedom to make 20 minute video&nbsp;&nbsp;
+
+00:19:46.880 --> 00:19:50.800
+essays about why I hate a specific card with&nbsp;
+my whole being. If you join you’ll get to vote&nbsp;&nbsp;
+
+00:19:50.800 --> 00:19:55.520
+on what card I say should be banned in my&nbsp;
+next video! Okay, that was a joke. Unless?
+

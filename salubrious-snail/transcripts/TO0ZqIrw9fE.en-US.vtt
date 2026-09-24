@@ -1,0 +1,795 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.400 --> 00:00:06.240
+Hello there, and welcome to cowboy hour with&nbsp;
+Alex. Yeehaw. I asked my patrons which precon&nbsp;&nbsp;
+
+00:00:06.240 --> 00:00:09.960
+they wanted me to look at from Outlaws at&nbsp;
+Thunder Junction, and a plurality wanted to&nbsp;&nbsp;
+
+00:00:09.960 --> 00:00:14.640
+see Grand Larceny. So in this video, I’m going&nbsp;
+to look at that precon, and I’m going to ask&nbsp;&nbsp;
+
+00:00:14.640 --> 00:00:19.160
+three questions—what is the deck trying to do,&nbsp;
+how well is it doing that, and how could it be&nbsp;&nbsp;
+
+00:00:19.160 --> 00:00:24.640
+improved to better accomplish that task? With that&nbsp;
+framework set up, let’s talk about the commander.
+
+00:00:24.640 --> 00:00:29.800
+Here we have Gonti, Canny Inquisitor. Gonti&nbsp;
+reduces the cost of your stolen spells,&nbsp;&nbsp;
+
+00:00:29.800 --> 00:00:33.640
+and thieves the top card of an opponent’s&nbsp;
+library whenever you get through combat&nbsp;&nbsp;
+
+00:00:33.640 --> 00:00:38.360
+damage on them. My first thought when I saw this&nbsp;
+is that this card is almost identical to another&nbsp;&nbsp;
+
+00:00:38.360 --> 00:00:44.160
+commander set card that saw a reprint last year,&nbsp;
+in both effect and power level—Ramirez DePietro,&nbsp;&nbsp;
+
+00:00:44.160 --> 00:00:49.320
+Pillager. They both exile opposing cards to play&nbsp;
+whenever opponents are hit, they both give a way&nbsp;&nbsp;
+
+00:00:49.320 --> 00:00:54.160
+to pay for part of the cost of stolen cards, and&nbsp;
+for an extra mana and an extra color Gonti has the&nbsp;&nbsp;
+
+00:00:54.160 --> 00:00:58.880
+benefits of not being restricted to pirates, being&nbsp;
+able to play opposing lands, and being able to&nbsp;&nbsp;
+
+00:00:58.880 --> 00:01:04.240
+spend mana of any type on stolen spells. Luckily,&nbsp;
+I actually quite enjoy this design—I find the&nbsp;&nbsp;
+
+00:01:04.240 --> 00:01:08.880
+design of stealing cards as a result of hitting&nbsp;
+multiple opponents to be fun and encouraging of&nbsp;&nbsp;
+
+00:01:08.880 --> 00:01:14.200
+dynamic gameplay. Theft as a general archetype&nbsp;
+is fun in that it scales to table power level,&nbsp;&nbsp;
+
+00:01:14.200 --> 00:01:19.560
+but where some theft decks go wrong is in making&nbsp;
+theft the whole gameplan, and having absolutely&nbsp;&nbsp;
+
+00:01:19.560 --> 00:01:25.160
+no plan for winning outside of yoinking opposing&nbsp;
+bombs. This will be okay against opposing midrange&nbsp;&nbsp;
+
+00:01:25.160 --> 00:01:30.600
+decks some of the time, but it will struggle if&nbsp;
+you get unlucky or if you’re facing off against&nbsp;&nbsp;
+
+00:01:30.600 --> 00:01:35.720
+decks that are more synergistic, which win through&nbsp;
+cards working well together rather than powerful&nbsp;&nbsp;
+
+00:01:35.720 --> 00:01:41.360
+individual cards. I like the design of Gonti and&nbsp;
+Ramirez because conditioning a deck’s theft on&nbsp;&nbsp;
+
+00:01:41.360 --> 00:01:46.480
+it dealing combat damage to one or more players is&nbsp;
+kinda like bumpers on the side of a bowling alley.&nbsp;&nbsp;
+
+00:01:46.480 --> 00:01:51.040
+It prevents deckbuilders from making the classic&nbsp;
+blunder of forgetting a win plan, since the cards&nbsp;&nbsp;
+
+00:01:51.040 --> 00:01:56.720
+needed to do the theft—creatures that aren’t being&nbsp;
+blocked—are also a thing that will win games.
+
+00:01:56.720 --> 00:02:01.040
+With that out of the way, let’s talk about&nbsp;
+Gonti in particular. I’d classify Gonti as&nbsp;&nbsp;
+
+00:02:01.040 --> 00:02:06.760
+a soft payoff—a payoff that is pretty easy to get&nbsp;
+some value off of, but which scales only modestly&nbsp;&nbsp;
+
+00:02:06.760 --> 00:02:12.840
+with additional inputs. The amount of cards stolen&nbsp;
+per turn by Gonti caps at 3, and a 1 mana discount&nbsp;&nbsp;
+
+00:02:12.840 --> 00:02:17.400
+on stolen spells is also pretty modest for a&nbsp;
+five-mana commander, meaning that we’ll likely&nbsp;&nbsp;
+
+00:02:17.400 --> 00:02:21.600
+be falling behind if we aren’t maxing out the&nbsp;
+advantage we can from Gonti starting pretty&nbsp;&nbsp;
+
+00:02:21.600 --> 00:02:26.560
+early in the game. For this reason, I expect some&nbsp;
+amount of a Gonti deck to be made up of evasive&nbsp;&nbsp;
+
+00:02:26.560 --> 00:02:31.520
+creatures that can get down to thieving not long&nbsp;
+after Gonti has hit the board. It doesn’t need to&nbsp;&nbsp;
+
+00:02:31.520 --> 00:02:36.000
+be a whole ton—one trigger for each opponent&nbsp;
+means we’re not playing Edric or anything,&nbsp;&nbsp;
+
+00:02:36.000 --> 00:02:40.520
+but if we’re not getting three triggers per turn a&nbsp;
+decent amount of the time, we’re leaving advantage&nbsp;&nbsp;
+
+00:02:40.520 --> 00:02:45.600
+on the table. Another possible choice with Gonti&nbsp;
+would be running additional cards that steal,&nbsp;&nbsp;
+
+00:02:45.600 --> 00:02:50.640
+but running too many of these effects might be a&nbsp;
+bit of a trap—we only have so much mana to spend&nbsp;&nbsp;
+
+00:02:50.640 --> 00:02:56.200
+on opposing cards. So these are going to be the&nbsp;
+immediate two things I look at—a decent amount of&nbsp;&nbsp;
+
+00:02:56.200 --> 00:03:01.440
+evasive creatures for getting Gonti triggers, and&nbsp;
+maybe a modest number of other cards that steal.
+
+00:03:01.440 --> 00:03:05.760
+Looking at the creature base of the deck, we do&nbsp;
+see 18 creatures with flying or another form of&nbsp;&nbsp;
+
+00:03:05.760 --> 00:03:10.440
+hard evasion. There are also a number of cards&nbsp;
+that encourage dealing combat damage to a player,&nbsp;&nbsp;
+
+00:03:10.440 --> 00:03:14.240
+a category which obviously includes&nbsp;
+the commander as well. As a result,&nbsp;&nbsp;
+
+00:03:14.240 --> 00:03:18.280
+this deck has a decently potent evasive&nbsp;
+creatures gameplan, which it uses to&nbsp;&nbsp;
+
+00:03:18.280 --> 00:03:22.520
+generate value off of the commander and other&nbsp;
+cards. As expected, we can also see a small&nbsp;&nbsp;
+
+00:03:22.520 --> 00:03:27.080
+suite of cards in the 99 which can steal&nbsp;
+cards and reduce the cost of stolen cards,&nbsp;&nbsp;
+
+00:03:27.080 --> 00:03:31.760
+and these will naturally lead the deck into a&nbsp;
+late game plan of playing lots of opposing cards,&nbsp;&nbsp;
+
+00:03:31.760 --> 00:03:36.040
+using theft in tandem with its evasive&nbsp;
+creatures to bring the deck to victory.
+
+00:03:36.040 --> 00:03:40.800
+So, that seems to be the plan. But how is the&nbsp;
+deck doing with this gameplan? I’ll start with&nbsp;&nbsp;
+
+00:03:40.800 --> 00:03:46.000
+what I like here. One of my biggest criticisms&nbsp;
+of the Blame Game precon was that the manabase&nbsp;&nbsp;
+
+00:03:46.000 --> 00:03:57.520
+was quite bad. [Insert clip of WotC please] So&nbsp;
+did my pleading to Wizards of the Coast lead&nbsp;&nbsp;
+
+00:03:57.520 --> 00:04:03.680
+to any improvement? Well, this deck’s manabase&nbsp;
+is… honestly pretty good. The colorless utility&nbsp;&nbsp;
+
+00:04:03.680 --> 00:04:08.480
+lands are capped at 2, and the deck runs&nbsp;
+sets of temples, painlands, check lands,&nbsp;&nbsp;
+
+00:04:08.480 --> 00:04:13.840
+and bad filters, as well as a spattering of other&nbsp;
+dual lands, including two good filtering lands.&nbsp;&nbsp;
+
+00:04:14.400 --> 00:04:19.200
+WotC seems to have made the choice to give this&nbsp;
+precon a $30 manabase rather than give one or&nbsp;&nbsp;
+
+00:04:19.200 --> 00:04:24.160
+two powerful cards to justify the precon&nbsp;
+price, and I honestly fully support this.&nbsp;&nbsp;
+
+00:04:24.160 --> 00:04:29.200
+New players need good lands a lot more than&nbsp;
+they need a Trouble in Pairs. Now, that said,&nbsp;&nbsp;
+
+00:04:29.200 --> 00:04:33.640
+there are places to improve with this manabase.&nbsp;
+I’m going to be talking about one improvement a&nbsp;&nbsp;
+
+00:04:33.640 --> 00:04:38.280
+bit later in this video, and I have a whole video&nbsp;
+on building a manabase in the pipeline, but the&nbsp;&nbsp;
+
+00:04:38.280 --> 00:04:42.480
+overall message I’m trying to get across here is&nbsp;
+that this manabase is pretty good and you can pick&nbsp;&nbsp;
+
+00:04:42.480 --> 00:04:46.720
+up and play with this deck without worrying too&nbsp;
+much about getting color-screwed or mana-screwed.
+
+00:04:46.720 --> 00:04:50.440
+Another thing I like is that this deck&nbsp;
+has a decent amount of removal. The deck&nbsp;&nbsp;
+
+00:04:50.440 --> 00:04:54.120
+has two creatures that bonk stuff when&nbsp;
+they hit players, a couple board wipes,&nbsp;&nbsp;
+
+00:04:54.120 --> 00:04:58.720
+and a handful of pieces of targeted removal.&nbsp;
+It’s also running a couple counterspells,&nbsp;&nbsp;
+
+00:04:58.720 --> 00:05:03.160
+though both are playing into the theft vibe&nbsp;
+here and end up being a bit subpar as a result,&nbsp;&nbsp;
+
+00:05:03.160 --> 00:05:07.400
+for reasons I’ll talk about a bit later.&nbsp;
+In addition to this, the deck’s ramp suite&nbsp;&nbsp;
+
+00:05:07.400 --> 00:05:10.800
+and value engines are decent enough, which&nbsp;
+should allow the deck to keep on chugging&nbsp;&nbsp;
+
+00:05:10.800 --> 00:05:16.440
+into the lategame and not run out of steam. The&nbsp;
+deck’s ramp, draw, and interaction will also be&nbsp;&nbsp;
+
+00:05:16.440 --> 00:05:20.720
+supplemented by cards stolen from opponents,&nbsp;
+though I support the choice to have a decent&nbsp;&nbsp;
+
+00:05:20.720 --> 00:05:27.000
+amount in to start with so that we’re not relying&nbsp;
+too much on opponents to play the game. Okay,&nbsp;&nbsp;
+
+00:05:27.000 --> 00:05:32.840
+so that’s the stuff I like. With that out of&nbsp;
+the way, what do I dislike about this precon?
+
+00:05:32.840 --> 00:05:37.280
+So, this deck reminds me of a lot of older precons&nbsp;
+in terms of the cohesive-ness of its vision,&nbsp;&nbsp;
+
+00:05:37.280 --> 00:05:43.440
+or lack thereof. There are two different gameplans&nbsp;
+here—evasive creature beatdown, and theft—and&nbsp;&nbsp;
+
+00:05:43.440 --> 00:05:46.760
+actually, my first impression when looking at&nbsp;
+the deck was that they might play decently well&nbsp;&nbsp;
+
+00:05:46.760 --> 00:05:51.600
+together. The commander is clearly trying to act&nbsp;
+as a point of fusion here, and there are a number&nbsp;&nbsp;
+
+00:05:51.600 --> 00:05:56.680
+of creatures that play into both the evasive&nbsp;
+creature plan and the theft plan. So, what’s&nbsp;&nbsp;
+
+00:05:56.680 --> 00:06:02.240
+the problem? Well, there are a few issues at play&nbsp;
+here. One is that the deck isn’t running enough&nbsp;&nbsp;
+
+00:06:02.240 --> 00:06:07.600
+evasive creatures, and the ones it does have cost&nbsp;
+too much mana on average. I’d say the deck almost&nbsp;&nbsp;
+
+00:06:07.600 --> 00:06:11.640
+always wants to have one or more evasive creatures&nbsp;
+in play by the time it gets its commander out,&nbsp;&nbsp;
+
+00:06:11.640 --> 00:06:16.440
+but the list only contains 12 evasive creatures&nbsp;
+below 5 mana, which isn’t a very reliable count&nbsp;&nbsp;
+
+00:06:16.440 --> 00:06:21.520
+for such a pivotal type of card. The deck could&nbsp;
+be looking to develop some 5-7 mana beaters and&nbsp;&nbsp;
+
+00:06:21.520 --> 00:06:26.200
+play the commander a bit later, but this requires&nbsp;
+more ramp than the deck is currently running,&nbsp;&nbsp;
+
+00:06:26.200 --> 00:06:31.280
+and also doesn’t utilize the commander as well.&nbsp;
+Overall, the current suite of evasive creatures&nbsp;&nbsp;
+
+00:06:31.280 --> 00:06:35.760
+just doesn’t work for me—this deck wants three&nbsp;
+Gonti triggers a turn, and that’s just not going&nbsp;&nbsp;
+
+00:06:35.760 --> 00:06:40.920
+to be consistently fulfilled by this selection.&nbsp;
+Another issue is that there’s a lot of cards that&nbsp;&nbsp;
+
+00:06:40.920 --> 00:06:47.120
+do some sort of stealing-oriented thing, but don’t&nbsp;
+require paying mana to cast the cards. This might&nbsp;&nbsp;
+
+00:06:47.120 --> 00:06:51.880
+seem normal at first blush, but there’s actually&nbsp;
+basically no mechanical connection between these&nbsp;&nbsp;
+
+00:06:51.880 --> 00:06:57.040
+cards and the theft theme as a whole. They’re&nbsp;
+identical to a random midrange beater as far&nbsp;&nbsp;
+
+00:06:57.040 --> 00:07:01.720
+as cohesion and synergy are concerned. This is&nbsp;
+not to say that these cards are all bad—Thieving&nbsp;&nbsp;
+
+00:07:03.120 --> 00:07:08.040
+Skydiver is a lovely card, Dazzling Sphinx&nbsp;
+is a solid evasive creature, and the ninjas&nbsp;&nbsp;
+
+00:07:08.040 --> 00:07:13.480
+are fun payoff for evasive creatures. What&nbsp;
+it is to say, though, is that this deck is&nbsp;&nbsp;
+
+00:07:13.480 --> 00:07:19.840
+effectively spending some number of card slots on&nbsp;
+flavor—which isn’t an objectively wrong choice,&nbsp;&nbsp;
+
+00:07:19.840 --> 00:07:25.000
+but for a mass-market playable-out-of-the-box&nbsp;
+product, it’s certainly a choice.
+
+00:07:25.000 --> 00:07:30.280
+I ran 30 playtests with the deck, and overall&nbsp;
+it had some good curve-outs, usually either&nbsp;&nbsp;
+
+00:07:30.280 --> 00:07:35.360
+landing quality 2 and 3 drops into the commander&nbsp;
+or ramping into one of the deck’s bigger threats,&nbsp;&nbsp;
+
+00:07:35.360 --> 00:07:41.520
+but it also had a lot of not-great curve-outs. In&nbsp;
+15 of the 30 games the deck failed to curve-out in&nbsp;&nbsp;
+
+00:07:41.520 --> 00:07:46.360
+a way that would allow it to meaningfully&nbsp;
+launch into a gameplan by turn 5-6. This&nbsp;&nbsp;
+
+00:07:46.360 --> 00:07:51.480
+failure can manifest a number of different ways,&nbsp;
+but the most common ones were failing to spend&nbsp;&nbsp;
+
+00:07:51.480 --> 00:07:57.800
+its mana on turns 2-4, playing out cards that&nbsp;
+weren’t impactful, having disjointed card types,&nbsp;&nbsp;
+
+00:07:57.800 --> 00:08:02.120
+and failing to gain enough mana to accomplish&nbsp;
+the tasks that the deck’s draws might allow&nbsp;&nbsp;
+
+00:08:02.120 --> 00:08:07.120
+for. The deck did occasionally miss land&nbsp;
+drops and have awkward color situations,&nbsp;&nbsp;
+
+00:08:07.120 --> 00:08:11.280
+though this definitely wasn’t one of the more&nbsp;
+pressing issues, and it’s also likely fixable&nbsp;&nbsp;
+
+00:08:11.280 --> 00:08:16.120
+with a bit more early filtering. Overall, I can&nbsp;
+definitely see this deck feeling pretty great&nbsp;&nbsp;
+
+00:08:16.120 --> 00:08:22.320
+with certain sets of draws, but a lot of rollouts&nbsp;
+with this deck are kinda disjointed and awkward.
+
+00:08:22.320 --> 00:08:27.840
+So, what could this deck do to improve? First&nbsp;
+of all, I wanna talk about some cards I just&nbsp;&nbsp;
+
+00:08:27.840 --> 00:08:32.880
+generally dislike. Cunning Rhetoric is a&nbsp;
+mixture of a defense card and a theft card,&nbsp;&nbsp;
+
+00:08:32.880 --> 00:08:38.440
+but it doesn’t actually accomplish either task.&nbsp;
+Your opponents can choose not to send small-scale&nbsp;&nbsp;
+
+00:08:38.440 --> 00:08:42.600
+attacks your way to prevent you from getting&nbsp;
+value, but when they do want to attack you,&nbsp;&nbsp;
+
+00:08:42.600 --> 00:08:47.840
+the downside of getting a single card exiled for&nbsp;
+up to a full board of creatures attacking is just&nbsp;&nbsp;
+
+00:08:47.840 --> 00:08:53.640
+not a deterring factor in the slightest.&nbsp;
+Next up, Void Attendant. I get the vision,&nbsp;&nbsp;
+
+00:08:53.640 --> 00:08:59.160
+and I love the idea of repurposing a forgotten&nbsp;
+uncommon from 2015, but the card just isn’t&nbsp;&nbsp;
+
+00:08:59.160 --> 00:09:05.520
+that useful here. This deck can’t do much with&nbsp;
+tokens, has enough draw to not need a mana sink,&nbsp;&nbsp;
+
+00:09:05.520 --> 00:09:10.600
+and doesn’t have enough instant speed plays to&nbsp;
+make it useful as a mana banking option. Another&nbsp;&nbsp;
+
+00:09:10.600 --> 00:09:16.640
+card I dislike is Mimeoplasm—this deck has no&nbsp;
+mill of any kind and one singular card that&nbsp;&nbsp;
+
+00:09:16.640 --> 00:09:22.280
+causes you to discard, making our boy Plasm&nbsp;
+a pretty dead draw before the late game. Yet&nbsp;&nbsp;
+
+00:09:22.280 --> 00:09:27.960
+another card I hate here is Stolen Goods—the&nbsp;
+average nonland card in an EDH deck is like&nbsp;&nbsp;
+
+00:09:27.960 --> 00:09:33.680
+3.5 mana, and so you’re getting less value than&nbsp;
+the amount of mana you paid and what you get will&nbsp;&nbsp;
+
+00:09:33.680 --> 00:09:39.840
+likely be unrelated to what you’re trying to do&nbsp;
+at any given moment. Next up, redundant cards. I&nbsp;&nbsp;
+
+00:09:39.840 --> 00:09:44.200
+strongly dislike Predators’ Hour—it does the same&nbsp;
+thing that the command zone does, but without any&nbsp;&nbsp;
+
+00:09:44.200 --> 00:09:49.280
+real upside other than a possible tokens plan.&nbsp;
+I like Dream-Thief’s Bandana a bit better,&nbsp;&nbsp;
+
+00:09:49.280 --> 00:09:53.760
+but it still compares very unfavorably to a&nbsp;
+similar equipment such as Mask of Memory or Mask&nbsp;&nbsp;
+
+00:09:53.760 --> 00:09:58.360
+of Riddles. Running either of these cards when the&nbsp;
+deck doesn’t even have enough evasive creatures&nbsp;&nbsp;
+
+00:09:58.360 --> 00:10:03.400
+to consistently get enough Gonti triggers each&nbsp;
+turn feels wrong on a pretty fundamental level.
+
+00:10:03.400 --> 00:10:07.640
+It’s at this point I should also jump back to the&nbsp;
+two counterspells I mentioned earlier. Both cost&nbsp;&nbsp;
+
+00:10:07.640 --> 00:10:13.320
+a lot of mana, and high-cost counterspells&nbsp;
+with added bonuses do work—but mostly only&nbsp;&nbsp;
+
+00:10:13.320 --> 00:10:18.680
+in draw-go style control decks. This is because&nbsp;
+these decks will often run spells that further&nbsp;&nbsp;
+
+00:10:18.680 --> 00:10:24.240
+their gameplan at instant speed, most often card&nbsp;
+draw, and this allows them to counter a thing if&nbsp;&nbsp;
+
+00:10:24.240 --> 00:10:28.400
+they need to but still have a way to spend that&nbsp;
+mana on the end step before their turn if they&nbsp;&nbsp;
+
+00:10:28.400 --> 00:10:34.080
+don’t end up countering anything. By contrast,&nbsp;
+this deck runs very little at instant speed,&nbsp;&nbsp;
+
+00:10:34.080 --> 00:10:38.880
+meaning that if it holds up 4 or 5 mana for a&nbsp;
+counter spell, that’s just wasted mana if the&nbsp;&nbsp;
+
+00:10:38.880 --> 00:10:43.520
+counterspell doesn’t get used, and this will&nbsp;
+often incentivize players to counter something&nbsp;&nbsp;
+
+00:10:43.520 --> 00:10:49.320
+largely irrelevant in order to not waste the&nbsp;
+mana. Plasm Capture is also very symbol dense,&nbsp;&nbsp;
+
+00:10:49.320 --> 00:10:55.560
+so I’d cut it for a lower-cost counterspell like&nbsp;
+Negate. Smirking Spelljacker will stay in for now&nbsp;&nbsp;
+
+00:10:55.560 --> 00:11:00.040
+despite my misgivings about its manacost, and&nbsp;
+this is because it’s also a 3/3 creature with&nbsp;&nbsp;
+
+00:11:00.040 --> 00:11:05.840
+flying, which means that countering something&nbsp;
+irrelevant is still a mostly acceptable outcome.
+
+00:11:05.840 --> 00:11:10.800
+With those initial cuts out of the way, I think&nbsp;
+there are two possible paths forward for the deck,&nbsp;&nbsp;
+
+00:11:10.800 --> 00:11:15.760
+and those two paths are: play more into the big&nbsp;
+theft stuff by adding more ramp, or play more&nbsp;&nbsp;
+
+00:11:15.760 --> 00:11:20.920
+into the combat damage element by adding evasive&nbsp;
+creatures and evasion. Basically, take the two&nbsp;&nbsp;
+
+00:11:20.920 --> 00:11:25.800
+things the deck is doing, and make it focus more&nbsp;
+on one of those. I’m choosing the second one,&nbsp;&nbsp;
+
+00:11:25.800 --> 00:11:30.920
+and that’s for two reasons. Firstly, I don’t&nbsp;
+think Gonti should be thought of as a pure theft&nbsp;&nbsp;
+
+00:11:30.920 --> 00:11:35.800
+commander—the requirement of hitting opponents is&nbsp;
+already pushing the deck in a somewhat aggressive&nbsp;&nbsp;
+
+00:11:35.800 --> 00:11:41.240
+direction, and spending too much deck space on&nbsp;
+other theft cards and theft payoffs worsens the&nbsp;&nbsp;
+
+00:11:41.240 --> 00:11:46.360
+deck’s ability to get in for combat damage and&nbsp;
+get Gonti triggers. The other reason is this&nbsp;&nbsp;
+
+00:11:46.360 --> 00:11:51.720
+deck’s alternative commander—Felix Five-Boots is a&nbsp;
+fun card that is clearly pushing for a more combat&nbsp;&nbsp;
+
+00:11:51.720 --> 00:11:57.920
+damage oriented version of things, so I choose to&nbsp;
+take cues from that as well. I justify this here&nbsp;&nbsp;
+
+00:11:57.920 --> 00:12:02.400
+because I personally would choose to cut quite&nbsp;
+a lot of cards that fit into the theft theme,&nbsp;&nbsp;
+
+00:12:02.400 --> 00:12:08.160
+and I could see that being a contentious choice.&nbsp;
+Doc Aurlock? Just reducing the cost of stolen&nbsp;&nbsp;
+
+00:12:08.160 --> 00:12:14.160
+cards isn’t good enough. Oblivion Sower? Doesn’t&nbsp;
+do enough. Villainous Wealth? This deck isn’t&nbsp;&nbsp;
+
+00:12:14.160 --> 00:12:18.320
+really a ramp deck, and playing Villainous Wealth&nbsp;
+with a mana spend of less than 10 won’t be worth&nbsp;&nbsp;
+
+00:12:18.320 --> 00:12:24.280
+it most of the time. Chaos Wand? Also funny and&nbsp;
+also not good enough outside of a big mana deck.&nbsp;&nbsp;
+
+00:12:24.280 --> 00:12:29.160
+Extract Brain is similarly awkward outside of a&nbsp;
+ramp deck, because the ideal hit is a big bomb,&nbsp;&nbsp;
+
+00:12:29.840 --> 00:12:33.320
+but you’ll be battling against time to&nbsp;
+play it with a big enough X before your&nbsp;&nbsp;
+
+00:12:33.320 --> 00:12:35.760
+opponent is able to play the hypothetical threat,&nbsp;&nbsp;
+
+00:12:35.760 --> 00:12:40.520
+and you also might end up targeting a player&nbsp;
+only to find nothing impactful in their hand.
+
+00:12:40.520 --> 00:12:44.600
+What am I bringing in for these cards? The most&nbsp;
+notable type of card I’m adding is what I’ll&nbsp;&nbsp;
+
+00:12:44.600 --> 00:12:50.600
+call evasive utility beaters—creatures that are&nbsp;
+low-cost and have both some sort of evasion and&nbsp;&nbsp;
+
+00:12:50.600 --> 00:12:55.000
+some sort of benefit that smooths out the&nbsp;
+deck’s gameplan. The first three of these&nbsp;&nbsp;
+
+00:12:55.000 --> 00:13:00.720
+I’m adding are Malcolm Alluring Scoundrel,&nbsp;
+Looter Il-Kor, and Suspicious Stowaway. The&nbsp;&nbsp;
+
+00:13:00.720 --> 00:13:05.400
+package here is great—2 mana evasive creatures&nbsp;
+that also offer looting on hit—and these will&nbsp;&nbsp;
+
+00:13:05.400 --> 00:13:10.880
+help smooth out draws and filter away unneeded&nbsp;
+cards. Siren Stormtamer is another solid add,&nbsp;&nbsp;
+
+00:13:10.880 --> 00:13:15.640
+offering a bit of protection in addition to being&nbsp;
+an evasive creature. Thousand-faced Shadow is&nbsp;&nbsp;
+
+00:13:15.640 --> 00:13:20.160
+another utility 1 drop, and this has the benefit&nbsp;
+of allowing us to slip through something like a&nbsp;&nbsp;
+
+00:13:20.160 --> 00:13:25.120
+Silent-blade Oni on a crowded board, since the&nbsp;
+token is unblockable due to being created after&nbsp;&nbsp;
+
+00:13:25.120 --> 00:13:29.960
+the declare blockers phase. I’m also adding&nbsp;
+a couple 3-4 cost utility beaters, with one&nbsp;&nbsp;
+
+00:13:29.960 --> 00:13:34.960
+of these being Drana, Liberator of Malakir. This&nbsp;
+card is going to help with the beatdown gameplan,&nbsp;&nbsp;
+
+00:13:34.960 --> 00:13:40.000
+and the fact that it buffs everything else&nbsp;
+before combat damage is a nice touch. Rankle,&nbsp;&nbsp;
+
+00:13:40.000 --> 00:13:43.360
+Master of Pranks is another utility&nbsp;
+beater that can offer a wide range&nbsp;&nbsp;
+
+00:13:43.360 --> 00:13:48.240
+of use cases depending on what the deck&nbsp;
+needs or what would set back opponents.
+
+00:13:48.240 --> 00:13:53.800
+My final utility beater add is Kellan Inquisitive&nbsp;
+Prodigy, a card that also adds a bit of ramp to&nbsp;&nbsp;
+
+00:13:53.800 --> 00:13:58.360
+the deck. I don’t think this deck needs a lot&nbsp;
+of ramp, but I think a gentle increase to the&nbsp;&nbsp;
+
+00:13:58.360 --> 00:14:04.080
+amount of ramp isn’t a bad idea either. Another&nbsp;
+addition I opted for is Wayward Swordtooth,&nbsp;&nbsp;
+
+00:14:04.080 --> 00:14:09.000
+a solid beater that also allows for extra land&nbsp;
+plays. I like extra land play cards in theft&nbsp;&nbsp;
+
+00:14:09.000 --> 00:14:14.360
+decks, because they allow the deck to ramp using&nbsp;
+opposing lands. I also added Mask of Riddles and&nbsp;&nbsp;
+
+00:14:14.360 --> 00:14:18.840
+swapped out Darksteel Ingot Sonic Screwdriver&nbsp;
+to increase the amount of evasion in the deck,&nbsp;&nbsp;
+
+00:14:18.840 --> 00:14:22.720
+as being able to swing something like a Fallen&nbsp;
+Shinobi or a Silent-Blade Oni through a crowded&nbsp;&nbsp;
+
+00:14:22.720 --> 00:14:27.880
+board is quite nice. From there, my other nonland&nbsp;
+additions were a couple counter spells and a&nbsp;&nbsp;
+
+00:14:27.880 --> 00:14:32.360
+removal spell, just to give this deck a bit more&nbsp;
+ability to deal with concerning things opponents&nbsp;&nbsp;
+
+00:14:32.360 --> 00:14:36.840
+are doing. The deck wasn’t doing terrible on&nbsp;
+this, but it has the deck space for a bit more&nbsp;&nbsp;
+
+00:14:36.840 --> 00:14:41.720
+interaction due to the value it has in the command&nbsp;
+zone, so I’m gonna give it that interaction.
+
+00:14:41.720 --> 00:14:46.680
+Now, onto the manabase. As I said, this deck’s&nbsp;
+manabase is pretty good, with the biggest issue&nbsp;&nbsp;
+
+00:14:46.680 --> 00:14:52.280
+I note being that its check lands don’t have as&nbsp;
+much support as I’d prefer. As a quick fix this,&nbsp;&nbsp;
+
+00:14:52.280 --> 00:14:57.520
+I choose to swap out the temples for Dominaria&nbsp;
+United typed lands. Ideally an incremental change&nbsp;&nbsp;
+
+00:14:57.520 --> 00:15:02.200
+for the deck would be to swap these out for Karlov&nbsp;
+Manor duals, but those are going for upwards of $5&nbsp;&nbsp;
+
+00:15:02.200 --> 00:15:06.480
+apiece at the moment so they can wait if you’re&nbsp;
+not trying to spend too much extra. I also wish&nbsp;&nbsp;
+
+00:15:06.480 --> 00:15:11.400
+that Wizards would print enemy cycles of Tango&nbsp;
+and cycle lands, as it’d be nice to have a bit of&nbsp;&nbsp;
+
+00:15:11.400 --> 00:15:16.280
+upside to sweeten the deal of cutting temples. The&nbsp;
+other change I made to the manabase was swapping&nbsp;&nbsp;
+
+00:15:16.280 --> 00:15:21.040
+out a swamp and a forest for two more islands,&nbsp;
+since we added several more cheap creatures in&nbsp;&nbsp;
+
+00:15:21.040 --> 00:15:26.440
+blue. I could delve a lot deeper into building a&nbsp;
+three-color manabase, but I won’t be doing that&nbsp;&nbsp;
+
+00:15:26.440 --> 00:15:30.880
+in this video due to the aforementioned&nbsp;
+acceptable-ness of this deck’s manabase.
+
+00:15:30.880 --> 00:15:36.160
+Alright, those are my improvements. Overall, I&nbsp;
+like this precon okay. If I was to be charitable,&nbsp;&nbsp;
+
+00:15:36.160 --> 00:15:41.160
+I’d say that it was probably built with the intent&nbsp;
+of allowing modification paths for both a zanier,&nbsp;&nbsp;
+
+00:15:41.160 --> 00:15:46.240
+full-theft build and for the path I chose of&nbsp;
+emphasizing combat damage and evasive creatures.&nbsp;&nbsp;
+
+00:15:46.240 --> 00:15:50.160
+If I was to be uncharitable, I would say that&nbsp;
+evasive creatures is really the only build of this&nbsp;&nbsp;
+
+00:15:50.160 --> 00:15:54.600
+deck that actually works with Gonti, and that all&nbsp;
+of the unsynergistic, goofy theft stuff is at best&nbsp;&nbsp;
+
+00:15:54.600 --> 00:15:59.400
+an obstacle to throw newer players off the path&nbsp;
+of making the deck actually decent, because who’s&nbsp;&nbsp;
+
+00:15:59.400 --> 00:16:04.760
+gonna cut a Chaos Wand or a Villainous Wealth when&nbsp;
+those cards are so fun? Whatever the case may be,&nbsp;&nbsp;
+
+00:16:04.760 --> 00:16:09.240
+this precon reminds me of a lot of older ones&nbsp;
+in its lack of focus, though its decent card&nbsp;&nbsp;
+
+00:16:09.240 --> 00:16:15.000
+quality and solidly-built manabase will certainly&nbsp;
+lead to it performing better than most of those.
+
+00:16:15.000 --> 00:16:19.080
+Thanks for watching, and as always a big thanks&nbsp;
+to my Patrons who allow making YouTube videos&nbsp;&nbsp;
+
+00:16:19.080 --> 00:16:23.200
+to be my full-time job. That’s pretty&nbsp;
+cool! You can also let me know in the&nbsp;&nbsp;
+
+00:16:23.200 --> 00:16:27.320
+comments if you liked this, or if you agree&nbsp;
+with my analysis of the deck. I tried to go&nbsp;&nbsp;
+
+00:16:27.320 --> 00:16:34.920
+a bit more in depth on the improvements, as&nbsp;
+I kinda blazed through them with Blame Game.
+

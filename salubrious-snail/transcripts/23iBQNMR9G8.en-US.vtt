@@ -1,0 +1,592 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.450 --> 00:00:05.750
+You’ve probably had a game like this—somebody
+starts to do some nutty stuff surprisingly
+
+00:00:05.750 --> 00:00:10.870
+early in the game, really going ham with their
+pieces of cardboard, and by the time they’ve
+
+00:00:10.870 --> 00:00:15.339
+achieved a decisive win a handful of turns
+later, one or more other players are sitting
+
+00:00:15.339 --> 00:00:19.830
+dejectedly and grumbling to themselves that
+this matchup was unfair.
+
+00:00:19.830 --> 00:00:24.050
+Power level differences within a table can
+be a tricky thing to navigate, you know, it’s
+
+00:00:24.050 --> 00:00:28.400
+not so fun if a game ends up being an absolute
+blowout, with some players feeling like they
+
+00:00:28.400 --> 00:00:32.529
+didn’t even get a chance, and I’d generally
+encourage trying to coordinate power levels
+
+00:00:32.529 --> 00:00:33.899
+to some degree.
+
+00:00:33.899 --> 00:00:37.629
+But, do you wanna know a secret?
+
+00:00:37.629 --> 00:00:42.550
+In most cases like this, the relative power
+levels of the decks aren’t even the main
+
+00:00:42.550 --> 00:00:44.219
+issue.
+
+00:00:44.219 --> 00:00:48.620
+Decks with varied power levels can work fine
+in the same pod, and games can avoid this
+
+00:00:48.620 --> 00:00:54.469
+“blowout” issue, but this requires a couple
+things to be true, and the first one of these
+
+00:00:54.469 --> 00:00:58.140
+things is very simple: decks should run interaction.
+
+00:00:58.140 --> 00:01:02.989
+I mentioned in my last video how a key table
+dynamic that keeps powerful decks in check
+
+00:01:02.989 --> 00:01:08.380
+in a multiplayer format is the ability for
+multiple other players to trade cards one
+
+00:01:08.380 --> 00:01:11.080
+for one with a player who is ahead.
+
+00:01:11.080 --> 00:01:14.930
+And I don’t think I need to say much else
+to make clear the problem with a lot of casual
+
+00:01:14.930 --> 00:01:19.540
+EDH tables—they can’t do this because
+they don’t run enough ways to trade cards
+
+00:01:19.540 --> 00:01:20.880
+like.
+
+00:01:20.880 --> 00:01:26.350
+A lot of decks throw in some mid-single-digits
+number of generic removal spells and/or counter
+
+00:01:26.350 --> 00:01:30.570
+spells, and then call it good, spending the
+rest of their deck on their engines and synergies
+
+00:01:30.570 --> 00:01:35.350
+and whatnot, building up their deck’s ability
+to function against no opponents.
+
+00:01:35.350 --> 00:01:40.830
+Then, when a pod of these decks show up to
+a table, before too long a player will naturally
+
+00:01:40.830 --> 00:01:45.430
+start to get ahead, and their opponents won’t
+have a lot of recourse for it.
+
+00:01:45.430 --> 00:01:49.460
+This amplifies power differences, because
+if a deck is even a little bit better at what
+
+00:01:49.460 --> 00:01:54.930
+it does, say, generating an extra half of
+a card per turn cycle in value, there will
+
+00:01:54.930 --> 00:01:59.619
+be nothing to prevent that advantage from
+piling up at an interaction-less table.
+
+00:01:59.619 --> 00:02:04.540
+A compounding factor for this sort of dynamic
+is when decks have high variance.
+
+00:02:04.540 --> 00:02:08.440
+I think the best way to quantify this is to
+think about the difference between the deck’s
+
+00:02:08.440 --> 00:02:13.379
+75th percentile situation, when it’s playing
+somewhat better than average, and the deck’s
+
+00:02:13.379 --> 00:02:18.349
+25th percentile situation, when it’s playing
+somewhat worse than average.
+
+00:02:18.349 --> 00:02:23.110
+Most well-constructed decks will have some
+difference between these two, but not a massive
+
+00:02:23.110 --> 00:02:27.720
+one—your 25th percentile situation won’t
+feel great, but you’ll still have plays
+
+00:02:27.720 --> 00:02:31.640
+you’re setting up for and goals you’re
+making progress toward, and maybe you’re
+
+00:02:31.640 --> 00:02:36.250
+just playing a bit slower, a bit riskier,
+or a bit less interactive than usual.
+
+00:02:36.250 --> 00:02:41.930
+By contrast, a lot of casual EDH decks I’ve
+seen were built putting so much emphasis on
+
+00:02:41.930 --> 00:02:49.640
+the ideal scenario, the big pop off factor,
+that as much as 25% or 30% or even 40% of
+
+00:02:49.640 --> 00:02:53.959
+the time they fail to perform meaningful game
+actions.
+
+00:02:53.959 --> 00:03:00.030
+This comes down to one thing above all others—putting
+in too many payoff cards and not enough building
+
+00:03:00.030 --> 00:03:01.580
+blocks to get there.
+
+00:03:01.580 --> 00:03:05.569
+I’d categorize payoff cards into two types.
+
+00:03:05.569 --> 00:03:10.020
+One is amplification cards—cards that convert
+your tokens into more tokens, your counters
+
+00:03:10.020 --> 00:03:13.900
+into more counters, your damage into more
+damage, your card draw into more card draw,
+
+00:03:13.900 --> 00:03:14.900
+and so on.
+
+00:03:14.900 --> 00:03:18.620
+Some number of these cards can be decent for
+a deck, especially cards that can rapidly
+
+00:03:18.620 --> 00:03:23.269
+lead to a win or which synergize with a type
+of card you’ll have especially ample access
+
+00:03:23.269 --> 00:03:24.269
+to.
+
+00:03:24.269 --> 00:03:29.921
+However, if you run too many of these and
+too few things to be amplified, your game
+
+00:03:29.921 --> 00:03:31.940
+plan will be fragile.
+
+00:03:31.940 --> 00:03:37.830
+A while back I had a series of games with
+a Zaxara player who would play multiple counter-doublers
+
+00:03:37.830 --> 00:03:44.030
+and mana-doublers and various other doublers
+followed by a single premium hydra, and maybe
+
+00:03:44.030 --> 00:03:46.560
+a second one if they got lucky.
+
+00:03:46.560 --> 00:03:50.930
+If that hydra had survived a turn cycle they
+probably would have smacked down the table
+
+00:03:50.930 --> 00:03:56.330
+in short order, but in all the games this
+happened, a single removal spell was played,
+
+00:03:56.330 --> 00:04:01.659
+the Zaxara player had no countermagic, and
+just like that they and their pile of synergy
+
+00:04:01.659 --> 00:04:03.800
+permanents were rendered a total non-threat.
+
+00:04:03.800 --> 00:04:08.120
+I don’t wanna be too hard on this player
+since it seemed like their deck was pretty
+
+00:04:08.120 --> 00:04:12.910
+newly-built at the time and hadn’t been
+tested much, but this is an example of a trap
+
+00:04:12.910 --> 00:04:16.950
+that’s pretty easy to fall into if you’re
+not careful and are just adding stuff that
+
+00:04:16.950 --> 00:04:21.690
+looks good without thinking about the implications
+of those additions.
+
+00:04:21.690 --> 00:04:26.430
+The other main type of payoff card is what
+I’ll call conversion cards—ones that give
+
+00:04:26.430 --> 00:04:31.289
+you one type of resource as a result of having
+or spending a different one.
+
+00:04:31.289 --> 00:04:35.530
+For example, spending mana to draw cards when
+you’ve gained life, drawing cards based
+
+00:04:35.530 --> 00:04:39.710
+on having a bunch of creatures of the same
+type, creating wolves based on how many cards
+
+00:04:39.710 --> 00:04:43.790
+are in your graveyard, and creating angels
+when you play enchantments.
+
+00:04:43.790 --> 00:04:48.710
+As with amplification cards, these aren’t
+inherently bad and are indeed a perfectly
+
+00:04:48.710 --> 00:04:51.250
+solid type of card in moderation.
+
+00:04:51.250 --> 00:04:56.320
+But running too many of these resource conversion
+cards will have problematic results for deck
+
+00:04:56.320 --> 00:05:00.860
+consistency—if your deck’s core building
+blocks already require you to be doing well
+
+00:05:00.860 --> 00:05:06.850
+in some capacity, you’re limiting your ability
+to get your gameplan going in the first place.
+
+00:05:06.850 --> 00:05:10.889
+Pair this with running an excessive quantity
+of amplification cards as well, and you’ll
+
+00:05:10.889 --> 00:05:15.920
+find that your deck will struggle to get into
+gear consistently, will struggle to play through
+
+00:05:15.920 --> 00:05:19.780
+interaction, and will struggle to get up off
+the floor after it’s been shut down.
+
+00:05:19.780 --> 00:05:24.069
+Sure, you’ll have the crazy pop off games
+from time to time where things line up just
+
+00:05:24.069 --> 00:05:29.250
+right, but the overall result of a high variance
+deck like this is this sort of all or nothing
+
+00:05:29.250 --> 00:05:34.910
+dynamic that I find very negative, and if
+the whole table is playing this sort of deck,
+
+00:05:34.910 --> 00:05:38.880
+differences in deck power levels will naturally
+be amplified wildly.
+
+00:05:38.880 --> 00:05:44.310
+When one player gets the lucky pop-off whereas
+the others get stuck with dead hands full
+
+00:05:44.310 --> 00:05:49.420
+of unmet payoff cards, and especially when
+nobody has interaction to close this sort
+
+00:05:49.420 --> 00:05:55.280
+of gap in performance, decks can feel poorly
+matched and power imbalanced even when they’re
+
+00:05:55.280 --> 00:05:58.480
+the exact same power level.
+
+00:05:58.480 --> 00:06:02.860
+As a foil to these sorts of decks, I’m going
+to dig back into my past for a moment and
+
+00:06:02.860 --> 00:06:06.139
+talk about a couple decks I built a few years
+ago.
+
+00:06:06.139 --> 00:06:12.110
+From 2019 to 2022, my playgroup, mostly made
+up of broke college students at that point,
+
+00:06:12.110 --> 00:06:18.949
+played exclusively with a pool of ten $30
+EDH decks, and we agonizingly tuned and pruned
+
+00:06:18.949 --> 00:06:23.610
+and fully rebuilt these decks when needed
+until each of these decks played to a power
+
+00:06:23.610 --> 00:06:25.630
+we were satisfied with.
+
+00:06:25.630 --> 00:06:30.460
+The end result of this process was a pool
+of decks that are not like most casual EDH
+
+00:06:30.460 --> 00:06:35.669
+decks—these decks have been brought to life
+in a setting that is almost competitive in
+
+00:06:35.669 --> 00:06:40.400
+nature, where there is a meta to keep up with
+and adapt to, where each deck is played dozens
+
+00:06:40.400 --> 00:06:44.861
+of times over with every single win and loss
+tracked, and where decks that don’t make
+
+00:06:44.861 --> 00:06:50.360
+the cut, that don’t win a lot of games,
+are scrapped without further question.
+
+00:06:50.360 --> 00:06:54.750
+In this environment, decks are built with
+a high degree of consistency and a lot of
+
+00:06:54.750 --> 00:07:00.229
+interaction, because these factors lead decks
+to win more games in this sort of faux-competitive
+
+00:07:00.229 --> 00:07:01.300
+environment.
+
+00:07:01.300 --> 00:07:06.759
+This fact, paired with the low budget, resulted
+in a format where resiliency and ability to
+
+00:07:06.759 --> 00:07:10.389
+grind were the most important factors for
+a deck.
+
+00:07:10.389 --> 00:07:14.539
+The funny thing is, despite these decks being
+built on a low budget and designed to play
+
+00:07:14.539 --> 00:07:19.110
+exclusively against each other, most of these
+decks still hold up in games with decks that
+
+00:07:19.110 --> 00:07:23.680
+are much more powerful on paper, and a big
+piece of this is because of their relationship
+
+00:07:23.680 --> 00:07:25.370
+with interaction.
+
+00:07:25.370 --> 00:07:30.390
+Take a Dimir rogues list I built—it runs
+six counterspells, six removal spells, two
+
+00:07:30.390 --> 00:07:34.949
+modal cards that can counter or remove, and
+three stax cards.
+
+00:07:34.949 --> 00:07:39.360
+In addition, the proactive cards in the deck
+don’t rely on it being ahead or avoiding
+
+00:07:39.360 --> 00:07:44.530
+opposing interaction—even something like
+Bident of Thassa generates acceptable amounts
+
+00:07:44.530 --> 00:07:49.759
+of value with a single evasive creature, of
+which the deck is running 25.
+
+00:07:49.759 --> 00:07:54.110
+These factors work together to make a deck
+that is very flexible, and which can perform
+
+00:07:54.110 --> 00:07:59.330
+actions like hindering its opponents, chipping
+in damage, and drawing extra cards even when
+
+00:07:59.330 --> 00:08:00.850
+it’s behind.
+
+00:08:00.850 --> 00:08:06.250
+Not only this, but the high watermark of the
+deck is genuinely pretty high, with 30+ damage
+
+00:08:06.250 --> 00:08:11.220
+combat steps, massive draw, extra turns, and
+forcing opponents to discard their hands all
+
+00:08:11.220 --> 00:08:15.510
+options on the table for the deck, and these
+plays are important for allowing the deck
+
+00:08:15.510 --> 00:08:17.990
+to get to the finish line once it’s a bit
+ahead.
+
+00:08:17.990 --> 00:08:23.289
+A Rakdos discard deck from the same pool is
+similarly heavy on interaction—it’s running
+
+00:08:23.289 --> 00:08:28.150
+ten cards plus the commander for removal,
+as well as 25 cards that cause opponents to
+
+00:08:28.150 --> 00:08:29.320
+discard cards.
+
+00:08:29.320 --> 00:08:34.320
+The deck’s cards also work well on their
+own as a matter of necessity—when a deck’s
+
+00:08:34.320 --> 00:08:38.280
+gameplan involves forcing the table into a
+hellbent state, it’s not gonna play a bunch
+
+00:08:38.280 --> 00:08:42.490
+of stuff that requires lots of setup because
+that’s the exact sort of deck it’s looking
+
+00:08:42.490 --> 00:08:45.610
+to disorient and hinder through discard spells.
+
+00:08:45.610 --> 00:08:50.190
+Both of these decks are consistent, grindy,
+and interaction-dense, leading them to fit
+
+00:08:50.190 --> 00:08:54.240
+in quite well at a variety of different tables,
+and always feel like they’re contributing
+
+00:08:54.240 --> 00:08:58.740
+something to the game even when other decks
+have significantly stronger cards.
+
+00:08:58.740 --> 00:09:03.520
+When I reflect on games with these old decks,
+there’s something almost paradoxical at
+
+00:09:03.520 --> 00:09:04.520
+play.
+
+00:09:04.520 --> 00:09:08.220
+These highly-optimized decks, decks that are
+overwhelmingly dedicated to nuts-and-bolts
+
+00:09:08.220 --> 00:09:13.000
+functionality over all else, led to gameplay
+that was way more fun to me than a lot of
+
+00:09:13.000 --> 00:09:17.930
+games with more conventional EDH decks that
+have wacky card choices and perform lots of
+
+00:09:17.930 --> 00:09:19.760
+big, splashy plays.
+
+00:09:19.760 --> 00:09:24.890
+Playing decks that are packed with interaction
+and also resilient to setbacks leads to fewer
+
+00:09:24.890 --> 00:09:29.810
+feel-bad I’m-doing-nothing moments, and
+way more moments where it feels like you’re
+
+00:09:29.810 --> 00:09:33.770
+actually playing a multiplayer game where
+different players are trying to navigate their
+
+00:09:33.770 --> 00:09:37.170
+way to a win while keeping their opponents
+in check.
+
+00:09:37.170 --> 00:09:41.600
+And this is certainly not to say that playing
+with a pool of hyper-optimized $30 decks is
+
+00:09:41.600 --> 00:09:46.380
+only the way to achieve this—there are plenty
+of things that people find fun about EDH that
+
+00:09:46.380 --> 00:09:51.200
+won’t be found in an environment like this,
+and there’s a reason my play group doesn’t
+
+00:09:51.200 --> 00:09:53.700
+play exclusively with these decks anymore.
+
+00:09:53.700 --> 00:09:58.420
+However, I think it’s worthwhile to consider
+these sorts of decks as an example of how
+
+00:09:58.420 --> 00:10:01.110
+EDH can be played.
+
+00:10:01.110 --> 00:10:06.030
+We can think about EDH decks along a spectrum,
+with the most interactionless, high variance
+
+00:10:06.030 --> 00:10:10.990
+decks out there on one end of things, and
+then decks like these which prioritize consistency,
+
+00:10:10.990 --> 00:10:15.399
+resiliency, and interactiveness above all
+else over on the opposite end.
+
+00:10:15.399 --> 00:10:19.440
+If you’re finding your games too frequently
+feeling like a roll of the dice, where some
+
+00:10:19.440 --> 00:10:24.090
+person happens into an insane opening and
+then runs away with the game, just know that
+
+00:10:24.090 --> 00:10:26.500
+swinginess is a malleable feature.
+
+00:10:26.500 --> 00:10:30.290
+You can move along this spectrum of gameplay,
+and reducing the swinginess of your games
+
+00:10:30.290 --> 00:10:34.570
+can be as simple as following the two deckbuilding
+tips I’ve been mentioning in this video—running
+
+00:10:34.570 --> 00:10:39.260
+more interaction, and improving a deck’s
+consistency and resiliency by removing payoff
+
+00:10:39.260 --> 00:10:42.470
+cards that are unnecessary or difficult-to-fulfill.
+
+00:10:42.470 --> 00:10:46.040
+Doing these things will generally reduce the
+frustrating feeling of playing a deck that
+
+00:10:46.040 --> 00:10:51.190
+feels like it’s doing nothing, and a table
+with relatively consistent, interactive decks
+
+00:10:51.190 --> 00:10:55.460
+will feel much more dynamic and balanced regardless
+of how powerful each of those decks actually
+
+00:10:55.460 --> 00:10:55.470
+are.
+

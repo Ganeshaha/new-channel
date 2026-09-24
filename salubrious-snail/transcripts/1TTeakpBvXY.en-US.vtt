@@ -1,0 +1,488 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.160 --> 00:00:04.160
+I’m working on a little project right now&nbsp;
+and I need your help! All the details are&nbsp;&nbsp;
+
+00:00:04.160 --> 00:00:08.320
+on a YouTube post I’m linking, but basically&nbsp;
+I’m building a deck around an unknown event&nbsp;&nbsp;
+
+00:00:08.320 --> 00:00:13.440
+card created for me using feedback from both my&nbsp;
+in-person opponents and my online audience. If&nbsp;&nbsp;
+
+00:00:13.440 --> 00:00:17.360
+you want to suggest cards that could go in the&nbsp;
+deck, you can do that under the YouTube post,&nbsp;&nbsp;
+
+00:00:17.360 --> 00:00:21.440
+and if you want to guarantee an on-color&nbsp;
+card going in the deck, you can send it&nbsp;&nbsp;
+
+00:00:21.440 --> 00:00:27.200
+to my PO Box address in the description. With&nbsp;
+that said, let’s get to garbage magic cards.
+
+00:00:27.200 --> 00:00:30.160
+Let’s say you have a type of card that you&nbsp;
+want to see in a lot of games with a given&nbsp;&nbsp;
+
+00:00:30.160 --> 00:00:35.280
+deck—a mana rock, a one-mana creature that gains&nbsp;
+life, or something else. If that’s the case,&nbsp;&nbsp;
+
+00:00:35.280 --> 00:00:39.120
+it can be helpful to run some calculations&nbsp;
+on how often you’ll draw it, either by using&nbsp;&nbsp;
+
+00:00:39.120 --> 00:00:44.320
+a hypergeometric calculator like the one on my&nbsp;
+website or by referencing the built in calculators&nbsp;&nbsp;
+
+00:00:44.320 --> 00:00:48.640
+that a deckbuilding website like Archidekt might&nbsp;
+have. At this point, a lot of players are aware of&nbsp;&nbsp;
+
+00:00:48.640 --> 00:00:54.000
+these sorts of tools, but what they might not be&nbsp;
+aware of is that you can do the opposite—you can&nbsp;&nbsp;
+
+00:00:54.000 --> 00:00:59.280
+check how often you won’t draw cards that suck.&nbsp;
+And, just as you could use this to decide how many&nbsp;&nbsp;
+
+00:00:59.280 --> 00:01:03.840
+of a desirable card type to add, you can also&nbsp;
+do the same deciding how few of an undesirable&nbsp;&nbsp;
+
+00:01:03.840 --> 00:01:09.680
+card type to add. Because it might actually&nbsp;
+be okay to have some bad cards in your deck.
+
+00:01:09.680 --> 00:01:14.800
+But hold on, let’s take a step back here. What&nbsp;
+do I mean when I say bad card, and why would&nbsp;&nbsp;
+
+00:01:14.800 --> 00:01:19.920
+I want to run any of these? Starting with that&nbsp;
+first question, the card in question could truly&nbsp;&nbsp;
+
+00:01:19.920 --> 00:01:26.400
+be a bad card. My Radha Heir to Keld deck has a&nbsp;
+single, permanent “funny seven drop” deck slot.&nbsp;&nbsp;
+
+00:01:26.400 --> 00:01:31.600
+It was occupied by Panglacial Wurm in the past,&nbsp;
+and it’s currently occupied by Tyrant of Discord,&nbsp;&nbsp;
+
+00:01:31.600 --> 00:01:37.520
+with both of these being not very good creatures.&nbsp;
+However, the meaning of bad card could also be a&nbsp;&nbsp;
+
+00:01:37.520 --> 00:01:41.840
+bit more complicated, being a card that is&nbsp;
+either situational or bad without certain&nbsp;&nbsp;
+
+00:01:41.840 --> 00:01:46.640
+other cards to support it. As one example,&nbsp;
+in three different grindy decks I play,&nbsp;&nbsp;
+
+00:01:46.640 --> 00:01:51.600
+there’s a card present that is there entirely for&nbsp;
+the purpose of lifegain. These cards are pretty&nbsp;&nbsp;
+
+00:01:51.600 --> 00:01:56.320
+worthless outside of this task, but they do an&nbsp;
+admirable job in a mid-to-late-game situation&nbsp;&nbsp;
+
+00:01:56.320 --> 00:02:00.720
+where my life total is in a state of peril.&nbsp;
+As another example, in my bracket two deck&nbsp;&nbsp;
+
+00:02:00.720 --> 00:02:05.440
+I run a couple artifact creatures that untap&nbsp;
+things. These cards on their own are terrible,&nbsp;&nbsp;
+
+00:02:05.440 --> 00:02:09.920
+but paired with other cards they can be pretty&nbsp;
+powerful, and Voltaic Construct is technically&nbsp;&nbsp;
+
+00:02:09.920 --> 00:02:14.080
+part of a convoluted infinite combo the deck&nbsp;
+can assemble. As a final example, protection&nbsp;&nbsp;
+
+00:02:14.080 --> 00:02:18.400
+spells fit both of these two criteria as cards&nbsp;
+that aren’t useful until you’re doing something&nbsp;&nbsp;
+
+00:02:18.400 --> 00:02:24.080
+worth protecting, and whose usefulness isn’t&nbsp;
+realized until an opponent tries to disrupt you.
+
+00:02:24.080 --> 00:02:28.960
+So this is what I mean when I say “bad&nbsp;
+cards”—cards that frequently don’t feel very good&nbsp;&nbsp;
+
+00:02:28.960 --> 00:02:33.680
+to draw for one reason or another, particularly&nbsp;
+in the early game. But, why does the category&nbsp;&nbsp;
+
+00:02:33.680 --> 00:02:38.560
+I’m constructing treat these different types of&nbsp;
+card as the same, and if they’re “bad” in some&nbsp;&nbsp;
+
+00:02:38.560 --> 00:02:43.440
+sense then why run them in the first place? The&nbsp;
+answer is that I think of a lot of commander decks&nbsp;&nbsp;
+
+00:02:43.440 --> 00:02:50.000
+as having two very distinct phases: pre-engine,&nbsp;
+and post-engine. In the early phases of a game,&nbsp;&nbsp;
+
+00:02:50.000 --> 00:02:53.840
+you only have access to a very small number&nbsp;
+of cards, and a lot of decks gain access to&nbsp;&nbsp;
+
+00:02:53.840 --> 00:02:59.520
+additional cards through the synergies between&nbsp;
+these early cards. This could take a lot of forms:&nbsp;&nbsp;
+
+00:02:59.520 --> 00:03:02.960
+maybe you have a Wall of Omens and a&nbsp;
+Teleportation Circle. Maybe you follow up&nbsp;&nbsp;
+
+00:03:02.960 --> 00:03:08.000
+your Caustic Bronco with an Isshin. Maybe you&nbsp;
+curve Thran Dynamo into a Pull from Tomorrow.&nbsp;&nbsp;
+
+00:03:08.000 --> 00:03:11.840
+Maybe you just play a standalone draw engine&nbsp;
+like an Esper Sentinel or a Phyrexian Arena,&nbsp;&nbsp;
+
+00:03:11.840 --> 00:03:17.120
+or even a series of one-off spells like Night’s&nbsp;
+Whisper and Harmonize. Regardless, you’re using&nbsp;&nbsp;
+
+00:03:17.120 --> 00:03:22.320
+stuff from your more limited early game card pool&nbsp;
+to help your deck reach a state where it’s online,&nbsp;&nbsp;
+
+00:03:22.320 --> 00:03:26.880
+and has access to a much wider range&nbsp;
+of the different tools within it. And,&nbsp;&nbsp;
+
+00:03:26.880 --> 00:03:31.600
+there are actually a lot of things that can&nbsp;
+help with this. Card draw, tutors, filtering,&nbsp;&nbsp;
+
+00:03:31.600 --> 00:03:36.080
+ramp, or synergy pieces that assist with any of&nbsp;
+these last four things—all of these can help you&nbsp;&nbsp;
+
+00:03:36.080 --> 00:03:41.280
+build up to a point where you’re more flush with&nbsp;
+resources. Removal and defensive cards can also&nbsp;&nbsp;
+
+00:03:41.280 --> 00:03:46.080
+help with this, since they buy you time to get&nbsp;
+that engine up and going. Different cards will&nbsp;&nbsp;
+
+00:03:46.080 --> 00:03:50.640
+help different amounts with this, but quite a&nbsp;
+lot of cards will assist at least a little bit.
+
+00:03:50.640 --> 00:03:54.720
+All of this is well and good, but you still&nbsp;
+might be wondering why exactly I’m drawing&nbsp;&nbsp;
+
+00:03:54.720 --> 00:03:59.600
+this pre-engine and post-engine distinction. The&nbsp;
+answer to that is that once you’re cycling through&nbsp;&nbsp;
+
+00:03:59.600 --> 00:04:04.400
+a more significant amount of your deck per turn,&nbsp;
+whether or not each individual card is useful in&nbsp;&nbsp;
+
+00:04:04.400 --> 00:04:10.000
+a wide variety of situations starts to become a&nbsp;
+lot less important. If I draw five cards and one&nbsp;&nbsp;
+
+00:04:10.000 --> 00:04:14.880
+of them isn’t that useful to me right now, that’s&nbsp;
+okay! I still drew four other cards. This is also&nbsp;&nbsp;
+
+00:04:14.880 --> 00:04:17.760
+the point in the game where you’re going to&nbsp;
+start discarding to hand size if you don’t&nbsp;&nbsp;
+
+00:04:17.760 --> 00:04:22.880
+have a Reliquary Tower effect, and this is one of&nbsp;
+my favorite points in a game to be in. Getting to&nbsp;&nbsp;
+
+00:04:22.880 --> 00:04:27.280
+purge the trash for the first time in a game and&nbsp;
+sculpt a hand of seven beautiful, situationally&nbsp;&nbsp;
+
+00:04:27.280 --> 00:04:33.120
+applicable cards? Delicious. As a slight tangent,&nbsp;
+this sort of reasoning is also why I like a type&nbsp;&nbsp;
+
+00:04:33.120 --> 00:04:39.040
+of budget dual land that a lot of other people&nbsp;
+seem to dislike: the humble fast-land. A land&nbsp;&nbsp;
+
+00:04:39.040 --> 00:04:43.680
+that enters tapped if you control three or more&nbsp;
+other lands might seem kinda bad in theory—in&nbsp;&nbsp;
+
+00:04:43.680 --> 00:04:48.080
+the average bracket 3 commander game you’re&nbsp;
+hopefully making at least seven land drops,&nbsp;&nbsp;
+
+00:04:48.080 --> 00:04:54.000
+so in less than half of land drops will this land&nbsp;
+enter untapped. However, turn four and beyond is&nbsp;&nbsp;
+
+00:04:54.000 --> 00:04:58.480
+also a point in the game at which a lot of decks&nbsp;
+will be drawing or looting or otherwise filtering,&nbsp;&nbsp;
+
+00:04:58.480 --> 00:05:02.640
+enabling them to find their way to a variety&nbsp;
+of different lands with relative ease. The&nbsp;&nbsp;
+
+00:05:02.640 --> 00:05:06.240
+first three turns of the game are the ones where&nbsp;
+you’re going to be hardest pressed to have a land&nbsp;&nbsp;
+
+00:05:06.240 --> 00:05:12.160
+that both enters untapped and gives the colors you&nbsp;
+need, and fast-lands fill in this exact profile.
+
+00:05:12.160 --> 00:05:16.480
+So, if your deck is one that rounds a corner and&nbsp;
+starts to see a lot more cardboard at some point,&nbsp;&nbsp;
+
+00:05:16.480 --> 00:05:22.240
+having a somewhat subpar or situational card is a&nbsp;
+lot less of a problem from that point onward. But&nbsp;&nbsp;
+
+00:05:22.240 --> 00:05:27.360
+what does this mean for the early game? Well,&nbsp;
+as I suggested earlier, you can do a bit of&nbsp;&nbsp;
+
+00:05:27.360 --> 00:05:32.640
+math to see how likely it is for your gameplan&nbsp;
+to get online. One option here is to separate&nbsp;&nbsp;
+
+00:05:32.640 --> 00:05:38.480
+your nonland cards into three buckets. Bucket 1&nbsp;
+is high quality draw and filtering, stuff that&nbsp;&nbsp;
+
+00:05:38.480 --> 00:05:44.160
+finds you to what you need to succeed quickly and&nbsp;
+easily. Bucket 2 is stuff that’s basically useless&nbsp;&nbsp;
+
+00:05:44.160 --> 00:05:49.440
+for getting your deck online—hyper-situational&nbsp;
+cards, protection spells, later game tech pieces,&nbsp;&nbsp;
+
+00:05:49.440 --> 00:05:53.360
+finishers, and stuff that’s just kinda bad&nbsp;
+you’re including for shits and giggles,&nbsp;&nbsp;
+
+00:05:53.360 --> 00:05:59.360
+as is your god-given right. Bucket 3 is all the&nbsp;
+other stuff outside of these two categories: ramp,&nbsp;&nbsp;
+
+00:05:59.360 --> 00:06:04.800
+removal, somewhat narrower draw, and sometimes&nbsp;
+applicable tech pieces. Now, you perform two&nbsp;&nbsp;
+
+00:06:04.800 --> 00:06:10.160
+different checks here. For one, how likely is&nbsp;
+it for you to draw one of your bucket 1 cards,&nbsp;&nbsp;
+
+00:06:10.160 --> 00:06:15.040
+your premium-quality enablers? The larger&nbsp;
+this number is, the better, but there are&nbsp;&nbsp;
+
+00:06:15.040 --> 00:06:20.000
+certainly reasons this number could be lower&nbsp;
+for some decks. Question two is how likely is&nbsp;&nbsp;
+
+00:06:20.000 --> 00:06:24.240
+it for you to draw one of your bucket 2 cards&nbsp;
+that helps you very little in the early game,&nbsp;&nbsp;
+
+00:06:24.240 --> 00:06:29.120
+and possibly more importantly, how likely&nbsp;
+is it for you to draw multiple of these? If&nbsp;&nbsp;
+
+00:06:29.120 --> 00:06:32.960
+you’re running five or so hyper-situational&nbsp;
+cards, the odds of drawing more than one of&nbsp;&nbsp;
+
+00:06:32.960 --> 00:06:38.240
+these is quite low. By contrast, if that number&nbsp;
+starts creeping into the double digits, you might&nbsp;&nbsp;
+
+00:06:38.240 --> 00:06:42.080
+have games where you draw an Overwhelming&nbsp;
+Stampede and a Heroic Intervention in your&nbsp;&nbsp;
+
+00:06:42.080 --> 00:06:48.800
+first ten cards of the game, a Fervor and a Full&nbsp;
+Throttle, a Clever Concealment and a Storm Herd.
+
+00:06:48.800 --> 00:06:53.760
+You can almost think about all of these bucket&nbsp;
+2 “bad cards” as blank for the purposes of your&nbsp;&nbsp;
+
+00:06:53.760 --> 00:06:57.840
+early game. Having a lot of these is generally&nbsp;
+going to slow your timeline for getting off&nbsp;&nbsp;
+
+00:06:57.840 --> 00:07:02.880
+the ground and lead to more stallouts, but you&nbsp;
+can counterbalance this tendency with a greater&nbsp;&nbsp;
+
+00:07:02.880 --> 00:07:08.160
+amount of Bucket 1 cards—high quality draw and&nbsp;
+filtering. Hitting a string of situational cards&nbsp;&nbsp;
+
+00:07:08.160 --> 00:07:12.320
+you won’t want until later in the game can be a&nbsp;
+problem, but it might not be if you have a lot&nbsp;&nbsp;
+
+00:07:12.320 --> 00:07:16.560
+of filtering and draw and tutors at the ready&nbsp;
+to cut you through this dead zone of your deck.
+
+00:07:16.560 --> 00:07:21.440
+So, how much trash is it okay to put in your&nbsp;
+deck? I mean, don’t let me stop you from living&nbsp;&nbsp;
+
+00:07:21.440 --> 00:07:25.680
+your best life, especially if you’re more in&nbsp;
+bracket 2 territory, but the realistic answer&nbsp;&nbsp;
+
+00:07:25.680 --> 00:07:29.440
+is that it depends on what the rest of your&nbsp;
+deck is doing. If we’re talking about some&nbsp;&nbsp;
+
+00:07:29.440 --> 00:07:33.360
+terrible pet cards that you would literally die&nbsp;
+for, take a look at how many other cards you’re&nbsp;&nbsp;
+
+00:07:33.360 --> 00:07:37.920
+running that you’d be kinda bummed to draw&nbsp;
+before turn 5. If that number is very low,&nbsp;&nbsp;
+
+00:07:37.920 --> 00:07:41.600
+you’re probably okay to add some garbage to your&nbsp;
+deck! Treat this as your reward for being such&nbsp;&nbsp;
+
+00:07:41.600 --> 00:07:46.720
+a responsible deckbuilder in other ways. If that&nbsp;
+number is stretching into double digits territory,&nbsp;&nbsp;
+
+00:07:46.720 --> 00:07:50.480
+you’ll want to be a bit more careful. How&nbsp;
+much general-purpose draw and filtering are&nbsp;&nbsp;
+
+00:07:50.480 --> 00:07:55.040
+you running?How broadly useful is your commander&nbsp;
+for generating resources and helping your deck get&nbsp;&nbsp;
+
+00:07:55.040 --> 00:08:01.040
+going? My deck with the highest number of bucket&nbsp;
+2 cards is my Meria voltron deck, with a ton of&nbsp;&nbsp;
+
+00:08:01.040 --> 00:08:06.000
+protection as well as equipments that give extra&nbsp;
+damage and evasion. With any other commander,&nbsp;&nbsp;
+
+00:08:06.000 --> 00:08:09.440
+this deck’s ratios would make no sense at all&nbsp;
+and it would flail around doing nothing most&nbsp;&nbsp;
+
+00:08:09.440 --> 00:08:13.840
+of the time. However, because Meria is a sweet&nbsp;
+draw engine and one of the best mana producers&nbsp;&nbsp;
+
+00:08:13.840 --> 00:08:18.880
+in the game, and because my deck is pretty decent&nbsp;
+at protecting her, it ends up working out most of&nbsp;&nbsp;
+
+00:08:18.880 --> 00:08:23.920
+the time. Likewise, it’s not a coincidence that&nbsp;
+my one bracket 3 deck where I allow myself to&nbsp;&nbsp;
+
+00:08:23.920 --> 00:08:29.280
+indulge in significantly more janky pet cards is&nbsp;
+also one where I have a mana dork commander and&nbsp;&nbsp;
+
+00:08:29.280 --> 00:08:34.080
+a massive pile of four cost ramp spells and 6-7&nbsp;
+cost bombs that I’m pretty much always happy to&nbsp;&nbsp;
+
+00:08:34.080 --> 00:08:39.120
+draw. Craft the foundation of your deck in a&nbsp;
+way that’s maximally consistent and flexible,&nbsp;&nbsp;
+
+00:08:39.120 --> 00:08:43.760
+and the amount of room to sprinkle garbage&nbsp;
+into that bad boy might just surprise you.
+
+00:08:43.760 --> 00:08:47.280
+Thanks for watching! Make sure to check out&nbsp;
+the YouTube post in the description if you&nbsp;&nbsp;
+
+00:08:47.280 --> 00:08:51.200
+want to contribute to that, and another thing&nbsp;
+you can check out is fantastic products from&nbsp;&nbsp;
+
+00:08:51.200 --> 00:08:55.840
+Dragonshield. I’m a longtime enjoyer of their&nbsp;
+dual matte sleeves, with my Radha deck still&nbsp;&nbsp;
+
+00:08:55.840 --> 00:09:00.480
+going strong in the same set of peach sleeves&nbsp;
+thousands of shuffles in. Sleeves that have&nbsp;&nbsp;
+
+00:09:00.480 --> 00:09:04.160
+been used that heavily have a really interesting&nbsp;
+shuffle feel to them, but that’s not something&nbsp;&nbsp;
+
+00:09:04.160 --> 00:09:08.000
+you’ll ever get to experience with most other&nbsp;
+brands. Dragonshield has also been expanding out&nbsp;&nbsp;
+
+00:09:08.000 --> 00:09:12.880
+into deckboxes and other storage methods, which&nbsp;
+I’m also a fan of—the deckboxes are elegant and&nbsp;&nbsp;
+
+00:09:12.880 --> 00:09:16.800
+effective. Get 5% off your order at the link&nbsp;
+in the description, and you’ll be helping the&nbsp;&nbsp;
+
+00:09:16.800 --> 00:09:20.560
+channel in the process. If you want to support&nbsp;
+the channel more directly, you can sign up for&nbsp;&nbsp;
+
+00:09:20.560 --> 00:09:25.040
+my Patreon or a YouTube membership. I’m in the&nbsp;
+process of moving right now, which is exciting in&nbsp;&nbsp;
+
+00:09:25.040 --> 00:09:29.280
+some ways but also expensive, so any extra dough&nbsp;
+to throw at gas and craigslist furniture is much&nbsp;&nbsp;
+
+00:09:29.280 --> 00:09:33.248
+appreciated! A big thanks to current Patrons&nbsp;
+and YouTube members for their ongoing support.
+

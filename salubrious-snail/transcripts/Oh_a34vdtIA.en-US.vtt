@@ -1,0 +1,829 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.400 --> 00:00:05.600
+I have been doing reviews of my supporters’&nbsp;
+decks for almost two years now, and over that&nbsp;&nbsp;
+
+00:00:05.600 --> 00:00:09.600
+time I’ve noticed some patterns, some&nbsp;
+common stumbling blocks that a lot of&nbsp;&nbsp;
+
+00:00:09.600 --> 00:00:14.240
+players tend to hit. This isn’t just the&nbsp;
+new players either—I’m sampling here from&nbsp;&nbsp;
+
+00:00:14.240 --> 00:00:17.920
+players who watch my videos and like&nbsp;
+them enough to give me money about it,&nbsp;&nbsp;
+
+00:00:17.920 --> 00:00:22.400
+and that’s to say nothing of the deckbuilding&nbsp;
+mistakes I occasionally catch myself making&nbsp;&nbsp;
+
+00:00:22.400 --> 00:00:26.720
+and need to correct. Having just finished up&nbsp;
+a deck review, which you can check out on my&nbsp;&nbsp;
+
+00:00:26.720 --> 00:00:30.320
+second channel if you’d like, I did the&nbsp;
+sort of normal thing you might expect of&nbsp;&nbsp;
+
+00:00:30.320 --> 00:00:35.120
+me—I went back through every single deck I’ve&nbsp;
+ever reviewed, looked at what feedback I gave,&nbsp;&nbsp;
+
+00:00:35.120 --> 00:00:41.520
+and tallied up the number of each general family&nbsp;
+of critique I gave. And, this video is that—the&nbsp;&nbsp;
+
+00:00:41.520 --> 00:00:46.800
+most common deckbuilding mistakes I see and a&nbsp;
+brief discussion of how to avoid each of them.
+
+00:00:46.800 --> 00:00:52.640
+#5: Your deck is unfocused on the&nbsp;
+macro level, or in terms of its goals
+
+00:00:52.640 --> 00:00:57.680
+This is a piece of feedback I’ve given 7 times&nbsp;
+in my reviews, and of these five mistakes this&nbsp;&nbsp;
+
+00:00:57.680 --> 00:01:02.800
+is the one I see most commonly with newer players.&nbsp;
+There are lots of decks that are built around some&nbsp;&nbsp;
+
+00:01:02.800 --> 00:01:08.080
+central synergy pillar like lifegain or +1/+1&nbsp;
+counters or self-discard, and this is a great&nbsp;&nbsp;
+
+00:01:08.080 --> 00:01:12.640
+place to start when you’re building an EDH deck.&nbsp;
+Where the issues start to show up is when a player&nbsp;&nbsp;
+
+00:01:12.640 --> 00:01:17.520
+builds a deck centered around a specific element,&nbsp;
+but doesn’t have any sense of direction for the&nbsp;&nbsp;
+
+00:01:17.520 --> 00:01:21.120
+rest of their deck. What this usually means in&nbsp;
+practice is that somebody has a whole bunch of&nbsp;&nbsp;
+
+00:01:21.120 --> 00:01:25.440
+different payoffs for a particular mechanic, but&nbsp;
+with these payoffs shooting off in a variety of&nbsp;&nbsp;
+
+00:01:25.440 --> 00:01:29.840
+different directions with no rhyme or reason.&nbsp;
+If I’m building a landfall deck and looking for&nbsp;&nbsp;
+
+00:01:29.840 --> 00:01:34.000
+payoffs, I can add cards that make tokens, cards&nbsp;
+that buff my creatures, cards that gain me life,&nbsp;&nbsp;
+
+00:01:34.000 --> 00:01:37.840
+cards that damage opponents, cards that generate&nbsp;
+value, cards that hinder opposing creatures,&nbsp;&nbsp;
+
+00:01:37.840 --> 00:01:41.760
+and a whole bunch of other tasks that&nbsp;
+are much more specific. It is totally&nbsp;&nbsp;
+
+00:01:41.760 --> 00:01:45.440
+possible that I grab a couple clusters of&nbsp;
+cards that end up working well together.&nbsp;&nbsp;
+
+00:01:45.440 --> 00:01:49.600
+Maybe I pull together token-producing landfall&nbsp;
+cards along with landfall cards that buff wide&nbsp;&nbsp;
+
+00:01:49.600 --> 00:01:55.440
+boards, plus a couple options for ramp, value, and&nbsp;
+combat amplification sprinkled on top. However,&nbsp;&nbsp;
+
+00:01:55.440 --> 00:01:59.840
+it’s easy to imagine this going wrong as&nbsp;
+well—maybe I’m starting from the place&nbsp;&nbsp;
+
+00:01:59.840 --> 00:02:04.880
+of some tokens and buffs but then I add one or two&nbsp;
+damaging cards like Tunneling Geopede. Suddenly,&nbsp;&nbsp;
+
+00:02:04.880 --> 00:02:09.600
+the clarity of my gameplan has been diluted a&nbsp;
+little, with incremental damage being played&nbsp;&nbsp;
+
+00:02:09.600 --> 00:02:14.800
+alongside the big, dramatic swings of the token&nbsp;
+beatdown plan, and taking up a slot that could&nbsp;&nbsp;
+
+00:02:14.800 --> 00:02:20.560
+have helped that token plan more. Now let’s&nbsp;
+say I add a card like Grazing Gladehart. Well,&nbsp;&nbsp;
+
+00:02:20.560 --> 00:02:25.040
+lifegain can be nice for stabilizing a deck that&nbsp;
+is slow or light on creatures, and it can also be&nbsp;&nbsp;
+
+00:02:25.040 --> 00:02:29.760
+good paired with lifegain payoffs. But neither&nbsp;
+of those things are going to be true about our&nbsp;&nbsp;
+
+00:02:29.760 --> 00:02:34.480
+landfall beatdown deck, and adding lifegain just&nbsp;
+adds fluff that doesn’t serve our deck’s goals.
+
+00:02:34.480 --> 00:02:38.480
+Ultimately, this problem will typically be&nbsp;
+ironed out in the process of tuning a deck&nbsp;&nbsp;
+
+00:02:38.480 --> 00:02:44.000
+and figuring out exactly where it wants to be&nbsp;
+going. A necessary lesson here is in restraint:&nbsp;&nbsp;
+
+00:02:44.000 --> 00:02:48.160
+knowing when to exclude a card even when it&nbsp;
+theoretically has a bit of synergy with what&nbsp;&nbsp;
+
+00:02:48.160 --> 00:02:51.920
+you’re building. Part of why this mistake&nbsp;
+is especially common among newer players is&nbsp;&nbsp;
+
+00:02:51.920 --> 00:02:55.680
+because it often takes a bit of card knowledge&nbsp;
+to know what might serve a deck’s interests more&nbsp;&nbsp;
+
+00:02:55.680 --> 00:03:00.320
+than the 18th landfall card or the 13th lifegain&nbsp;
+payoff. If you’re cruising through scryfall with&nbsp;&nbsp;
+
+00:03:00.320 --> 00:03:04.960
+a certain search term related to your synergy&nbsp;
+family, it’s easy to just add endlessly until&nbsp;&nbsp;
+
+00:03:04.960 --> 00:03:09.920
+your deck space has filled up, and this will&nbsp;
+create a deck that does something. The trick is&nbsp;&nbsp;
+
+00:03:09.920 --> 00:03:14.160
+learning to crank up the specificity, and turning&nbsp;
+a soup of generic payoffs into a deck that knows&nbsp;&nbsp;
+
+00:03:14.160 --> 00:03:18.000
+what it is and where it wants to be going. If&nbsp;
+this sounds like something you struggle with,&nbsp;&nbsp;
+
+00:03:18.000 --> 00:03:22.640
+I made two videos last year that both heavily&nbsp;
+cover this topic, one about building decks&nbsp;&nbsp;
+
+00:03:22.640 --> 00:03:27.360
+that win, and one covering decks oriented&nbsp;
+around a creature type. Those are in the&nbsp;&nbsp;
+
+00:03:27.360 --> 00:03:31.520
+description if you want to check them out&nbsp;
+a bit later, but for now let’s move on to…
+
+00:03:31.520 --> 00:03:35.440
+#4: Your deck is vulnerable to opposing hate
+
+00:03:35.440 --> 00:03:40.080
+I’ve said this about 8 decks in my reviews,&nbsp;
+and it’s a classic one. Some decks are a bit&nbsp;&nbsp;
+
+00:03:40.080 --> 00:03:44.400
+of a glass cannon—they have the potential to be&nbsp;
+very powerful, but can easily get kneecapped and&nbsp;&nbsp;
+
+00:03:44.400 --> 00:03:48.720
+do nothing. There are other decks that simply&nbsp;
+have vulnerable gameplans in some way or other&nbsp;&nbsp;
+
+00:03:48.720 --> 00:03:54.000
+due to having an expensive commander or a gameplan&nbsp;
+that invests heavily into a particular resource.&nbsp;&nbsp;
+
+00:03:54.000 --> 00:03:58.960
+Regardless of the reason, decks whose gameplans&nbsp;
+are fragile in some way are common, and it’s good&nbsp;&nbsp;
+
+00:03:58.960 --> 00:04:04.240
+to mitigate a bit of fragility if doing so doesn’t&nbsp;
+have too much of an opportunity cost. The most&nbsp;&nbsp;
+
+00:04:04.240 --> 00:04:08.960
+popular suggestion here is protection, but this&nbsp;
+is where I need to get into a bit of an awkward&nbsp;&nbsp;
+
+00:04:08.960 --> 00:04:13.920
+confession—I don’t like protection spells very&nbsp;
+much. I have a Voltron deck that uses a bunch of&nbsp;&nbsp;
+
+00:04:13.920 --> 00:04:18.400
+protection cards to decent effect, but I’ve had&nbsp;
+multiple other protection-heavy decks that just&nbsp;&nbsp;
+
+00:04:18.400 --> 00:04:23.840
+felt kinda bad to play. Protection feels great to&nbsp;
+have when I’m ahead, but when I’m behind they’re&nbsp;&nbsp;
+
+00:04:23.840 --> 00:04:28.560
+the most useless pieces of garbage clogging up my&nbsp;
+hand that I can possibly imagine. I will happily&nbsp;&nbsp;
+
+00:04:28.560 --> 00:04:33.440
+accept that this is a me problem, but this is also&nbsp;
+my youtube video, so I’m going to tell you about a&nbsp;&nbsp;
+
+00:04:33.440 --> 00:04:38.240
+bunch of ways to increase a deck’s durability&nbsp;
+without adding purpose-made protection spells.
+
+00:04:38.240 --> 00:04:42.640
+Firstly, some protection spells are useful&nbsp;
+outside of protecting a key creature from removal,&nbsp;&nbsp;
+
+00:04:42.640 --> 00:04:46.960
+my favorite category of which is Counterspells.&nbsp;
+There are certainly other examples of this&nbsp;&nbsp;
+
+00:04:46.960 --> 00:04:51.440
+though—flicker spells like Ghostway can get&nbsp;
+a bunch of extra value off of ETB creatures,&nbsp;&nbsp;
+
+00:04:51.440 --> 00:04:56.240
+and protection-from spells are a form&nbsp;
+of evasion. There’s also the boot&nbsp;&nbsp;
+
+00:04:56.240 --> 00:05:00.400
+equipments that grant both a protective&nbsp;
+keyword and haste. Speaking of which,&nbsp;&nbsp;
+
+00:05:00.400 --> 00:05:05.360
+Haste! The worst feeling is having a creature&nbsp;
+eat dirt before it could do anything at all,&nbsp;&nbsp;
+
+00:05:05.360 --> 00:05:10.080
+but if you have a creature you want to attack with&nbsp;
+or activate a tap ability of, giving it haste in&nbsp;&nbsp;
+
+00:05:10.080 --> 00:05:15.120
+some form or other fully prevents this. Though you&nbsp;
+might be thinking “but Alex, I’m a blue player,&nbsp;&nbsp;
+
+00:05:15.120 --> 00:05:20.080
+I can’t run Anger or Arena of Glory.” You’re&nbsp;
+right about that, but what you can run is&nbsp;&nbsp;
+
+00:05:20.080 --> 00:05:24.880
+Leyline of Anticipation or Alchemist’s Refuge.&nbsp;
+Saving your deck’s pivotal setup plays for an&nbsp;&nbsp;
+
+00:05:24.880 --> 00:05:29.040
+opposing endstep rather than trotting them out&nbsp;
+on your main phase dramatically increases the&nbsp;&nbsp;
+
+00:05:29.040 --> 00:05:33.520
+odds that you’ll actually get to use them, and&nbsp;
+effectively increases the amount of mana you get&nbsp;&nbsp;
+
+00:05:33.520 --> 00:05:39.760
+to spend uninterrupted by opposing main phases.&nbsp;
+This brings me to my final suggestion—ramp! If you&nbsp;&nbsp;
+
+00:05:39.760 --> 00:05:43.680
+have cards that like to be played together but&nbsp;
+which cost a lot of mana, you might be tempted&nbsp;&nbsp;
+
+00:05:43.680 --> 00:05:48.560
+to play one, have it sit around naked out in the&nbsp;
+cold for a whole turn cycle before finally playing&nbsp;&nbsp;
+
+00:05:48.560 --> 00:05:53.280
+the card that synergizes with it. By simply&nbsp;
+having more mana you can avoid this issue,&nbsp;&nbsp;
+
+00:05:53.280 --> 00:05:58.400
+and ramp also works well for bouncing back after&nbsp;
+a setback so long as you have cards in hand.
+
+00:05:58.400 --> 00:06:01.280
+If you like this video so far,&nbsp;
+you should smash that like button,&nbsp;&nbsp;
+
+00:06:01.280 --> 00:06:05.760
+eviscerate that subscribe button, and obliterate&nbsp;
+your current state of not giving me a few dollars&nbsp;&nbsp;
+
+00:06:05.760 --> 00:06:10.480
+by signing up for my patreon, or a YouTube&nbsp;
+membership. I made a supporter-only companion&nbsp;&nbsp;
+
+00:06:10.480 --> 00:06:14.160
+piece to this videos that covers some&nbsp;
+deckbuilding mistakes I’ve made this year,&nbsp;&nbsp;
+
+00:06:14.160 --> 00:06:18.800
+and a preview for that will be at the end&nbsp;
+of this video. With that said, let’s get to…
+
+00:06:18.800 --> 00:06:22.400
+#3: Your deck isn’t proactive enough
+
+00:06:22.400 --> 00:06:27.600
+I’ve had this piece of critique for 10 decks, and&nbsp;
+it’s sort of related to the unfocused goals issue&nbsp;&nbsp;
+
+00:06:27.600 --> 00:06:32.640
+in the sense that both are concerned with a deck’s&nbsp;
+ability to win games, but the types of deck I have&nbsp;&nbsp;
+
+00:06:32.640 --> 00:06:37.680
+this to say about are quite different from those&nbsp;
+decks. When I say a deck isn’t proactive enough,&nbsp;&nbsp;
+
+00:06:37.680 --> 00:06:42.320
+I’m typically talking about a deck that is already&nbsp;
+doing a decent job of managing opposing decks in&nbsp;&nbsp;
+
+00:06:42.320 --> 00:06:46.640
+some way or other. Maybe it’s a political or&nbsp;
+pillowfort deck with tools to keep opposing&nbsp;&nbsp;
+
+00:06:46.640 --> 00:06:51.520
+creatures away, or maybe it’s a control deck with&nbsp;
+lots of removal and counterspells. Regardless,&nbsp;&nbsp;
+
+00:06:51.520 --> 00:06:57.040
+the issue here is usually that a deck is spending&nbsp;
+too much space on this task, and fails to create&nbsp;&nbsp;
+
+00:06:57.040 --> 00:07:02.400
+its own gameplan. The most common place we see&nbsp;
+this is with “goad decks”, which if I’m being&nbsp;&nbsp;
+
+00:07:02.400 --> 00:07:07.360
+honest is a pair of two words that don’t really&nbsp;
+belong together. If you’re adding a goad card to&nbsp;&nbsp;
+
+00:07:07.360 --> 00:07:12.000
+your deck, its effectiveness will be inversely&nbsp;
+proportional to the number of goad cards already&nbsp;&nbsp;
+
+00:07:12.000 --> 00:07:15.920
+in your deck. The first two or three goad cards&nbsp;
+might feel great for redirecting the heat of&nbsp;&nbsp;
+
+00:07:15.920 --> 00:07:20.160
+opposing creatures, and maybe even the fifth&nbsp;
+or sixth one as well depending on what you find&nbsp;&nbsp;
+
+00:07:20.160 --> 00:07:24.400
+yourself playing against. Much past that, though,&nbsp;
+and you’re gonna find yourself drawing multiple&nbsp;&nbsp;
+
+00:07:24.400 --> 00:07:28.640
+of them, and maybe there isn’t a great thing&nbsp;
+to goad in a given moment. Sometimes opponents&nbsp;&nbsp;
+
+00:07:28.640 --> 00:07:32.880
+will have lots of great things to goad, but other&nbsp;
+times there might only be a single key attacker,&nbsp;&nbsp;
+
+00:07:32.880 --> 00:07:37.120
+with everything else being an anemic little&nbsp;
+goober, and in that case you’ve been handed the&nbsp;&nbsp;
+
+00:07:37.120 --> 00:07:42.080
+decision of either using a goad card suboptimally,&nbsp;
+or having it sit in hand doing nothing at all.
+
+00:07:42.080 --> 00:07:46.960
+With goad in particular, I think part of the&nbsp;
+issue is that players treat goad as a plan for&nbsp;&nbsp;
+
+00:07:46.960 --> 00:07:51.280
+winning in and of itself, when it’s really&nbsp;
+not a mechanic that can be relied on to do&nbsp;&nbsp;
+
+00:07:51.280 --> 00:07:56.880
+that. It can be a plan for softening opponents&nbsp;
+a bit, but I prefer to play it safe and treat&nbsp;&nbsp;
+
+00:07:56.880 --> 00:08:01.440
+goad cards as defensive tools for the early-mid&nbsp;
+game that might occasionally come with a bit of&nbsp;&nbsp;
+
+00:08:01.440 --> 00:08:06.400
+damage and disruption as a side benefit. It’s&nbsp;
+easy to overload on something like goad if you&nbsp;&nbsp;
+
+00:08:06.400 --> 00:08:11.520
+consider it “your plan” but pretend your goad&nbsp;
+cards are fogs instead and suddenly your deck&nbsp;&nbsp;
+
+00:08:11.520 --> 00:08:17.360
+with 12 fogs in it is looking a little suspect.&nbsp;
+This ties in with how a deck is categorized—if&nbsp;&nbsp;
+
+00:08:17.360 --> 00:08:21.920
+you give an effect like goad its own category&nbsp;
+in a deckbuilding website like Archidekt,&nbsp;&nbsp;
+
+00:08:21.920 --> 00:08:26.000
+you’re giving your brain the opportunity to&nbsp;
+draw up heuristics anytime you look at your&nbsp;&nbsp;
+
+00:08:26.000 --> 00:08:30.720
+deck. Even if your conscious mind knows&nbsp;
+the limitations of a mechanic like goad,&nbsp;&nbsp;
+
+00:08:30.720 --> 00:08:34.880
+you might have lingering subconscious bias that&nbsp;
+causes you to feel overly comfortable in the&nbsp;&nbsp;
+
+00:08:34.880 --> 00:08:40.240
+state of your deck looking at a category of seven&nbsp;
+goad cards, and this can be prevented by simply&nbsp;&nbsp;
+
+00:08:40.240 --> 00:08:45.120
+categorizing cards based on what role they’re&nbsp;
+playing instead. In most decks I’d probably&nbsp;&nbsp;
+
+00:08:45.120 --> 00:08:49.840
+choose defense as the primary task that goad&nbsp;
+accomplishes, but in my Malfegor deck I have&nbsp;&nbsp;
+
+00:08:49.840 --> 00:08:54.800
+Kardur in removal as a primary category, since&nbsp;
+a big goal of removal in that deck is to clear&nbsp;&nbsp;
+
+00:08:54.800 --> 00:09:00.240
+out blockers and buy me time between Malfegor&nbsp;
+ETBs, and that’s what Kardur does. Notably,&nbsp;&nbsp;
+
+00:09:00.240 --> 00:09:05.360
+though, I also have Kardur packaged with my&nbsp;
+damaging effects in a secondary category since&nbsp;&nbsp;
+
+00:09:05.360 --> 00:09:10.640
+he can help with life total pressure as a side&nbsp;
+benefit—not the main benefit, but a side benefit.
+
+00:09:10.640 --> 00:09:15.680
+This logic also applies to a lesser extent with&nbsp;
+any other type of deck that uses opposing tools&nbsp;&nbsp;
+
+00:09:15.680 --> 00:09:20.960
+to win. Some theft commanders give players a&nbsp;
+gentle nudge toward proactivity—both Admiral&nbsp;&nbsp;
+
+00:09:20.960 --> 00:09:24.960
+Beckett Brass and Gonti Canny Acquisitor&nbsp;
+require connecting with opposing life&nbsp;&nbsp;
+
+00:09:24.960 --> 00:09:29.120
+totals to start thieving in the first place,&nbsp;
+so your commander is already pushing you to&nbsp;&nbsp;
+
+00:09:29.120 --> 00:09:35.840
+have your own plan for winning. In other cases,&nbsp;
+though, players will make theft the main plan,&nbsp;&nbsp;
+
+00:09:35.840 --> 00:09:41.760
+and then they’ll simply assume that wincons will&nbsp;
+arrive naturally. Surely my Gonti will find me a&nbsp;&nbsp;
+
+00:09:41.760 --> 00:09:46.880
+tasty card to destroy my opponents with. And&nbsp;
+maybe that will happen, but maybe it won’t&nbsp;&nbsp;
+
+00:09:46.880 --> 00:09:51.680
+as well—quite a lot of ways to win the game are&nbsp;
+tied into synergy packages in some form or other,&nbsp;&nbsp;
+
+00:09:51.680 --> 00:09:55.200
+and whereas the tokens player has a whole&nbsp;
+deck full of token generation for their&nbsp;&nbsp;
+
+00:09:55.200 --> 00:09:59.840
+overrun effects to pump up, you’re over there&nbsp;
+putting up some meager imitation of their plan&nbsp;&nbsp;
+
+00:09:59.840 --> 00:10:04.000
+with the small handful of creatures you’ve&nbsp;
+managed to scrounge together. For this reason,&nbsp;&nbsp;
+
+00:10:04.000 --> 00:10:08.880
+I like to play it safe with these as well. There’s&nbsp;
+a decent chance a theft card will find you some&nbsp;&nbsp;
+
+00:10:08.880 --> 00:10:14.400
+removal or some ramp, maybe even some draw as long&nbsp;
+as it’s not tied in deeply with a synergy package.&nbsp;&nbsp;
+
+00:10:14.400 --> 00:10:18.720
+All three of these things are important, and&nbsp;
+having a card that probably gives you access&nbsp;&nbsp;
+
+00:10:18.720 --> 00:10:23.200
+to some of them can be quite helpful.&nbsp;
+But, it’s simply not a reliable plan&nbsp;&nbsp;
+
+00:10:23.200 --> 00:10:28.720
+for closing out a game, and internalizing&nbsp;
+that fact will cause you to win more games.
+
+00:10:28.720 --> 00:10:32.480
+#2: Your deck isn’t reactive enough
+
+00:10:32.480 --> 00:10:38.480
+I’ve mentioned this for 13 decks, and this ties&nbsp;
+in closely with the last problem. While some decks&nbsp;&nbsp;
+
+00:10:38.480 --> 00:10:43.440
+overload on defensive or control tools and fail&nbsp;
+to spend adequate deck space on their own plan,&nbsp;&nbsp;
+
+00:10:43.440 --> 00:10:49.040
+other decks do the opposite, under-investing in&nbsp;
+ways to deal with opposing gameplans. A natural&nbsp;&nbsp;
+
+00:10:49.040 --> 00:10:54.160
+question might be “what does under-investing in&nbsp;
+interaction look like” and you might be expecting&nbsp;&nbsp;
+
+00:10:54.160 --> 00:11:00.320
+me to give some magic number, possibly a large&nbsp;
+magic number. And you wouldn’t be unreasonable&nbsp;&nbsp;
+
+00:11:00.320 --> 00:11:05.040
+to assume such a thing—most of my decks&nbsp;
+feature 20 or more pieces of interaction.&nbsp;&nbsp;
+
+00:11:05.040 --> 00:11:10.640
+But, I’ve actually reviewed a number of decks that&nbsp;
+feature 8 or 7 or even 5 pieces of interaction,&nbsp;&nbsp;
+
+00:11:10.640 --> 00:11:15.840
+and where I’m okay with that number. What these&nbsp;
+decks have in common is that they are tight on&nbsp;&nbsp;
+
+00:11:15.840 --> 00:11:20.480
+space and ruthlessly proactive. They have&nbsp;
+some bold plan that requires a lot of deck&nbsp;&nbsp;
+
+00:11:20.480 --> 00:11:24.880
+coordination to set up right, and their deck&nbsp;
+is all about making that plan a problem for&nbsp;&nbsp;
+
+00:11:24.880 --> 00:11:29.680
+their opponents to deal with. And, that is a&nbsp;
+valid strategy. If you have a voltron-adjacent&nbsp;&nbsp;
+
+00:11:29.680 --> 00:11:34.000
+deck that can deliver a lot of beatdown in short&nbsp;
+order, you might be able to snuff out a potential&nbsp;&nbsp;
+
+00:11:34.000 --> 00:11:38.640
+problem player before they play something you&nbsp;
+might want to remove. If you have a deck that&nbsp;&nbsp;
+
+00:11:38.640 --> 00:11:42.080
+creates a lot of life total pressure for the&nbsp;
+table, you might be able to get opponents to&nbsp;&nbsp;
+
+00:11:42.080 --> 00:11:47.200
+an uncomfortably low life total before they can&nbsp;
+develop super far, which makes greedy value plays&nbsp;&nbsp;
+
+00:11:47.200 --> 00:11:51.760
+much more challenging for them to pull off. And&nbsp;
+obviously, if you have a deck that can outright&nbsp;&nbsp;
+
+00:11:51.760 --> 00:11:56.880
+win relatively quickly, there’s all sorts of&nbsp;
+late game nonsense you won’t need to remove.
+
+00:11:56.880 --> 00:12:01.680
+With this in mind, the reason why I so frequently&nbsp;
+recommend more interaction to people is because&nbsp;&nbsp;
+
+00:12:01.680 --> 00:12:06.400
+their decks don’t do any of what I just mentioned.&nbsp;
+If you’ve built a standard midrangy thing that&nbsp;&nbsp;
+
+00:12:06.400 --> 00:12:11.440
+wins on a very average timeline, you need some&nbsp;
+ways to slow opposing plans or your chances of&nbsp;&nbsp;
+
+00:12:11.440 --> 00:12:16.480
+winning go down substantially. Variance exists,&nbsp;
+and sometimes opponents will just happen to put&nbsp;&nbsp;
+
+00:12:16.480 --> 00:12:20.640
+together their gameplan much better than you&nbsp;
+can. If that gameplan can be slowed down,&nbsp;&nbsp;
+
+00:12:20.640 --> 00:12:25.520
+you’re still in it, but without interaction you’re&nbsp;
+out. Sure, there will be times when you’re the one&nbsp;&nbsp;
+
+00:12:25.520 --> 00:12:29.920
+whom the variance gods favor, but there’s a good&nbsp;
+chance your opponents will be ready for that with&nbsp;&nbsp;
+
+00:12:29.920 --> 00:12:35.360
+interaction of their own. Notably, this trend&nbsp;
+of slower decks needing more removal continues&nbsp;&nbsp;
+
+00:12:35.360 --> 00:12:41.600
+all the way down, and also has implications for&nbsp;
+what type of interaction works best. If you’re a&nbsp;&nbsp;
+
+00:12:41.600 --> 00:12:46.480
+faster midrange deck, it might feel good to run&nbsp;
+mostly mana efficient 1-for-1 classics like Path&nbsp;&nbsp;
+
+00:12:46.480 --> 00:12:50.400
+to Exile, Nature’s Claim, and Bitter Triumph,&nbsp;
+since you might just need to cut down one or&nbsp;&nbsp;
+
+00:12:50.400 --> 00:12:54.560
+two opposing threats to stay in the driving seat&nbsp;
+of a game. On the other hand, if you’re playing&nbsp;&nbsp;
+
+00:12:54.560 --> 00:12:59.120
+a deck that’s on the slower end, there’s a good&nbsp;
+chance your gameplan will need to be grindier and&nbsp;&nbsp;
+
+00:12:59.120 --> 00:13:04.640
+care much more about card efficiency. On the most&nbsp;
+generic end this could just be cards that remove&nbsp;&nbsp;
+
+00:13:04.640 --> 00:13:08.880
+more stuff for more mana, but you can also tie&nbsp;
+your interaction into your deck’s synergy packages&nbsp;&nbsp;
+
+00:13:08.880 --> 00:13:15.040
+for increased efficiency. In my Sharuum deck I run&nbsp;
+mostly ETB-based interaction, with no conventional&nbsp;&nbsp;
+
+00:13:15.040 --> 00:13:19.360
+instant or sorcery removal, and this can allow&nbsp;
+the deck to outvalue all three opponents at the&nbsp;&nbsp;
+
+00:13:19.360 --> 00:13:24.400
+same time once it gets fully chugging with its&nbsp;
+flicker engine. In this deck’s case this lack of 1&nbsp;&nbsp;
+
+00:13:24.400 --> 00:13:29.040
+for 1 interaction feels okay, since the slides can&nbsp;
+step in as emergency creature removal in a pinch,&nbsp;&nbsp;
+
+00:13:29.040 --> 00:13:34.400
+but that reduction in contingency removal could be&nbsp;
+a counterbalancing force to improved card-for-card&nbsp;&nbsp;
+
+00:13:34.400 --> 00:13:38.160
+value in some decks. The big picture here is that&nbsp;
+you shouldn’t think about your deck’s interaction&nbsp;&nbsp;
+
+00:13:38.160 --> 00:13:42.160
+as some kind of grim obligation you need to&nbsp;
+fulfill so a YouTuber won’t be disappointed&nbsp;&nbsp;
+
+00:13:42.160 --> 00:13:46.640
+in you. Figure out what your interaction suite is&nbsp;
+trying to accomplish for your deck, and treat it&nbsp;&nbsp;
+
+00:13:46.640 --> 00:13:50.080
+as a part of your deck that’s in a state of&nbsp;
+collaboration with your proactive gameplan.
+
+00:13:50.080 --> 00:13:57.920
+#1: Your deck is unfocused on the&nbsp;
+micro level AKA you have dead cards
+
+00:13:57.920 --> 00:14:03.360
+I have said this about 21 different decks, and&nbsp;
+indeed, running cards that will frequently feel&nbsp;&nbsp;
+
+00:14:03.360 --> 00:14:08.240
+dead in hand is a very common problem&nbsp;
+for EDH players. That said, there are&nbsp;&nbsp;
+
+00:14:08.240 --> 00:14:13.280
+layers to this one. The most pure version of this&nbsp;
+relates to synergies that are relatively thin,&nbsp;&nbsp;
+
+00:14:13.280 --> 00:14:17.440
+so if you put a small lifegain theme or&nbsp;
+counters theme or tokens theme into a deck,&nbsp;&nbsp;
+
+00:14:17.440 --> 00:14:21.440
+some payoff cards for those things are going&nbsp;
+to feel kinda useless unless they’re good on&nbsp;&nbsp;
+
+00:14:21.440 --> 00:14:26.800
+their own or tie into other parts of the deck.&nbsp;
+Sometimes this might not even be intentional—God&nbsp;&nbsp;
+
+00:14:26.800 --> 00:14:31.200
+Pharaoh’s Gift is a fun engine card for decks&nbsp;
+that like high-cost artifacts, but without some&nbsp;&nbsp;
+
+00:14:31.200 --> 00:14:35.520
+combination of a high creature count and ways to&nbsp;
+get cards into the graveyard, the card’s stronger&nbsp;&nbsp;
+
+00:14:35.520 --> 00:14:40.400
+games likely won’t make up for its weaker games&nbsp;
+where it struggles to find good exile targets.&nbsp;&nbsp;
+
+00:14:40.400 --> 00:14:45.040
+Another way dead cards can come up is when we&nbsp;
+consider amplifier cards, and other cards whose&nbsp;&nbsp;
+
+00:14:45.040 --> 00:14:51.200
+effect is based on how well a player is already&nbsp;
+doing. To be clear, these aren’t strictly bad,&nbsp;&nbsp;
+
+00:14:51.200 --> 00:14:56.400
+and they perform an important purpose—they allow&nbsp;
+a deck to turn a corner, a tool that leverages&nbsp;&nbsp;
+
+00:14:56.400 --> 00:15:01.600
+a state of moderate power to create a state of&nbsp;
+overwhelming power. A token doubler might turn&nbsp;&nbsp;
+
+00:15:01.600 --> 00:15:06.160
+a modest token plan into one that’s a genuine&nbsp;
+threat, a power-matters card like Traverse the&nbsp;&nbsp;
+
+00:15:06.160 --> 00:15:10.880
+Outlands can turn a single large creature into a&nbsp;
+bunch of extra value, and a damage amplifier like&nbsp;&nbsp;
+
+00:15:10.880 --> 00:15:16.240
+Fiery Emancipation can turn a mildly threatening&nbsp;
+ping plan into an outright win in short order.&nbsp;&nbsp;
+
+00:15:16.240 --> 00:15:20.880
+The important thing here is that these require&nbsp;
+something else to already be happening,&nbsp;&nbsp;
+
+00:15:20.880 --> 00:15:25.840
+and have no effect in any situation where that’s&nbsp;
+not the case. The key thing to look for to figure&nbsp;&nbsp;
+
+00:15:25.840 --> 00:15:30.320
+out whether these cards will be vital gamepieces&nbsp;
+or deadweight is to see how consistently the thing&nbsp;&nbsp;
+
+00:15:30.320 --> 00:15:35.280
+you’re amplifying will be present and sticking&nbsp;
+around. If it’s a very common and/or resilient&nbsp;&nbsp;
+
+00:15:35.280 --> 00:15:40.320
+part of your gameplan, that’s great! Pack some&nbsp;
+of these in. But if it’s a less common or more&nbsp;&nbsp;
+
+00:15:40.320 --> 00:15:45.200
+fragile part of your gameplan, you’ll want to show&nbsp;
+a bit of restraint—lower numbers of the most pure&nbsp;&nbsp;
+
+00:15:45.200 --> 00:15:50.800
+amplifiers, and more in the way of flexible cards&nbsp;
+that help get a gameplan going in the first place.&nbsp;&nbsp;
+
+00:15:50.800 --> 00:15:55.760
+The exact numbers will still vary person to person&nbsp;
+depending on your preferred level of swinginess&nbsp;&nbsp;
+
+00:15:55.760 --> 00:16:01.120
+and the amount you’re okay with stallouts,&nbsp;
+but this general principle applies regardless.
+
+00:16:01.120 --> 00:16:04.320
+If you want to hear more about dead cards,&nbsp;
+I made a whole video about them earlier&nbsp;&nbsp;
+
+00:16:04.320 --> 00:16:07.760
+this year which will be linked in the&nbsp;
+description, and for that exact reason,&nbsp;&nbsp;
+
+00:16:07.760 --> 00:16:11.440
+I’m going to stop talking about them&nbsp;
+now, which concludes this list. But,&nbsp;&nbsp;
+
+00:16:11.440 --> 00:16:15.200
+if you want to hear about some deckbuilding&nbsp;
+mistakes I’ve made this year, you can sign up&nbsp;&nbsp;
+
+00:16:15.200 --> 00:16:20.640
+for my patreon or a YouTube membership, and&nbsp;
+a preview of that video begins right now.
+

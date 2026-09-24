@@ -1,0 +1,1044 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.400 --> 00:00:04.240
+One of my favorite ways to build EDH&nbsp;
+decks is to chase a particular vibe,&nbsp;&nbsp;
+
+00:00:04.240 --> 00:00:10.200
+a feeling that I want to infuse as much of as&nbsp;
+possible into the DNA of a deck. A big instance&nbsp;&nbsp;
+
+00:00:10.200 --> 00:00:15.800
+of this was chasing the feeling of raw power and&nbsp;
+inevitability granted by big-lands decks, ramping&nbsp;&nbsp;
+
+00:00:15.800 --> 00:00:21.280
+myself into being the untouchable god-king of a&nbsp;
+particular EDH game. However, equally alluring&nbsp;&nbsp;
+
+00:00:21.280 --> 00:00:25.920
+has been the exact opposite type of deck—a deck&nbsp;
+that can cultivate the sort of low-to-the-ground,&nbsp;&nbsp;
+
+00:00:25.920 --> 00:00:31.680
+cutthroat games that often characterize other&nbsp;
+formats but are frequently absent in EDH. On my&nbsp;&nbsp;
+
+00:00:31.680 --> 00:00:36.200
+end of things it’s absolutely possible to play&nbsp;
+that kind of Magic—I can play a combat-focused&nbsp;&nbsp;
+
+00:00:36.200 --> 00:00:41.520
+deck full of scrappy 2 and 3 drops, but the issue&nbsp;
+is that this frequently doesn’t play well with the&nbsp;&nbsp;
+
+00:00:41.520 --> 00:00:47.200
+sorts of decks that dominate most of the format.&nbsp;
+Life totals are too high, ramp is too plentiful,&nbsp;&nbsp;
+
+00:00:47.200 --> 00:00:52.120
+decks are designed to get too many resources&nbsp;
+for a scrappy little pile of dudes to keep up.&nbsp;&nbsp;
+
+00:00:52.120 --> 00:00:57.480
+Aggro can work, but most often it involves either&nbsp;
+Voltron-esque methods or a strong commander such&nbsp;&nbsp;
+
+00:00:57.480 --> 00:01:02.560
+as Torbran, Jetmir, or Anim Pakal to serve as a&nbsp;
+core that binds together an otherwise disjointed&nbsp;&nbsp;
+
+00:01:02.560 --> 00:01:07.200
+gameplan. That would be fine, but it wouldn’t&nbsp;
+quite be the sort of cage fight Magic vision&nbsp;&nbsp;
+
+00:01:07.200 --> 00:01:12.960
+I was going for—it would be me racing a bunch of&nbsp;
+normal gameplans using my powerful commander. So,&nbsp;&nbsp;
+
+00:01:12.960 --> 00:01:18.000
+what if instead I went a different direction—what&nbsp;
+if I played a pile of scrappy little dudes,&nbsp;&nbsp;
+
+00:01:18.000 --> 00:01:22.760
+and then dragged the rest of the table down&nbsp;
+to their level? This is where discard comes&nbsp;&nbsp;
+
+00:01:22.760 --> 00:01:27.840
+in—discard doesn’t necessarily say yes&nbsp;
+or no—rather, it strips away resources,&nbsp;&nbsp;
+
+00:01:27.840 --> 00:01:31.280
+forcing my opponents to pick and&nbsp;
+choose what they want to keep in hand,&nbsp;&nbsp;
+
+00:01:31.280 --> 00:01:35.920
+and disproportionately hindering decks doing&nbsp;
+more synergistic or complicated things. When&nbsp;&nbsp;
+
+00:01:35.920 --> 00:01:40.240
+I first conceptualized this deck as a $25&nbsp;
+budget deck four years ago, I went with a&nbsp;&nbsp;
+
+00:01:40.240 --> 00:01:45.480
+bit of an oddball commander choice—Malfegor.&nbsp;
+What’s he doing here? Well, the logic is that&nbsp;&nbsp;
+
+00:01:45.480 --> 00:01:50.440
+with a 99 that is focused on flexible 2-3&nbsp;
+drop creatures and 3-4 cost discard spells,&nbsp;&nbsp;
+
+00:01:50.440 --> 00:01:55.400
+there wasn’t really a need to fit a commander&nbsp;
+into my curve, so a higher-cost utility option&nbsp;&nbsp;
+
+00:01:55.400 --> 00:02:00.640
+works just fine. As for the specific appeals of&nbsp;
+Malfegor, well, I’ll get back to that in a bit.
+
+00:02:00.640 --> 00:02:05.000
+When I went to finally update the 2020 version&nbsp;
+of this deck this summer, I started with a full&nbsp;&nbsp;
+
+00:02:05.000 --> 00:02:09.320
+20 discard spells—the goal is to get the table&nbsp;
+hellbent, and you need a lot of discard spells&nbsp;&nbsp;
+
+00:02:09.320 --> 00:02:13.840
+to do that consistently. Two spells ends up&nbsp;
+being a good number to shoot for, and a count&nbsp;&nbsp;
+
+00:02:13.840 --> 00:02:18.760
+of 20 allows me to draw that within the first 5&nbsp;
+draws of the game approximately 75% of the time,&nbsp;&nbsp;
+
+00:02:18.760 --> 00:02:22.600
+which is good enough for my purposes. This&nbsp;
+gave a good starting point for the deck,&nbsp;&nbsp;
+
+00:02:22.600 --> 00:02:27.120
+but simultaneously posed a problem—20&nbsp;
+slots is a lot to spend on a category&nbsp;&nbsp;
+
+00:02:27.120 --> 00:02:32.040
+of card that broadly doesn’t directly impact&nbsp;
+the board. This brings me to a key feature of&nbsp;&nbsp;
+
+00:02:32.040 --> 00:02:36.280
+the deck—“compactness”. Compactness is a&nbsp;
+feature that I find important in general,&nbsp;&nbsp;
+
+00:02:36.280 --> 00:02:41.240
+and on a basic level it means that decks should&nbsp;
+use their slots as efficiently as possible so&nbsp;&nbsp;
+
+00:02:41.240 --> 00:02:45.600
+as not to overcommit resources to accomplish&nbsp;
+tasks. In this case, the deck manages to pack&nbsp;&nbsp;
+
+00:02:45.600 --> 00:02:50.000
+decent quantities each of cards I’d consider draw&nbsp;
+spells and cards I’d consider removal spells in&nbsp;&nbsp;
+
+00:02:50.000 --> 00:02:54.480
+addition to the discard. The compactness can&nbsp;
+be seen when I sort my categories by card type&nbsp;&nbsp;
+
+00:02:54.480 --> 00:02:59.840
+on Archidekt—11 of the deck’s 14 draw spells are&nbsp;
+creatures, as are 9 of its 20 discard spells and&nbsp;&nbsp;
+
+00:02:59.840 --> 00:03:04.760
+5 of its 14 removal spells. This is critical&nbsp;
+because it allows the deck to put on pressure&nbsp;&nbsp;
+
+00:03:04.760 --> 00:03:08.880
+and keep a high creature count for purposes of&nbsp;
+cards that care about that, while still spending&nbsp;&nbsp;
+
+00:03:08.880 --> 00:03:14.440
+a full 20 slots on cards that force opponents to&nbsp;
+discard and 14 slots each for removal and draw.
+
+00:03:14.440 --> 00:03:18.880
+My Radha deck does something similar—I&nbsp;
+cache in around 20 slots up front for ramp,&nbsp;&nbsp;
+
+00:03:18.880 --> 00:03:22.920
+and then the deck is as dense as possible&nbsp;
+with card utility from there. Specifically,&nbsp;&nbsp;
+
+00:03:22.920 --> 00:03:27.960
+these decks both place a high priority on draw&nbsp;
+and removal, running as many cards as possible&nbsp;&nbsp;
+
+00:03:27.960 --> 00:03:31.440
+that give one of these things while also&nbsp;
+serving a different purpose such as being&nbsp;&nbsp;
+
+00:03:31.440 --> 00:03:36.920
+a beater or an acceleration spell or a land.&nbsp;
+This is not done at no cost—there are a lot&nbsp;&nbsp;
+
+00:03:36.920 --> 00:03:41.880
+of cards that are quite decent generally in&nbsp;
+EDH that don’t fit well into this outline.&nbsp;&nbsp;
+
+00:03:41.880 --> 00:03:45.960
+Protection spells aren’t very compact because&nbsp;
+they need something to protect to gain value,&nbsp;&nbsp;
+
+00:03:45.960 --> 00:03:50.480
+anthem-style cards aren’t very compact because&nbsp;
+they require a board of creatures to gain value,&nbsp;&nbsp;
+
+00:03:50.480 --> 00:03:54.640
+escalation cards that amplify the power of certain&nbsp;
+effects aren’t very compact because they require&nbsp;&nbsp;
+
+00:03:54.640 --> 00:03:59.200
+something to amplify to gain value, and mana&nbsp;
+acceleration that is efficient but temporary&nbsp;&nbsp;
+
+00:03:59.200 --> 00:04:04.520
+isn’t very compact because it requires a specific&nbsp;
+followup plan to gain value. None of this is to&nbsp;&nbsp;
+
+00:04:04.520 --> 00:04:09.600
+say that these cards are bad—some of these&nbsp;
+are really fantastic alongside other cards,&nbsp;&nbsp;
+
+00:04:09.600 --> 00:04:14.680
+but that’s the issue—they’re not reliably helpful&nbsp;
+on their own, and the more of them you put in a&nbsp;&nbsp;
+
+00:04:14.680 --> 00:04:19.960
+deck the more fragile it will be. Each of these&nbsp;
+decks I just mentioned mostly avoid these cards,&nbsp;&nbsp;
+
+00:04:19.960 --> 00:04:24.360
+making an exception for a small quantity of&nbsp;
+lifegain because staying alive over the course&nbsp;&nbsp;
+
+00:04:24.360 --> 00:04:28.440
+of a long game can be a key challenge&nbsp;
+for a deck that is grindy and compact.
+
+00:04:28.440 --> 00:04:32.120
+With the idea of compactness in mind, let’s take&nbsp;
+a look at potentially the greatest enabler of&nbsp;&nbsp;
+
+00:04:32.120 --> 00:04:38.000
+this concept in EDH, the 8th card in hand, so&nbsp;
+to speak—the commander. Malfegor is a 6 cost&nbsp;&nbsp;
+
+00:04:38.000 --> 00:04:42.520
+6/6 flier who discards my hand and forces each&nbsp;
+opponent to sacrifice a creature for each card&nbsp;&nbsp;
+
+00:04:42.520 --> 00:04:46.960
+discarded. This is an odd choice of commander on&nbsp;
+the surface—when we look at popular commanders for&nbsp;&nbsp;
+
+00:04:46.960 --> 00:04:52.040
+discard decks, almost all are either enabler&nbsp;
+for making opponents discard or payoff for&nbsp;&nbsp;
+
+00:04:52.040 --> 00:04:56.520
+making opponents discard. Like c’mon, you’re&nbsp;
+playing the commander format—the card that’s&nbsp;&nbsp;
+
+00:04:56.520 --> 00:04:59.640
+always available to you should relate to&nbsp;
+what you’re doing with your deck, right?&nbsp;&nbsp;
+
+00:05:00.440 --> 00:05:04.400
+However, Malfegor has proved to be an excellent&nbsp;
+commander choice for a few different reasons.&nbsp;&nbsp;
+
+00:05:04.400 --> 00:05:08.920
+For one, Malfegor fills a specific strategic&nbsp;
+niche here—one of the main disadvantages of&nbsp;&nbsp;
+
+00:05:08.920 --> 00:05:12.960
+running a pile of grindy creatures with discard&nbsp;
+effects and draw effects attached is that these&nbsp;&nbsp;
+
+00:05:12.960 --> 00:05:17.640
+creatures don’t generally attack well into&nbsp;
+chunky midrange boards. Malfegor serves as&nbsp;&nbsp;
+
+00:05:17.640 --> 00:05:21.320
+a solution to this issue, providing a way to&nbsp;
+blast away blockers and allow me to keep the&nbsp;&nbsp;
+
+00:05:21.320 --> 00:05:26.560
+pressure on. Malfegor’s effect also pairs&nbsp;
+fantastically with discard effects—normally&nbsp;&nbsp;
+
+00:05:26.560 --> 00:05:29.840
+opponents might avoid overcommitting&nbsp;
+to the board if they don’t have tokens&nbsp;&nbsp;
+
+00:05:29.840 --> 00:05:34.640
+to soak up some of the sacrifice triggers.&nbsp;
+However, with a stream of discard spells,&nbsp;&nbsp;
+
+00:05:34.640 --> 00:05:39.400
+opponents are pressured into making a terrible&nbsp;
+choice—either keep that awesome creature in hand&nbsp;&nbsp;
+
+00:05:39.400 --> 00:05:44.920
+and risk discarding it, or play that creature and&nbsp;
+risk losing it to Malfegor. In this way Malfegor&nbsp;&nbsp;
+
+00:05:44.920 --> 00:05:49.760
+is an example of what I’ll call a “Counterweight&nbsp;
+Commander”—he subverts the weaknesses of a discard&nbsp;&nbsp;
+
+00:05:49.760 --> 00:05:54.320
+deck full of grindy creatures, thereby making&nbsp;
+the deck better-rounded. Instead of doing the&nbsp;&nbsp;
+
+00:05:54.320 --> 00:05:58.480
+same thing as the deck, he does basically the&nbsp;
+opposite, and the resulting tension created by&nbsp;&nbsp;
+
+00:05:58.480 --> 00:06:03.800
+this allows for almost a call and response-esque&nbsp;
+play pattern—my board and discard spells prompt&nbsp;&nbsp;
+
+00:06:03.800 --> 00:06:09.120
+certain play patterns from opponents, and Malfegor&nbsp;
+exists as to be my followup to those patterns.
+
+00:06:09.120 --> 00:06:12.600
+With a commander that discards my hand on&nbsp;
+ETB, this deck naturally ended up needing&nbsp;&nbsp;
+
+00:06:12.600 --> 00:06:17.600
+to focus on another factor that’s related&nbsp;
+to compactness—Resilience. What that means&nbsp;&nbsp;
+
+00:06:17.600 --> 00:06:21.720
+is that a deck can recover from setbacks&nbsp;
+readily—challenges thrown its way can be&nbsp;&nbsp;
+
+00:06:21.720 --> 00:06:26.560
+shrugged off with relative ease. This is a good&nbsp;
+deck attribute to go for in general—it creates&nbsp;&nbsp;
+
+00:06:26.560 --> 00:06:30.720
+more positive play experiences for everybody&nbsp;
+at the table when decks can recover easily from&nbsp;&nbsp;
+
+00:06:30.720 --> 00:06:36.320
+setbacks, and most of my decks feature this as a&nbsp;
+critical feature in some way or other. However,&nbsp;&nbsp;
+
+00:06:36.320 --> 00:06:40.440
+this deck takes it to a whole different level,&nbsp;
+because it doesn’t wait for its opponents to set&nbsp;&nbsp;
+
+00:06:40.440 --> 00:06:46.200
+it back—oh no, this deck takes a baseball bat to&nbsp;
+its own kneecaps. Of the deck’s 20 discard spells,&nbsp;&nbsp;
+
+00:06:46.200 --> 00:06:50.040
+more than a third affect me as well, and&nbsp;
+as I’ve mentioned, the deck’s commander&nbsp;&nbsp;
+
+00:06:50.040 --> 00:06:54.160
+literally makes you discard your hand. Nobody at&nbsp;
+the table is allowed to keep cards in their hand,&nbsp;&nbsp;
+
+00:06:54.160 --> 00:06:58.120
+not even me—step one of this deck is that&nbsp;
+we’re all getting dragged down into the&nbsp;&nbsp;
+
+00:06:58.120 --> 00:07:03.280
+mud for some rough and dirty Magic: the Gathering&nbsp;
+gameplay. The natural followup is that this deck&nbsp;&nbsp;
+
+00:07:03.280 --> 00:07:08.200
+is specifically engineered to be unusually good&nbsp;
+at playing under exactly those circumstances.
+
+00:07:08.200 --> 00:07:12.000
+I mentioned the deck’s draw being mostly creature&nbsp;
+based, and the other important fact about the draw&nbsp;&nbsp;
+
+00:07:12.000 --> 00:07:17.280
+suite here is that most of the draw spells are&nbsp;
+what I’d refer to as discrete engines. By discrete&nbsp;&nbsp;
+
+00:07:17.280 --> 00:07:21.480
+I mean that these cards largely don’t rely on&nbsp;
+other cards to generate card advantage, and by&nbsp;&nbsp;
+
+00:07:21.480 --> 00:07:26.200
+engine I mean that these cards give card advantage&nbsp;
+over time. One of these requires a player to be&nbsp;&nbsp;
+
+00:07:26.200 --> 00:07:30.600
+hellbent to be online, which is helped by playing&nbsp;
+discard spells or Malfegor, and four others&nbsp;&nbsp;
+
+00:07:30.600 --> 00:07:35.200
+require dealing combat damage to players, which&nbsp;
+can be assisted by removing opposing creatures,&nbsp;&nbsp;
+
+00:07:35.200 --> 00:07:40.560
+but the rest kinda just hang around and provide a&nbsp;
+stream of cards with minimal extra input required.&nbsp;&nbsp;
+
+00:07:40.560 --> 00:07:44.600
+This makes these a wonderfully flexible type of&nbsp;
+card—they’re great as topdeck, they’re great as a&nbsp;&nbsp;
+
+00:07:44.600 --> 00:07:49.560
+last card kept in hand while playing a big discard&nbsp;
+spell like Delirium Skeins, and most are also&nbsp;&nbsp;
+
+00:07:49.560 --> 00:07:54.400
+great to land on curve as well. The other thing&nbsp;
+that makes this deck resilient is its graveyard&nbsp;&nbsp;
+
+00:07:54.400 --> 00:07:58.520
+package—there are five different cards that&nbsp;
+can recur things from the graveyard, and there&nbsp;&nbsp;
+
+00:07:58.520 --> 00:08:03.080
+are also five cards that can be cast from the&nbsp;
+graveyard, or that can otherwise get value from&nbsp;&nbsp;
+
+00:08:03.080 --> 00:08:07.840
+being in the graveyard in some capacity. There are&nbsp;
+an additional five cards with madness and another&nbsp;&nbsp;
+
+00:08:07.840 --> 00:08:12.160
+two that provide benefits as a result of the deck&nbsp;
+discarding cards, and all of these components&nbsp;&nbsp;
+
+00:08:12.160 --> 00:08:15.960
+combine to allow the deck to somewhat mitigate&nbsp;
+the downsides of discarding large quantities of&nbsp;&nbsp;
+
+00:08:15.960 --> 00:08:21.640
+cards. Not fully mitigate, mind you—the deck still&nbsp;
+gets to a hellbent state and feels it, but it at&nbsp;&nbsp;
+
+00:08:21.640 --> 00:08:24.840
+least has some tools to allow it to play through&nbsp;
+that hellbent state better than a lot of decks.
+
+00:08:25.480 --> 00:08:30.200
+In addition, an unexpected feature of the deck has&nbsp;
+been that discarding one’s hand isn’t entirely a&nbsp;&nbsp;
+
+00:08:30.200 --> 00:08:35.200
+bad thing. See, Malfegor’s one-with-nothing ETB&nbsp;
+also has a social benefit. The deck’s early turns&nbsp;&nbsp;
+
+00:08:35.200 --> 00:08:39.760
+are often spent stripping away opposing hands, and&nbsp;
+this is a frustrating experience for my opponents,&nbsp;&nbsp;
+
+00:08:39.760 --> 00:08:44.400
+an experience that is only amplified when Malfegor&nbsp;
+comes down to demolish some creatures as well.&nbsp;&nbsp;
+
+00:08:44.400 --> 00:08:47.520
+Looking at the person who cleared out your&nbsp;
+hand and killed your creatures would be pretty&nbsp;&nbsp;
+
+00:08:47.520 --> 00:08:52.720
+upsetting if they still had a full grip of cards,&nbsp;
+and they’d be a magnet for attacks and removal.&nbsp;&nbsp;
+
+00:08:52.720 --> 00:08:56.720
+However, if they’re also hellbent and have a&nbsp;
+board entirely consisting of a 6/6 flier and&nbsp;&nbsp;
+
+00:08:56.720 --> 00:09:02.520
+some utility 3/3s, well—things aren’t as clear.&nbsp;
+I’ve frequently gotten a visceral sense of mixed&nbsp;&nbsp;
+
+00:09:02.520 --> 00:09:07.440
+feelings from opponents while playing this deck—my&nbsp;
+opponents *wish* I was the unambiguous threat&nbsp;&nbsp;
+
+00:09:07.440 --> 00:09:12.000
+so they could have a good excuse to attack&nbsp;
+me, but I’m often barely ahead at all, and&nbsp;&nbsp;
+
+00:09:12.000 --> 00:09:17.000
+sometimes it’s entirely unclear to my opponents&nbsp;
+who is ahead. The threat profile of a low-slung,&nbsp;&nbsp;
+
+00:09:17.000 --> 00:09:22.000
+grindy deck is just not one that most EDH players&nbsp;
+are used to needing to consider—what do you do&nbsp;&nbsp;
+
+00:09:22.000 --> 00:09:25.720
+with a player who isn’t an imminent threat to&nbsp;
+your life total, isn’t setting up for a combo,&nbsp;&nbsp;
+
+00:09:25.720 --> 00:09:29.840
+and isn’t scaling up to an overwhelming late&nbsp;
+game? The deck is perfectly capable of winning&nbsp;&nbsp;
+
+00:09:29.840 --> 00:09:34.400
+games through a mixture of attrition and beatdown,&nbsp;
+but it manages to fly under the radar more than&nbsp;&nbsp;
+
+00:09:34.400 --> 00:09:39.480
+you’d expect even after doing a bunch of nasty&nbsp;
+stuff to its opponents. In this way, Malfegor&nbsp;&nbsp;
+
+00:09:39.480 --> 00:09:44.920
+is critical to the deck for vibes reasons—he is&nbsp;
+the key to turning games from an epic wizard duel&nbsp;&nbsp;
+
+00:09:44.920 --> 00:09:49.560
+into a knife fight being fought in four inch&nbsp;
+deep mud, for myself and my opponents alike.
+
+00:09:49.560 --> 00:09:53.560
+Speaking of vibes, let’s talk about one of the&nbsp;
+oddest conclusions of the deckbuilding process.&nbsp;&nbsp;
+
+00:09:53.560 --> 00:09:56.560
+One of the exciting things about upgrading&nbsp;
+this deck over the summer was that I could&nbsp;&nbsp;
+
+00:09:56.560 --> 00:10:00.920
+finally play with Waste Not, since the previous&nbsp;
+version of the deck was an ultra-budget list and&nbsp;&nbsp;
+
+00:10:00.920 --> 00:10:05.520
+since there was now an Enchanting Tales reprint&nbsp;
+that was both cheap and super cool looking. I’m&nbsp;&nbsp;
+
+00:10:05.520 --> 00:10:09.480
+playing a discard deck, so a card that gives&nbsp;
+me various assorted benefits when opponents&nbsp;&nbsp;
+
+00:10:09.480 --> 00:10:14.160
+discard is a perfect fit, right? However,&nbsp;
+one of the first games I played with the&nbsp;&nbsp;
+
+00:10:14.160 --> 00:10:18.720
+deck was an utterly disgusting game for the&nbsp;
+card—turn 2 Waste not, turn 3 Arterial Flow,&nbsp;&nbsp;
+
+00:10:18.720 --> 00:10:23.960
+and continuing onward and upward from there. It&nbsp;
+felt great from a power level perspective—the deck&nbsp;&nbsp;
+
+00:10:23.960 --> 00:10:27.880
+was keeping a pretty full grip and accelerating&nbsp;
+forward in its gameplan even as the rest of the&nbsp;&nbsp;
+
+00:10:27.880 --> 00:10:33.120
+table was struggling to keep up under the weight&nbsp;
+of its discard, but something also felt very wrong&nbsp;&nbsp;
+
+00:10:33.120 --> 00:10:37.920
+about it. After a bit of reflection it became&nbsp;
+clear what the problem was—the whole point of the&nbsp;&nbsp;
+
+00:10:37.920 --> 00:10:41.880
+deck was to play scrappy, dragging the rest of the&nbsp;
+table down into a fight in the mud and then being&nbsp;&nbsp;
+
+00:10:41.880 --> 00:10:46.200
+really good at winning mud fights. A big piece&nbsp;
+of what made this deck work on a vibes level was&nbsp;&nbsp;
+
+00:10:46.200 --> 00:10:50.600
+that the deck had no central engine like Waste&nbsp;
+Not—it had a bunch of little individual ones,&nbsp;&nbsp;
+
+00:10:50.600 --> 00:10:54.880
+but none of them were enough to be a load-bearing&nbsp;
+pillar for the deck’s gameplan. The fact that&nbsp;&nbsp;
+
+00:10:54.880 --> 00:10:58.920
+advantage is fought for tooth-and-nail with&nbsp;
+a bunch of disconnected little engines is&nbsp;&nbsp;
+
+00:10:58.920 --> 00:11:03.440
+a defining feature of the deck, and it’s&nbsp;
+what makes the deck so grindy and flexible.
+
+00:11:03.440 --> 00:11:08.200
+This approach contrasts that of many EDH decks.&nbsp;
+It’s quite common to feature a central engine in&nbsp;&nbsp;
+
+00:11:08.200 --> 00:11:12.400
+the command zone—the commander is the center of a&nbsp;
+synergy pillar, and it has a number of other cards&nbsp;&nbsp;
+
+00:11:12.400 --> 00:11:17.040
+that generate some form of value when played&nbsp;
+alongside it. When I go to the top commanders,&nbsp;&nbsp;
+
+00:11:17.040 --> 00:11:21.640
+around half of them follow this mold—Atraxa&nbsp;
+generates value with counters cards, Ur-Dragon&nbsp;&nbsp;
+
+00:11:21.640 --> 00:11:26.560
+with dragons, Yuriko with ninjas, Miirym also with&nbsp;
+dragons, Isshin with attack ability creatures,&nbsp;&nbsp;
+
+00:11:26.560 --> 00:11:31.280
+Jodah with legendaries—you get it. In the best&nbsp;
+cases, an engine commander is one that plays&nbsp;&nbsp;
+
+00:11:31.280 --> 00:11:35.240
+to the strengths of a card type, serving as an&nbsp;
+anchor for that type that hopefully passes the&nbsp;&nbsp;
+
+00:11:35.240 --> 00:11:40.440
+vibe check. However, not all engines pass that&nbsp;
+vibe check. One example of an engine I have mixed&nbsp;&nbsp;
+
+00:11:40.440 --> 00:11:45.520
+feelings about is Anje Falkenrath, because she&nbsp;
+doesn’t really play to the strengths of madness.&nbsp;&nbsp;
+
+00:11:45.520 --> 00:11:49.200
+She can enable them, but the design of the card&nbsp;
+is such that just chaining through a whole bunch&nbsp;&nbsp;
+
+00:11:49.200 --> 00:11:53.360
+of madness cards while paying for few, if any,&nbsp;
+madness costs and then doing graveyard shenanigans&nbsp;&nbsp;
+
+00:11:53.360 --> 00:11:57.560
+or pulling off a combo is usually better than&nbsp;
+focusing more heavily on casting cards via&nbsp;&nbsp;
+
+00:11:57.560 --> 00:12:02.600
+madness. You could replace the word madness with&nbsp;
+a do-nothing mechanic called Scrungus on both Anje&nbsp;&nbsp;
+
+00:12:02.600 --> 00:12:07.360
+and the now-Scrungus cards, and the playstyle&nbsp;
+of most Anje decks wouldn’t change that much.
+
+00:12:07.360 --> 00:12:10.040
+All of this brings me to one of my&nbsp;
+least favorite engine commanders,&nbsp;&nbsp;
+
+00:12:10.040 --> 00:12:15.920
+and one that is very similar to Waste Not—Tergrid,&nbsp;
+God of Fright. Tergrid is, structurally speaking,&nbsp;&nbsp;
+
+00:12:15.920 --> 00:12:20.440
+a pretty conventional engine commander—maybe a&nbsp;
+little feast or famine, but in a similar realm&nbsp;&nbsp;
+
+00:12:20.440 --> 00:12:25.000
+to something like Jodah or Miirym. So it exists&nbsp;
+in a normal-ish plane of existence for an engine&nbsp;&nbsp;
+
+00:12:25.000 --> 00:12:29.560
+commander, but counterintuitively this is exactly&nbsp;
+why the card is one of the most hated commanders&nbsp;&nbsp;
+
+00:12:29.560 --> 00:12:34.680
+out there. See, Tergrid is an engine that works&nbsp;
+with discard and sacrifice effects, stealing and&nbsp;&nbsp;
+
+00:12:34.680 --> 00:12:40.160
+putting into play all cards that get discarded or&nbsp;
+sacrificed by opponents. Why is this a problem?&nbsp;&nbsp;
+
+00:12:40.160 --> 00:12:44.440
+Well fundamentally, it’s due to the nature of&nbsp;
+these tools. Discard and sacrifice both have&nbsp;&nbsp;
+
+00:12:44.440 --> 00:12:48.520
+valid places in commander, but they’re tools that&nbsp;
+should be used with a specific purpose in mind.&nbsp;&nbsp;
+
+00:12:48.520 --> 00:12:52.520
+Casual commander is naturally going to involve&nbsp;
+a negotiation between what is fun for other&nbsp;&nbsp;
+
+00:12:52.520 --> 00:12:56.720
+people and what makes for interesting games—the&nbsp;
+comfort of other players at the table will be&nbsp;&nbsp;
+
+00:12:56.720 --> 00:13:01.560
+weighed against other factors, at least in some&nbsp;
+form. The issue with using sacrifice and discard&nbsp;&nbsp;
+
+00:13:01.560 --> 00:13:07.200
+effects as engine fodder, then, is that these&nbsp;
+unpleasant tools become frivolous and impassive,&nbsp;&nbsp;
+
+00:13:07.200 --> 00:13:11.600
+equivalent to just another filler dragon in a&nbsp;
+dragon deck. Instead of deploying these tools&nbsp;&nbsp;
+
+00:13:11.600 --> 00:13:15.640
+in a way that is targeted and strategic, the&nbsp;
+Tergrid player creates a bland engine powered&nbsp;&nbsp;
+
+00:13:15.640 --> 00:13:19.400
+entirely by the suffering of their opponents,&nbsp;
+and is encouraged to play as many edicts and&nbsp;&nbsp;
+
+00:13:19.400 --> 00:13:24.360
+discard spells as possible rather than a number&nbsp;
+chosen to fulfill a certain strategic role.
+
+00:13:24.360 --> 00:13:28.360
+In contrast to this, my Malfegor deck’s hate&nbsp;
+tools are run very intentionally with specific&nbsp;&nbsp;
+
+00:13:28.360 --> 00:13:32.320
+goals in mind. The deck runs a bunch of discard&nbsp;
+spells because it needs to kneecap opponents in&nbsp;&nbsp;
+
+00:13:32.320 --> 00:13:35.800
+order to not fall behind in value, and it&nbsp;
+runs Malfegor in the command zone because&nbsp;&nbsp;
+
+00:13:35.800 --> 00:13:39.400
+it needs a tool to break through intimidating&nbsp;
+boards and let its small creatures connect for&nbsp;&nbsp;
+
+00:13:39.400 --> 00:13:44.000
+damage. The benefits of opponents discarding and&nbsp;
+opponents losing creatures are mostly indirect,&nbsp;&nbsp;
+
+00:13:44.000 --> 00:13:47.680
+with the deck seeing benefits to its overall&nbsp;
+strategy from these things rather than having&nbsp;&nbsp;
+
+00:13:47.680 --> 00:13:52.200
+a bunch of cards that specifically do things when&nbsp;
+opponents lose cards and permanents. In addition,&nbsp;&nbsp;
+
+00:13:52.200 --> 00:13:55.640
+the fact that the deck also plays low to the&nbsp;
+ground means that opponents don’t feel like&nbsp;&nbsp;
+
+00:13:55.640 --> 00:13:58.280
+they’re being smushed into submission&nbsp;
+while the discard player gets to do&nbsp;&nbsp;
+
+00:13:58.280 --> 00:14:02.440
+some stupid explosive bullshit. No, I&nbsp;
+don’t get to play any sort of explosive&nbsp;&nbsp;
+
+00:14:02.440 --> 00:14:06.480
+midrange Magic either—that’s just not&nbsp;
+the sort of commander game we’re playing.
+
+00:14:06.480 --> 00:14:11.760
+Now, does this mean my Malfegor deck isn’t going&nbsp;
+to make opponents sad? Absolutely not! Discard&nbsp;&nbsp;
+
+00:14:11.760 --> 00:14:15.880
+effects, and especially discard engines like&nbsp;
+Bottomless pit, are a form of stax effect and&nbsp;&nbsp;
+
+00:14:15.880 --> 00:14:19.800
+they will hinder my opponents’ ability to play&nbsp;
+the game. Certainly, my goal with this deck is to&nbsp;&nbsp;
+
+00:14:19.800 --> 00:14:24.280
+change the shape and scale of the game rather than&nbsp;
+preventing my opponents from playing it—I want us&nbsp;&nbsp;
+
+00:14:24.280 --> 00:14:28.400
+all to play a scrappy, topdecking cage fight of&nbsp;
+a Magic game rather than some stupid thing where&nbsp;&nbsp;
+
+00:14:28.400 --> 00:14:33.080
+everybody is constantly stacking resources and&nbsp;
+racing synergy engines. And the deck does obtain&nbsp;&nbsp;
+
+00:14:33.080 --> 00:14:37.960
+this vision some amount of the time, but the&nbsp;
+biggest weakness of the deck in power and fun&nbsp;&nbsp;
+
+00:14:37.960 --> 00:14:43.560
+terms alike is that certain opponents will be much&nbsp;
+less harmed by my discard spells than others. See,&nbsp;&nbsp;
+
+00:14:43.560 --> 00:14:47.640
+the power of non-random discard is inversely&nbsp;
+proportional to the number of cards in somebody’s&nbsp;&nbsp;
+
+00:14:47.640 --> 00:14:51.960
+hand up until the point at which they’ve been&nbsp;
+hellbent in a game—if I make a player discard&nbsp;&nbsp;
+
+00:14:51.960 --> 00:14:55.920
+a card when they have five cards in hand, the&nbsp;
+quality of that card will be much lower than&nbsp;&nbsp;
+
+00:14:55.920 --> 00:15:00.840
+if I forced them to discard a card at two cards in&nbsp;
+hand. The result of this is that if somebody lands&nbsp;&nbsp;
+
+00:15:00.840 --> 00:15:05.040
+an early value engine and is able to avoid&nbsp;
+dipping below three or four cards in hand,&nbsp;&nbsp;
+
+00:15:05.040 --> 00:15:09.240
+they’re going to have a much, much better time&nbsp;
+than somebody who was forced to go down to one&nbsp;&nbsp;
+
+00:15:09.240 --> 00:15:13.440
+card in hand or fully hellbent, even if the&nbsp;
+two players discarded equal numbers of cards.&nbsp;&nbsp;
+
+00:15:15.000 --> 00:15:18.480
+In addition, decks with graveyard synergies&nbsp;
+are going to be much better able to cope than&nbsp;&nbsp;
+
+00:15:18.480 --> 00:15:23.400
+decks without. The worst case scenario is that&nbsp;
+I basically act as a kingmaker, all but handing&nbsp;&nbsp;
+
+00:15:23.400 --> 00:15:27.040
+the win to the person with the person who is&nbsp;
+best-equipped to handle discard. It’s rare&nbsp;&nbsp;
+
+00:15:27.040 --> 00:15:32.840
+that things are this dramatic, but it has happened&nbsp;
+before and it feels pretty terrible when it does.
+
+00:15:32.840 --> 00:15:37.200
+Is this a solvable problem? Kind of. The&nbsp;
+graveyard thing is—I’ve gradually pumped&nbsp;&nbsp;
+
+00:15:37.200 --> 00:15:40.720
+the number of graveyard hate cards up to&nbsp;
+5, and these have actually been shockingly&nbsp;&nbsp;
+
+00:15:40.720 --> 00:15:45.680
+smooth additions. Modern Horizons III contained a&nbsp;
+couple of lovely flexible options, and Immersturm&nbsp;&nbsp;
+
+00:15:45.680 --> 00:15:50.160
+Predator is another grave-hate engine that has&nbsp;
+great extra utility as a boardwipe-resistant&nbsp;&nbsp;
+
+00:15:50.160 --> 00:15:54.840
+flying beater. The issue of draw engines is&nbsp;
+definitely a trickier one, though. The amount of&nbsp;&nbsp;
+
+00:15:54.840 --> 00:15:59.240
+enchantment hate available in Rakdos is currently&nbsp;
+pretty unimpressive, and there are also forms of&nbsp;&nbsp;
+
+00:15:59.240 --> 00:16:04.120
+draw that are harder to slow down with removal.&nbsp;
+That leaves the option of single-target discard,&nbsp;&nbsp;
+
+00:16:04.120 --> 00:16:08.440
+for when one opponent still has a decent grip but&nbsp;
+the others are puttering around with one or fewer&nbsp;&nbsp;
+
+00:16:08.440 --> 00:16:13.920
+in hand. Hymn to Tourach and Mind Twist are about&nbsp;
+as good as it gets for single target discard,&nbsp;&nbsp;
+
+00:16:13.920 --> 00:16:18.480
+but these are neither efficient in the early&nbsp;
+game nor all that great as a topdeck later. The&nbsp;&nbsp;
+
+00:16:18.480 --> 00:16:23.000
+other option is Specters, creatures that force an&nbsp;
+opponent to discard when they connect for damage,&nbsp;&nbsp;
+
+00:16:23.000 --> 00:16:28.080
+but these are also largely not powerful enough to&nbsp;
+make the cut. Hypnotic Specter is somehow both the&nbsp;&nbsp;
+
+00:16:28.080 --> 00:16:33.200
+oldest and the best one and it’s acceptable&nbsp;
+enough to be an evergreen maybe-board card,&nbsp;&nbsp;
+
+00:16:33.200 --> 00:16:37.040
+but the rest are pretty much all 4 drops&nbsp;
+that I wish were 3 drops or 3 drops that&nbsp;&nbsp;
+
+00:16:37.040 --> 00:16:40.920
+I wish were sauced up a bit with some extra&nbsp;
+stats and keywords. For the moment, I’ll be&nbsp;&nbsp;
+
+00:16:40.920 --> 00:16:44.080
+keeping an eye on the problem and potentially&nbsp;
+experimenting with some of the single-target&nbsp;&nbsp;
+
+00:16:44.080 --> 00:16:48.320
+discard options that do exist, and for the future&nbsp;
+I’ll just hope that the card gods at Wizards of&nbsp;&nbsp;
+
+00:16:48.320 --> 00:16:53.200
+the Coast bless me with a new specter that is&nbsp;
+more prepared for the demands of 2024 Magic.
+
+00:16:53.200 --> 00:16:55.720
+Despite its challenges, this&nbsp;
+deck has been a success overall,&nbsp;&nbsp;
+
+00:16:55.720 --> 00:16:58.840
+both in terms of creating a deck on the right&nbsp;
+power level for the games I want to play&nbsp;&nbsp;
+
+00:16:59.400 --> 00:17:04.080
+and in terms of chasing the vibe I was looking&nbsp;
+to chase. I’ve known for years that the Malfegor&nbsp;&nbsp;
+
+00:17:04.080 --> 00:17:08.680
+deck was my favorite of the decks from the $25&nbsp;
+pool, with its grindy-to-the-max gameplay leading&nbsp;&nbsp;
+
+00:17:08.680 --> 00:17:13.640
+to some really interesting games, and I’m glad&nbsp;
+to have maintained that with the upgrade. Above&nbsp;&nbsp;
+
+00:17:13.640 --> 00:17:19.240
+all else it’s an extremely fun deck—there&nbsp;
+is a calculated recklessness to every play,&nbsp;&nbsp;
+
+00:17:19.240 --> 00:17:23.680
+and it’s so fun to be able to play fast and&nbsp;
+loose with both life total and cards in hand.&nbsp;&nbsp;
+
+00:17:23.680 --> 00:17:27.880
+I had a game recently where I played Malfegor&nbsp;
+discarding my 6 card hand, then activated&nbsp;&nbsp;
+
+00:17:27.880 --> 00:17:31.840
+Spymaster’s Vault to cycle through some more&nbsp;
+cards and put four +1/+1 counters on Malfegor,&nbsp;&nbsp;
+
+00:17:31.840 --> 00:17:36.240
+then swung 15 at an opponent since I now had an&nbsp;
+Anger in my graveyard from all that discarding,&nbsp;&nbsp;
+
+00:17:36.240 --> 00:17:40.480
+and during all of this I was on 5 life with two&nbsp;
+Dark Confidant effects on board threatening to&nbsp;&nbsp;
+
+00:17:40.480 --> 00:17:44.640
+end me on each of my upkeeps. I survived&nbsp;
+more than two full turn cycles after this,&nbsp;&nbsp;
+
+00:17:44.640 --> 00:17:49.480
+by the way—lots of lands happened to be on top.&nbsp;
+That sort of play is, to me, the defining feature&nbsp;&nbsp;
+
+00:17:49.480 --> 00:17:53.960
+of the deck—being able to throw all caution&nbsp;
+to the wind, to commit to plays as hard as is&nbsp;&nbsp;
+
+00:17:53.960 --> 00:17:59.000
+physically possible, and to find creative ways to&nbsp;
+rebuild and come up with resources after it looks&nbsp;&nbsp;
+
+00:17:59.000 --> 00:18:03.840
+like I should be all out of gas. It’s a playstyle&nbsp;
+that is antithetical to my control player roots,&nbsp;&nbsp;
+
+00:18:03.840 --> 00:18:08.480
+and even a bit antithetical to commander as most&nbsp;
+people currently know it, but that’s the appeal.&nbsp;&nbsp;
+
+00:18:08.480 --> 00:18:13.280
+Finding new and fresh ways to play will always&nbsp;
+be a big goal for me in EDH, as will be creating&nbsp;&nbsp;
+
+00:18:13.280 --> 00:18:19.120
+decks that evoke a highly specific feeling.&nbsp;
+And, this deck is certainly one version of that.
+
+00:18:19.120 --> 00:18:23.180
+That’s the end of the video but I have a very&nbsp;
+special announcement! I recently hit 50 thousand&nbsp;&nbsp;
+
+00:18:23.180 --> 00:18:27.080
+subscribers, which is super cool, and to celebrate&nbsp;
+I’m going to be running a deckbuilding challenge&nbsp;&nbsp;
+
+00:18:27.080 --> 00:18:32.000
+through my Discord server. Malfegor has around&nbsp;
+300 decks on EDHRec as of publishing this video,&nbsp;&nbsp;
+
+00:18:32.000 --> 00:18:35.640
+which is quite a small count for how cool the card&nbsp;
+is, and it occurred to me that there are a lot of&nbsp;&nbsp;
+
+00:18:35.640 --> 00:18:39.760
+other similarly underappreciated commanders&nbsp;
+out there that could use a bit more love. So,&nbsp;&nbsp;
+
+00:18:39.760 --> 00:18:43.680
+for this challenge I picked out five different&nbsp;
+monocolored commanders I like that have less&nbsp;&nbsp;
+
+00:18:43.680 --> 00:18:50.200
+than 200 decks on EDHRec. Those commanders are&nbsp;
+Eomer Marshal of Rohan, Yomiji Who Bars the Way,&nbsp;&nbsp;
+
+00:18:50.200 --> 00:18:56.280
+Egon God of Death, Shizuko Caller of Autumn, and&nbsp;
+Senator Peacock. To participate in this challenge,&nbsp;&nbsp;
+
+00:18:56.280 --> 00:18:59.400
+construct a deck with one of these&nbsp;
+five commanders, and then post it in&nbsp;&nbsp;
+
+00:18:59.400 --> 00:19:04.680
+the submission thread in my Discord server within&nbsp;
+one week of this video’s upload. So to be clear,&nbsp;&nbsp;
+
+00:19:04.680 --> 00:19:11.560
+that deadline will be Tuesday 30th at 9am PST.&nbsp;
+Judging criteria will be creativity, cohesiveness,&nbsp;&nbsp;
+
+00:19:11.560 --> 00:19:16.360
+and likelihood to create dynamic gameplay. Any&nbsp;
+power level, any budget. My next video will&nbsp;&nbsp;
+
+00:19:16.360 --> 00:19:21.040
+feature a deck that me and my team determine best&nbsp;
+fits this prompt for each of the five commanders,&nbsp;&nbsp;
+
+00:19:21.040 --> 00:19:25.160
+so you can keep an eye out for that regardless&nbsp;
+of if you participate. With that said,&nbsp;&nbsp;
+
+00:19:25.160 --> 00:19:28.800
+thanks for watching, and if you want to support me&nbsp;
+in doing what I do, a link to my Patreon is down&nbsp;&nbsp;
+
+00:19:28.800 --> 00:19:32.880
+in the description. If you want more Snail and&nbsp;
+don’t want to give me money, I was on an episode&nbsp;&nbsp;
+
+00:19:32.880 --> 00:19:37.800
+of the Magic Mirror podcast this week, and me and&nbsp;
+my cohosts ranked each other’s most played decks.&nbsp;&nbsp;
+
+00:19:37.800 --> 00:19:42.040
+It was a lot of fun, and quite interesting to&nbsp;
+see how my main 6 decks stacked up in other&nbsp;&nbsp;
+
+00:19:42.040 --> 00:19:46.720
+people’s eyes. A link to that is also down in&nbsp;
+the description. Alright, that’s all, bye now.
+

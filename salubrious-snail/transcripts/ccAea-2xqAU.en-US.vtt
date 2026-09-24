@@ -1,0 +1,1332 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.000 --> 00:00:04.720
+Over the past few months, I’ve noticed a number&nbsp;
+of comments all expressing something similar,&nbsp;&nbsp;
+
+00:00:04.720 --> 00:00:10.240
+with that thing being the idea that tutors, cards&nbsp;
+that search a player’s library, are in some way&nbsp;&nbsp;
+
+00:00:10.240 --> 00:00:15.360
+out of place within the landscape of casual EDH,&nbsp;
+or at least within the landscape of lower power&nbsp;&nbsp;
+
+00:00:15.360 --> 00:00:20.560
+levels. In particular, I’ve encountered this&nbsp;
+when I discuss cards that are quite powerful&nbsp;&nbsp;
+
+00:00:20.560 --> 00:00:25.680
+compared to everything else in deck. I’ve at times&nbsp;
+brought up the scenario of a powerful card being&nbsp;&nbsp;
+
+00:00:25.680 --> 00:00:31.040
+an obvious tutoring target, sometimes in a way I&nbsp;
+find uninteresting, and a common response I get&nbsp;&nbsp;
+
+00:00:31.040 --> 00:00:36.720
+is “well why are you playing a tutor then? That’s&nbsp;
+your problem right there.” On an objective level,&nbsp;&nbsp;
+
+00:00:36.720 --> 00:00:42.560
+this person isn’t wrong. The tutor is part&nbsp;
+of the immediate problem here, and I wouldn’t&nbsp;&nbsp;
+
+00:00:42.560 --> 00:00:48.000
+be having an obvious card to grab if I wasn’t&nbsp;
+grabbing anything in the first place. However,&nbsp;&nbsp;
+
+00:00:48.000 --> 00:00:52.480
+there are some deeper disagreements taking place&nbsp;
+here, disagreements about the foundations of EDH&nbsp;&nbsp;
+
+00:00:52.480 --> 00:00:57.200
+and what it stands for. So in this video,&nbsp;
+I want to explore those disagreements,&nbsp;&nbsp;
+
+00:00:57.200 --> 00:01:03.120
+and to discuss the nature of variance,&nbsp;
+variation, and luck, and what role these&nbsp;&nbsp;
+
+00:01:03.120 --> 00:01:08.640
+things should play within an EDH game. Different&nbsp;
+players will have different ideas about how much&nbsp;&nbsp;
+
+00:01:08.640 --> 00:01:13.360
+of these things should be present in a game of&nbsp;
+commander, and these opinions are often phrased&nbsp;&nbsp;
+
+00:01:13.360 --> 00:01:21.600
+as proclamations about what falls within the&nbsp;
+“spirit” of the format. So, what does this mean?
+
+00:01:21.600 --> 00:01:27.040
+Well, the best way to dig into this is to look&nbsp;
+at the way EDH differs from other magic formats.&nbsp;&nbsp;
+
+00:01:27.040 --> 00:01:33.840
+Decks are 99 or 98 cards, significantly more than&nbsp;
+the 60 seen in traditional constructed formats,&nbsp;&nbsp;
+
+00:01:33.840 --> 00:01:40.720
+and the 40 seen in limited decks. EDH also has a&nbsp;
+one-copy limit on cards within decks as compared&nbsp;&nbsp;
+
+00:01:40.720 --> 00:01:45.360
+to the four card limit for 60 card formats, and&nbsp;
+together these restrictions make it so that for&nbsp;&nbsp;
+
+00:01:45.360 --> 00:01:51.440
+any given card, a deck will often be around&nbsp;
+a sixth as likely to draw it in an EDH deck&nbsp;&nbsp;
+
+00:01:51.440 --> 00:01:56.560
+as compared to a 60 card deck. This fact alone&nbsp;
+has led many people to make the observation that&nbsp;&nbsp;
+
+00:01:56.560 --> 00:02:03.520
+EDH is a higher variance format than most others.&nbsp;
+For the non-mathy folks, the word variance sounds&nbsp;&nbsp;
+
+00:02:03.520 --> 00:02:08.400
+like the word variation, and that’s actually&nbsp;
+not an incorrect way to think about some of the&nbsp;&nbsp;
+
+00:02:08.400 --> 00:02:14.240
+implications of these numerical realities. Because&nbsp;
+there are more different cards, each with a lower&nbsp;&nbsp;
+
+00:02:14.240 --> 00:02:19.280
+average chance to get drawn, there will be more&nbsp;
+variation in the cards that get played within a&nbsp;&nbsp;
+
+00:02:19.280 --> 00:02:25.360
+game and between different games. As a result of&nbsp;
+this, decks will generally feel new and fresh for&nbsp;&nbsp;
+
+00:02:25.360 --> 00:02:31.360
+longer, and play patterns within a game are often&nbsp;
+less predictable. All of this is great as far as&nbsp;&nbsp;
+
+00:02:31.360 --> 00:02:36.160
+I’m concerned! Recently I’ve had a strong interest&nbsp;
+in decks containing lots of subthemes that can&nbsp;&nbsp;
+
+00:02:36.160 --> 00:02:41.520
+combine in all sorts of ways. The challenge&nbsp;
+of optimizing and tuning a deck like this to&nbsp;&nbsp;
+
+00:02:41.520 --> 00:02:47.680
+actually play well is a blast, and it’s a blast&nbsp;
+that could only exist in a format like EDH. Within&nbsp;&nbsp;
+
+00:02:47.680 --> 00:02:52.960
+this sort of synergy-machine deck, tutors can be&nbsp;
+a helpful tool to help an otherwise disjointed&nbsp;&nbsp;
+
+00:02:52.960 --> 00:02:58.640
+deck actually play nicely, but excluding tutors&nbsp;
+can likewise be a fun challenge that forces an&nbsp;&nbsp;
+
+00:02:58.640 --> 00:03:03.200
+even greater degree of deck cohesion. Some&nbsp;
+people choose to play the EDH format at a&nbsp;&nbsp;
+
+00:03:03.200 --> 00:03:08.000
+power level that demands a greater degree of&nbsp;
+consistency in cards available, but a high&nbsp;&nbsp;
+
+00:03:08.000 --> 00:03:13.680
+degree of card and play variation is absolutely&nbsp;
+an enjoyable thing to cultivate where possible.
+
+00:03:13.680 --> 00:03:17.520
+All of this sounds good and agreeable, but&nbsp;
+something you may have noticed is that this&nbsp;&nbsp;
+
+00:03:17.520 --> 00:03:22.480
+pedestrian interpretation of the phrase “variance”&nbsp;
+has strayed pretty far from the sort of scenario&nbsp;&nbsp;
+
+00:03:22.480 --> 00:03:27.120
+I mentioned at start of this video. I’m not&nbsp;
+thinking about whether you’d use a tutor to&nbsp;&nbsp;
+
+00:03:27.120 --> 00:03:32.800
+find any old card—no, I’m talking about situations&nbsp;
+when a player uses a tutor to find some piece of&nbsp;&nbsp;
+
+00:03:32.800 --> 00:03:38.800
+degenerate nonsense, a card that will dramatically&nbsp;
+impact how powerfully your deck plays. To tackle&nbsp;&nbsp;
+
+00:03:38.800 --> 00:03:43.440
+that question, we need to talk about variance in&nbsp;
+the mathematical sense, and we need to talk about&nbsp;&nbsp;
+
+00:03:43.440 --> 00:03:49.360
+it in terms of how it applies to power level.&nbsp;
+The power level variance of a deck basically&nbsp;&nbsp;
+
+00:03:49.360 --> 00:03:54.640
+refers to how widely a deck’s power level&nbsp;
+differs moment-to-moment and game-to-game.&nbsp;&nbsp;
+
+00:03:54.640 --> 00:03:59.440
+This is difficult to track exactly, and obviously&nbsp;
+in a multiplayer format like commander a deck’s&nbsp;&nbsp;
+
+00:03:59.440 --> 00:04:04.320
+moment-to-moment power level won’t always&nbsp;
+directly translate into wins or losses,&nbsp;&nbsp;
+
+00:04:04.320 --> 00:04:08.800
+but most people are going to have an intuitive&nbsp;
+idea of what I’m talking about. When a deck is&nbsp;&nbsp;
+
+00:04:08.800 --> 00:04:12.400
+progressing effectively toward goals that&nbsp;
+will lead to winning a game, it’s having&nbsp;&nbsp;
+
+00:04:12.400 --> 00:04:17.680
+a more powerful game. If a deck has access to&nbsp;
+a powerful card like Sol Ring or Skull Clamp,&nbsp;&nbsp;
+
+00:04:17.680 --> 00:04:22.240
+it’s going to be having a better time on average&nbsp;
+than if it instead had access to Mind Stone or&nbsp;&nbsp;
+
+00:04:22.240 --> 00:04:28.000
+Rogue’s Gloves. If you take nothing else away from&nbsp;
+this video, understand that a game with a lot of&nbsp;&nbsp;
+
+00:04:28.000 --> 00:04:33.120
+card variation is different from a game with&nbsp;
+a lot of power level variance—you can have one&nbsp;&nbsp;
+
+00:04:33.120 --> 00:04:38.320
+without the other, and a defense of one of these&nbsp;
+things isn’t necessarily a defense of the other.
+
+00:04:38.320 --> 00:04:42.720
+When it’s already a foregone conclusion that a&nbsp;
+powerful card is going to exist in your deck,&nbsp;&nbsp;
+
+00:04:42.720 --> 00:04:46.880
+the question of whether to run tutors for it&nbsp;
+then becomes the question of whether you’d&nbsp;&nbsp;
+
+00:04:46.880 --> 00:04:53.040
+prefer to have that powerful card frequently or&nbsp;
+infrequently. On a probabilistic level, the deck&nbsp;&nbsp;
+
+00:04:53.040 --> 00:04:58.800
+that runs the tutors will be more powerful than&nbsp;
+the deck that does not. Let’s say we’re using a,&nbsp;&nbsp;
+
+00:04:58.800 --> 00:05:04.240
+I don’t know, 7-point power scale. That’s a fun&nbsp;
+number. If drawing into a particular power card&nbsp;&nbsp;
+
+00:05:04.240 --> 00:05:09.680
+naturally leads to a 6-power game, tutoring&nbsp;
+it leads to a 5-power game due to the extra&nbsp;&nbsp;
+
+00:05:09.680 --> 00:05:15.120
+cost and/or inconvenience of the tutor, and&nbsp;
+not having the card leads to a 3-power game,&nbsp;&nbsp;
+
+00:05:15.120 --> 00:05:20.080
+the expected power of the deck that runs tutors&nbsp;
+will be higher than the deck that does not.&nbsp;&nbsp;
+
+00:05:20.080 --> 00:05:24.640
+If you’re then figuring out what power level&nbsp;
+to put the deck in and you’re a certified math&nbsp;&nbsp;
+
+00:05:24.640 --> 00:05:30.240
+dork running the odds, you could say “well the&nbsp;
+expected power level of the tutor version is 4.1,&nbsp;&nbsp;
+
+00:05:30.240 --> 00:05:34.640
+and the expected power level of the non-tutor&nbsp;
+version is a 3.3,” and then this could determine&nbsp;&nbsp;
+
+00:05:34.640 --> 00:05:39.680
+the decks you choose to play this deck against.&nbsp;
+Problem is, both of these decks are gonna have&nbsp;&nbsp;
+
+00:05:39.680 --> 00:05:45.200
+that power level 6 game 10% of the time, it’s&nbsp;
+just that one set of opponents is going to be&nbsp;&nbsp;
+
+00:05:45.200 --> 00:05:50.560
+a bit better prepared for that situation than&nbsp;
+the others. This abstract approach demonstrates&nbsp;&nbsp;
+
+00:05:50.560 --> 00:05:54.880
+the core of the issue with decks having a&nbsp;
+higher degree of power level variance, but&nbsp;&nbsp;
+
+00:05:54.880 --> 00:06:00.000
+that abstractness makes it a bit less helpful in&nbsp;
+understanding real world cards, because different&nbsp;&nbsp;
+
+00:06:00.000 --> 00:06:05.920
+powerful cards accomplish very different tasks.&nbsp;
+So, let’s talk about some real world magic cards.
+
+00:06:05.920 --> 00:06:11.120
+For starters, let’s talk about the quintessential&nbsp;
+card in this sort of discussion—Sol Ring.&nbsp;&nbsp;
+
+00:06:11.120 --> 00:06:15.280
+I’ve been jokingly calling this card “my Wizards&nbsp;
+of the Coast mandated dose of variance” whenever&nbsp;&nbsp;
+
+00:06:15.280 --> 00:06:21.120
+I draw it for the past several months, and it&nbsp;
+truly is a massive injection of variance. It’s&nbsp;&nbsp;
+
+00:06:21.120 --> 00:06:24.880
+one of the most powerful cards in the game,&nbsp;
+indisputably the most powerful mana rock in&nbsp;&nbsp;
+
+00:06:24.880 --> 00:06:30.000
+the format after the banning of Mana Crypt, and&nbsp;
+it’s been printed in every precon out there.&nbsp;&nbsp;
+
+00:06:30.000 --> 00:06:36.640
+So this should be an example of the great woes&nbsp;
+inflicted by power level variance, right? Well,&nbsp;&nbsp;
+
+00:06:36.640 --> 00:06:41.440
+not exactly, and this is where things get more&nbsp;
+nuanced. Sol Ring is indisputably powerful,&nbsp;&nbsp;
+
+00:06:41.440 --> 00:06:46.800
+but its power is somewhat less felt than a lot&nbsp;
+of other cards, and this is for a few reasons.&nbsp;&nbsp;
+
+00:06:46.800 --> 00:06:51.440
+First of all, it only provides mana—if you don’t&nbsp;
+have good things to do with that mana, it’s not&nbsp;&nbsp;
+
+00:06:51.440 --> 00:06:56.320
+going to be all that powerful. Decks still have&nbsp;
+commanders, a bonus card they can cast at any&nbsp;&nbsp;
+
+00:06:56.320 --> 00:07:03.200
+time, so it’s rarely useless, but it might only be&nbsp;
+modestly powerful in some circumstances. Secondly,&nbsp;&nbsp;
+
+00:07:03.200 --> 00:07:09.200
+it’s a low cost card. 1 mana for a rock that taps&nbsp;
+for two colorless mana is insanely powerful, yes,&nbsp;&nbsp;
+
+00:07:09.200 --> 00:07:14.400
+but that power falls off rapidly, and drawing&nbsp;
+it past turn five or so might not even be that&nbsp;&nbsp;
+
+00:07:14.400 --> 00:07:19.680
+desirable. Thirdly, it’s a card that is&nbsp;
+typically far back in the progression of&nbsp;&nbsp;
+
+00:07:19.680 --> 00:07:25.120
+winning a game. If we think of a deck as having a&nbsp;
+pipeline that runs from the start of the game to&nbsp;&nbsp;
+
+00:07:25.120 --> 00:07:31.040
+the hypothetical point at which it wins, Sol Ring&nbsp;
+falls right near the beginning of that pipeline.&nbsp;&nbsp;
+
+00:07:31.040 --> 00:07:35.440
+Since commander is a multiplayer format, this will&nbsp;
+often give opponents a lot of time to collaborate&nbsp;&nbsp;
+
+00:07:35.440 --> 00:07:40.640
+in slowing down the Sol Ring-ing player, negating&nbsp;
+some of the power level bump of the card.
+
+00:07:40.640 --> 00:07:45.680
+Now, does all of this mean that Sol Ring’s&nbsp;
+power is something that never feels bad?&nbsp;&nbsp;
+
+00:07:45.680 --> 00:07:50.080
+Absolutely not. The most problematic instances&nbsp;
+of Sol Ring tend to be where there was already&nbsp;&nbsp;
+
+00:07:50.080 --> 00:07:54.960
+a bit of power level imbalance between decks,&nbsp;
+and especially if some of the weaker players&nbsp;&nbsp;
+
+00:07:54.960 --> 00:08:01.120
+kept poor hands or had unlucky openings. Sol Ring&nbsp;
+can be an equalizing tool for the weakest players,&nbsp;&nbsp;
+
+00:08:01.120 --> 00:08:05.760
+but it can also be drawn by the person piloting&nbsp;
+the most powerful deck, boosting what might have&nbsp;&nbsp;
+
+00:08:05.760 --> 00:08:11.840
+been a workable game into an outright pub stomp.&nbsp;
+Calls to ban Sol Ring, or now to put it on the&nbsp;&nbsp;
+
+00:08:11.840 --> 00:08:16.880
+Gamechangers list, exist for a reason—the card&nbsp;
+is far from the bane of the format’s existence,&nbsp;&nbsp;
+
+00:08:16.880 --> 00:08:22.880
+but it’s also not a perfectly unproblematic tool,&nbsp;
+and that makes it a good place to start. Following&nbsp;&nbsp;
+
+00:08:22.880 --> 00:08:29.200
+the pipeline model, what falls on the opposite&nbsp;
+end of the line? Well, it’s ways to win the game,&nbsp;&nbsp;
+
+00:08:29.200 --> 00:08:35.520
+typically ones that are near instantaneous such&nbsp;
+as combos or combo-adjacent cards. These tend&nbsp;&nbsp;
+
+00:08:35.520 --> 00:08:40.080
+to lead to the most jarring instances of power&nbsp;
+level variance, because the table doesn’t have&nbsp;&nbsp;
+
+00:08:40.080 --> 00:08:44.960
+much time to react—you go from playing the&nbsp;
+game to having it end without enough time&nbsp;&nbsp;
+
+00:08:44.960 --> 00:08:49.840
+for any sort of table-coordinated response.&nbsp;
+I’ll elaborate more on why this sort of thing&nbsp;&nbsp;
+
+00:08:49.840 --> 00:08:55.360
+constitutes a problem in a bit, but naturally&nbsp;
+when there is a problem, a card that wins the&nbsp;&nbsp;
+
+00:08:55.360 --> 00:09:00.400
+game immediately will be the problem-iest.&nbsp;
+Incidentally, this pipeline model also makes&nbsp;&nbsp;
+
+00:09:00.400 --> 00:09:06.240
+it clear that removal can be a tool for power&nbsp;
+level variance mitigation on the scale of a game.
+
+00:09:06.240 --> 00:09:10.720
+Between Sol Ring and cards that outright win&nbsp;
+the game will be a bunch of cards somewhere&nbsp;&nbsp;
+
+00:09:10.720 --> 00:09:15.920
+in the realm of what might be considered an&nbsp;
+“engine”. The engines that only provide card&nbsp;&nbsp;
+
+00:09:15.920 --> 00:09:20.960
+advantage will typically be closer to Sol Ring&nbsp;
+in terms of their position on the pipeline—card&nbsp;&nbsp;
+
+00:09:20.960 --> 00:09:25.760
+advantage is quite good, yes, but it can take&nbsp;
+a little while to fully pay off into a win,&nbsp;&nbsp;
+
+00:09:25.760 --> 00:09:30.880
+since mana will still be a limitation. The One&nbsp;
+Ring will feel quite powerful, but the table&nbsp;&nbsp;
+
+00:09:30.880 --> 00:09:35.040
+should still have a decent bit of time to work&nbsp;
+together and stop a one-ringing player if they&nbsp;&nbsp;
+
+00:09:35.040 --> 00:09:39.920
+start to get out of hand. The engines that are&nbsp;
+further down the pipeline are ones that grant mana&nbsp;&nbsp;
+
+00:09:39.920 --> 00:09:45.600
+in some form as well—think something like Bolas’s&nbsp;
+Citadel or Arcane Bombardment. When one of these&nbsp;&nbsp;
+
+00:09:45.600 --> 00:09:50.720
+hits the board, the table might be a single turn&nbsp;
+cycle away from fully losing control of the game,&nbsp;&nbsp;
+
+00:09:50.720 --> 00:09:55.520
+or even less in some cases. So this&nbsp;
+is the four point model I like to go&nbsp;&nbsp;
+
+00:09:55.520 --> 00:09:59.840
+with—you’ve got your early game stuff that&nbsp;
+is more of a temporary boost than anything,&nbsp;&nbsp;
+
+00:09:59.840 --> 00:10:03.760
+you’ve got your mid-game engines that can&nbsp;
+start to push out of control if given time,&nbsp;&nbsp;
+
+00:10:03.760 --> 00:10:07.840
+you’ve got your late-game engines that&nbsp;
+signal an imminent threat to your opponents,&nbsp;&nbsp;
+
+00:10:07.840 --> 00:10:12.560
+and you’ve got your truly game-ending cards&nbsp;
+at the very end here. Obviously these are&nbsp;&nbsp;
+
+00:10:12.560 --> 00:10:17.840
+categories defined by specific sorts of cards,&nbsp;
+but it’s possible to categorize basically every&nbsp;&nbsp;
+
+00:10:17.840 --> 00:10:23.280
+proactive magic card into one of these based on&nbsp;
+how imminently they threaten opponents in a game&nbsp;&nbsp;
+
+00:10:23.280 --> 00:10:28.800
+when they might be considered powerful. And that’s&nbsp;
+the key here—the utility of these categories is in&nbsp;&nbsp;
+
+00:10:28.800 --> 00:10:34.480
+analyzing a card that already seems like&nbsp;
+a possible power level outlier of sorts.
+
+00:10:34.480 --> 00:10:39.920
+Power level variance will feel sharper the&nbsp;
+further along this pipeline a card is due to the&nbsp;&nbsp;
+
+00:10:39.920 --> 00:10:44.880
+social nature of the EDH format—as I mentioned&nbsp;
+earlier, a Sol Ring is quite possible to play&nbsp;&nbsp;
+
+00:10:44.880 --> 00:10:50.320
+around with and typically only an out-of-control&nbsp;
+power spike in very specific scenarios where there&nbsp;&nbsp;
+
+00:10:50.320 --> 00:10:55.840
+were other factors lining up at the same time. By&nbsp;
+contrast, there are all sorts of scenarios where a&nbsp;&nbsp;
+
+00:10:55.840 --> 00:11:02.400
+Craterhoof Behemoth or a Mizzix Mastery might feel&nbsp;
+like a shocking or unsatisfying turn of events.&nbsp;&nbsp;
+
+00:11:02.400 --> 00:11:07.680
+And fundamentally, that’s my broader problem with&nbsp;
+power level variance as well. The wider a deck’s&nbsp;&nbsp;
+
+00:11:07.680 --> 00:11:12.000
+play patterns span in their power, the more&nbsp;
+difficult it is to put together good matchups,&nbsp;&nbsp;
+
+00:11:12.000 --> 00:11:17.120
+and the less satisfying games will be. Let’s&nbsp;
+think about a mid-power Raccoon deck—we’re&nbsp;&nbsp;
+
+00:11:17.120 --> 00:11:21.280
+doing a bit of ramping, playing some raccoons,&nbsp;
+and then maybe throwing down some cool top-end&nbsp;&nbsp;
+
+00:11:21.280 --> 00:11:26.880
+spells once we’ve built up our mana. But now&nbsp;
+let’s say the deck contains a Godo-Helm combo&nbsp;&nbsp;
+
+00:11:26.880 --> 00:11:32.480
+in it that can instantly win the game if the Godo&nbsp;
+is drawn and the deck has enough mana. Or heck,&nbsp;&nbsp;
+
+00:11:32.480 --> 00:11:37.440
+maybe even just a few especially strong top end&nbsp;
+creatures. What power level of game do you play&nbsp;&nbsp;
+
+00:11:37.440 --> 00:11:41.920
+this deck in? You could play it alongside other&nbsp;
+flavorful mid-power decks, but you might randomly&nbsp;&nbsp;
+
+00:11:41.920 --> 00:11:46.400
+smash them with an out-of-character power play.&nbsp;
+Alternatively you could play with other decks that&nbsp;&nbsp;
+
+00:11:46.400 --> 00:11:50.560
+have some higher-caliber plays, but then you might&nbsp;
+just get destroyed when you only draw into a bunch&nbsp;&nbsp;
+
+00:11:50.560 --> 00:11:55.680
+of fair-magic raccoon friends. When decks have&nbsp;
+such a high degree of power level variance, it’s&nbsp;&nbsp;
+
+00:11:55.680 --> 00:12:00.800
+hard to find a fair game to play them in, and if&nbsp;
+you choose your game based on the fair 80% of the&nbsp;&nbsp;
+
+00:12:00.800 --> 00:12:06.560
+time gameplan, the other people at the table may&nbsp;
+be in for a rude awakening when you draw the 20%.
+
+00:12:06.560 --> 00:12:10.560
+In addition, even if you find a table&nbsp;
+that seems suitable enough for the deck,&nbsp;&nbsp;
+
+00:12:10.560 --> 00:12:14.800
+this degree of randomness is destructive to a&nbsp;
+lot of the things that make commander a great&nbsp;&nbsp;
+
+00:12:14.800 --> 00:12:20.080
+format to me. One of the most important elements&nbsp;
+of the format is its multiplayer feature—you’re&nbsp;&nbsp;
+
+00:12:20.080 --> 00:12:25.280
+playing alongside three other people, and games&nbsp;
+often require strategizing and performing threat&nbsp;&nbsp;
+
+00:12:25.280 --> 00:12:30.080
+analysis, figuring out the best way to navigate&nbsp;
+the landscape in front of you. The issue with&nbsp;&nbsp;
+
+00:12:30.080 --> 00:12:34.240
+decks that have a high power level variance,&nbsp;
+then, is that they make threat assessment almost&nbsp;&nbsp;
+
+00:12:34.240 --> 00:12:38.720
+impossible. There is no landscape if you’re&nbsp;
+playing against a bunch of decks that do a&nbsp;&nbsp;
+
+00:12:38.720 --> 00:12:43.120
+mixture of power plays and durdling around&nbsp;
+vague synergies accomplishing very little.&nbsp;&nbsp;
+
+00:12:43.120 --> 00:12:47.520
+You could target down the person who currently&nbsp;
+has the most threatening thing on board—maybe&nbsp;&nbsp;
+
+00:12:47.520 --> 00:12:52.000
+this is where some people like to stop with threat&nbsp;
+assessment, who knows—but you can’t ask yourself,&nbsp;&nbsp;
+
+00:12:52.000 --> 00:12:56.240
+what will these decks be doing later? Do I have&nbsp;
+any sort of clock I need to worry about from this&nbsp;&nbsp;
+
+00:12:56.240 --> 00:13:00.160
+player like some sort of combo gameplan they’re&nbsp;
+assembling, or will this other player get ahead&nbsp;&nbsp;
+
+00:13:00.160 --> 00:13:05.040
+with overwhelming value if they aren’t pressured&nbsp;
+now? This information is unknowable if the power&nbsp;&nbsp;
+
+00:13:05.040 --> 00:13:10.640
+of a deck’s gameplan is determined by raw chance,&nbsp;
+and the end result is that commander turns into a&nbsp;&nbsp;
+
+00:13:10.640 --> 00:13:16.160
+luck game—it’s seeing who draws the powerful stuff&nbsp;
+and who puts it together at the right time and who&nbsp;&nbsp;
+
+00:13:16.160 --> 00:13:21.280
+happens to have the exact answer available at the&nbsp;
+exact right time. To some players, this is likely&nbsp;&nbsp;
+
+00:13:21.280 --> 00:13:26.400
+fine, good even. Commander is a very diverse&nbsp;
+format with lots of people looking for lots&nbsp;&nbsp;
+
+00:13:26.400 --> 00:13:31.120
+of different things out of it. You’re allowed to&nbsp;
+enjoy the more luck-based version of Magic where&nbsp;&nbsp;
+
+00:13:31.120 --> 00:13:36.080
+concepts like strategy and threat assessment are&nbsp;
+reduced down to a shadow of their usual selves,&nbsp;&nbsp;
+
+00:13:36.080 --> 00:13:40.400
+but you should at least be able to understand why&nbsp;
+if other people don’t want to play a commander&nbsp;&nbsp;
+
+00:13:40.400 --> 00:13:45.360
+game somewhere along the lines of Wizard-flavored&nbsp;
+Yahtzee or Dragon-themed Bingo with you.
+
+00:13:45.360 --> 00:13:49.600
+Obviously I have strong personal feelings about&nbsp;
+what degree of power level variance I find fun&nbsp;&nbsp;
+
+00:13:49.600 --> 00:13:54.160
+in a game, but rather than spending too much time&nbsp;
+berating you with that, I think it’s worth asking&nbsp;&nbsp;
+
+00:13:54.160 --> 00:13:59.040
+another question: why do so many people end&nbsp;
+up with decks that might be considered higher&nbsp;&nbsp;
+
+00:13:59.040 --> 00:14:03.920
+variance? Some of it is likely intentional,&nbsp;
+but a lot of it comes down to the nature of&nbsp;&nbsp;
+
+00:14:03.920 --> 00:14:09.520
+the EDH format and the culture that has developed&nbsp;
+around it. EDH is naturally a format where plays&nbsp;&nbsp;
+
+00:14:09.520 --> 00:14:14.400
+need to be larger in scale, and this is for&nbsp;
+two simple reasons: life totals are doubled,&nbsp;&nbsp;
+
+00:14:14.400 --> 00:14:19.440
+and there are two extra opponents. Naturally,&nbsp;
+then, it’s common to see a lot more cards that&nbsp;&nbsp;
+
+00:14:19.440 --> 00:14:25.360
+are synergistic—they rely on other cards for some&nbsp;
+of their power. This is not, in and of itself,&nbsp;&nbsp;
+
+00:14:25.360 --> 00:14:29.360
+a bad thing, and a well-thought-out synergy&nbsp;
+package can make for a fantastic backbone of a&nbsp;&nbsp;
+
+00:14:29.360 --> 00:14:34.160
+deck. However, when packages are narrower,&nbsp;
+when they don’t tie together as well,&nbsp;&nbsp;
+
+00:14:34.160 --> 00:14:39.600
+and when decks go overboard on certain types of&nbsp;
+payoff, problems can arise. It’s pretty common&nbsp;&nbsp;
+
+00:14:39.600 --> 00:14:44.240
+to see decks with a lot of cards that are only&nbsp;
+good when the deck is in a specific situation,&nbsp;&nbsp;
+
+00:14:44.240 --> 00:14:49.200
+like having an ideal boardstate, having specific&nbsp;
+types of support, being ahead in some way,&nbsp;&nbsp;
+
+00:14:49.200 --> 00:14:55.280
+and so on. This is common to see because humans&nbsp;
+are bad at thinking about chance. Let’s say you&nbsp;&nbsp;
+
+00:14:55.280 --> 00:14:59.360
+have a little micro-package with six enabler&nbsp;
+cards and four payoff cards for a particular&nbsp;&nbsp;
+
+00:14:59.360 --> 00:15:03.920
+thing. What are the odds that these actually&nbsp;
+show up together in the top 15 cards of your&nbsp;&nbsp;
+
+00:15:03.920 --> 00:15:09.200
+library? The answer is probably lower than you&nbsp;
+think—there’s about a 64% chance you’ll have one&nbsp;&nbsp;
+
+00:15:09.200 --> 00:15:15.280
+of the enablers, a 49% chance you’ll have one of&nbsp;
+the payoffs, and a 30% chance you’ll have both.&nbsp;&nbsp;
+
+00:15:15.280 --> 00:15:21.360
+This means for any time you’ve drawn one&nbsp;
+of the six enablers in the top 15 cards of&nbsp;&nbsp;
+
+00:15:21.360 --> 00:15:22.164
+your library, there’s a 47% chance you have one&nbsp;
+of the four payoffs, and if you’ve drawn one of&nbsp;&nbsp;
+
+00:15:22.164 --> 00:15:23.040
+the four payoffs there’s a 61% chance you’ve&nbsp;
+drawn one of the enablers. And that’s not even&nbsp;&nbsp;
+
+00:15:23.040 --> 00:15:27.200
+considering whether or not you have the mana&nbsp;
+to cast these things—take that into account&nbsp;&nbsp;
+
+00:15:27.200 --> 00:15:32.640
+and you’re probably south of 25% of the time.&nbsp;
+Long story short, humans are exceptionally bad&nbsp;&nbsp;
+
+00:15:32.640 --> 00:15:37.120
+at thinking about the probability of multiple&nbsp;
+things lining up just right at the same time.&nbsp;&nbsp;
+
+00:15:37.120 --> 00:15:42.320
+For a little analogy, this is why sports betting&nbsp;
+apps make a killing on parlays, bets on multiple&nbsp;&nbsp;
+
+00:15:42.320 --> 00:15:47.280
+specific things within a game happening. People&nbsp;
+make these bets because the payouts are higher,&nbsp;&nbsp;
+
+00:15:47.280 --> 00:15:52.160
+but in reality the probability of multiple things&nbsp;
+happening at the same time is typically low enough&nbsp;&nbsp;
+
+00:15:52.160 --> 00:15:57.120
+that these bets end up having massive margins&nbsp;
+for the apps, even with the higher payout.
+
+00:15:57.120 --> 00:16:01.360
+Taking things back to deckbuilding, this fact&nbsp;
+of probability means that if you run a bunch&nbsp;&nbsp;
+
+00:16:01.360 --> 00:16:06.160
+of cards that are mainly only good alongside&nbsp;
+other cards, or mainly only good when you’re&nbsp;&nbsp;
+
+00:16:06.160 --> 00:16:10.880
+already in a decent situation, you’re&nbsp;
+going to end up with a high-variance deck,&nbsp;&nbsp;
+
+00:16:10.880 --> 00:16:16.080
+and not in a way that I’d find fun. You’ll have&nbsp;
+some games where cards show up together at just&nbsp;&nbsp;
+
+00:16:16.080 --> 00:16:20.480
+the right time and you’re able to take over the&nbsp;
+game, and other games where things don’t come&nbsp;&nbsp;
+
+00:16:20.480 --> 00:16:24.560
+together right and you end up puttering around&nbsp;
+on the sidelines while more consistent decks are&nbsp;&nbsp;
+
+00:16:24.560 --> 00:16:29.760
+able to actually play the game. And this is to say&nbsp;
+nothing of the relationship these decks have with&nbsp;&nbsp;
+
+00:16:29.760 --> 00:16:35.840
+removal—a deck that hinges on being ahead,&nbsp;
+on having a specific situation be the case,&nbsp;&nbsp;
+
+00:16:35.840 --> 00:16:40.480
+even simply on having its commander stick around&nbsp;
+long term—well, that’s a deck that’s going to&nbsp;&nbsp;
+
+00:16:40.480 --> 00:16:44.800
+have a rough time against an opponent who has the&nbsp;
+interaction to keep it in check. If an opponent&nbsp;&nbsp;
+
+00:16:44.800 --> 00:16:49.680
+has seen your deck performing well and performing&nbsp;
+well means going absolutely ham on the board,&nbsp;&nbsp;
+
+00:16:49.680 --> 00:16:54.320
+they’re going to try and slow you down. If your&nbsp;
+deck also putters around doing nothing when it&nbsp;&nbsp;
+
+00:16:54.320 --> 00:17:00.080
+has a key piece removed, well, you’ve just set&nbsp;
+yourself up for a one-two punch of not having fun.&nbsp;&nbsp;
+
+00:17:00.080 --> 00:17:05.520
+You might also call this sort of a deck a “feast&nbsp;
+or famine” deck—when it’s able to do its thing it&nbsp;&nbsp;
+
+00:17:05.520 --> 00:17:10.160
+dominates whatever game it’s in, but when certain&nbsp;
+key pieces are kept off the board by either bad&nbsp;&nbsp;
+
+00:17:10.160 --> 00:17:15.040
+luck or opposing interaction, the rest of the&nbsp;
+deck’s cards aren’t able to do much of anything.
+
+00:17:15.040 --> 00:17:19.200
+Another thing that contributes to a high degree&nbsp;
+of power level variance within EDH is that&nbsp;&nbsp;
+
+00:17:19.200 --> 00:17:23.840
+people feel more willing to put especially&nbsp;
+powerful cards in decks when those cards&nbsp;&nbsp;
+
+00:17:23.840 --> 00:17:28.720
+work with their commander in some play. You’ll&nbsp;
+certainly occasionally see people who’ll toss&nbsp;&nbsp;
+
+00:17:28.720 --> 00:17:33.680
+powerful infinite combos like Heliod/Ballista&nbsp;
+or Dualcaster/Twinflame in any old deck they&nbsp;&nbsp;
+
+00:17:33.680 --> 00:17:37.920
+can cram it into, but it’s much more common&nbsp;
+to see people throw in cards that combo with&nbsp;&nbsp;
+
+00:17:37.920 --> 00:17:42.160
+their commander. In my video on the subject&nbsp;
+of turning commanders into a combo piece,&nbsp;&nbsp;
+
+00:17:42.160 --> 00:17:47.680
+I bring up that large percentages of both Zaxara&nbsp;
+players and Tivit players play one-card infinite&nbsp;&nbsp;
+
+00:17:47.680 --> 00:17:52.480
+combos with their respective commanders. This&nbsp;
+isn’t great when it occurs in a deck that is&nbsp;&nbsp;
+
+00:17:52.480 --> 00:17:56.960
+otherwise winning in decidedly mid-power,&nbsp;
+fair magic sorts of ways such sacrificing&nbsp;&nbsp;
+
+00:17:56.960 --> 00:18:00.720
+clues with a Disciple of the Vault in play&nbsp;
+or swinging in with a handful of normal-sized&nbsp;&nbsp;
+
+00:18:00.720 --> 00:18:05.600
+hydras. This is true for the reason I mentioned&nbsp;
+earlier—turning games into a strategy-devoid,&nbsp;&nbsp;
+
+00:18:05.600 --> 00:18:10.800
+swingy luckfest—but also because it can impact&nbsp;
+the threat assessment of your opponents, causing&nbsp;&nbsp;
+
+00:18:10.800 --> 00:18:16.320
+you to attract extra hate even when you’re playing&nbsp;
+with the decidedly fair-magic half of your deck.&nbsp;&nbsp;
+
+00:18:16.320 --> 00:18:21.040
+So, why do people choose to make this sort&nbsp;
+of deckbuilding choice? On some level,&nbsp;&nbsp;
+
+00:18:21.040 --> 00:18:26.160
+the existence of these power cards probably feels&nbsp;
+like a gift—the sort of play that would feel out&nbsp;&nbsp;
+
+00:18:26.160 --> 00:18:30.640
+of place in a deck is rendered acceptable to&nbsp;
+people due to it tying in with their commander&nbsp;&nbsp;
+
+00:18:30.640 --> 00:18:36.880
+or a major theme in their deck. It is, as I would&nbsp;
+jokingly say about Sol Ring, a prescribed dose of&nbsp;&nbsp;
+
+00:18:36.880 --> 00:18:42.000
+variance that has been handed down by the abstract&nbsp;
+godlike figure that is Wizards of the Coast.
+
+00:18:42.000 --> 00:18:46.880
+The same goes for cards more in the realm of&nbsp;
+engines. I gave a couple more minor examples of&nbsp;&nbsp;
+
+00:18:46.880 --> 00:18:52.080
+this in a recent video—Waste Not for a discard&nbsp;
+deck and Monument to Endurance for a cycling&nbsp;&nbsp;
+
+00:18:52.080 --> 00:18:58.080
+deck—but there are numerous examples of commanders&nbsp;
+or archetypes with one specific mid-game card that&nbsp;&nbsp;
+
+00:18:58.080 --> 00:19:03.920
+goes absolutely crazy. Skullclamp with tokens,&nbsp;
+Thrumming Stone in a Shadowborn Apostle deck,&nbsp;&nbsp;
+
+00:19:03.920 --> 00:19:09.360
+Colossus Hammer in an Ardenn deck, and so on.&nbsp;
+However, I want to focus in on one in particular&nbsp;&nbsp;
+
+00:19:09.360 --> 00:19:15.920
+as an illustrative example—Krark’s Thumb in&nbsp;
+a Yusri deck. Yusri is a commander that flips&nbsp;&nbsp;
+
+00:19:15.920 --> 00:19:20.720
+up to five coins when he attacks—most people&nbsp;
+choose five—and then his controller then draws&nbsp;&nbsp;
+
+00:19:20.720 --> 00:19:26.320
+a card for each heads and takes 2 damage for each&nbsp;
+tails. If five heads are hit, you get a temporary&nbsp;&nbsp;
+
+00:19:26.320 --> 00:19:31.680
+omniscience—spells are free to cast until end of&nbsp;
+turn. On its face, this is a spicy commander—if&nbsp;&nbsp;
+
+00:19:31.680 --> 00:19:36.240
+we do the math, this is basically a creature&nbsp;
+with two-and-a-half double damage Phyrexian&nbsp;&nbsp;
+
+00:19:36.240 --> 00:19:42.480
+Arenas stapled to it, and which also gives&nbsp;
+a roughly 3% chance of an Omniscience turn.&nbsp;&nbsp;
+
+00:19:42.480 --> 00:19:48.800
+What happens to these numbers when a Krark’s Thumb&nbsp;
+is played, a card run in 91% of Yusri decks? Well,&nbsp;&nbsp;
+
+00:19:48.800 --> 00:19:52.640
+the impact of improving the coin flipping&nbsp;
+odds is pretty dramatic with five coins&nbsp;&nbsp;
+
+00:19:52.640 --> 00:19:59.120
+flipped per turn—average cards drawn per turn&nbsp;
+goes up from 2.5 to 3.75, average damage taken&nbsp;&nbsp;
+
+00:19:59.120 --> 00:20:04.880
+goes from 5 down to 2.5, and this means that&nbsp;
+average damage per card gets cut down by two&nbsp;&nbsp;
+
+00:20:04.880 --> 00:20:11.600
+thirds. Even more dramatically, the odds of an&nbsp;
+Omniscience turn are almost eightfold improved,&nbsp;&nbsp;
+
+00:20:11.600 --> 00:20:17.280
+now sitting at just below a 24% chance.&nbsp;
+And that’s an Omniscience on a turn where&nbsp;&nbsp;
+
+00:20:17.280 --> 00:20:21.280
+5 extra cards were drawn—it’s not hard&nbsp;
+to imagine situations where the game&nbsp;&nbsp;
+
+00:20:21.280 --> 00:20:27.520
+is won either right then and there or rapidly&nbsp;
+thereafter, even reasonably early in the game.
+
+00:20:27.520 --> 00:20:31.760
+I don’t think you need me to tell you that this&nbsp;
+card constitutes an almost absurd degree of power&nbsp;&nbsp;
+
+00:20:31.760 --> 00:20:36.960
+enhancement for a deck Yusri when played.&nbsp;
+So, is this reasonable as a variance spike?&nbsp;&nbsp;
+
+00:20:36.960 --> 00:20:42.640
+Is it good for a deck’s commander to normally&nbsp;
+be a potent-yet-painful draw engine and in a&nbsp;&nbsp;
+
+00:20:42.640 --> 00:20:47.280
+much smaller number of cases become a much more&nbsp;
+powerful draw engine without the risk and with&nbsp;&nbsp;
+
+00:20:47.280 --> 00:20:52.800
+a one quarter chance each turn of offering a&nbsp;
+quite-possibly-game-winning benefit? I don’t&nbsp;&nbsp;
+
+00:20:52.800 --> 00:20:57.040
+necessarily want to answer that question for&nbsp;
+you. In part because it’s more complicated than&nbsp;&nbsp;
+
+00:20:57.040 --> 00:21:01.280
+something like an infinite combo, and also in part&nbsp;
+because Yusri is a commander that already selects&nbsp;&nbsp;
+
+00:21:01.280 --> 00:21:05.440
+for players who are looking for somewhat of a&nbsp;
+luck-based experience, so I’m probably not going&nbsp;&nbsp;
+
+00:21:05.440 --> 00:21:09.680
+to be convincing that person that this is any sort&nbsp;
+of negative thing even if I wanted to stake out a&nbsp;&nbsp;
+
+00:21:09.680 --> 00:21:15.520
+position. I’m merely bringing attention to this as&nbsp;
+an example of EDH culture in a nutshell—the fact&nbsp;&nbsp;
+
+00:21:15.520 --> 00:21:21.600
+that a full 91% of players are running Krark’s&nbsp;
+Thumb demonstrates the universality of this sort&nbsp;&nbsp;
+
+00:21:21.600 --> 00:21:27.600
+of good-cards-are-a-gift mentality, even in a&nbsp;
+casual format. It’s also at this point that I&nbsp;&nbsp;
+
+00:21:27.600 --> 00:21:32.640
+want to turn things back around to the question&nbsp;
+of tutors. Here’s a question—is it better if&nbsp;&nbsp;
+
+00:21:32.640 --> 00:21:37.440
+a Yusri player runs tutors to find the Krark’s&nbsp;
+Thumb, or is it better if they allow lady luck&nbsp;&nbsp;
+
+00:21:37.440 --> 00:21:42.000
+to run her course and bring them the thumb when&nbsp;
+she deems it appropriate? I think a lot of people&nbsp;&nbsp;
+
+00:21:42.000 --> 00:21:46.720
+are going to naturally default to the no-tutors&nbsp;
+option there, but why is that? If you’re going&nbsp;&nbsp;
+
+00:21:46.720 --> 00:21:50.880
+to be playing powerful stuff, isn’t it better to&nbsp;
+have it more consistently, and also to give your&nbsp;&nbsp;
+
+00:21:50.880 --> 00:21:55.120
+opponent the chance to strategize, to consider&nbsp;
+their options, to weigh the risks of different&nbsp;&nbsp;
+
+00:21:55.120 --> 00:21:59.760
+plays? Is it better that they play against&nbsp;
+a janky coin-flipping deck that occasionally&nbsp;&nbsp;
+
+00:21:59.760 --> 00:22:04.960
+throws on the gas randomly and then 24% of&nbsp;
+the time has that gas turn into rocket fuel?
+
+00:22:04.960 --> 00:22:08.880
+You can feel however you like about those&nbsp;
+questions, and I think it’s entirely reasonable&nbsp;&nbsp;
+
+00:22:08.880 --> 00:22:13.920
+to have some mixed feelings about this sort of&nbsp;
+thing. However, this example does start to clarify&nbsp;&nbsp;
+
+00:22:13.920 --> 00:22:19.360
+the impact of tutors on power level variance,&nbsp;
+particularly in a deck containing more powerful&nbsp;&nbsp;
+
+00:22:19.360 --> 00:22:24.640
+cards. If you’re playing a deck with a handful&nbsp;
+of power cards amidst a number of worse cards,&nbsp;&nbsp;
+
+00:22:24.640 --> 00:22:30.000
+running tutors to improve your chances of drawing&nbsp;
+said power cards will lead to less swinginess,&nbsp;&nbsp;
+
+00:22:30.000 --> 00:22:33.760
+since you have access to the power card with&nbsp;
+some degree of consistency rather than only in&nbsp;&nbsp;
+
+00:22:33.760 --> 00:22:40.560
+a handful of games. However, this usage of tutors&nbsp;
+is naturally sacrificing deck variation—you’re&nbsp;&nbsp;
+
+00:22:40.560 --> 00:22:46.240
+going to be making more similar plays every game.&nbsp;
+This can still be cool if you’re running a sort of&nbsp;&nbsp;
+
+00:22:46.240 --> 00:22:49.840
+secret commander deck where you’re able to&nbsp;
+build off of the consistently-tutored card&nbsp;&nbsp;
+
+00:22:49.840 --> 00:22:54.560
+in a variety of different ways as you might do&nbsp;
+with a commander, but this is likely a minority&nbsp;&nbsp;
+
+00:22:54.560 --> 00:23:01.520
+of cases. This brings me to the second usage of&nbsp;
+tutors here—tutors can help you in the process of&nbsp;&nbsp;
+
+00:23:01.520 --> 00:23:06.160
+identifying cards that might be out of place&nbsp;
+in terms of their power level variance.
+
+00:23:06.160 --> 00:23:10.720
+To build off of a real world example, I recently&nbsp;
+heard a content creator discuss an experience they&nbsp;&nbsp;
+
+00:23:10.720 --> 00:23:15.840
+had that caused them to cut the tutors from one&nbsp;
+of their decks. They had tutors in their Vela,&nbsp;&nbsp;
+
+00:23:15.840 --> 00:23:20.640
+the Night Clad deck, and they found that all too&nbsp;
+often they would tutor for Rite of Replication,&nbsp;&nbsp;
+
+00:23:20.640 --> 00:23:26.160
+a card that can copy Vela 5 times to deal 30&nbsp;
+damage to each opponent. This is a one-card&nbsp;&nbsp;
+
+00:23:26.160 --> 00:23:31.200
+combo that will instantly win the game in&nbsp;
+many situations, if a very mana-intensive one.&nbsp;&nbsp;
+
+00:23:31.200 --> 00:23:35.920
+The Vela player found this a bit anticlimactic&nbsp;
+and their response to this was to cut the tutors,&nbsp;&nbsp;
+
+00:23:35.920 --> 00:23:40.320
+but when I heard this my first thought was&nbsp;
+“wow, think about the gift your tutors just&nbsp;&nbsp;
+
+00:23:40.320 --> 00:23:45.360
+gave you!” Like, these tutors have identified&nbsp;
+a card that is exceptional enough to be the&nbsp;&nbsp;
+
+00:23:45.360 --> 00:23:49.840
+correct tutoring choice most of the time and&nbsp;
+have also given you the chance to decide that&nbsp;&nbsp;
+
+00:23:49.840 --> 00:23:54.400
+that exceptionality feels a bit off, and in the&nbsp;
+process have given you the chance to indulge a&nbsp;&nbsp;
+
+00:23:54.400 --> 00:23:59.440
+bit and play that card a few final times. Put&nbsp;
+in more general terms, tutors let you see what&nbsp;&nbsp;
+
+00:23:59.440 --> 00:24:04.080
+cards you’re gravitating toward, and they also&nbsp;
+give you extra opportunities to decide how you&nbsp;&nbsp;
+
+00:24:04.080 --> 00:24:09.520
+feel about a card. If you’re tutoring for a card&nbsp;
+a lot, you can ask yourself “have I been enjoying&nbsp;&nbsp;
+
+00:24:09.520 --> 00:24:15.360
+having this card more often?” If the answer is&nbsp;
+yes, great! All is well. If the answer is no,&nbsp;&nbsp;
+
+00:24:15.360 --> 00:24:19.600
+well that gives you the opportunity to make some&nbsp;
+choices. It might be that the card is out of place&nbsp;&nbsp;
+
+00:24:19.600 --> 00:24:24.720
+in your deck, but it also might be that the card&nbsp;
+represents a gameplan that was fun for a bit,&nbsp;&nbsp;
+
+00:24:24.720 --> 00:24:29.200
+but that you’ve already gotten your full amount of&nbsp;
+enjoyment out of for the moment. In either case,&nbsp;&nbsp;
+
+00:24:29.200 --> 00:24:32.560
+you now have the opportunity to try&nbsp;
+something new instead of that card.
+
+00:24:32.560 --> 00:24:37.920
+In my most tutor-intensive deck, my Sharuum Slide&nbsp;
+deck, I’ve always performing exactly this sort of&nbsp;&nbsp;
+
+00:24:37.920 --> 00:24:42.400
+analysis. There’s obviously the part of the&nbsp;
+deck pertaining to the flicker enchantments,&nbsp;&nbsp;
+
+00:24:42.400 --> 00:24:47.280
+and I never get tired of those since they’re what&nbsp;
+the deck is built around, but my artifact-fetching&nbsp;&nbsp;
+
+00:24:47.280 --> 00:24:51.920
+wizards give me the opportunity to see what&nbsp;
+I tutor for, and which of those things feel&nbsp;&nbsp;
+
+00:24:51.920 --> 00:24:57.520
+satisfying when played a lot. The only cards I&nbsp;
+find myself tutoring for first every time are&nbsp;&nbsp;
+
+00:24:57.520 --> 00:25:02.400
+Sol Ring and Fluctuator, and both of these I’m&nbsp;
+fine with since Sol Ring is just mana advantage&nbsp;&nbsp;
+
+00:25:02.400 --> 00:25:07.760
+and Fluctuator is a core card I can play around.&nbsp;
+On the other end of things, Portal to Phyrexia is&nbsp;&nbsp;
+
+00:25:07.760 --> 00:25:12.720
+a powerful card I was worried I’d be tutoring for&nbsp;
+too often with my treasure mage, but that really&nbsp;&nbsp;
+
+00:25:12.720 --> 00:25:17.680
+hasn’t been the case. There are just so many&nbsp;
+useful top end artifacts in the deck between&nbsp;&nbsp;
+
+00:25:17.680 --> 00:25:23.760
+wincons, removal of various types, lifegain, and&nbsp;
+other utility cards. In fact, Portal hasn’t even&nbsp;&nbsp;
+
+00:25:23.760 --> 00:25:29.120
+been my most common target for Treasure Mage—that&nbsp;
+honor goes to Angel of the Ruins, though even then&nbsp;&nbsp;
+
+00:25:29.120 --> 00:25:35.040
+I’d say that’s only my pick about 30-40% of the&nbsp;
+time. Part of the joy of a toolbox deck is the&nbsp;&nbsp;
+
+00:25:35.040 --> 00:25:40.320
+action of figuring out the right tool for the job,&nbsp;
+and balancing tutor targets so that they all get&nbsp;&nbsp;
+
+00:25:40.320 --> 00:25:45.040
+the chance to be the correct pick across different&nbsp;
+situations is a great way to optimize the fun&nbsp;&nbsp;
+
+00:25:45.040 --> 00:25:50.800
+of a deck like this. This act also naturally&nbsp;
+smooths out the power level of different cards,&nbsp;&nbsp;
+
+00:25:50.800 --> 00:25:54.880
+making for a more consistent experience&nbsp;
+with my draws in addition to my tutoring.
+
+00:25:54.880 --> 00:25:59.440
+Ultimately, whether or not you add tutors to a&nbsp;
+deck is a personal decision and I’m not really&nbsp;&nbsp;
+
+00:25:59.440 --> 00:26:04.880
+trying to sway you one way or the other on that.&nbsp;
+I presented these four quadrants in my last video&nbsp;&nbsp;
+
+00:26:04.880 --> 00:26:09.360
+to illustrate four different philosophies&nbsp;
+on whether to tutor for a powerful card,&nbsp;&nbsp;
+
+00:26:09.360 --> 00:26:13.760
+and returning to them now can illustrate&nbsp;
+how deckbuilding decisions play out. In&nbsp;&nbsp;
+
+00:26:13.760 --> 00:26:18.480
+a deck with a handful of more powerful cards,&nbsp;
+including tutors will likely reduce the power&nbsp;&nbsp;
+
+00:26:18.480 --> 00:26:24.480
+level variance of the deck and lead to a smoother&nbsp;
+game-to-game experience, but it will also likely&nbsp;&nbsp;
+
+00:26:24.480 --> 00:26:30.720
+have the side effect of reducing card and play&nbsp;
+variation, making the deck more samey. This puts&nbsp;&nbsp;
+
+00:26:30.720 --> 00:26:35.760
+a deck in the first quadrant. Not including&nbsp;
+tutors will do the opposite—decks will have a&nbsp;&nbsp;
+
+00:26:35.760 --> 00:26:39.840
+greater variety of different plays game-to-game,&nbsp;
+but they may have sudden power level spikes&nbsp;&nbsp;
+
+00:26:39.840 --> 00:26:44.880
+here or there when a powerful card is drawn.&nbsp;
+This puts a deck in the third quadrant here.&nbsp;&nbsp;
+
+00:26:44.880 --> 00:26:50.080
+The fourth quadrant is one where most cards that&nbsp;
+might spike a deck’s power level are weeded out,&nbsp;&nbsp;
+
+00:26:50.080 --> 00:26:55.760
+but tutors are still included. This is a&nbsp;
+generally low-power-level-variance style of deck,&nbsp;&nbsp;
+
+00:26:55.760 --> 00:27:01.600
+and the play variation of this sort of deck&nbsp;
+really depends on its pilot. Some people might&nbsp;&nbsp;
+
+00:27:01.600 --> 00:27:06.400
+value getting different cards each time and&nbsp;
+combining them in different and creative ways,&nbsp;&nbsp;
+
+00:27:06.400 --> 00:27:11.440
+whereas others might look for a more consistent&nbsp;
+play pattern with less variety. A final fifth&nbsp;&nbsp;
+
+00:27:11.440 --> 00:27:17.600
+category might be a deck that contains neither&nbsp;
+any major power outliers nor any tutors,&nbsp;&nbsp;
+
+00:27:17.600 --> 00:27:23.040
+and this sort of deck would most likely be both&nbsp;
+high variation and low power level variance.&nbsp;&nbsp;
+
+00:27:23.040 --> 00:27:27.680
+Ultimately, the biggest thing I want to get across&nbsp;
+here is that these two things are two separate&nbsp;&nbsp;
+
+00:27:27.680 --> 00:27:33.760
+knobs. The tutor conflict within the casual EDH&nbsp;
+community isn’t a battle between the people who&nbsp;&nbsp;
+
+00:27:33.760 --> 00:27:37.840
+want different things every game and people who&nbsp;
+want the same experience every game, nor is it a&nbsp;&nbsp;
+
+00:27:37.840 --> 00:27:43.600
+fight between skill-havers and luck-enjoyers, nor&nbsp;
+a duel between good players and bad players, nor a&nbsp;&nbsp;
+
+00:27:43.600 --> 00:27:48.640
+skirmish between pubstompers and fun-havers. There&nbsp;
+will be elements from some of those dialectical&nbsp;&nbsp;
+
+00:27:48.640 --> 00:27:52.640
+clashes present, but so are a lot of other&nbsp;
+things, including some I mentioned in my last&nbsp;&nbsp;
+
+00:27:52.640 --> 00:27:57.040
+video. However you choose to build your decks,&nbsp;
+the best I can hope for is that the frameworks&nbsp;&nbsp;
+
+00:27:57.040 --> 00:28:00.960
+I’ve laid out over the past half hour might be&nbsp;
+helpful in the goal of building something fun.
+

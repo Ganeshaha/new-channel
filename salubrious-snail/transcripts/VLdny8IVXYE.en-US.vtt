@@ -1,0 +1,856 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.240 --> 00:00:05.440
+After my recent video about Rhystic Study, I&nbsp;
+got a lot of comments saying one specific thing:&nbsp;&nbsp;
+
+00:00:05.440 --> 00:00:10.160
+what about Sol Ring? Why is it that Rhystic Study&nbsp;
+should be banned, but not this all-powerful fast&nbsp;&nbsp;
+
+00:00:10.160 --> 00:00:14.800
+mana piece? Bits and pieces of my answer to that&nbsp;
+question are sitting around in plain sight—as I&nbsp;&nbsp;
+
+00:00:14.800 --> 00:00:19.040
+mention in that video, the reason to ban&nbsp;
+things is having a high power level plus&nbsp;&nbsp;
+
+00:00:19.040 --> 00:00:23.440
+having a bothersome play pattern, and I find&nbsp;
+the play pattern of Sol Ring less bothersome&nbsp;&nbsp;
+
+00:00:23.440 --> 00:00:29.120
+than that of Rhystic. Not a very high bar, but&nbsp;
+the ring has cleared it. I also had a segment in&nbsp;&nbsp;
+
+00:00:29.120 --> 00:00:33.440
+a 30 minute defense of tutors I put out last&nbsp;
+year where I discussed what causes cards to&nbsp;&nbsp;
+
+00:00:33.440 --> 00:00:38.560
+feel problematic, and why a very early game&nbsp;
+threat like Sol Ring feels less game-warping&nbsp;&nbsp;
+
+00:00:38.560 --> 00:00:44.800
+than other very powerful cards that exist. Not&nbsp;
+un-game-warping, but less game-warping. Still,&nbsp;&nbsp;
+
+00:00:44.800 --> 00:00:48.160
+I think it’s worth returning to the question&nbsp;
+of Sol Ring and asking some questions about it,&nbsp;&nbsp;
+
+00:00:48.160 --> 00:00:52.800
+and giving the question of whether it should&nbsp;
+stay legal a fair shake. I still firmly lean on&nbsp;&nbsp;
+
+00:00:52.800 --> 00:00:56.560
+the side of not banning it currently, and I’ll&nbsp;
+be laying out my reasons for feeling that way,&nbsp;&nbsp;
+
+00:00:56.560 --> 00:01:01.040
+but the arguments in favor of a ban are also&nbsp;
+fascinating, and I love being fascinated.
+
+00:01:01.040 --> 00:01:04.560
+Sol Ring is a card that can really jump-start an&nbsp;
+aggressive gameplan, and if you’re looking for&nbsp;&nbsp;
+
+00:01:04.560 --> 00:01:08.560
+other ways to get your speed on, look no further&nbsp;
+than the Red Collection from this video’s sponsor,&nbsp;&nbsp;
+
+00:01:08.560 --> 00:01:14.000
+Voidmonster. Voidmonster.org is a TCG-inspired&nbsp;
+accessory and apparel shop started by artist&nbsp;&nbsp;
+
+00:01:14.000 --> 00:01:18.960
+Forrest Imel, and every month there’s a new drop&nbsp;
+featuring some fantastic original designs that’s&nbsp;&nbsp;
+
+00:01:18.960 --> 00:01:24.240
+only available to preorder for a week. This week&nbsp;
+is the Red Collection, which features a deck box,&nbsp;&nbsp;
+
+00:01:24.240 --> 00:01:28.480
+sleeves, a playmat, and a card binder,&nbsp;
+all with variations of this red pattern,&nbsp;&nbsp;
+
+00:01:28.480 --> 00:01:32.480
+with these sort of rock-y, magma-y&nbsp;
+details that I really dig. As always,&nbsp;&nbsp;
+
+00:01:32.480 --> 00:01:35.360
+these are some super cool accessories&nbsp;
+available for only a limited time,&nbsp;&nbsp;
+
+00:01:35.360 --> 00:01:38.640
+and if you’re interested in them you should&nbsp;
+follow my link in the description and preorder&nbsp;&nbsp;
+
+00:01:38.640 --> 00:01:43.440
+by March 1st and noon PST. Thanks to&nbsp;
+Voidmonster for sponsoring the video!
+
+00:01:43.440 --> 00:01:47.120
+Okay, so we’re going to start with the play&nbsp;
+patterns of Sol Ring, and why I find them&nbsp;&nbsp;
+
+00:01:47.120 --> 00:01:51.920
+sometimes problematic but unobjectionable a lot&nbsp;
+of the rest of the time. The card’s most obvious&nbsp;&nbsp;
+
+00:01:51.920 --> 00:01:56.720
+feature is that it warps early games. Turn 1&nbsp;
+Sol Ring, as well as its mean older brother&nbsp;&nbsp;
+
+00:01:56.720 --> 00:02:02.480
+turn 1 Sol Ring Arcane Signet, can really set up&nbsp;
+a player for a nasty turn 2 and turn 3. I think&nbsp;&nbsp;
+
+00:02:02.480 --> 00:02:06.400
+most casual EDH players have been flattened&nbsp;
+by a killer Sol Ring rollout in their time,&nbsp;&nbsp;
+
+00:02:06.400 --> 00:02:11.200
+but that early-ness of Sol Ring is actually a&nbsp;
+reason why I don’t always mind it so much. Turn&nbsp;&nbsp;
+
+00:02:11.200 --> 00:02:16.640
+1 Sol Ring is amazing, and turn 2 Sol Ring is also&nbsp;
+pretty juicy, but what if you draw into it on turn&nbsp;&nbsp;
+
+00:02:16.640 --> 00:02:22.080
+3? How about turn 4 or 5? At a certain point you&nbsp;
+might not even want to draw into this little guy,&nbsp;&nbsp;
+
+00:02:22.080 --> 00:02:27.440
+and this points to something important about the&nbsp;
+card: its ephemeral nature. To briefly return to&nbsp;&nbsp;
+
+00:02:27.440 --> 00:02:31.200
+a metaphor I used last year, Sol Ring is&nbsp;
+strongest when it comes earliest in the&nbsp;&nbsp;
+
+00:02:31.200 --> 00:02:35.760
+pipeline toward victory, but it falls off fast&nbsp;
+compared to a lot of other especially powerful&nbsp;&nbsp;
+
+00:02:35.760 --> 00:02:40.400
+cards. Smothering Tithe is another card that&nbsp;
+offers a lot of mana for its cost, but in that&nbsp;&nbsp;
+
+00:02:40.400 --> 00:02:44.400
+case the mana is dynamic in how quickly it&nbsp;
+gets generated, it’s storable, and since it’s&nbsp;&nbsp;
+
+00:02:44.400 --> 00:02:49.360
+in the form of treasures it can also enable some&nbsp;
+powerful artifact synergies. It’s still just mana,&nbsp;&nbsp;
+
+00:02:49.360 --> 00:02:54.800
+but it’s a decidedly more scalable form of mana.&nbsp;
+Next up along the pipeline might be a powerful&nbsp;&nbsp;
+
+00:02:54.800 --> 00:02:59.360
+draw engine like Rhystic Study or The One Ring—a&nbsp;
+strong flow of cards will almost always be useful,&nbsp;&nbsp;
+
+00:02:59.360 --> 00:03:03.520
+whether that be in an early setup turn, or for&nbsp;
+when a player is drawing their way toward a kill.&nbsp;&nbsp;
+
+00:03:03.520 --> 00:03:07.840
+The potency of one of these could be limited by&nbsp;
+the amount of mana a player has, but drawing cards&nbsp;&nbsp;
+
+00:03:07.840 --> 00:03:12.000
+can also draw into ways to solve a player’s&nbsp;
+mana issues, so for most decks this will be a&nbsp;&nbsp;
+
+00:03:12.000 --> 00:03:16.960
+temporary limitation, if even one at all. Finally,&nbsp;
+we could talk about a powerful endgame card that&nbsp;&nbsp;
+
+00:03:16.960 --> 00:03:20.720
+will usually spell out victory if a player is&nbsp;
+ahead, and could give a shot at swinging the game&nbsp;&nbsp;
+
+00:03:20.720 --> 00:03:25.840
+back around if they’re behind. Bolas’s Citadel is&nbsp;
+a very powerful card, and the point in a player’s&nbsp;&nbsp;
+
+00:03:25.840 --> 00:03:30.800
+gameplan where it fits in is often quite far&nbsp;
+along, just before a player is looking to win.
+
+00:03:30.800 --> 00:03:34.240
+Alright, so what am I trying to say&nbsp;
+by constructing this scale? Well,&nbsp;&nbsp;
+
+00:03:34.240 --> 00:03:38.720
+it’s a useful data point for analyzing cards that&nbsp;
+most people would consider very powerful. Let’s&nbsp;&nbsp;
+
+00:03:38.720 --> 00:03:42.960
+consider how often a Bolas’s Citadel will feel&nbsp;
+especially powerful, maybe even too powerful for&nbsp;&nbsp;
+
+00:03:42.960 --> 00:03:47.600
+some games. The answer to that might vary by&nbsp;
+table, but I’m willing to bet it’s reasonably&nbsp;&nbsp;
+
+00:03:47.600 --> 00:03:52.560
+frequent that this card feels a bit out of place.&nbsp;
+That’s not any sort of complaint about the card—I&nbsp;&nbsp;
+
+00:03:52.560 --> 00:03:57.280
+love Bolas’s Citadel—but it is an interesting&nbsp;
+fact about it, and it’s a fact that has a lot to&nbsp;&nbsp;
+
+00:03:57.280 --> 00:04:02.240
+do with the point in the game at which this card&nbsp;
+is powerful. If a Bolas’s Citadel hits the table,&nbsp;&nbsp;
+
+00:04:02.240 --> 00:04:06.240
+the game will usually be over if its controller&nbsp;
+is allowed to untap with it, and it might even&nbsp;&nbsp;
+
+00:04:06.240 --> 00:04:10.400
+be over the same turn it was played with the&nbsp;
+right setup. This means that the social tools&nbsp;&nbsp;
+
+00:04:10.400 --> 00:04:14.640
+of the EDH format—the fact that you have 2&nbsp;
+other opponents in the game, basically—aren’t&nbsp;&nbsp;
+
+00:04:14.640 --> 00:04:19.520
+very useful for dealing with Bolas’s Citadel.&nbsp;
+If people happen to have big boards right now&nbsp;&nbsp;
+
+00:04:19.520 --> 00:04:23.280
+and are able to get an opportunity to swing&nbsp;
+big at the Bolas’s Citadel player, that could&nbsp;&nbsp;
+
+00:04:23.280 --> 00:04:27.920
+be a way of containing the card, but it’s kinda&nbsp;
+rare that your options will be this good unless&nbsp;&nbsp;
+
+00:04:27.920 --> 00:04:32.560
+the Citadel-haver played it when they were pretty&nbsp;
+far behind. More realistically, the other players&nbsp;&nbsp;
+
+00:04:32.560 --> 00:04:36.800
+at the table will get maybe a single turn cycle to&nbsp;
+either come up with a piece of artifact removal or&nbsp;&nbsp;
+
+00:04:36.800 --> 00:04:41.360
+have their own crazy pop-off turn, and if neither&nbsp;
+of those things happen, you’re kind of cooked.
+
+00:04:41.360 --> 00:04:45.280
+This is in contrast to the way things play out&nbsp;
+with a card that is powerful earlier in the game.&nbsp;&nbsp;
+
+00:04:45.280 --> 00:04:49.600
+A powerful draw engine like Braids or Toski can&nbsp;
+generate a lot of card advantage if not addressed,&nbsp;&nbsp;
+
+00:04:49.600 --> 00:04:52.960
+but these are significantly more manageable&nbsp;
+through the social nature of the format since&nbsp;&nbsp;
+
+00:04:52.960 --> 00:04:56.800
+they typically won’t be winning the game super&nbsp;
+imminently. If somebody is getting a lot of cards&nbsp;&nbsp;
+
+00:04:56.800 --> 00:05:00.320
+off of one of these, their opponents can attack&nbsp;
+them and/or interact with some of their stuff&nbsp;&nbsp;
+
+00:05:00.320 --> 00:05:04.960
+in order to slow them down. This is even more true&nbsp;
+for a mana tool like Sol Ring that comes into play&nbsp;&nbsp;
+
+00:05:04.960 --> 00:05:10.000
+early—it will absolutely accelerate the gameplan&nbsp;
+of its caster, but in a bracket 2 or 3 game there&nbsp;&nbsp;
+
+00:05:10.000 --> 00:05:14.560
+will still be a lot of turns for the table to work&nbsp;
+together against the Sol Ringing player before a&nbsp;&nbsp;
+
+00:05:14.560 --> 00:05:19.120
+win is being threatened. To be clear, this is&nbsp;
+not to say Sol Ring will never be a problem. If&nbsp;&nbsp;
+
+00:05:19.120 --> 00:05:23.200
+the player who draws it is playing the strongest&nbsp;
+deck, if that player draws other powerful stuff&nbsp;&nbsp;
+
+00:05:23.200 --> 00:05:27.520
+in conjunction with the ring, if one or more&nbsp;
+of their opponents has a rough start—all of&nbsp;&nbsp;
+
+00:05:27.520 --> 00:05:32.800
+these things could result in Sol Ring causing a&nbsp;
+blowout, turning an uphill battle into a non-game.&nbsp;&nbsp;
+
+00:05:32.800 --> 00:05:39.200
+This does happen sometimes, but it’s not the norm&nbsp;
+of the card. More frequently, players do get ample&nbsp;&nbsp;
+
+00:05:39.200 --> 00:05:43.840
+opportunity to gang up on the Sol Ring player,&nbsp;
+and that’s assuming it’s a problem at all. Many&nbsp;&nbsp;
+
+00:05:43.840 --> 00:05:48.160
+a player has kept a questionable hand with a Sol&nbsp;
+Ring in it, and in those cases it’s pretty common&nbsp;&nbsp;
+
+00:05:48.160 --> 00:05:53.920
+to see a scary first three turns followed&nbsp;
+by a rather unconcerning turns 4, 5, and 6.
+
+00:05:53.920 --> 00:05:58.080
+Another factor that it’s worth considering with&nbsp;
+regard to banning a card is how much a card&nbsp;&nbsp;
+
+00:05:58.080 --> 00:06:02.480
+dominates the landscape of a particular game&nbsp;
+it’s in. If the legends about Primeval Titan&nbsp;&nbsp;
+
+00:06:02.480 --> 00:06:06.640
+are to be believed, it basically transformed the&nbsp;
+commander format into the Primeval Titan format&nbsp;&nbsp;
+
+00:06:06.640 --> 00:06:10.320
+for a year or so, with everybody playing&nbsp;
+it and stealing it and copying it in order&nbsp;&nbsp;
+
+00:06:10.320 --> 00:06:14.720
+to get all their favorite lands out onto the&nbsp;
+board. The same goes for Prophet of Kruphix,&nbsp;&nbsp;
+
+00:06:14.720 --> 00:06:19.200
+instantly transforming a game into a Prophet&nbsp;
+of Kruphix game the second it hit the field.&nbsp;&nbsp;
+
+00:06:19.200 --> 00:06:23.200
+This can even be the case for Rhystic Study—a&nbsp;
+player getting to draw a lot of extra cards&nbsp;&nbsp;
+
+00:06:23.200 --> 00:06:27.200
+might trivialize any other set of value engines&nbsp;
+they were playing, turning their gameplan from&nbsp;&nbsp;
+
+00:06:27.200 --> 00:06:32.240
+*insert complex synergy web here* into Rhystic&nbsp;
+Study, end of story. In contrast to these&nbsp;&nbsp;
+
+00:06:32.240 --> 00:06:37.760
+examples, Sol Ring is humble and task-oriented. It&nbsp;
+enables a player’s gameplan early on, but the card&nbsp;&nbsp;
+
+00:06:37.760 --> 00:06:42.800
+lacks any sort of identity or scaling, so after&nbsp;
+a few turns it often slips into the background.&nbsp;&nbsp;
+
+00:06:42.800 --> 00:06:47.360
+I’ve had multiple games recently where I entirely&nbsp;
+forgot it had been played, only remembering about&nbsp;&nbsp;
+
+00:06:47.360 --> 00:06:52.080
+it after a moment of marveling at how sleek and&nbsp;
+tuned an opponent’s deck had seemed. To be clear,&nbsp;&nbsp;
+
+00:06:52.080 --> 00:06:56.240
+this isn’t necessarily a perfect defense of a&nbsp;
+powerful card—you could make similar arguments&nbsp;&nbsp;
+
+00:06:56.240 --> 00:07:00.880
+about Mana Crypt and Jeweled Lotus, and I’m&nbsp;
+perfectly happy with them staying banned. Still,&nbsp;&nbsp;
+
+00:07:00.880 --> 00:07:05.200
+I do see some appeal in the fact that this is a&nbsp;
+universally available tool that can give players&nbsp;&nbsp;
+
+00:07:05.200 --> 00:07:09.920
+a chance to play an accelerated version of their&nbsp;
+gameplan. To me, getting to be the big-bad is one&nbsp;&nbsp;
+
+00:07:09.920 --> 00:07:14.560
+of the defining experiences of playing EDH, and&nbsp;
+it’s an experience that everybody deserves access&nbsp;&nbsp;
+
+00:07:14.560 --> 00:07:19.600
+to. Now, just to be clear, I have seen some bad&nbsp;
+defenses of Sol Ring that argue that it’s a tool&nbsp;&nbsp;
+
+00:07:19.600 --> 00:07:23.440
+of the people, an equalizing factor between the&nbsp;
+stronger players and the weaker players out there,&nbsp;&nbsp;
+
+00:07:23.440 --> 00:07:28.560
+or the stronger decks and the weaker decks. These&nbsp;
+are bad defenses because anybody can draw Sol&nbsp;&nbsp;
+
+00:07:28.560 --> 00:07:33.200
+Ring, including the strongest player, and I prefer&nbsp;
+a modified defense of the card that focuses on its&nbsp;&nbsp;
+
+00:07:33.200 --> 00:07:39.200
+ability to increase early game variance. Increased&nbsp;
+variance won’t necessarily create fairer games,&nbsp;&nbsp;
+
+00:07:39.200 --> 00:07:43.600
+nor is “fairness” a particularly good metric for&nbsp;
+analyzing commander games in the first place,&nbsp;&nbsp;
+
+00:07:43.600 --> 00:07:48.880
+but what it can do is create more balanced&nbsp;
+play experiences on the aggregate, offering&nbsp;&nbsp;
+
+00:07:48.880 --> 00:07:54.080
+exciting games to players playing decks that might&nbsp;
+otherwise be slower. And, that’s worth something.
+
+00:07:54.080 --> 00:07:57.760
+So ultimately, I’ve grown a bit more tolerant&nbsp;
+of Sol Ring over the past couple years,&nbsp;&nbsp;
+
+00:07:57.760 --> 00:08:03.280
+even as I remain a fairly variance-averse player.&nbsp;
+Random power spikes in a gameplan can make for&nbsp;&nbsp;
+
+00:08:03.280 --> 00:08:08.080
+frustratingly unpredictable play experiences,&nbsp;
+making it impossible to predict opposing decks&nbsp;&nbsp;
+
+00:08:08.080 --> 00:08:12.960
+and strategize. A deck looking very different&nbsp;
+power-wise game-to-game can also make it tricky&nbsp;&nbsp;
+
+00:08:12.960 --> 00:08:17.280
+to set the table up for success, to find a pairing&nbsp;
+of decks that will result in something satisfying&nbsp;&nbsp;
+
+00:08:17.280 --> 00:08:22.480
+for everyone involved. In principle this logic&nbsp;
+could provide a reason for me to hate Sol Ring,&nbsp;&nbsp;
+
+00:08:22.480 --> 00:08:26.880
+but the profile of the card manages to minimize&nbsp;
+some of the issues that significant power level&nbsp;&nbsp;
+
+00:08:26.880 --> 00:08:32.080
+variance can cause. Being strong early means it is&nbsp;
+a thing that can be considered strategically right&nbsp;&nbsp;
+
+00:08:32.080 --> 00:08:36.320
+from the outset of a game, and this feature also&nbsp;
+offers plenty of time for players to collaborate&nbsp;&nbsp;
+
+00:08:36.320 --> 00:08:40.960
+in dealing with a Sol-Ring-fueled gameplan.&nbsp;
+Being a background enabler whose presence in&nbsp;&nbsp;
+
+00:08:40.960 --> 00:08:45.920
+a game diminishes over time does mitigate some&nbsp;
+of the power spike it provides—a deck that drew&nbsp;&nbsp;
+
+00:08:45.920 --> 00:08:50.080
+Sol Ring will usually feel much faster, but&nbsp;
+it will still feel like a version of itself&nbsp;&nbsp;
+
+00:08:50.080 --> 00:08:55.040
+rather than a midrange deck that has transformed&nbsp;
+into a combo deck or something. The one remaining&nbsp;&nbsp;
+
+00:08:55.040 --> 00:08:58.800
+issue I see with Sol Ring is that sometimes&nbsp;
+the strongest deck at the table will get it,&nbsp;&nbsp;
+
+00:08:58.800 --> 00:09:03.200
+and that deck will then get to wipe the&nbsp;
+floor in a way it might not have otherwise.&nbsp;&nbsp;
+
+00:09:03.200 --> 00:09:07.760
+This undeniably does add to the difficulty&nbsp;
+in constructing successful commander games,&nbsp;&nbsp;
+
+00:09:07.760 --> 00:09:12.160
+adds to the uncertainty of how much power level&nbsp;
+difference between decks is too much. Whether&nbsp;&nbsp;
+
+00:09:12.160 --> 00:09:16.320
+that fact overshadows the other aspects&nbsp;
+of the card I brought up is up to you.
+
+00:09:16.320 --> 00:09:20.720
+Alright, let’s move on to the logistics of&nbsp;
+banning Sol Ring. I wanted to separate the&nbsp;&nbsp;
+
+00:09:20.720 --> 00:09:25.040
+theoretical case for banning Sol Ring from the&nbsp;
+practical case for banning it, in large part&nbsp;&nbsp;
+
+00:09:25.040 --> 00:09:29.680
+because I find the practical case for banning&nbsp;
+Sol Ring almost impossible to really consider,&nbsp;&nbsp;
+
+00:09:29.680 --> 00:09:35.600
+an insurmountably challenging proposition. It’s&nbsp;
+been printed in every single precon since 2011,&nbsp;&nbsp;
+
+00:09:35.600 --> 00:09:41.120
+and it’s played in over 80% of decks according&nbsp;
+to EDHREC. Banning Sol Ring would be a massive&nbsp;&nbsp;
+
+00:09:41.120 --> 00:09:45.520
+and monumental undertaking, requiring a&nbsp;
+prolonged communication campaign to reach&nbsp;&nbsp;
+
+00:09:45.520 --> 00:09:50.000
+all sectors of the playerbase. I think we as&nbsp;
+EDH players on the internet have a tendency to&nbsp;&nbsp;
+
+00:09:50.000 --> 00:09:54.560
+assume the community as a whole is far more&nbsp;
+cohesive and engaged than they really are,&nbsp;&nbsp;
+
+00:09:54.560 --> 00:09:58.240
+likely surely these spicy musings on Reddit&nbsp;
+or YouTube are an accurate reflection of the&nbsp;&nbsp;
+
+00:09:58.240 --> 00:10:03.120
+playerbase. But no, the EDH format is full of&nbsp;
+people who don’t consume much content about it,&nbsp;&nbsp;
+
+00:10:03.120 --> 00:10:06.640
+who haven’t heard the latest announcement about&nbsp;
+the bracket system, who don’t pay much attention&nbsp;&nbsp;
+
+00:10:06.640 --> 00:10:10.800
+to current sets, who don’t spend a whole lot of&nbsp;
+time building decks, and who don’t get together&nbsp;&nbsp;
+
+00:10:10.800 --> 00:10:15.840
+to play more than once a month, if that. Take a&nbsp;
+moment to think about it—for a 60 card format,&nbsp;&nbsp;
+
+00:10:15.840 --> 00:10:19.680
+the people playing it competitively will be&nbsp;
+actively listening for ban updates, because&nbsp;&nbsp;
+
+00:10:19.680 --> 00:10:24.560
+that affects the metagame and also happens a lot&nbsp;
+now. We can also think about the average commander&nbsp;&nbsp;
+
+00:10:24.560 --> 00:10:29.680
+player who ran Jeweled Lotus or Mana Crypt or even&nbsp;
+the still-legal Rhystic Study—these players will&nbsp;&nbsp;
+
+00:10:29.680 --> 00:10:34.320
+be relatively in-tune with the commander format&nbsp;
+compared to most, and will be able to actively&nbsp;&nbsp;
+
+00:10:34.320 --> 00:10:39.680
+receive any news about these cards getting banned.&nbsp;
+Meanwhile, if Sol Ring was banned, the median Sol&nbsp;&nbsp;
+
+00:10:39.680 --> 00:10:46.640
+Ring player would probably hear about it 3&nbsp;
+months later, and go “oh, why? Okay. Guess I&nbsp;&nbsp;
+
+00:10:46.640 --> 00:10:51.360
+have some swaps to make.” In addition to being&nbsp;
+challenging to fully convey to the playerbase,&nbsp;&nbsp;
+
+00:10:51.360 --> 00:10:55.920
+banning Sol Ring would also fundamentally muddy&nbsp;
+all Wizards of the Coast communication about the&nbsp;&nbsp;
+
+00:10:55.920 --> 00:11:00.880
+commander format. Precons serve as an example of&nbsp;
+what Commander deckbuilding looks like, the tools&nbsp;&nbsp;
+
+00:11:00.880 --> 00:11:06.720
+it should use, the features it should have, and on&nbsp;
+a fundamental level, how the format works. To ban&nbsp;&nbsp;
+
+00:11:06.720 --> 00:11:11.680
+a card that WotC has chosen to put in every precon&nbsp;
+would destroy any sort of messaging consistency&nbsp;&nbsp;
+
+00:11:11.680 --> 00:11:16.560
+about what the format means, and would make any&nbsp;
+future messaging power significantly weaker.
+
+00:11:16.560 --> 00:11:21.200
+In this way, I do think part of the discussion&nbsp;
+of a Sol Ring ban is a sign of the times.&nbsp;&nbsp;
+
+00:11:21.200 --> 00:11:25.920
+A lot of commander players kinda want to undermine&nbsp;
+WotC’s relationship with the commander format,&nbsp;&nbsp;
+
+00:11:25.920 --> 00:11:29.360
+which feels weird to say out loud but I don’t&nbsp;
+think the people who feel that way would disagree&nbsp;&nbsp;
+
+00:11:29.360 --> 00:11:34.320
+with that assessment. It is also, admittedly,&nbsp;
+very funny to demand that Hasbro does something&nbsp;&nbsp;
+
+00:11:34.320 --> 00:11:39.520
+as supremely stupid as banning Sol Ring, and after&nbsp;
+all the destructive profit-driven decisions of the&nbsp;&nbsp;
+
+00:11:39.520 --> 00:11:43.040
+past few years it’s hard to deny that there&nbsp;
+might be a little shadenfreude in watching&nbsp;&nbsp;
+
+00:11:43.040 --> 00:11:47.760
+them try and recover from that fumble. But the&nbsp;
+angst that bubbles in the hearts of us terminally&nbsp;&nbsp;
+
+00:11:47.760 --> 00:11:53.040
+online commander players isn’t great as a genuine&nbsp;
+justification of something like a Sol Ring ban. In&nbsp;&nbsp;
+
+00:11:53.040 --> 00:11:57.280
+the real world, weighing a ban unfortunately&nbsp;
+does need to involve considering the impact&nbsp;&nbsp;
+
+00:11:57.280 --> 00:12:02.160
+of that ban in practical terms, in addition to&nbsp;
+theoretical reasoning. In the case of Sol Ring,&nbsp;&nbsp;
+
+00:12:02.160 --> 00:12:06.640
+on a theoretical level I’m relatively ambivalent&nbsp;
+about it. I see the issues that the card has&nbsp;&nbsp;
+
+00:12:06.640 --> 00:12:11.440
+and its very high power level, but I also see&nbsp;
+some genuine reasons why people like it, so my&nbsp;&nbsp;
+
+00:12:11.440 --> 00:12:16.480
+feelings probably end up basically a wash. When we&nbsp;
+consider the practical consequences, though, it’s&nbsp;&nbsp;
+
+00:12:16.480 --> 00:12:21.120
+kinda just an obvious nonstarter. A card that has&nbsp;
+been printed and handed to the casual playerbase&nbsp;&nbsp;
+
+00:12:21.120 --> 00:12:25.760
+as much as Sol Ring would have to be noxious&nbsp;
+to be worth going to the trouble of banning,&nbsp;&nbsp;
+
+00:12:25.760 --> 00:12:31.120
+utterly miserable and pleasure-destroying on every&nbsp;
+possible level. And, whatever issues you may have&nbsp;&nbsp;
+
+00:12:31.120 --> 00:12:36.080
+with Sol Ring, they probably don’t rise to that&nbsp;
+level. This does bring up a question, though:&nbsp;&nbsp;
+
+00:12:36.080 --> 00:12:41.600
+what exactly constitutes a good practical reason&nbsp;
+not to ban a card? Being extremely widely printed&nbsp;&nbsp;
+
+00:12:41.600 --> 00:12:45.760
+to players who are on the most casual fringes of a&nbsp;
+format seems like a pretty good logistical reason&nbsp;&nbsp;
+
+00:12:45.760 --> 00:12:52.080
+not to ban a card to me, but what about other&nbsp;
+things? How far do practicality arguments extend?
+
+00:12:52.080 --> 00:12:55.680
+One of these practical reasons to keep&nbsp;
+a card unbanned might be popularity,&nbsp;&nbsp;
+
+00:12:55.680 --> 00:13:00.480
+and my reasoning around Sol Ring is arguably a&nbsp;
+version of this. However, realistically what I&nbsp;&nbsp;
+
+00:13:00.480 --> 00:13:04.800
+care about most heavily here is inclusion in&nbsp;
+precons. If a card has shown up in more than&nbsp;&nbsp;
+
+00:13:04.800 --> 00:13:08.880
+half of precon sets ever released I’m going&nbsp;
+to be a little leery of banning it since it’s&nbsp;&nbsp;
+
+00:13:08.880 --> 00:13:13.120
+been purposefully put into the hands of a lot of&nbsp;
+more casual players, but if it’s just a card that&nbsp;&nbsp;
+
+00:13:13.120 --> 00:13:17.600
+a lot of people happen to play? That could be&nbsp;
+perfectly fine. Cards do need to be some degree&nbsp;&nbsp;
+
+00:13:17.600 --> 00:13:21.040
+of popular in the first place to be ban-worthy,&nbsp;
+after all, we’re not going to ban something that&nbsp;&nbsp;
+
+00:13:21.040 --> 00:13:26.000
+has no presence and therefore no impact. Another&nbsp;
+practical consideration that sometimes comes up is&nbsp;&nbsp;
+
+00:13:26.000 --> 00:13:31.440
+price. A card being expensive is a reason not to&nbsp;
+ban it, so the reasoning could go, because banning&nbsp;&nbsp;
+
+00:13:31.440 --> 00:13:36.640
+it will financially impact players and game-stores&nbsp;
+alike, destroying value for no good reason. My&nbsp;&nbsp;
+
+00:13:36.640 --> 00:13:41.760
+problem with this reason is extremely simple:&nbsp;
+it also applies to reprints. Every price-based&nbsp;&nbsp;
+
+00:13:41.760 --> 00:13:46.160
+argument for not banning something like Mana&nbsp;
+Crypt, or for not banning Rhystic Study now,&nbsp;&nbsp;
+
+00:13:46.160 --> 00:13:51.040
+also works as an argument not to reprint these&nbsp;
+cards for fear of tanking the price that way,&nbsp;&nbsp;
+
+00:13:51.040 --> 00:13:55.360
+and that’s kind of a problem, right? Most people&nbsp;
+would consider it a good thing for Wizards of&nbsp;&nbsp;
+
+00:13:55.360 --> 00:13:59.920
+the Coast to print more of the cards people want&nbsp;
+to play with. You could consider a ban somewhat&nbsp;&nbsp;
+
+00:13:59.920 --> 00:14:03.920
+optically different than mass reprints, like&nbsp;
+it’s seen as a somewhat more aggressive maneuver&nbsp;&nbsp;
+
+00:14:03.920 --> 00:14:08.560
+by the playerbase, but that’s splitting hairs&nbsp;
+as far as I’m concerned. The same price-based&nbsp;&nbsp;
+
+00:14:08.560 --> 00:14:12.960
+logic is getting employed and it’s not any sort&nbsp;
+of logic that deserves to see the light of day.
+
+00:14:12.960 --> 00:14:18.080
+A final practical reason worth discussing is&nbsp;
+iconic-ness, how symbolically relevant a card&nbsp;&nbsp;
+
+00:14:18.080 --> 00:14:22.480
+is on the scale of the commander format. In my&nbsp;
+Rhystic Study video I laid out why I don’t put&nbsp;&nbsp;
+
+00:14:22.480 --> 00:14:26.720
+a whole lot of salt into the iconic-ness of&nbsp;
+a card, but at the same time I suspected that&nbsp;&nbsp;
+
+00:14:26.720 --> 00:14:31.360
+Rhystic Study would stick around for at least a&nbsp;
+bit longer on the back of its iconic status. And,&nbsp;&nbsp;
+
+00:14:31.360 --> 00:14:35.840
+the ban announcement 4 days later confirmed that&nbsp;
+prediction. While the card isn’t quite as iconic&nbsp;&nbsp;
+
+00:14:35.840 --> 00:14:40.160
+as Sol Ring, there is an undeniable pedigree&nbsp;
+there. It’s a card that was printed 6 years&nbsp;&nbsp;
+
+00:14:40.160 --> 00:14:44.240
+before the formation of the Rules Committee, a&nbsp;
+card whose strange design made it dead on arrival&nbsp;&nbsp;
+
+00:14:44.240 --> 00:14:48.640
+in 1v1 formats but also offered it a chance&nbsp;
+at new life in the 4 player commander format.&nbsp;&nbsp;
+
+00:14:48.640 --> 00:14:52.400
+It’s a card that’s powerful, that’s widely&nbsp;
+played, and that draws attention to itself&nbsp;&nbsp;
+
+00:14:52.400 --> 00:14:56.960
+by its very design. None of these are&nbsp;
+bulletproof reasons not to ban a card,&nbsp;&nbsp;
+
+00:14:56.960 --> 00:15:00.800
+and indeed I find them inadequate as&nbsp;
+reasons to keep Rhystic Study legal,&nbsp;&nbsp;
+
+00:15:00.800 --> 00:15:05.280
+but it’s also not hard for me to imagine why other&nbsp;
+people might find them adequate. The question of&nbsp;&nbsp;
+
+00:15:05.280 --> 00:15:09.760
+whether to ban Rhystic Study, just as it does&nbsp;
+with Sol Ring or any other card, comes down to&nbsp;&nbsp;
+
+00:15:09.760 --> 00:15:13.920
+how problematic it is on a play-pattern level&nbsp;
+versus how challenging and harmful a ban would&nbsp;&nbsp;
+
+00:15:13.920 --> 00:15:18.640
+be on a practical level. Ultimately, I wouldn’t&nbsp;
+be surprised to see a Rhystic Study ban a little&nbsp;&nbsp;
+
+00:15:18.640 --> 00:15:23.840
+ways down the line, but that’ll require the&nbsp;
+theoretical reasons to ban it surpassing the&nbsp;&nbsp;
+
+00:15:23.840 --> 00:15:28.240
+practical reasons not to ban it in the minds of&nbsp;
+the community in general and the Commander Format&nbsp;&nbsp;
+
+00:15:28.240 --> 00:15:32.880
+Panel in specific. I certainly have strong&nbsp;
+feelings about those theoretical reasons,&nbsp;&nbsp;
+
+00:15:32.880 --> 00:15:39.440
+but my feelings are not the consensus opinion—yet.&nbsp;
+We can call that a work in progress, I suppose.
+
+00:15:39.440 --> 00:15:43.440
+Thanks for watching, and thanks to Archidekt&nbsp;
+for supporting the channel. Did you know you&nbsp;&nbsp;
+
+00:15:43.440 --> 00:15:47.200
+can click and drag cards from category to&nbsp;
+category in Archidekt? I always forget,&nbsp;&nbsp;
+
+00:15:47.200 --> 00:15:54.240
+but it’s very fun to do whenever I remember. A&nbsp;
+link to all of my decks is in the description.&nbsp;&nbsp;
+
+00:15:54.240 --> 00:15:58.640
+Also supporting the channel is Dragonshield—if&nbsp;
+you’re looking for durable sleeves in a great&nbsp;&nbsp;
+
+00:15:58.640 --> 00:16:01.680
+range of different colors, you can follow my&nbsp;
+affiliate link down in the description for&nbsp;&nbsp;
+
+00:16:01.680 --> 00:16:06.240
+5% off of your sleeve order. Finally, thank you&nbsp;
+to my lovely supporters on YouTube and Patreon,&nbsp;&nbsp;
+
+00:16:06.240 --> 00:16:11.120
+some of whom are on screen now. I’ll probably put&nbsp;
+together a bonus segment about why I don’t think&nbsp;&nbsp;
+
+00:16:11.120 --> 00:16:16.320
+Gamechangering Sol Ring makes sense in the next&nbsp;
+couple days, and if you want access to that or&nbsp;&nbsp;
+
+00:16:16.320 --> 00:16:20.160
+my back catalogue of bonus videos, you can sign&nbsp;
+up for my patreon or for a youtube membership.
+

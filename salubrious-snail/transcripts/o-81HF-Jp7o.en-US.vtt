@@ -1,0 +1,1257 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.440 --> 00:00:05.600
+Just over a year ago, I made a video about the&nbsp;
+cycling mechanic. That video featured a brief&nbsp;&nbsp;
+
+00:00:05.600 --> 00:00:11.040
+history of the mechanic and associated decks as&nbsp;
+well as a discussion of why I dislike a particular&nbsp;&nbsp;
+
+00:00:11.040 --> 00:00:16.040
+commander printed for the mechanic a few years&nbsp;
+ago. That video also features a brief description&nbsp;&nbsp;
+
+00:00:16.040 --> 00:00:22.560
+of my own cycling deck—a Sharuum deck built around&nbsp;
+the card Astral Slide. That deck has endured more&nbsp;&nbsp;
+
+00:00:22.560 --> 00:00:27.560
+so than basically any other I’ve built—it’s the&nbsp;
+only deck built before I started making YouTube&nbsp;&nbsp;
+
+00:00:27.560 --> 00:00:33.800
+videos that both still gets played regularly&nbsp;
+and also hasn’t changed dramatically. However,&nbsp;&nbsp;
+
+00:00:33.800 --> 00:00:39.400
+the process of building it was also way different&nbsp;
+than that of the other decks I’ve built. My decks&nbsp;&nbsp;
+
+00:00:39.400 --> 00:00:45.040
+broadly tend to be less synergy-focused and&nbsp;
+more play-pattern focused, with deck dynamics&nbsp;&nbsp;
+
+00:00:45.040 --> 00:00:50.200
+being unusual but the cards themselves being&nbsp;
+often somewhat more generic budget staples&nbsp;&nbsp;
+
+00:00:50.200 --> 00:00:55.160
+rather than coming from a particular synergy&nbsp;
+package. This deck was a massive exception&nbsp;&nbsp;
+
+00:00:55.160 --> 00:01:00.160
+to that—every card was meticulously&nbsp;
+chosen to perform hyper-specific roles&nbsp;&nbsp;
+
+00:01:00.160 --> 00:01:06.040
+and mesh with as many other cards as possible.&nbsp;
+For that reason, this deck has ended up being&nbsp;&nbsp;
+
+00:01:06.040 --> 00:01:11.040
+easily my most difficult deck to build, thrusting&nbsp;
+me well outside my normal comfort zone of deck&nbsp;&nbsp;
+
+00:01:11.040 --> 00:01:17.640
+building. I actually left the deck unchanged&nbsp;
+for about a year starting in mid-late 2023,&nbsp;&nbsp;
+
+00:01:17.640 --> 00:01:21.920
+purely because it was functioning okay and I&nbsp;
+was terrified that any changes I haphazardly&nbsp;&nbsp;
+
+00:01:21.920 --> 00:01:29.040
+made would lead to the deck falling apart, its&nbsp;
+mysterious special sauce getting tainted. However,&nbsp;&nbsp;
+
+00:01:29.040 --> 00:01:34.080
+late last year I decided it was finally time&nbsp;
+to update the deck, both adding newly printed&nbsp;&nbsp;
+
+00:01:34.080 --> 00:01:38.600
+cards and smoothing out a handful of longtime&nbsp;
+issues, and with the success I’ve enjoyed with&nbsp;&nbsp;
+
+00:01:38.600 --> 00:01:42.440
+the deck since then I figured I should give&nbsp;
+a full overview of how I built the deck,&nbsp;&nbsp;
+
+00:01:42.440 --> 00:01:48.080
+what makes it work, and what it says&nbsp;
+about how we as EDH players build decks.
+
+00:01:48.080 --> 00:01:52.200
+To start with, let’s talk about the origins of&nbsp;
+the deck. The starting point for building it&nbsp;&nbsp;
+
+00:01:52.200 --> 00:01:58.320
+was browsing a card gallery of Onslaught cards and&nbsp;
+having a couple particular cards stand out to me.&nbsp;&nbsp;
+
+00:01:58.320 --> 00:02:03.600
+One of these was Astral Slide, a three mana white&nbsp;
+enchantment that flickers a creature whenever a&nbsp;&nbsp;
+
+00:02:03.600 --> 00:02:09.040
+card is cycled, and this offers an effective way&nbsp;
+to reuse ETBs and temporarily remove opposing&nbsp;&nbsp;
+
+00:02:09.040 --> 00:02:14.720
+creatures. The other card was Oversold Cemetery, a&nbsp;
+two mana black enchantment that returns a creature&nbsp;&nbsp;
+
+00:02:14.720 --> 00:02:18.280
+from its controller’s graveyard to their hand on&nbsp;
+each of their upkeeps as long as there are four&nbsp;&nbsp;
+
+00:02:18.280 --> 00:02:23.880
+or more creatures in that graveyard. This effect&nbsp;
+can act as a recursion engine enabled by cycling,&nbsp;&nbsp;
+
+00:02:23.880 --> 00:02:28.320
+and can also be used simply to keep up Astral&nbsp;
+Slide fodder. From there, I decided that I also&nbsp;&nbsp;
+
+00:02:28.320 --> 00:02:33.240
+wanted blue, since that’s a color that shares a&nbsp;
+lot of synergy elements with what I was building,&nbsp;&nbsp;
+
+00:02:33.240 --> 00:02:38.680
+and which also gives access to a nice range of&nbsp;
+commanders. After a brief commander hunt, I ended&nbsp;&nbsp;
+
+00:02:38.680 --> 00:02:44.440
+up settling on Sharuum as an Esper commander with&nbsp;
+an impactful graveyard-oriented ETB. These three&nbsp;&nbsp;
+
+00:02:44.440 --> 00:02:49.440
+cards alone already paint a decently clear picture&nbsp;
+of the sort of deck I was going to be building—an&nbsp;&nbsp;
+
+00:02:49.440 --> 00:02:54.080
+ETB-centered cycling deck with artifact and&nbsp;
+graveyard subthemes, some key enchantments,&nbsp;&nbsp;
+
+00:02:54.080 --> 00:02:59.080
+and enough creatures to get Oversold Cemetery&nbsp;
+online. If that sounds specific, it’s because&nbsp;&nbsp;
+
+00:02:59.080 --> 00:03:03.520
+it is! Immediately a handful of challenges&nbsp;
+presented themselves, different conditions&nbsp;&nbsp;
+
+00:03:03.520 --> 00:03:08.920
+that my deck would need to fulfill in order to be&nbsp;
+even remotely functional. For one, the deck needs&nbsp;&nbsp;
+
+00:03:08.920 --> 00:03:14.240
+a lot of cycling cards for purposes of reliable&nbsp;
+Astral Slide triggers—I ended up deciding that&nbsp;&nbsp;
+
+00:03:14.240 --> 00:03:19.360
+a high 30s count was about right and have stuck&nbsp;
+with around that number through various iterations&nbsp;&nbsp;
+
+00:03:19.360 --> 00:03:25.600
+of the deck. Secondly, a reasonably high creature&nbsp;
+count for Oversold Cemetery, at least 30. Thirdly,&nbsp;&nbsp;
+
+00:03:25.600 --> 00:03:30.920
+a way to find key cards—the deck relies on Astral&nbsp;
+Slide for its gameplan and there are only three&nbsp;&nbsp;
+
+00:03:30.920 --> 00:03:35.720
+cards that perform the function of Astral Slide,&nbsp;
+so some tutors to find them will be very helpful.&nbsp;&nbsp;
+
+00:03:35.720 --> 00:03:39.360
+Finally, the deck needs ways to get cards&nbsp;
+into its graveyard, with draw-and-discard&nbsp;&nbsp;
+
+00:03:39.360 --> 00:03:44.760
+effects seeming most appropriate. I found that&nbsp;
+7 was basically as low as I could go for these.
+
+00:03:44.760 --> 00:03:48.800
+Okay, so this is immediately placing a lot of&nbsp;
+requirements on the deck, with the high-30s&nbsp;&nbsp;
+
+00:03:48.800 --> 00:03:54.400
+count of cycling cards being the most rigorous.&nbsp;
+Even if we consider the 14 available cycling&nbsp;&nbsp;
+
+00:03:54.400 --> 00:04:00.800
+lands in Esper colors and run all of them—which I&nbsp;
+do—that still means we’re looking at less than 40&nbsp;&nbsp;
+
+00:04:00.800 --> 00:04:05.880
+available slots for nonland, non-cycling cards.&nbsp;
+What this means is that cards need to perform&nbsp;&nbsp;
+
+00:04:05.880 --> 00:04:11.920
+multiple roles, or else be utterly fantastic at&nbsp;
+their main job. For ETB creatures, the mages were&nbsp;&nbsp;
+
+00:04:11.920 --> 00:04:17.480
+a great starting point—3 mana 2/2 wizards that&nbsp;
+tutor for an artifact of a specific mana cost—and&nbsp;&nbsp;
+
+00:04:17.480 --> 00:04:22.480
+Sphinx Summoner was a similarly sweet inclusion.&nbsp;
+Tribute Mage finds Fluctuator, which is a key card&nbsp;&nbsp;
+
+00:04:22.480 --> 00:04:27.560
+for the deck since it gives great mana savings&nbsp;
+on cycling back-to-back cards, but aside from&nbsp;&nbsp;
+
+00:04:27.560 --> 00:04:32.600
+that these cards mostly find secondary cards for&nbsp;
+the deck, so what about tutors to find the deck’s&nbsp;&nbsp;
+
+00:04:32.600 --> 00:04:37.280
+key enchantments, Astral Slide and co? Since I&nbsp;
+was already in Esper colors, a natural choice&nbsp;&nbsp;
+
+00:04:37.280 --> 00:04:42.760
+was Zur, a creature who can tutor out low cost&nbsp;
+enchantments whenever he attacks. Conveniently,&nbsp;&nbsp;
+
+00:04:42.760 --> 00:04:47.600
+he’s also a Wizard, which brings me to a key&nbsp;
+piece of this deck—Wizardcycling. There are&nbsp;&nbsp;
+
+00:04:47.600 --> 00:04:52.560
+two different Wizardcycling cards in existence,&nbsp;
+which end up being solidly costed instant speed&nbsp;&nbsp;
+
+00:04:52.560 --> 00:04:58.400
+tutors that also count as a cycle for Astral Slide&nbsp;
+purposes. As an added bonus, one of these is a&nbsp;&nbsp;
+
+00:04:58.400 --> 00:05:04.560
+flash creature, which is grabbable with the newly&nbsp;
+printed MDFC Waterlogged Teachings—I got a chance&nbsp;&nbsp;
+
+00:05:04.560 --> 00:05:08.200
+to do this a couple weeks back, and there’s&nbsp;
+nothing like the rush of tutoring to find a&nbsp;&nbsp;
+
+00:05:08.200 --> 00:05:13.280
+tutor to find a tutor to find an Astral Slide.&nbsp;
+Now, this might seem a bit deranged—and yeah,&nbsp;&nbsp;
+
+00:05:13.280 --> 00:05:19.680
+it kinda is. But it also points to a key facet&nbsp;
+of this deck—its status as a “toolbox” deck.
+
+00:05:19.680 --> 00:05:23.040
+This phrase means that the deck has a network&nbsp;
+of conditional tutors that can each find a&nbsp;&nbsp;
+
+00:05:23.040 --> 00:05:27.800
+certain selection of cards the deck might&nbsp;
+need in various situations. For example,&nbsp;&nbsp;
+
+00:05:27.800 --> 00:05:32.200
+the deck’s Wizardcycling cards can find four&nbsp;
+tutors, as well as an excellent recursion&nbsp;&nbsp;
+
+00:05:32.200 --> 00:05:37.840
+card and three cards for purposes of countering&nbsp;
+opposing spells and abilities. Worth pointing out&nbsp;&nbsp;
+
+00:05:37.840 --> 00:05:42.520
+is that all of these work with Astral Slide in&nbsp;
+some way, gaining additional value off of Slide&nbsp;&nbsp;
+
+00:05:42.520 --> 00:05:47.520
+or finding Slide or triggering Slide. Delving&nbsp;
+deeper into the toolbox, the most useful of&nbsp;&nbsp;
+
+00:05:47.520 --> 00:05:53.280
+the three artifact mages, Treasure Mage, can find&nbsp;
+lifegain, a finisher, multiple types of removal,&nbsp;&nbsp;
+
+00:05:53.280 --> 00:05:58.600
+and a couple value sources, and the fact that&nbsp;
+it’s repeatable with Astral Slide is a big deal&nbsp;&nbsp;
+
+00:05:58.600 --> 00:06:04.480
+since it lets me load up on top end threats I can&nbsp;
+discard and then Sharuum back out. Sphinx Summoner&nbsp;&nbsp;
+
+00:06:04.480 --> 00:06:08.480
+can find most of the stuff that Treasure Mage&nbsp;
+can since most of them are artifact creatures,&nbsp;&nbsp;
+
+00:06:08.480 --> 00:06:13.480
+and it can also find a board wipe and an angsty&nbsp;
+bird. In addition to this selection of conditional&nbsp;&nbsp;
+
+00:06:13.480 --> 00:06:19.400
+tutors, there’s also a couple cards from one of&nbsp;
+my favorite mechanics in all of Magic—Transmute!&nbsp;&nbsp;
+
+00:06:19.400 --> 00:06:24.000
+These are cards that allow their controller to pay&nbsp;
+three mana and discard them to tutor for a card of&nbsp;&nbsp;
+
+00:06:24.000 --> 00:06:29.240
+the same mana cost. I originally had a three mana&nbsp;
+enchantment tutor, Idyllic Tutor, in this deck,&nbsp;&nbsp;
+
+00:06:29.240 --> 00:06:34.560
+but honestly a three mana transmute card does a&nbsp;
+similar job giving me access to key enchantments,&nbsp;&nbsp;
+
+00:06:34.560 --> 00:06:39.320
+and also gives me access to other useful things&nbsp;
+like the recursion of Tameshi, the graveyard&nbsp;&nbsp;
+
+00:06:39.320 --> 00:06:44.440
+hate of Boggart Trawler, the graveyard feeding&nbsp;
+of Thirst for Knowledge, and so on, as well as&nbsp;&nbsp;
+
+00:06:44.440 --> 00:06:50.040
+being a very funny counterspell on top of it all.&nbsp;
+The cumulative effect of all of these individual,&nbsp;&nbsp;
+
+00:06:50.040 --> 00:06:54.800
+highly conditional tutors is striking—I have six&nbsp;
+other cards that can lead me to one of my three&nbsp;&nbsp;
+
+00:06:54.800 --> 00:06:59.840
+key Astral Slide enchantments or one of my top-end&nbsp;
+artifact creatures, and I have five other cards&nbsp;&nbsp;
+
+00:06:59.840 --> 00:07:04.720
+each that can lead me to Fluctuator or Oversold&nbsp;
+Cemetery. I also have a lot of cards that can&nbsp;&nbsp;
+
+00:07:04.720 --> 00:07:10.000
+be grabbed by just one or two tutors, meaning that&nbsp;
+this deck ends up being a massive web of different&nbsp;&nbsp;
+
+00:07:10.000 --> 00:07:14.840
+tutors which each prompt me with interesting&nbsp;
+decisions to make. This quantity of tutors&nbsp;&nbsp;
+
+00:07:14.840 --> 00:07:20.218
+might sound objectionable to some, but, well,&nbsp;
+hear me out. I’ll get back to that objection.
+
+00:07:20.218 --> 00:07:20.240
+Part 2—Play Patterns
+
+00:07:20.240 --> 00:07:23.200
+With the key cards and an overview&nbsp;
+of the toolbox out of the way,&nbsp;&nbsp;
+
+00:07:23.200 --> 00:07:28.920
+let’s get to how this deck plays in practice.&nbsp;
+Early turns are spent sculpting a hand, ramping,&nbsp;&nbsp;
+
+00:07:28.920 --> 00:07:33.480
+and beginning to assemble value engines. There&nbsp;
+are a lot of cards which can be played out early&nbsp;&nbsp;
+
+00:07:33.480 --> 00:07:39.520
+and then Astral Slid later to reuse the ETBs—the&nbsp;
+artifact mages, my sad robots, my angsty bird,&nbsp;&nbsp;
+
+00:07:39.520 --> 00:07:44.760
+and so on. The early game can also be a time&nbsp;
+to feed the graveyard—being able to Sharuum&nbsp;&nbsp;
+
+00:07:44.760 --> 00:07:49.320
+out a big artifact on turn 5 or 6 can offer&nbsp;
+a nice tempo swing that forces my opponents&nbsp;&nbsp;
+
+00:07:49.320 --> 00:07:54.320
+onto the back foot and gives me room to develop my&nbsp;
+advantage. I talk about the deck in terms of tempo&nbsp;&nbsp;
+
+00:07:54.320 --> 00:07:59.640
+and advantage because this deck is a control deck,&nbsp;
+through and through. You might not be able to tell&nbsp;&nbsp;
+
+00:07:59.640 --> 00:08:04.320
+this by looking at the deck—it’s running a&nbsp;
+relatively high creature count of 35, and its&nbsp;&nbsp;
+
+00:08:04.320 --> 00:08:09.880
+commander is a generic artifact recursion card&nbsp;
+from Alara block. Its quantity of counterspells,&nbsp;&nbsp;
+
+00:08:09.880 --> 00:08:14.880
+while probably higher than average in raw terms,&nbsp;
+is nothing crazy and consists mostly of spells&nbsp;&nbsp;
+
+00:08:14.880 --> 00:08:20.240
+which can also either be transmuted or cycled.&nbsp;
+It’s also not running a single conventional&nbsp;&nbsp;
+
+00:08:20.240 --> 00:08:25.400
+board wipe—sure, there’s an incomplete wipe,&nbsp;
+a sleep effect, a multi-creature edict, and&nbsp;&nbsp;
+
+00:08:25.400 --> 00:08:29.720
+a couple things that reduce power and toughness&nbsp;
+based on the amount of mana put in, but nothing&nbsp;&nbsp;
+
+00:08:29.720 --> 00:08:35.080
+that says destroy all… anything.&nbsp;
+So what makes this a control deck?
+
+00:08:35.080 --> 00:08:39.280
+Fundamentally, it comes down to this deck’s&nbsp;
+play pattern. Highlighting my deck’s Astral&nbsp;&nbsp;
+
+00:08:39.280 --> 00:08:44.520
+Slide targets in Archidekt immediately gives an&nbsp;
+indication of this—a big part of this deck’s game&nbsp;&nbsp;
+
+00:08:44.520 --> 00:08:50.200
+plan is repeating value generation and removal,&nbsp;
+and that repeated removal can be some heavy duty&nbsp;&nbsp;
+
+00:08:50.200 --> 00:08:55.880
+hate over the course of multiple turn cycles.&nbsp;
+More broadly, at any given moment in a game,&nbsp;&nbsp;
+
+00:08:55.880 --> 00:09:00.840
+this deck will be balancing three different&nbsp;
+goals—stay alive, suppress opponents, and&nbsp;&nbsp;
+
+00:09:00.840 --> 00:09:05.880
+build value. Staying alive means keeping my life&nbsp;
+total up and preventing opponents from winning,&nbsp;&nbsp;
+
+00:09:05.880 --> 00:09:09.760
+suppressing opponents means taking actions&nbsp;
+that worsen my opponents’ position in the game,&nbsp;&nbsp;
+
+00:09:09.760 --> 00:09:14.680
+and building value means doing things that improve&nbsp;
+my position in the game. The desirability of&nbsp;&nbsp;
+
+00:09:14.680 --> 00:09:19.320
+working toward these goals runs from right&nbsp;
+to left—I love to build up my own value,&nbsp;&nbsp;
+
+00:09:19.320 --> 00:09:23.160
+I’m happy enough to take actions that slow&nbsp;
+down opponents and make them less of a threat,&nbsp;&nbsp;
+
+00:09:23.160 --> 00:09:27.040
+and I don’t really like needing to&nbsp;
+spend time and resources staying alive,&nbsp;&nbsp;
+
+00:09:27.040 --> 00:09:32.240
+but that one’s pretty unnegotiable if I want to&nbsp;
+keep having a shot at winning a game. My chances&nbsp;&nbsp;
+
+00:09:32.240 --> 00:09:37.960
+of winning go up and up the more I get to focus&nbsp;
+on these right two—my ideal game is where all&nbsp;&nbsp;
+
+00:09:37.960 --> 00:09:42.440
+of my energy can go into building up my own&nbsp;
+engine of ETB creatures and cycling spells,&nbsp;&nbsp;
+
+00:09:42.440 --> 00:09:47.120
+as well as neutralizing opposing engines&nbsp;
+and threats early in their lifespan.
+
+00:09:47.120 --> 00:09:51.000
+So that’s the biggest feature of the&nbsp;
+deck—balancing these different elements.&nbsp;&nbsp;
+
+00:09:51.000 --> 00:09:55.280
+Early turns are spent building resources, getting&nbsp;
+blockers on the board, and getting ready to answer&nbsp;&nbsp;
+
+00:09:55.280 --> 00:09:59.680
+anything my opponents are doing that is an&nbsp;
+existential threat to my position in the game.&nbsp;&nbsp;
+
+00:09:59.680 --> 00:10:04.440
+Since this is a toolbox deck, every suppression&nbsp;
+tool that I don’t need to grab means a piece&nbsp;&nbsp;
+
+00:10:04.440 --> 00:10:09.680
+of value or ramp instead, and once I have Astral&nbsp;
+Slide in play there will often be choices between&nbsp;&nbsp;
+
+00:10:09.680 --> 00:10:14.120
+flickering creatures that are suppressive or&nbsp;
+defensive in some way and flickering ones that&nbsp;&nbsp;
+
+00:10:14.120 --> 00:10:20.120
+boost my gameplan. As a result, threat evaluation&nbsp;
+is key to keeping opponents in check without&nbsp;&nbsp;
+
+00:10:20.120 --> 00:10:25.440
+losing too much momentum. The deck can make more&nbsp;
+daring early plays, but these often come at the&nbsp;&nbsp;
+
+00:10:25.440 --> 00:10:30.080
+cost of long-term value, so it’s important to&nbsp;
+weigh the pros and cons and have follow up plays&nbsp;&nbsp;
+
+00:10:30.080 --> 00:10:37.400
+in mind. One natural question might be, what do I&nbsp;
+mean by follow up? How does this deck win? Well,&nbsp;&nbsp;
+
+00:10:37.400 --> 00:10:41.360
+as with most control decks, this deck&nbsp;
+is trying to reach a state of stability,&nbsp;&nbsp;
+
+00:10:41.360 --> 00:10:46.360
+where it has a lot of agency over the state of the&nbsp;
+game. This state will look different depending on&nbsp;&nbsp;
+
+00:10:46.360 --> 00:10:51.320
+the game because different tools will be required&nbsp;
+to keep different opposing decks in check. Here&nbsp;&nbsp;
+
+00:10:51.320 --> 00:10:56.280
+are a handful of things that might be true in the&nbsp;
+end-game scenario, though, in no particular order.
+
+00:10:56.960 --> 00:11:01.560
+A lot of mana, either through land counts&nbsp;
+built up by flickered robots, or powerstone&nbsp;&nbsp;
+
+00:11:01.560 --> 00:11:06.480
+tokens that can pay for cycling costs.
+A healthy hand of cards, especially one&nbsp;&nbsp;
+
+00:11:06.480 --> 00:11:10.840
+that includes multiple cycling cards as well as&nbsp;
+things like counterspells and recursion pieces.&nbsp;&nbsp;
+
+00:11:10.840 --> 00:11:14.960
+Nimble Obstructionist is especially nice, as it&nbsp;
+deals with a lot of pesky abilities that most&nbsp;&nbsp;
+
+00:11:14.960 --> 00:11:19.160
+control decks don’t have a way to handle.
+Utility permanents that help keep the deck&nbsp;&nbsp;
+
+00:11:19.160 --> 00:11:23.120
+chugging along, such as engines that build&nbsp;
+value turn over turn and permanents that&nbsp;&nbsp;
+
+00:11:23.120 --> 00:11:28.440
+can disrupt opposing attempts to regain footing
+A high life total that puts me out of range of&nbsp;&nbsp;
+
+00:11:28.440 --> 00:11:33.320
+dying to any number of common threats, as well&nbsp;
+as enough blockers to handle sudden attacks.
+
+00:11:33.320 --> 00:11:37.280
+Once enough of these conditions are met, winning&nbsp;
+the game from there is usually straightforward.&nbsp;&nbsp;
+
+00:11:37.280 --> 00:11:42.560
+A key type of creature for this deck is medium to&nbsp;
+large fliers, a type which includes the commander,&nbsp;&nbsp;
+
+00:11:42.560 --> 00:11:47.080
+and these constitute a decent threat to life&nbsp;
+totals given enough time. As long as I’m able&nbsp;&nbsp;
+
+00:11:47.080 --> 00:11:52.160
+to give them that time, they’ll usually win me the&nbsp;
+game. However, there will be some games where an&nbsp;&nbsp;
+
+00:11:52.160 --> 00:11:57.040
+opponent will get a very high life total, or&nbsp;
+alternatively will be in a highly threatening&nbsp;&nbsp;
+
+00:11:57.040 --> 00:12:02.400
+position with a normal life total, so I run a&nbsp;
+couple finisher cards as well. One I alluded&nbsp;&nbsp;
+
+00:12:02.400 --> 00:12:08.960
+to earlier—Magister Sphinx is a fantastic card,&nbsp;
+giving me a way to rapidly burst down a problem&nbsp;&nbsp;
+
+00:12:08.960 --> 00:12:14.120
+player. This can be extremely sudden for my&nbsp;
+opponents—on the second main phase before my turn,&nbsp;&nbsp;
+
+00:12:14.120 --> 00:12:19.160
+I can play a draw/discard effect to discard&nbsp;
+Magister Sphinx, then cycle something to flicker&nbsp;&nbsp;
+
+00:12:19.160 --> 00:12:24.760
+Sharuum and bring back Magister Sphinx, turning&nbsp;
+an opponent’s life total to 10. Then on my turn, I&nbsp;&nbsp;
+
+00:12:24.760 --> 00:12:29.560
+can cycle a couple more things to clear out flying&nbsp;
+blockers before one-shotting the problem opponent,&nbsp;&nbsp;
+
+00:12:29.560 --> 00:12:34.840
+who could have been at any life total a single&nbsp;
+turn earlier. The other finisher I run is Herald&nbsp;&nbsp;
+
+00:12:34.840 --> 00:12:39.280
+of the Forgotten—this can bring back any&nbsp;
+of my 14 cycling creatures in my graveyard,&nbsp;&nbsp;
+
+00:12:39.280 --> 00:12:44.600
+and importantly it can also bring back any&nbsp;
+of my 14 cycling lands. This is great—it’s&nbsp;&nbsp;
+
+00:12:44.600 --> 00:12:49.040
+usually a burst of creatures to contest the&nbsp;
+board, but also a burst of ramp to fuel my&nbsp;&nbsp;
+
+00:12:49.040 --> 00:12:53.880
+later turns. This second part is so big for&nbsp;
+the deck because the creatures don’t even&nbsp;&nbsp;
+
+00:12:53.880 --> 00:12:59.480
+need to be impactful—even if it’s just some extra&nbsp;
+blockers, it also gives me a burst of resources,&nbsp;&nbsp;
+
+00:12:59.480 --> 00:13:04.360
+fueling both my “staying alive”&nbsp;
+and “building value” goals.
+
+00:13:04.360 --> 00:13:08.240
+So that’s basically the deck—it’s a highly&nbsp;
+flexible, cycling-based control deck with&nbsp;&nbsp;
+
+00:13:08.240 --> 00:13:12.760
+graveyard, artifact, and wizard packages woven&nbsp;
+throughout. There are a lot of more common play&nbsp;&nbsp;
+
+00:13:12.760 --> 00:13:16.920
+patterns, such as flickering a key creature&nbsp;
+like Angel of the Ruins or Treasure Mage with&nbsp;&nbsp;
+
+00:13:16.920 --> 00:13:21.480
+Astral Slide, but also a lot of much more niche&nbsp;
+play patterns. For example, if I have a lot of&nbsp;&nbsp;
+
+00:13:21.480 --> 00:13:25.960
+mana and opposing value is mostly based around&nbsp;
+creatures being untapped, Monstrosity of the&nbsp;&nbsp;
+
+00:13:25.960 --> 00:13:31.960
+Lake can be flickered every turn to keep opposing&nbsp;
+stuff permanently slept. This isn’t a common play,&nbsp;&nbsp;
+
+00:13:31.960 --> 00:13:36.080
+but the fact that Monstrosity has Islandcycling&nbsp;
+makes it a low-investment card to include in&nbsp;&nbsp;
+
+00:13:36.080 --> 00:13:41.760
+the deck. Another niche play is using Oversold&nbsp;
+Cemetery and Nimble Obstructionist as a stifle&nbsp;&nbsp;
+
+00:13:41.760 --> 00:13:47.360
+engine, which can keep a key opposing effect that&nbsp;
+triggers once a turn suppressed. A couple of other&nbsp;&nbsp;
+
+00:13:47.360 --> 00:13:52.120
+interesting plays—Tameshi can return MDFCs&nbsp;
+and cycling lands to hand to be used later,&nbsp;&nbsp;
+
+00:13:52.120 --> 00:13:55.680
+and Currency Converter can protect key&nbsp;
+artifacts from sorcery speed graveyard&nbsp;&nbsp;
+
+00:13:55.680 --> 00:14:01.240
+hate. For somewhat saucier play, Perplex can be&nbsp;
+followed up with another counterspell to bait an&nbsp;&nbsp;
+
+00:14:01.240 --> 00:14:06.360
+opponent into discarding their hand for three&nbsp;
+mana in exchange for absolutely no benefit.
+
+00:14:06.360 --> 00:14:10.000
+I just keep on discovering new ways&nbsp;
+to play this deck, and that fact also&nbsp;&nbsp;
+
+00:14:10.000 --> 00:14:14.520
+provides a great advantage when it comes to&nbsp;
+resiliency. No matter what my opponents remove,&nbsp;&nbsp;
+
+00:14:14.520 --> 00:14:18.960
+or how my opponents slow me down, I have a way to&nbsp;
+play around it and keep building advantage in some&nbsp;&nbsp;
+
+00:14:18.960 --> 00:14:23.960
+way or other. The recursion suite of the deck is&nbsp;
+quite robust, and this is also a rare deck that&nbsp;&nbsp;
+
+00:14:23.960 --> 00:14:28.280
+actually has good access to stifle effects to deal&nbsp;
+with graveyard hate. Even without its graveyard,&nbsp;&nbsp;
+
+00:14:28.280 --> 00:14:32.440
+the deck can still build value with Astral Slide&nbsp;
+effects, since the deck’s high density of cycling&nbsp;&nbsp;
+
+00:14:32.440 --> 00:14:36.840
+cards means that all that’s needed to have a&nbsp;
+value engine is an Astral Slide style enchantment&nbsp;&nbsp;
+
+00:14:36.840 --> 00:14:42.120
+and an ETB creature. At least one of these two&nbsp;
+things—graveyard-based value building and Astral&nbsp;&nbsp;
+
+00:14:42.120 --> 00:14:46.800
+Slide-based value building—is usually necessary to&nbsp;
+keep up, but those two things can take a countless&nbsp;&nbsp;
+
+00:14:46.800 --> 00:14:51.000
+number of different forms, and there are lots&nbsp;
+of smaller packages riddled throughout the deck&nbsp;&nbsp;
+
+00:14:51.000 --> 00:14:55.680
+that can pose decent threats all on their own. The&nbsp;
+fact that there are so many different themes that&nbsp;&nbsp;
+
+00:14:55.680 --> 00:15:00.160
+are so interconnected in the deck means that&nbsp;
+pivots are much easier than they would be in&nbsp;&nbsp;
+
+00:15:00.160 --> 00:15:04.640
+most other decks. The fact that my core card is&nbsp;
+Astral Slide means that I have a way to resist&nbsp;&nbsp;
+
+00:15:04.640 --> 00:15:09.320
+creature board wipes and a way to break parity&nbsp;
+on creature-based stax effects on hand almost&nbsp;&nbsp;
+
+00:15:09.320 --> 00:15:14.520
+always. The fact that most of my game actions&nbsp;
+are abilities rather than spells also insulates&nbsp;&nbsp;
+
+00:15:14.520 --> 00:15:19.160
+me against a lot of conventional hate for fiddly&nbsp;
+control decks. The fact that my deck runs lots&nbsp;&nbsp;
+
+00:15:19.160 --> 00:15:24.400
+of unique effects and conditional tutors means I&nbsp;
+can simply avoid tutoring for a specific effect if&nbsp;&nbsp;
+
+00:15:24.400 --> 00:15:29.080
+there’s currently hate for it lurking around. The&nbsp;
+fact that the deck derives its consistency from&nbsp;&nbsp;
+
+00:15:29.080 --> 00:15:33.080
+filtering and tutors allows Sharuum to play a&nbsp;
+more supporting role, to simply be cast for a&nbsp;&nbsp;
+
+00:15:33.080 --> 00:15:37.400
+burst of value before hanging around as a beater&nbsp;
+until some Astral Slide shenanigans are ready to&nbsp;&nbsp;
+
+00:15:37.400 --> 00:15:42.720
+happen. The wide array of different play paths&nbsp;
+and effects in this deck is equally beneficial&nbsp;&nbsp;
+
+00:15:42.720 --> 00:15:47.625
+in making this deck resilient to hate and&nbsp;
+in making this deck interesting to play.
+
+00:15:47.625 --> 00:15:47.640
+Part 3—Tutors
+
+00:15:47.640 --> 00:15:52.960
+Tutors, though—I did say I’d get back to them, and&nbsp;
+now is as good a time as any to address the many&nbsp;&nbsp;
+
+00:15:52.960 --> 00:15:58.120
+tutoring crimes of this deck. Tutors are a subject&nbsp;
+of contention within the casual EDH community,&nbsp;&nbsp;
+
+00:15:58.120 --> 00:16:03.920
+with many players seeing them as a sweaty cEDH&nbsp;
+tool that goes against the spirit of the format.&nbsp;&nbsp;
+
+00:16:03.920 --> 00:16:08.360
+Other players simply see them as boring, making&nbsp;
+decks more streamlined and formulaic rather than&nbsp;&nbsp;
+
+00:16:08.360 --> 00:16:13.680
+offering the wide diversity of plays that EDH&nbsp;
+should be all about. I don’t think anybody is&nbsp;&nbsp;
+
+00:16:13.680 --> 00:16:18.760
+necessarily wrong for their feelings about&nbsp;
+this—tutors can be a formulaic tool for the&nbsp;&nbsp;
+
+00:16:18.760 --> 00:16:23.080
+sweat lords of the world. Anybody who has&nbsp;
+played against a Natural Ordered Craterhoof&nbsp;&nbsp;
+
+00:16:23.080 --> 00:16:28.960
+or a Demonic Tutored infinite combo can attest&nbsp;
+to this—tutors can feel bland and deflating,&nbsp;&nbsp;
+
+00:16:28.960 --> 00:16:33.960
+just an extra copy of a powerful game-ending&nbsp;
+spell. It might be interesting to interrogate&nbsp;&nbsp;
+
+00:16:33.960 --> 00:16:39.640
+why they’re more bland and deflating than that&nbsp;
+power-card simply being drawn and played—my hunch&nbsp;&nbsp;
+
+00:16:39.640 --> 00:16:44.400
+is that it comes down to lucky topdecks simply&nbsp;
+being an accepted part of the game—but still,&nbsp;&nbsp;
+
+00:16:44.400 --> 00:16:49.160
+these sorts of plays don’t make people feel good,&nbsp;
+and I don’t think they’re wrong for that. I myself&nbsp;&nbsp;
+
+00:16:49.160 --> 00:16:53.840
+don’t really play unconditional tutors, tutors&nbsp;
+that can find any card in a player’s library,&nbsp;&nbsp;
+
+00:16:53.840 --> 00:16:59.080
+because I don’t find them very interesting. At the&nbsp;
+same time, the tarring of tutors as a universally&nbsp;&nbsp;
+
+00:16:59.080 --> 00:17:05.000
+boring tool is a bit wrongheaded. Tutors can&nbsp;
+find the easy win, but they can also find all&nbsp;&nbsp;
+
+00:17:05.000 --> 00:17:08.680
+sorts of things, such as… a centerpiece&nbsp;
+engine that all sorts of other cards can&nbsp;&nbsp;
+
+00:17:08.680 --> 00:17:13.760
+build off of in cool and textured ways. I hear&nbsp;
+people say that tutoring up a card every game,&nbsp;&nbsp;
+
+00:17:13.760 --> 00:17:18.320
+having a “secret commander” if you&nbsp;
+will, goes against the spirit of EDH,&nbsp;&nbsp;
+
+00:17:18.320 --> 00:17:23.360
+but if having easy access to a card, playing&nbsp;
+it every game, and coordinating other cards&nbsp;&nbsp;
+
+00:17:23.360 --> 00:17:29.000
+to work nicely with it goes against the spirit of&nbsp;
+EDH, then I really have no choice but to conclude&nbsp;&nbsp;
+
+00:17:29.000 --> 00:17:34.280
+that EDH goes against the spirit of EDH. Pack it&nbsp;
+up folks, the format was doomed from the start.
+
+00:17:34.280 --> 00:17:38.960
+No, tutors are not inherently boring, and the&nbsp;
+things that make them boring or not boring are&nbsp;&nbsp;
+
+00:17:38.960 --> 00:17:44.640
+what you do with them, same as any other type of&nbsp;
+card. In my case, conditional tutors actively make&nbsp;&nbsp;
+
+00:17:44.640 --> 00:17:51.560
+my deck more interesting. Tutors allow me to run&nbsp;
+a greater variety of cards, cards that interact in&nbsp;&nbsp;
+
+00:17:51.560 --> 00:17:57.000
+cool and complex ways, and it allows this because&nbsp;
+tutors improve my ability to find different sorts&nbsp;&nbsp;
+
+00:17:57.000 --> 00:18:01.520
+of cards from within my deck. There are some&nbsp;
+cards that just aren’t great without at least&nbsp;&nbsp;
+
+00:18:01.520 --> 00:18:06.480
+some support from my core cards, and without&nbsp;
+tutors for those core cards these wouldn’t be&nbsp;&nbsp;
+
+00:18:06.480 --> 00:18:11.560
+good enough. There are other types of cards that&nbsp;
+perform a specific role, but who can’t fill this&nbsp;&nbsp;
+
+00:18:11.560 --> 00:18:17.080
+role fully enough without tutors to find them.&nbsp;
+Absent ways to find my key cards, I’d be forced&nbsp;&nbsp;
+
+00:18:17.080 --> 00:18:22.440
+to run more generic cards, cards that are good&nbsp;
+by themselves and that fit into a smaller number&nbsp;&nbsp;
+
+00:18:22.440 --> 00:18:27.640
+of synergy roles rather than the rich tapestry of&nbsp;
+synergy that I’m able to fit into my deck. Through&nbsp;&nbsp;
+
+00:18:27.640 --> 00:18:32.920
+the power of tutors I’m able to run very little&nbsp;
+generic ramp, generic draw, generic removal, and&nbsp;&nbsp;
+
+00:18:32.920 --> 00:18:38.600
+so on—my card choices get to be more interesting&nbsp;
+and more specific to my deck because I have a&nbsp;&nbsp;
+
+00:18:38.600 --> 00:18:44.920
+suite of conditional tutors to help me put things&nbsp;
+together, and that makes my deck more interesting!&nbsp;&nbsp;
+
+00:18:44.920 --> 00:18:49.920
+As with most decks my gameplan builds off a few&nbsp;
+central node cards, but there’s a ton of diversity&nbsp;&nbsp;
+
+00:18:49.920 --> 00:18:54.600
+in what things actually end up looking like&nbsp;
+because of how niche and creative my card choices&nbsp;&nbsp;
+
+00:18:54.600 --> 00:19:01.400
+were able to be. This isn’t to say that tutors&nbsp;
+inherently make a deck interesting—there are decks&nbsp;&nbsp;
+
+00:19:01.400 --> 00:19:06.200
+I find less interesting that run a lot of tutors,&nbsp;
+and 4 of my 6 current decks that I play regularly&nbsp;&nbsp;
+
+00:19:06.200 --> 00:19:12.360
+run none at all, and I like to think they’re&nbsp;
+not too boring. But having or not having tutors&nbsp;&nbsp;
+
+00:19:12.360 --> 00:19:17.200
+will impact the options that a deck can go with,&nbsp;
+and going tutor-less will often mean sacrificing&nbsp;&nbsp;
+
+00:19:17.200 --> 00:19:22.880
+either power or specificity—you’ll end up with&nbsp;
+a deck that’s simpler and runs more generic&nbsp;&nbsp;
+
+00:19:22.880 --> 00:19:28.080
+cards—as the non-tutoring 4 of my 6 decks do to&nbsp;
+some extent—or you’ll end up with a deck that&nbsp;&nbsp;
+
+00:19:28.080 --> 00:19:33.579
+doesn’t play smoothly and might not be able to&nbsp;
+keep up and make its cool plays in a lot of games.
+
+00:19:33.579 --> 00:19:33.600
+Part 4 — Conclusion
+
+00:19:33.600 --> 00:19:37.560
+As I said at the start of this video, this&nbsp;
+was a deck outside my normal comfort zone of&nbsp;&nbsp;
+
+00:19:37.560 --> 00:19:43.040
+deckbuilding, both for the process of originally&nbsp;
+building it and for the process of updating it.&nbsp;&nbsp;
+
+00:19:43.040 --> 00:19:47.160
+There are a lot of potential reasons for this, but&nbsp;
+the biggest one is that this deck pushes beyond&nbsp;&nbsp;
+
+00:19:47.160 --> 00:19:53.360
+the bounds of the levels of synergy that I and&nbsp;
+most other EDH players are used to using. Running&nbsp;&nbsp;
+
+00:19:53.360 --> 00:19:57.560
+a bunch of different synergy packages in the&nbsp;
+same deck can be tricky, and doing it elegantly&nbsp;&nbsp;
+
+00:19:57.560 --> 00:20:02.960
+requires putting an intense degree of focus on&nbsp;
+points of connectivity and places where different&nbsp;&nbsp;
+
+00:20:02.960 --> 00:20:08.680
+archetypes overlap. As a result, building this&nbsp;
+deck was basically a piecemeal project of adding&nbsp;&nbsp;
+
+00:20:08.680 --> 00:20:13.960
+different packages and cards that fit the rigorous&nbsp;
+requirements of the deck. I started with the two&nbsp;&nbsp;
+
+00:20:13.960 --> 00:20:18.520
+key cards and added Sharuum once I decided on&nbsp;
+my color identity and that I wanted a commander&nbsp;&nbsp;
+
+00:20:18.520 --> 00:20:24.040
+with a powerful ETB. The mages were added because&nbsp;
+they were artifact synergies that were also ETBs,&nbsp;&nbsp;
+
+00:20:24.040 --> 00:20:27.720
+and once I found Wizardcycling as a way to&nbsp;
+connect cycling to these wizards, I was able&nbsp;&nbsp;
+
+00:20:27.720 --> 00:20:32.840
+to loop in Zur as a tutorable way to find my&nbsp;
+key enchantments. Tameshi was pulled into this&nbsp;&nbsp;
+
+00:20:32.840 --> 00:20:38.480
+Wizardcycling package as a way to recur my two&nbsp;
+key card types, and Hall of Heliod’s Generosity&nbsp;&nbsp;
+
+00:20:38.480 --> 00:20:43.600
+and Geier Reach Sanitarium were added as&nbsp;
+land-based ways to recur and loot, respectively,&nbsp;&nbsp;
+
+00:20:43.600 --> 00:20:48.960
+once it was clear that landcycling had me covered&nbsp;
+for colorfixing. Terisiare’s Devastation made it&nbsp;&nbsp;
+
+00:20:48.960 --> 00:20:54.440
+in as a lovely ramp-boardwipe pairing in place&nbsp;
+of a hard wipe, and a few different MDFCs ended&nbsp;&nbsp;
+
+00:20:54.440 --> 00:20:58.720
+up being a great way to compress my slots even&nbsp;
+further to squeeze just that extra little bit&nbsp;&nbsp;
+
+00:20:58.720 --> 00:21:04.040
+of utility out of everything, as well as working&nbsp;
+well with Tameshi. Even late in the process I’m&nbsp;&nbsp;
+
+00:21:04.040 --> 00:21:09.080
+still finding new ways to tighten up synergies&nbsp;
+just that extra little bit—Ertai Resurrected&nbsp;&nbsp;
+
+00:21:09.080 --> 00:21:14.160
+was a recent addition to this deck as a card that&nbsp;
+counters spells and removes creatures as an ETB,&nbsp;&nbsp;
+
+00:21:14.160 --> 00:21:19.480
+and is a wizard on top of it all. I still don’t&nbsp;
+know if I’ve reached the most optimized and&nbsp;&nbsp;
+
+00:21:19.480 --> 00:21:24.000
+cohesive possible version of this deck—there&nbsp;
+are so many cards that could possibly work&nbsp;&nbsp;
+
+00:21:24.000 --> 00:21:29.000
+in the deck depending on the matchups I find&nbsp;
+myself in, more than I have time to test all of.&nbsp;&nbsp;
+
+00:21:29.000 --> 00:21:33.280
+I also don’t know if I’ve found the perfect&nbsp;
+blend of interaction yet—recent playtesting has&nbsp;&nbsp;
+
+00:21:33.280 --> 00:21:37.600
+had board wipes feeling a bit underrepresented&nbsp;
+and soft counter-locks on noncreature spells&nbsp;&nbsp;
+
+00:21:37.600 --> 00:21:42.720
+feeling overrepresented, but I have no idea&nbsp;
+if that pattern will hold in the long term.
+
+00:21:42.720 --> 00:21:47.720
+What you can take away from this is that building&nbsp;
+a hyper-connected synergy machine like this is a&nbsp;&nbsp;
+
+00:21:47.720 --> 00:21:52.560
+slow, creeping, iterative process. The lower&nbsp;
+hanging fruits can be found from a scryfall&nbsp;&nbsp;
+
+00:21:52.560 --> 00:21:56.480
+search in an afternoon, tossing in all of the&nbsp;
+best cards with a particular word or phrase,&nbsp;&nbsp;
+
+00:21:57.480 --> 00:22:01.960
+but if you’re trying to weave together a bunch of&nbsp;
+different things under tight constraints it will&nbsp;&nbsp;
+
+00:22:01.960 --> 00:22:07.480
+be more of a process. The most important part of&nbsp;
+this process is finding nodes to build off of that&nbsp;&nbsp;
+
+00:22:07.480 --> 00:22:09.440
+pull different elements together—Wizardcycling&nbsp;
+was a big one in the case of this deck—and&nbsp;&nbsp;
+
+00:22:09.440 --> 00:22:13.400
+then including only cards that can perform&nbsp;
+multiple roles or that perform their primary&nbsp;&nbsp;
+
+00:22:13.400 --> 00:22:18.320
+role fantastically well. In this deck that&nbsp;
+meant viciously scrutinizing any card that&nbsp;&nbsp;
+
+00:22:18.320 --> 00:22:21.760
+wasn’t an artifact with a fetchable mana&nbsp;
+value, a cycling card, a key enchantment,&nbsp;&nbsp;
+
+00:22:21.760 --> 00:22:28.120
+a Wizard, or an ETB creature. What survived that&nbsp;
+scrutiny? Not many cards—we’ve got some looters,&nbsp;&nbsp;
+
+00:22:28.120 --> 00:22:34.000
+some multi-modal tutors, and a small handful of&nbsp;
+best-in-class cards. In a deck like this it’s also&nbsp;&nbsp;
+
+00:22:34.000 --> 00:22:38.680
+important to be able to weed out cards that might&nbsp;
+share a synergy pillar but which aren’t actually&nbsp;&nbsp;
+
+00:22:38.680 --> 00:22:43.680
+good—as far as cycling synergies go, Curator&nbsp;
+of Mysteries isn’t actually worth playing as&nbsp;&nbsp;
+
+00:22:43.680 --> 00:22:48.680
+a creature basically ever, Jo Grant isn’t great&nbsp;
+for the same reason, Drake Haven isn’t that great&nbsp;&nbsp;
+
+00:22:48.680 --> 00:22:54.280
+outside of a go-wide creature deck, and Abandoned&nbsp;
+Sarcophagus is an actively bad card. Likewise,&nbsp;&nbsp;
+
+00:22:54.280 --> 00:22:58.640
+it might be tempting to load up on a bunch of&nbsp;
+nifty Wizard synergy cards, but these aren’t&nbsp;&nbsp;
+
+00:22:58.640 --> 00:23:03.240
+all that great either with the numbers of Wizards&nbsp;
+the deck is running, and forcing in a wizard count&nbsp;&nbsp;
+
+00:23:03.240 --> 00:23:08.360
+high enough to make them good would tank other&nbsp;
+parts of the deck. Building an elaborate and&nbsp;&nbsp;
+
+00:23:08.360 --> 00:23:13.200
+meticulous synergy machine requires restraint&nbsp;
+above all else—you need to be able to resist&nbsp;&nbsp;
+
+00:23:13.200 --> 00:23:19.080
+the urge to throw cards in because of a single&nbsp;
+idealized situation you constructed in your brain.&nbsp;&nbsp;
+
+00:23:19.080 --> 00:23:23.920
+What do cards look like in the less ideal half of&nbsp;
+the situations you’ll be finding them in? That’s&nbsp;&nbsp;
+
+00:23:23.920 --> 00:23:28.600
+always an important thought to cycle through, and&nbsp;
+one that’ll save you a lot of wasted time testing&nbsp;&nbsp;
+
+00:23:28.600 --> 00:23:33.280
+cards that realistically never had a chance&nbsp;
+of being a permanent fixture of a deck.
+
+00:23:33.280 --> 00:23:37.040
+The other thing you should take away from my&nbsp;
+endeavor here is that it’s worth it to build&nbsp;&nbsp;
+
+00:23:37.040 --> 00:23:41.840
+a deck that’s difficult to build. If the process&nbsp;
+I described in the last few minutes sounded hard,&nbsp;&nbsp;
+
+00:23:41.840 --> 00:23:45.920
+that’s because it was! Building a deck like&nbsp;
+this is a challenge, but that’s also what&nbsp;&nbsp;
+
+00:23:45.920 --> 00:23:51.320
+makes it such a gratifying exercise. Seeing the&nbsp;
+deck actually work out after I’ve put hours into&nbsp;&nbsp;
+
+00:23:51.320 --> 00:23:56.680
+tuning it is satisfying, and figuring out new&nbsp;
+ways I can smooth over some rough edges in it&nbsp;&nbsp;
+
+00:23:56.680 --> 00:24:01.800
+is also satisfying. The fact that I still have&nbsp;
+a large maybeboard in paper and a mental list of&nbsp;&nbsp;
+
+00:24:01.800 --> 00:24:06.400
+pivots I could try for solving various problems&nbsp;
+is exciting, and forcing myself to engage with a&nbsp;&nbsp;
+
+00:24:06.400 --> 00:24:11.600
+deck like this has undoubtedly made me a stronger&nbsp;
+deckbuilder. This interlocking synergy machine&nbsp;&nbsp;
+
+00:24:11.600 --> 00:24:16.040
+type of deck is the one I personally find hardest&nbsp;
+to build, but your most difficult to build deck&nbsp;&nbsp;
+
+00:24:16.040 --> 00:24:20.400
+style might be different. Whatever it is, though,&nbsp;
+you should take a crack at it! It’s difficult to&nbsp;&nbsp;
+
+00:24:20.400 --> 00:24:25.280
+fight back against a deckbuilding weakness,&nbsp;
+but the resulting decks can be really cool.
+
+00:24:25.280 --> 00:24:30.080
+That sums up the video, however I have an&nbsp;
+announcement. It’s a birthday party! For&nbsp;&nbsp;
+
+00:24:30.080 --> 00:24:35.800
+my discord server. Okay, what I mean to say is&nbsp;
+I’m running a new deckbuilding challenge! That&nbsp;&nbsp;
+
+00:24:35.800 --> 00:24:41.280
+challenge goes as follows: build a deck using one&nbsp;
+of the following “Choose a Background” commanders:&nbsp;&nbsp;
+
+00:24:41.280 --> 00:24:46.840
+Ellyn Harbreeze Busybody, Halsin Emerald&nbsp;
+Archdruid, Amber Gristle O’Maul, Alora&nbsp;&nbsp;
+
+00:24:46.840 --> 00:24:52.160
+Merry Thief, and Viconia Drow Apostate. They&nbsp;
+can be paired with any background that appeals&nbsp;&nbsp;
+
+00:24:52.160 --> 00:24:56.760
+to you. A top deck for each commander will be&nbsp;
+selected and highlighted in a future video,&nbsp;&nbsp;
+
+00:24:56.760 --> 00:25:03.640
+and judging criteria will be creativity, cohesion,&nbsp;
+and likelihood to produce dynamic gameplan.&nbsp;&nbsp;
+
+00:25:03.640 --> 00:25:09.600
+And—this time there’s a prize. The creator of each&nbsp;
+of the top decks will receive a Haunted One alter,&nbsp;&nbsp;
+
+00:25:09.600 --> 00:25:15.320
+hand-painted by my friend Mechacatten who did the&nbsp;
+art for my channel banner and profile picture. If&nbsp;&nbsp;
+
+00:25:15.320 --> 00:25:19.400
+that sounds up your alley, you can find more&nbsp;
+info about the challenge in my discord server,&nbsp;&nbsp;
+
+00:25:19.400 --> 00:25:24.880
+and you’ll want to submit a deck&nbsp;
+by noon PST on Tuesday the 21st.
+
+00:25:24.880 --> 00:25:27.880
+As always I want to thank my patrons for&nbsp;
+supporting what I do here, allowing me&nbsp;&nbsp;
+
+00:25:27.880 --> 00:25:31.800
+to make high effort videos like this one without&nbsp;
+needing to worry too much about how they’ll fare&nbsp;&nbsp;
+
+00:25:31.800 --> 00:25:36.840
+in the algorithm. Submissions for this month’s&nbsp;
+deck review will run until the end of tomorrow,&nbsp;&nbsp;
+
+00:25:36.840 --> 00:25:40.520
+so if you want to have a chance at getting your&nbsp;
+deck reviewed by me, you can check that out. If&nbsp;&nbsp;
+
+00:25:40.520 --> 00:25:44.920
+you want more of me and don’t want to pay money, I&nbsp;
+was on an episode of the Magic Mirror Podcast that&nbsp;&nbsp;
+
+00:25:44.920 --> 00:25:49.360
+should be releasing around the same time as this&nbsp;
+video, and there I go further into my feelings&nbsp;&nbsp;
+
+00:25:49.360 --> 00:25:55.160
+about tutors along with my two co-hosts. A link&nbsp;
+to that is in the description. Alright, bye now.
+

@@ -1,0 +1,940 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.360 --> 00:00:03.720
+When I got into standard 10 years&nbsp;
+ago, the question of what constitutes&nbsp;&nbsp;
+
+00:00:03.720 --> 00:00:09.200
+a wincon was one with a single stand-out&nbsp;
+answer—Aetherling. It was a control meta,&nbsp;&nbsp;
+
+00:00:09.200 --> 00:00:13.040
+no doubt—if you weren’t playing a devotion&nbsp;
+deck or attempting in vain to play green,&nbsp;&nbsp;
+
+00:00:13.040 --> 00:00:16.560
+you were playing one of the many variants of&nbsp;
+control, and you were almost certainly running&nbsp;&nbsp;
+
+00:00:16.560 --> 00:00:21.880
+one or two copies of Aetherling as a way to&nbsp;
+close out the game. For a relatively new player,&nbsp;&nbsp;
+
+00:00:21.880 --> 00:00:27.000
+it was a comforting type of card—you input a bunch&nbsp;
+of mana and two or three turns, and in return,&nbsp;&nbsp;
+
+00:00:27.000 --> 00:00:32.760
+it reduces your opponent’s life total to&nbsp;
+zero. So that’s what a wincon is, right?
+
+00:00:32.760 --> 00:00:36.520
+Or maybe a wincon is when my brother played&nbsp;
+an Overwhelming Stampede into a cluttered&nbsp;&nbsp;
+
+00:00:36.520 --> 00:00:41.160
+boardstate to cut through my modest suite of&nbsp;
+blockers like a hot knife through, I dunno,&nbsp;&nbsp;
+
+00:00:41.160 --> 00:00:46.280
+a handful of 4/4 vampires. Or maybe it was&nbsp;
+a wincon when I played Angelic Gift on a 4/4&nbsp;&nbsp;
+
+00:00:46.280 --> 00:00:50.000
+land at the Battle for Zendikar prerelease&nbsp;
+and smacked my opponent four times for the&nbsp;&nbsp;
+
+00:00:50.000 --> 00:00:55.240
+win. Above average two mana enchantment,&nbsp;
+honestly, some might even call it a wincon.
+
+00:00:55.240 --> 00:00:59.440
+We all come across the concept of a win condition&nbsp;
+somewhere along the line in our existences as&nbsp;&nbsp;
+
+00:00:59.440 --> 00:01:05.360
+magic players. And this is for a reason—MTG’s&nbsp;
+defense-friendly combat system and hand-emptying&nbsp;&nbsp;
+
+00:01:05.360 --> 00:01:10.000
+mana system means that it can’t always be assumed&nbsp;
+that the game will end naturally, that there are&nbsp;&nbsp;
+
+00:01:10.000 --> 00:01:15.200
+all sorts of game situations that might sprawl out&nbsp;
+and demand some sort of remedy. There are lots of&nbsp;&nbsp;
+
+00:01:15.200 --> 00:01:20.160
+situations where the phrase “win condition”&nbsp;
+has a fairly understandable meaning. However,&nbsp;&nbsp;
+
+00:01:20.160 --> 00:01:26.040
+as with most pieces of terminology, it becomes&nbsp;
+a lot more challenging in Commander. Sextupling&nbsp;&nbsp;
+
+00:01:26.040 --> 00:01:30.360
+the life total of your opponents makes a lot of&nbsp;
+things challenging, to be honest. Not only does&nbsp;&nbsp;
+
+00:01:30.360 --> 00:01:36.480
+it take more to win in an EDH game, but the&nbsp;
+concept of what winning means shifts wildly.
+
+00:01:36.480 --> 00:01:42.160
+Conventional EDH wisdom might have you gesturing&nbsp;
+at various things as a wincon—Craterhoof Behemoth&nbsp;&nbsp;
+
+00:01:42.160 --> 00:01:47.400
+is a wincon, Torment of Hailfire is a wincon,&nbsp;
+Purphoros, God of the Forge is a wincon,&nbsp;&nbsp;
+
+00:01:47.400 --> 00:01:53.160
+Sanguine Bond is a wincon. And sure, this&nbsp;
+classification does work on some level—there&nbsp;&nbsp;
+
+00:01:53.160 --> 00:01:57.520
+are lots of situations where these cards will&nbsp;
+win you the game, and they each gesture at a&nbsp;&nbsp;
+
+00:01:57.520 --> 00:02:03.960
+different plan for winning the game. But is this&nbsp;
+a useful category of card? I don’t think it is.&nbsp;&nbsp;
+
+00:02:03.960 --> 00:02:09.520
+Anything can win a game—if your opponents play no&nbsp;
+cards, a 1/1 squirrel is a quality wincon. If your&nbsp;&nbsp;
+
+00:02:09.520 --> 00:02:14.720
+opponents are playing nothing but archers and&nbsp;
+bears, a single Siege Dragon is a great wincon.&nbsp;&nbsp;
+
+00:02:14.720 --> 00:02:19.920
+You shouldn’t ask the question “what cards in my&nbsp;
+deck are the ones that win the game,” because the&nbsp;&nbsp;
+
+00:02:19.920 --> 00:02:26.680
+important question is “what cards in my deck are&nbsp;
+the ones that don’t win the game?” Now, let me&nbsp;&nbsp;
+
+00:02:26.680 --> 00:02:31.280
+clarify that last statement—what I don’t mean to&nbsp;
+say is that you should cram your deck full of big,&nbsp;&nbsp;
+
+00:02:31.280 --> 00:02:37.120
+splashy bombs—quite the opposite. Having too high&nbsp;
+a density of splash in your deck will leave you&nbsp;&nbsp;
+
+00:02:37.120 --> 00:02:42.360
+too little room for the building blocks that&nbsp;
+actually lead to victory. What I mean here is&nbsp;&nbsp;
+
+00:02:42.360 --> 00:02:47.200
+that, if you’re building a deck with the intent&nbsp;
+of winning a game of commander, that goal should&nbsp;&nbsp;
+
+00:02:47.200 --> 00:02:51.680
+be present in some form or other throughout&nbsp;
+each and every one of your card choices.
+
+00:02:51.680 --> 00:02:55.240
+The number one criticism I have for people&nbsp;
+when they ask me to look at their deck,&nbsp;&nbsp;
+
+00:02:55.240 --> 00:03:00.920
+a criticism I give about half the time, is&nbsp;
+“this looks unfocused.” This phrase can mean a&nbsp;&nbsp;
+
+00:03:00.920 --> 00:03:05.320
+couple different things in practice, and to start&nbsp;
+thinking about those, it’s useful to first lay out&nbsp;&nbsp;
+
+00:03:05.320 --> 00:03:12.280
+a framework for how EDH decks work. Fundamentally,&nbsp;
+most decks involve a system of inputs and outputs,&nbsp;&nbsp;
+
+00:03:12.280 --> 00:03:16.960
+with inputs being conditions that need to be&nbsp;
+met and outputs being results of those inputs&nbsp;&nbsp;
+
+00:03:16.960 --> 00:03:22.640
+that contribute to the deck’s gameplan. My Sharuum&nbsp;
+deck’s primary inputs are Astral Slide and cycling&nbsp;&nbsp;
+
+00:03:22.640 --> 00:03:27.040
+cards, and its primary outputs are flickers,&nbsp;
+which allow Sharuum to recur large artifacts&nbsp;&nbsp;
+
+00:03:27.040 --> 00:03:33.120
+onto the board. My Meria deck’s primary inputs&nbsp;
+are equipments, and its primary outputs are mana,&nbsp;&nbsp;
+
+00:03:33.120 --> 00:03:37.800
+value, and my commander hitting your face&nbsp;
+for 14 damage. I could give more examples,&nbsp;&nbsp;
+
+00:03:37.800 --> 00:03:41.600
+but long story short, inputs and outputs&nbsp;
+are the name of the game for decks with&nbsp;&nbsp;
+
+00:03:41.600 --> 00:03:46.280
+any amount of synergy, and this framework itself&nbsp;
+points us to the two places a deck can stumble&nbsp;&nbsp;
+
+00:03:46.280 --> 00:03:51.480
+with regard to focus—it can have unfocused&nbsp;
+inputs, and it can have unfocused outputs.
+
+00:03:51.480 --> 00:03:55.720
+For an example of a deck with unfocused inputs,&nbsp;
+a viewer emailed me about their Missy deck that&nbsp;&nbsp;
+
+00:03:55.720 --> 00:03:59.800
+contained both artifact creature and&nbsp;
+facedown creature synergy packages,&nbsp;&nbsp;
+
+00:03:59.800 --> 00:04:04.920
+with a couple narrower sections of sub-synergies&nbsp;
+within these. Within the deck there are the&nbsp;&nbsp;
+
+00:04:04.920 --> 00:04:08.800
+components to make some decently powerful&nbsp;
+boardstates, but the issue is that there&nbsp;&nbsp;
+
+00:04:08.800 --> 00:04:12.840
+are too many different types of card and ability&nbsp;
+present, and they don’t really connect with each&nbsp;&nbsp;
+
+00:04:12.840 --> 00:04:17.640
+other outside of all being related to the&nbsp;
+commander in some form or other. Ultimately&nbsp;&nbsp;
+
+00:04:17.640 --> 00:04:22.720
+a deck like this with unfocused inputs will&nbsp;
+naturally have lots of dead draws, and will&nbsp;&nbsp;
+
+00:04:22.720 --> 00:04:28.160
+struggle to put together a cohesive boardstate&nbsp;
+with any consistency. It’s possible to build a&nbsp;&nbsp;
+
+00:04:28.160 --> 00:04:33.120
+deck that can pivot between a few different plans,&nbsp;
+but these decks are tricky to build, and typically&nbsp;&nbsp;
+
+00:04:33.120 --> 00:04:38.440
+involve paying close attention to points of&nbsp;
+connectivity between various types of card.
+
+00:04:38.440 --> 00:04:42.440
+Some examples of decks with unfocused&nbsp;
+outputs would be conventionally built&nbsp;&nbsp;
+
+00:04:42.440 --> 00:04:47.640
+variants of what I like to call value-tribal&nbsp;
+commanders, and I’ll use Gavi, Nest Warden as&nbsp;&nbsp;
+
+00:04:47.640 --> 00:04:52.360
+an example since I’ve already talked about her&nbsp;
+before. Your average Gavi deck is pretty good&nbsp;&nbsp;
+
+00:04:52.360 --> 00:04:56.360
+at maintaining cycling-based value loops,&nbsp;
+but when we look at the actual payoffs for&nbsp;&nbsp;
+
+00:04:56.360 --> 00:05:01.960
+cycling aside from draw, it’s a lot of small&nbsp;
+token creation, some larger token creation,&nbsp;&nbsp;
+
+00:05:01.960 --> 00:05:06.320
+some soft creature removal, some incremental&nbsp;
+damage, some creatures getting bigger,&nbsp;&nbsp;
+
+00:05:06.320 --> 00:05:11.760
+and so on. Theoretically you’re getting a lot&nbsp;
+of stuff when you add the input of cycling,&nbsp;&nbsp;
+
+00:05:11.760 --> 00:05:16.040
+but those outputs are so diverse that these&nbsp;
+decks don’t end up actually doing any one&nbsp;&nbsp;
+
+00:05:16.040 --> 00:05:22.040
+thing in particular—it’s just a flood of generic&nbsp;
+Magic: the Gathering gameplay. This is probably&nbsp;&nbsp;
+
+00:05:22.040 --> 00:05:26.760
+better than a deck with unfocused inputs because&nbsp;
+it’s actually doing something pretty consistently,&nbsp;&nbsp;
+
+00:05:26.760 --> 00:05:30.800
+but it’s a generally toothless type of deck&nbsp;
+that will struggle to win against decks that&nbsp;&nbsp;
+
+00:05:30.800 --> 00:05:37.200
+have more refined win plans, even if those decks&nbsp;
+generate a smaller quantity of total resources.
+
+00:05:37.200 --> 00:05:41.440
+Both unfocused inputs and unfocused outputs&nbsp;
+are problems that will lead to challenges&nbsp;&nbsp;
+
+00:05:41.440 --> 00:05:46.480
+in ending the game, but for different&nbsp;
+reasons. Despite this, the solution to&nbsp;&nbsp;
+
+00:05:46.480 --> 00:05:51.440
+the two problems is pretty similar—you should&nbsp;
+be asking what each card in your deck does,&nbsp;&nbsp;
+
+00:05:51.440 --> 00:05:56.120
+how often it will fail to perform its intended&nbsp;
+function, and whether it contributes toward a&nbsp;&nbsp;
+
+00:05:56.120 --> 00:06:01.200
+cohesive plan for your deck. A common first&nbsp;
+step in building commander decks is to lump&nbsp;&nbsp;
+
+00:06:01.200 --> 00:06:05.960
+together a bunch of cards that synergize around a&nbsp;
+particular one or two things, and while this will&nbsp;&nbsp;
+
+00:06:05.960 --> 00:06:10.400
+lead to a deck that does do something, if you’re&nbsp;
+trying to win games it might take a bit of tuning&nbsp;&nbsp;
+
+00:06:10.400 --> 00:06:15.520
+beyond that to make sure that a deck can actually&nbsp;
+make it to the finish line. And for a bit, I want&nbsp;&nbsp;
+
+00:06:15.520 --> 00:06:21.400
+to zoom in on a particular type of deck that&nbsp;
+often falls just a little short in this regard.
+
+00:06:21.400 --> 00:06:24.560
+Alright, this is a transition point in a&nbsp;
+longer video where it might make sense to&nbsp;&nbsp;
+
+00:06:24.560 --> 00:06:29.480
+put a midroll ad, but I don’t like midroll ads&nbsp;
+so I don’t run them on my videos. That said,&nbsp;&nbsp;
+
+00:06:29.480 --> 00:06:32.160
+if you like what I do and have a spare&nbsp;
+three bucks a month to support me in making&nbsp;&nbsp;
+
+00:06:32.160 --> 00:06:36.400
+high effort videos like this one, there’s a&nbsp;
+link to my patreon down in the description.
+
+00:06:36.400 --> 00:06:40.520
+As I was going through the EDHRec page for&nbsp;
+Gavi while writing the previous section,&nbsp;&nbsp;
+
+00:06:40.520 --> 00:06:44.120
+there was one standout exception to the&nbsp;
+lack of good options for closing out the&nbsp;&nbsp;
+
+00:06:44.120 --> 00:06:50.000
+game—that being Moonshaker Cavalry. The&nbsp;
+card is a brutally efficient finisher,&nbsp;&nbsp;
+
+00:06:50.000 --> 00:06:54.760
+capable of converting a board full of tokens&nbsp;
+into a bunch of dead opponents in short order,&nbsp;&nbsp;
+
+00:06:54.760 --> 00:07:00.680
+and its presence here gestures at a specific type&nbsp;
+of card, mass buff cards, whose usage could lead&nbsp;&nbsp;
+
+00:07:00.680 --> 00:07:05.960
+to a Gavi deck with a more definite identity.&nbsp;
+This brings me to the subject of midrange—which&nbsp;&nbsp;
+
+00:07:05.960 --> 00:07:11.040
+I’ll define here as decks that want to get a big&nbsp;
+board of creatures and then attack with them. Now,&nbsp;&nbsp;
+
+00:07:11.040 --> 00:07:15.880
+I’m sure when playtesting we all like to imagine&nbsp;
+the ideal scenario for a beatdown deck—we play&nbsp;&nbsp;
+
+00:07:15.880 --> 00:07:20.040
+out a bunch of creatures, and swing big into&nbsp;
+the empty boards of our quivering hypothetical&nbsp;&nbsp;
+
+00:07:20.040 --> 00:07:24.680
+opponents. And this might occasionally be&nbsp;
+the case, but in most games, your opponents&nbsp;&nbsp;
+
+00:07:24.680 --> 00:07:29.600
+will have creatures as well, even if their&nbsp;
+deck isn’t a purely midrange deck. So here,&nbsp;&nbsp;
+
+00:07:29.600 --> 00:07:35.560
+I’m going to introduce an important phrase—parity.&nbsp;
+Parity basically means a state of standstill,&nbsp;&nbsp;
+
+00:07:36.480 --> 00:07:41.200
+and in the midrange context it’s usually when&nbsp;
+multiple players have decent-sized boards,&nbsp;&nbsp;
+
+00:07:41.200 --> 00:07:46.200
+but can’t swing in for large damage due to a&nbsp;
+lack of evasion or a risk of counterattack.
+
+00:07:46.200 --> 00:07:50.360
+In a game like this with multiple midrange-y&nbsp;
+decks, we can divide the game into two key&nbsp;&nbsp;
+
+00:07:50.360 --> 00:07:56.160
+steps for a given player—“create parity”&nbsp;
+and “break parity”. Creating parity just&nbsp;&nbsp;
+
+00:07:56.160 --> 00:08:01.880
+means getting your beefy midrange board up and&nbsp;
+going. This sounds simple, and indeed it’s not&nbsp;&nbsp;
+
+00:08:01.880 --> 00:08:06.960
+too hard in the abstract, but there are lots of&nbsp;
+places to go wrong. You can fail to draw mana,&nbsp;&nbsp;
+
+00:08:06.960 --> 00:08:10.320
+fail to draw beaters, fail to draw&nbsp;
+the right combinations of beaters,&nbsp;&nbsp;
+
+00:08:10.320 --> 00:08:14.960
+and even if you succeed at these three things you&nbsp;
+can still get board wiped or lose to a non-combat&nbsp;&nbsp;
+
+00:08:14.960 --> 00:08:20.720
+wincon before you’re able to do an adequate&nbsp;
+quantity of beating. For this reason, lands,&nbsp;&nbsp;
+
+00:08:20.720 --> 00:08:25.640
+ramp, draw, protection, and a varied mixture&nbsp;
+of creatures might all be parts of how you&nbsp;&nbsp;
+
+00:08:25.640 --> 00:08:30.160
+get into a state of parity with other decks.&nbsp;
+Breaking parity is where you do something to&nbsp;&nbsp;
+
+00:08:30.160 --> 00:08:34.560
+the board that allows you to deviate from the&nbsp;
+state of parity, which generally means letting&nbsp;&nbsp;
+
+00:08:34.560 --> 00:08:39.120
+your creatures hit for a lot of damage. The&nbsp;
+most popular parity breakers in commander&nbsp;&nbsp;
+
+00:08:39.120 --> 00:08:45.480
+are overrun effects, but there’s a myriad of&nbsp;
+potential other options—targeted buffs, goad,&nbsp;&nbsp;
+
+00:08:45.480 --> 00:08:50.680
+extra combat spells, mass evasion spells, and&nbsp;
+cards that disable potential blockers, or even&nbsp;&nbsp;
+
+00:08:50.680 --> 00:08:57.080
+remove them altogether. I am on the record saying&nbsp;
+that Mass Calcify is the best evasion spell.
+
+00:08:57.080 --> 00:09:01.680
+Now, if I were to rank these in terms&nbsp;
+of raw power, the bigger overrun effects&nbsp;&nbsp;
+
+00:09:01.680 --> 00:09:06.720
+like Craterhoof Behemoth and Finale of&nbsp;
+Devastation would be easily top of the pile,&nbsp;&nbsp;
+
+00:09:06.720 --> 00:09:12.880
+with Moonshaker Cavalry being a similarly powerful&nbsp;
+option in white. However, I’d argue that these are&nbsp;&nbsp;
+
+00:09:12.880 --> 00:09:17.280
+also probably the least interesting options&nbsp;
+as well given how straightforward and hard to&nbsp;&nbsp;
+
+00:09:17.280 --> 00:09:21.200
+interact with they are, so if you’re not&nbsp;
+playing at a super high power level you&nbsp;&nbsp;
+
+00:09:21.200 --> 00:09:26.040
+should go with whatever parity breaker feels&nbsp;
+most appropriate to you. The important thing&nbsp;&nbsp;
+
+00:09:26.040 --> 00:09:30.520
+is that you have at least something for this,&nbsp;
+some number of cards played with the goal of&nbsp;&nbsp;
+
+00:09:30.520 --> 00:09:35.840
+converting that cool board that you worked hard&nbsp;
+to build up, into a win. With all of that said,&nbsp;&nbsp;
+
+00:09:35.840 --> 00:09:41.240
+and to crib shamelessly from EDHRECast, one&nbsp;
+challenge in navigating parity breakers is&nbsp;&nbsp;
+
+00:09:41.240 --> 00:09:46.680
+being able to distinguish a card that helps&nbsp;
+you win from a win-more card. The goal of&nbsp;&nbsp;
+
+00:09:46.680 --> 00:09:52.120
+a parity breaker should be to turn a game state&nbsp;
+that’s not quite winning into one that wins, but&nbsp;&nbsp;
+
+00:09:52.120 --> 00:09:57.280
+some cards will only win with a boardstate that&nbsp;
+was probably already about to win. For example,&nbsp;&nbsp;
+
+00:09:57.280 --> 00:10:02.440
+Epic Struggle wins the game outright if you have&nbsp;
+20 or more creatures, but there are a ton of cards&nbsp;&nbsp;
+
+00:10:02.440 --> 00:10:06.600
+that can win off of a board that massive, and&nbsp;
+most will be useful in situations with fewer&nbsp;&nbsp;
+
+00:10:06.600 --> 00:10:12.440
+creatures as well rather than being a four mana&nbsp;
+enchantment with no text. Crucible of Fire is a&nbsp;&nbsp;
+
+00:10:12.440 --> 00:10:17.600
+less extreme example of this—it’s an anthem for a&nbsp;
+creature type that’s generally already quite big,&nbsp;&nbsp;
+
+00:10:17.600 --> 00:10:22.200
+and most dragon decks would probably be better&nbsp;
+served by running an additional dragon with useful&nbsp;&nbsp;
+
+00:10:22.200 --> 00:10:27.760
+abilities instead. Ultimately, the way to navigate&nbsp;
+these sorts of cards is to just think about all&nbsp;&nbsp;
+
+00:10:27.760 --> 00:10:33.760
+the situations in which a given card is useful,&nbsp;
+and also the situations where it’s not useful. If&nbsp;&nbsp;
+
+00:10:33.760 --> 00:10:39.960
+something is a kinda dead card two thirds of the&nbsp;
+time, that other third had better be really good.
+
+00:10:39.960 --> 00:10:45.400
+Parity also exists as a relevant concept outside&nbsp;
+of midrange decks, specifically for aggro and&nbsp;&nbsp;
+
+00:10:45.400 --> 00:10:50.560
+control decks. For an aggro deck, parity is&nbsp;
+what you want to avoid—and if your momentum&nbsp;&nbsp;
+
+00:10:50.560 --> 00:10:54.600
+does come to a bit of a stall as your opponents&nbsp;
+catch up on board, you at least want them to be&nbsp;&nbsp;
+
+00:10:54.600 --> 00:11:00.360
+low enough on life or other resources to be deeply&nbsp;
+uncomfortable in their position within the game.&nbsp;&nbsp;
+
+00:11:00.360 --> 00:11:05.200
+This is the general conceit of a lot of 60 card&nbsp;
+burn decks—throw creatures at your opponent’s face&nbsp;&nbsp;
+
+00:11:05.200 --> 00:11:09.720
+until you can’t anymore, then hope you got your&nbsp;
+opponent low enough to finish them off with burn&nbsp;&nbsp;
+
+00:11:09.720 --> 00:11:15.640
+in time. Control, on the other hand, is similar&nbsp;
+to the classical midrange parity plan in the sense&nbsp;&nbsp;
+
+00:11:15.640 --> 00:11:20.480
+that it’s looking to create and then break it,&nbsp;
+but is very different in that control decks will&nbsp;&nbsp;
+
+00:11:20.480 --> 00:11:25.400
+often create parity by using board wipes or stax&nbsp;
+pieces that slow down the table, and then break&nbsp;&nbsp;
+
+00:11:25.400 --> 00:11:30.440
+parity using carefully picked out cards that are&nbsp;
+less affected by these tools. Control decks are&nbsp;&nbsp;
+
+00:11:30.440 --> 00:11:35.200
+also typically chiefly worried about resource&nbsp;
+management—compromises must be made between&nbsp;&nbsp;
+
+00:11:35.200 --> 00:11:40.680
+how scary the board is allowed to be and how many&nbsp;
+control spells are kept in hand for contingencies.&nbsp;&nbsp;
+
+00:11:40.680 --> 00:11:45.200
+For these reasons, control is sometimes easier&nbsp;
+to finish off opponents with than midrange,&nbsp;&nbsp;
+
+00:11:45.200 --> 00:11:50.320
+since small boards and suppressive methods mean&nbsp;
+that less potent finishers can still do the job,&nbsp;&nbsp;
+
+00:11:50.320 --> 00:11:55.160
+and that winning over the course of several turns&nbsp;
+is acceptable. You do still need to think about&nbsp;&nbsp;
+
+00:11:55.160 --> 00:12:00.040
+the deck’s win plan, though, and balancing that&nbsp;
+with the deck’s controlling elements is naturally&nbsp;&nbsp;
+
+00:12:00.040 --> 00:12:05.920
+going to be part of the challenge. On that note,&nbsp;
+let’s talk about removal in a more general sense.
+
+00:12:05.920 --> 00:12:09.680
+Based on the amount of removal people&nbsp;
+seem to run in casual EDH it seems like&nbsp;&nbsp;
+
+00:12:09.680 --> 00:12:14.280
+a lot of people might not be aware of this,&nbsp;
+but if one of your opponents wins the game,&nbsp;&nbsp;
+
+00:12:14.280 --> 00:12:20.120
+your odds of winning that game actually drop&nbsp;
+quite precipitously. You might have a bit of a&nbsp;&nbsp;
+
+00:12:20.120 --> 00:12:26.600
+hard time pulling off that W. So, seeing as how&nbsp;
+this is Snail’s Guide to Winning an EDH Game,&nbsp;&nbsp;
+
+00:12:26.600 --> 00:12:30.560
+it is my duty to tell you that preventing your&nbsp;
+opponents from winning the game is an important&nbsp;&nbsp;
+
+00:12:30.560 --> 00:12:36.520
+concern that you shouldn’t take lightly. However,&nbsp;
+despite my smartassery, I understand why people&nbsp;&nbsp;
+
+00:12:36.520 --> 00:12:40.800
+tend to run low removal counts. Let’s assume&nbsp;
+for a moment that we’re thinking about the&nbsp;&nbsp;
+
+00:12:40.800 --> 00:12:46.280
+archetypal removal spell—a spell that destroys a&nbsp;
+spooky thing on our opponent’s board that may or&nbsp;&nbsp;
+
+00:12:46.280 --> 00:12:51.520
+may not lead to our demise if left unchecked.&nbsp;
+For every removal spell you add to your deck,&nbsp;&nbsp;
+
+00:12:51.520 --> 00:12:55.640
+you’re increasing your ability to hinder your&nbsp;
+opponents, but you’re also subtracting from&nbsp;&nbsp;
+
+00:12:55.640 --> 00:13:00.680
+slots available to bolster your own gameplan.&nbsp;
+For this reason, you can think of these removal&nbsp;&nbsp;
+
+00:13:00.680 --> 00:13:07.320
+spells as being something that buys you time, at&nbsp;
+a cost. As a side effect of this, faster decks&nbsp;&nbsp;
+
+00:13:07.320 --> 00:13:13.880
+won’t need as many removal spells as slower decks,&nbsp;
+and I’m going to demonstrate why that is visually.
+
+00:13:13.880 --> 00:13:18.160
+Let’s think about the amount of stuff that&nbsp;
+needs removing at a given moment. When I&nbsp;&nbsp;
+
+00:13:18.160 --> 00:13:23.040
+think of really spooky stuff that begins to&nbsp;
+happen in a game, it generally starts up small,&nbsp;&nbsp;
+
+00:13:23.040 --> 00:13:28.280
+where say 10% of the time there will be some&nbsp;
+potentially game ending nonsense on a given turn,&nbsp;&nbsp;
+
+00:13:28.280 --> 00:13:31.480
+but things will pick up for the next few turns&nbsp;
+until you’re at the point when there’s gonna&nbsp;&nbsp;
+
+00:13:31.480 --> 00:13:36.800
+be spooky stuff left and right. The timing and&nbsp;
+what exactly comprises Potentially Game Ending&nbsp;&nbsp;
+
+00:13:36.800 --> 00:13:41.720
+Nonsense will vary with power level, but the&nbsp;
+basic concept stays fairly constant and you&nbsp;&nbsp;
+
+00:13:41.720 --> 00:13:47.120
+can shift around this scale as needed. Let’s say&nbsp;
+you’re playing at a somewhat middling power level&nbsp;&nbsp;
+
+00:13:47.120 --> 00:13:51.600
+where you’re gonna see power plays starting to&nbsp;
+trickle out around turn 5, with things getting&nbsp;&nbsp;
+
+00:13:51.600 --> 00:13:57.080
+really intense by turn 9 or so assuming the game&nbsp;
+goes that long. If you’re playing a faster deck,&nbsp;&nbsp;
+
+00:13:57.080 --> 00:14:01.400
+say one that’s looking to start knocking down&nbsp;
+opponents around turn 6, there’s a lot of&nbsp;&nbsp;
+
+00:14:01.400 --> 00:14:04.920
+stuff that you simply won’t need to deal with,&nbsp;
+because your opponents won’t have time to fully&nbsp;&nbsp;
+
+00:14:04.920 --> 00:14:09.200
+develop it out before you’re threatening&nbsp;
+lethal. By contrast, if you’re playing a&nbsp;&nbsp;
+
+00:14:09.200 --> 00:14:14.280
+slower deck that’s looking to develop a much more&nbsp;
+all-encompassing threat a bit later in the game,&nbsp;&nbsp;
+
+00:14:14.280 --> 00:14:17.400
+there’s a good chance you’ll need to contend&nbsp;
+with some threatening plays from your opponents&nbsp;&nbsp;
+
+00:14:17.400 --> 00:14:22.440
+before you’re able to pull off your win, since&nbsp;
+player removal is not an option. You’ll still&nbsp;&nbsp;
+
+00:14:22.440 --> 00:14:27.760
+want some ways to slow down your opponents in a&nbsp;
+faster deck, but you won’t need nearly as many.
+
+00:14:27.760 --> 00:14:32.280
+Another consideration is that interaction isn’t&nbsp;
+always just about stopping your opponents’ win&nbsp;&nbsp;
+
+00:14:32.280 --> 00:14:37.560
+plans—it can also remove obstacles to&nbsp;
+your win plan. With a given Flame Slash,&nbsp;&nbsp;
+
+00:14:37.560 --> 00:14:40.920
+you could be killing your opponent’s Volo,&nbsp;
+Guide to Monsters to prevent them from doing&nbsp;&nbsp;
+
+00:14:40.920 --> 00:14:45.280
+some dumb shit with it, but you could also be&nbsp;
+deleting somebody’s Glissa so you can swing at&nbsp;&nbsp;
+
+00:14:45.280 --> 00:14:49.560
+them with your offensively large attacker or&nbsp;
+getting rid of their Archon of Emeria so you&nbsp;&nbsp;
+
+00:14:49.560 --> 00:14:54.320
+can have your ridiculous pop-off turn&nbsp;
+unimpeded. This sort of flexibility is&nbsp;&nbsp;
+
+00:14:54.320 --> 00:15:00.160
+also where counterspells really shine—you can&nbsp;
+always counter that Jin-Gitaxias or Tergrid,&nbsp;&nbsp;
+
+00:15:00.160 --> 00:15:05.680
+but you can also counter a board wipe or a removal&nbsp;
+spell lobbed at your key creature. I personally&nbsp;&nbsp;
+
+00:15:05.680 --> 00:15:11.040
+really like counterspells and usually run at least&nbsp;
+8 in my decks with blue, and I’ll run more if the&nbsp;&nbsp;
+
+00:15:11.040 --> 00:15:16.480
+win plan is more fragile, such as one that is&nbsp;
+slow and board-based or a combo without backup&nbsp;&nbsp;
+
+00:15:16.480 --> 00:15:21.920
+options. Counterspells do have their downsides&nbsp;
+though—there’s the holding-up-mana problem&nbsp;&nbsp;
+
+00:15:21.920 --> 00:15:26.200
+where if you hold up mana for a potential&nbsp;
+threat and that threat doesn’t materialize,&nbsp;&nbsp;
+
+00:15:26.200 --> 00:15:31.000
+you’ve effectively wasted mana, as opposed&nbsp;
+to a removal spell where you can wait for a&nbsp;&nbsp;
+
+00:15:31.000 --> 00:15:36.160
+threat to materialize and then deal with it at&nbsp;
+your next convenience. Counterspells are still&nbsp;&nbsp;
+
+00:15:36.160 --> 00:15:41.480
+fantastic and can deal with some higher-powered&nbsp;
+threats that are untouchable by normal removal,&nbsp;&nbsp;
+
+00:15:41.480 --> 00:15:47.080
+but they require a bit more thought to fit into a&nbsp;
+game plan, and might not be right for all decks.&nbsp;&nbsp;
+
+00:15:47.080 --> 00:15:52.080
+Regardless, it’s worthwhile to put in the thought,&nbsp;
+and consider what sorts of interaction will best&nbsp;&nbsp;
+
+00:15:52.080 --> 00:15:58.040
+bolster your win plan, and whether it might be&nbsp;
+worth it to play a bit more of a given deck.
+
+00:15:58.040 --> 00:16:02.040
+I think it bears mentioning that everything I’ve&nbsp;
+said so far in this video is meant in the context&nbsp;&nbsp;
+
+00:16:02.040 --> 00:16:06.440
+of a game where decks are similarly matched in&nbsp;
+terms of power level, and where players are on&nbsp;&nbsp;
+
+00:16:06.440 --> 00:16:11.440
+the same page about what constitutes a fun game&nbsp;
+of Magic: the Gathering. The most foolproof way&nbsp;&nbsp;
+
+00:16:11.440 --> 00:16:16.440
+to win a game of EDH is to obliterate a&nbsp;
+bunch of precons with a Godo cEDH deck,&nbsp;&nbsp;
+
+00:16:16.440 --> 00:16:20.960
+so I guess if that’s what you clicked on the&nbsp;
+video for, there you go, but I’d say that sort&nbsp;&nbsp;
+
+00:16:20.960 --> 00:16:26.240
+of gameplay is not interesting for anybody.&nbsp;
+In addition, for any given card that might&nbsp;&nbsp;
+
+00:16:26.240 --> 00:16:30.800
+be considered a finisher, there will be plenty&nbsp;
+of players who aren’t interested in using it,&nbsp;&nbsp;
+
+00:16:30.800 --> 00:16:36.040
+and others who would rather not play against it,&nbsp;
+and navigating that is a key step in having fun&nbsp;&nbsp;
+
+00:16:36.040 --> 00:16:41.560
+while playing a casual, social format. While&nbsp;
+this video is about how to win an EDH game,&nbsp;&nbsp;
+
+00:16:41.560 --> 00:16:46.840
+my target audience here is less so decks that are&nbsp;
+already well-rounded and looking to pump their&nbsp;&nbsp;
+
+00:16:46.840 --> 00:16:51.280
+power level and more so decks that are doing&nbsp;
+some cool things, but are still struggling to&nbsp;&nbsp;
+
+00:16:51.280 --> 00:16:56.360
+find their way to wins. There’s a good chance&nbsp;
+that improving your deck’s ability to win will&nbsp;&nbsp;
+
+00:16:56.360 --> 00:17:01.240
+make it feel more powerful overall, but my point&nbsp;
+here is simply that you should achieve that by&nbsp;&nbsp;
+
+00:17:01.240 --> 00:17:06.200
+playing to your deck’s strengths and improving&nbsp;
+its internal cohesion rather than just windmill&nbsp;&nbsp;
+
+00:17:06.200 --> 00:17:10.960
+slamming Craterhoof Behemoth or Torment&nbsp;
+of Hailfire into it and calling it a day.
+
+00:17:10.960 --> 00:17:16.280
+I also didn’t really discuss combo in this video&nbsp;
+because I feel like combos are often conceptually&nbsp;&nbsp;
+
+00:17:16.280 --> 00:17:21.800
+more straightforward than other types of win&nbsp;
+options since, though you can build a multivalent&nbsp;&nbsp;
+
+00:17:21.800 --> 00:17:26.880
+combo family that can navigate around 5 different&nbsp;
+types of stax effect, on the most basic level&nbsp;&nbsp;
+
+00:17:26.880 --> 00:17:31.600
+combo decks tend to be more of a yes-or-no&nbsp;
+proposition when it comes to winning compared to&nbsp;&nbsp;
+
+00:17:31.600 --> 00:17:37.720
+a conventional aggro, midrange, or control deck.&nbsp;
+I also made a full video about combo awhile back,&nbsp;&nbsp;
+
+00:17:37.720 --> 00:17:42.520
+and I’ll briefly summarize a couple points from&nbsp;
+that video here. Putting a combo in your deck can&nbsp;&nbsp;
+
+00:17:42.520 --> 00:17:47.880
+be a good way to win a game, but you should accept&nbsp;
+that if you throw a combo in your midrange deck,&nbsp;&nbsp;
+
+00:17:47.880 --> 00:17:52.840
+if that combo is a lot better than your midrange&nbsp;
+win plan, you’re not playing a midrange deck,&nbsp;&nbsp;
+
+00:17:52.840 --> 00:17:58.600
+you’re playing a weird, inconsistent combo deck.&nbsp;
+Below higher powers, the best type of combo to put&nbsp;&nbsp;
+
+00:17:58.600 --> 00:18:03.840
+in your deck will be one that requires some degree&nbsp;
+of setup, but setup that fits naturally into the&nbsp;&nbsp;
+
+00:18:03.840 --> 00:18:09.560
+rest of your deck’s plan, and whose pieces have&nbsp;
+alternative use cases in your deck. Combo is&nbsp;&nbsp;
+
+00:18:09.560 --> 00:18:15.400
+basically synergy taken to the extreme, so combos&nbsp;
+should ideally emerge from trying to optimize your&nbsp;&nbsp;
+
+00:18:15.400 --> 00:18:20.880
+synergies, not from throwing Sanguine Bond&nbsp;
+and Exquisite Blood in a random black deck.
+
+00:18:20.880 --> 00:18:25.600
+To recap some general pointers from earlier,&nbsp;
+making your deck do a better job of winning will&nbsp;&nbsp;
+
+00:18:25.600 --> 00:18:31.440
+often just mean making sure the inputs and outputs&nbsp;
+are focused. Keeping your inputs focused typically&nbsp;&nbsp;
+
+00:18:31.440 --> 00:18:36.080
+just means having enough deck cohesion that your&nbsp;
+deck can launch into a game plan off of its first&nbsp;&nbsp;
+
+00:18:36.080 --> 00:18:42.640
+10 or 15 cards it draws. You can think of this&nbsp;
+as having a wide onramp—you want as many cards as&nbsp;&nbsp;
+
+00:18:42.640 --> 00:18:48.240
+possible that feel good early to give your deck&nbsp;
+the best chances of getting into gear. Keeping&nbsp;&nbsp;
+
+00:18:48.240 --> 00:18:53.195
+your outputs focused means that once your deck&nbsp;
+gets up and going, the things it does are ones&nbsp;&nbsp;
+
+00:18:53.195 --> 00:18:58.000
+that all contribute to a cohesive gameplan that’s&nbsp;
+moving in the direction of victory. If you’re&nbsp;&nbsp;
+
+00:18:58.000 --> 00:19:03.000
+making a deck that does a lot of a particular&nbsp;
+thing, such as discarding cards or sacrificing&nbsp;&nbsp;
+
+00:19:03.000 --> 00:19:07.680
+artifacts, it’s tempting to just throw in all&nbsp;
+sorts of cards that have fun effects when those&nbsp;&nbsp;
+
+00:19:07.680 --> 00:19:14.280
+things happen, but doing that will just add filler&nbsp;
+that doesn’t help you win. Wincons don’t exist in&nbsp;&nbsp;
+
+00:19:14.280 --> 00:19:18.960
+the sense that you’re gonna have a bad time if you&nbsp;
+smash together a deck and then throw in a handful&nbsp;&nbsp;
+
+00:19:18.960 --> 00:19:23.440
+of splashy cards at the end for the purpose of&nbsp;
+winning, but put a bit of thought in from the&nbsp;&nbsp;
+
+00:19:23.440 --> 00:19:28.240
+start of where your deck wants to be going, and&nbsp;
+you’ll have a pretty good chance of getting there.
+

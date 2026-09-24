@@ -1,0 +1,760 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.320 --> 00:00:05.600
+Hey folks, it’s Strixhaven season. I asked my&nbsp;
+patrons which of the new precons I should review,&nbsp;&nbsp;
+
+00:00:05.600 --> 00:00:11.520
+and Lorehold narrowly beat out Silverquill to be&nbsp;
+the top result. So, what’s going on with Lorehold?&nbsp;&nbsp;
+
+00:00:11.520 --> 00:00:16.080
+I’ll get into the details later, but to start with&nbsp;
+I’ll say that this is definitely one of the weaker&nbsp;&nbsp;
+
+00:00:16.080 --> 00:00:21.360
+precons I’ve reviewed. That’s not necessarily&nbsp;
+saying a lot since I’ve only reviewed seven total&nbsp;&nbsp;
+
+00:00:21.360 --> 00:00:26.320
+and the last two were quite excellent precons, but&nbsp;
+it does make for a fun deviation from a lot of the&nbsp;&nbsp;
+
+00:00:26.320 --> 00:00:30.720
+more powerful precons we’ve been seeing lately.&nbsp;
+Before I get into this precon’s key issues and&nbsp;&nbsp;
+
+00:00:30.720 --> 00:00:35.440
+how we can go about solving them, let’s give a&nbsp;
+quick rundown on this deck’s gameplan. The face&nbsp;&nbsp;
+
+00:00:35.440 --> 00:00:40.880
+commander is Quintorius, History Chaser. This is&nbsp;
+a 4 mana planeswalker with the passive ability&nbsp;&nbsp;
+
+00:00:40.880 --> 00:00:45.440
+“Whenever one or more cards leave your graveyard,&nbsp;
+create a 3/2 red and white Spirit creature token.”&nbsp;&nbsp;
+
+00:00:45.440 --> 00:00:50.880
+His +1 ability reads “you may discard a card.&nbsp;
+If you do, draw two cards, then mill a card.”&nbsp;&nbsp;
+
+00:00:50.880 --> 00:00:55.920
+His -4 ability reads “Spirits you control gain&nbsp;
+double strike and vigilance until end of turn.”&nbsp;&nbsp;
+
+00:00:55.920 --> 00:00:59.840
+My first thought here is that this is actually&nbsp;
+a pretty good package—the passive can be a good&nbsp;&nbsp;
+
+00:00:59.840 --> 00:01:03.840
+source of bodies on board to block when paired&nbsp;
+with other things, the +1 is a sweet source of&nbsp;&nbsp;
+
+00:01:03.840 --> 00:01:09.600
+value, and the -4 can let the deck round the&nbsp;
+corner and deck push toward victory after it&nbsp;&nbsp;
+
+00:01:09.600 --> 00:01:13.760
+has been churning with leaving-graveyard synergy&nbsp;
+for a while. Along with this excellent set of&nbsp;&nbsp;
+
+00:01:13.760 --> 00:01:18.320
+abilities comes the downside that Quintorius,&nbsp;
+History Chaser is a planeswalker, and can thus&nbsp;&nbsp;
+
+00:01:18.320 --> 00:01:22.720
+be attacked by opposing creatures to get him off&nbsp;
+the board for basically free. The implication of&nbsp;&nbsp;
+
+00:01:22.720 --> 00:01:26.240
+this fact is that you’d want blockers to&nbsp;
+be able to keep opposing creatures at bay,&nbsp;&nbsp;
+
+00:01:26.240 --> 00:01:30.080
+so my first instinct is that in most cases&nbsp;
+you’d probably want to wait an extra turn or&nbsp;&nbsp;
+
+00:01:30.080 --> 00:01:34.640
+two to set up synergy pieces before casting&nbsp;
+this rather than slamming it down on curve.
+
+00:01:34.640 --> 00:01:39.520
+So, how is this deck choosing to make use out of&nbsp;
+this command zone? Well, as far as synergies go,&nbsp;&nbsp;
+
+00:01:39.520 --> 00:01:43.760
+there are nineteen cards that recur, exile,&nbsp;
+or otherwise remove things from the graveyard,&nbsp;&nbsp;
+
+00:01:43.760 --> 00:01:47.040
+along with five cards beyond the commander&nbsp;
+that are payoffs for cards leaving the&nbsp;&nbsp;
+
+00:01:47.040 --> 00:01:50.720
+graveyard. To pair with these, there are&nbsp;
+twelve cards outside the commander that&nbsp;&nbsp;
+
+00:01:50.720 --> 00:01:55.120
+help get cards into the graveyard, though&nbsp;
+seven of these are pretty insubstantial,&nbsp;&nbsp;
+
+00:01:55.120 --> 00:01:59.600
+so I guess we could say that there are five&nbsp;
+cards that are proper graveyard enablers.&nbsp;&nbsp;
+
+00:01:59.600 --> 00:02:03.280
+As an added layer of synergy, there are also&nbsp;
+some discard payoffs, with Currency Converter,&nbsp;&nbsp;
+
+00:02:03.280 --> 00:02:07.440
+Conspiracy Theorist, and Containment Construct&nbsp;
+all letting the deck accumulate extra resources&nbsp;&nbsp;
+
+00:02:07.440 --> 00:02:11.840
+off of discarded cards in some form or other,&nbsp;
+and these can pair nicely with the commander.&nbsp;&nbsp;
+
+00:02:11.840 --> 00:02:15.840
+As a final bit of cohesion, the deck has&nbsp;
+19 creatures that are spirits, five other&nbsp;&nbsp;
+
+00:02:15.840 --> 00:02:20.080
+cards beyond the commander that create spirit&nbsp;
+tokens, and another few cards that synergize with&nbsp;&nbsp;
+
+00:02:20.080 --> 00:02:25.200
+spirits some other way. Between this wide-ranging&nbsp;
+synergy core, moderate counts of draw and ramp,&nbsp;&nbsp;
+
+00:02:25.200 --> 00:02:29.600
+and a nice though somewhat more narrow span of&nbsp;
+cards to interact with opposing plays, this deck&nbsp;&nbsp;
+
+00:02:29.600 --> 00:02:34.000
+is looking to outgrind opponents and assemble&nbsp;
+an army of spirits before swinging in big.
+
+00:02:34.000 --> 00:02:37.840
+So, that’s the plan. But how is this&nbsp;
+plan likely to work out in practice?&nbsp;&nbsp;
+
+00:02:37.840 --> 00:02:41.360
+To start with some things I like about this&nbsp;
+deck, there are a lot of cool gameplan elements&nbsp;&nbsp;
+
+00:02:41.360 --> 00:02:44.880
+that work together pretty cohesively.&nbsp;
+Leaving graveyard payoffs paired with&nbsp;&nbsp;
+
+00:02:44.880 --> 00:02:48.160
+an assortment of different recursion&nbsp;
+effects make for a satisfying pairing,&nbsp;&nbsp;
+
+00:02:48.160 --> 00:02:52.400
+where you’re being rewarded for doing things&nbsp;
+that already feel good to do. I also think the&nbsp;&nbsp;
+
+00:02:52.400 --> 00:02:55.920
+scale of this deck’s plan for winning makes a&nbsp;
+lot of sense—you’ve got a commander that can&nbsp;&nbsp;
+
+00:02:55.920 --> 00:03:00.240
+churn out a lot of tokens and who can also make&nbsp;
+those tokens hit like a truck with his -4, and&nbsp;&nbsp;
+
+00:03:00.240 --> 00:03:04.960
+this is paired with a generally grindy gameplan&nbsp;
+and some number of creature-buffing effects.&nbsp;&nbsp;
+
+00:03:04.960 --> 00:03:08.640
+I even had some luck getting engines to come&nbsp;
+together in decent time when I was doing my&nbsp;&nbsp;
+
+00:03:08.640 --> 00:03:13.280
+test games with this precon—the average synergy&nbsp;
+core the deck had put together at the end of turn&nbsp;&nbsp;
+
+00:03:13.280 --> 00:03:17.920
+5 was actually better than it was with the Blight&nbsp;
+Curse precon I reviewed a couple months ago, even&nbsp;&nbsp;
+
+00:03:17.920 --> 00:03:25.040
+if the number of total dud games was a bit higher.&nbsp;
+So, where do the problems of this deck come from?
+
+00:03:25.040 --> 00:03:28.960
+Fundamentally, there are a few issues with&nbsp;
+the way this deck functions, and the biggest&nbsp;&nbsp;
+
+00:03:28.960 --> 00:03:34.480
+one is that it puts a lot of pressure on its&nbsp;
+planeswalker commander to stick around on board.&nbsp;&nbsp;
+
+00:03:34.480 --> 00:03:39.200
+As I said earlier, there are five cards in the&nbsp;
+99 that I’d consider decent or good options for&nbsp;&nbsp;
+
+00:03:39.200 --> 00:03:43.680
+getting cards into the graveyard, with a handful&nbsp;
+of others that offer a weaker version of this,&nbsp;&nbsp;
+
+00:03:43.680 --> 00:03:48.160
+and what that means is that the commander is going&nbsp;
+to be doing a lot of heavy lifting to keep the&nbsp;&nbsp;
+
+00:03:48.160 --> 00:03:53.440
+deck’s graveyard stocked. This feature of the deck&nbsp;
+is compounded by its options for value generation,&nbsp;&nbsp;
+
+00:03:53.440 --> 00:03:58.400
+which largely don’t come online that early in&nbsp;
+the game. 7 of the 12 options I’ve categorized&nbsp;&nbsp;
+
+00:03:58.400 --> 00:04:02.960
+under value cost five or more mana, require&nbsp;
+some sort of setup, or more or less require&nbsp;&nbsp;
+
+00:04:02.960 --> 00:04:07.200
+the commander to stick around in play. The&nbsp;
+remaining options aren’t even that amazing,&nbsp;&nbsp;
+
+00:04:07.200 --> 00:04:12.160
+containing things like Fateful Tempest that gives&nbsp;
+opponents more agency over our fate than I’d like,&nbsp;&nbsp;
+
+00:04:12.160 --> 00:04:17.600
+as well as Laelia who needs to be attacking&nbsp;
+and therefore not blocking in order to generate&nbsp;&nbsp;
+
+00:04:17.600 --> 00:04:22.560
+value. This is relevant because the commander is&nbsp;
+a planeswalker, a card that opponents can attack&nbsp;&nbsp;
+
+00:04:22.560 --> 00:04:27.200
+with their creatures to kill as long as they can&nbsp;
+get around blockers. Planeswalkers are much better&nbsp;&nbsp;
+
+00:04:27.200 --> 00:04:31.760
+in 20 health 1v1 formats because there’s only&nbsp;
+one opponent you need to worry about swinging in,&nbsp;&nbsp;
+
+00:04:31.760 --> 00:04:36.080
+and the lower life total means that a planeswalker&nbsp;
+soaking up a bit of damage can be genuinely&nbsp;&nbsp;
+
+00:04:36.080 --> 00:04:40.320
+helpful in its own right. In commander, though,&nbsp;
+the massive life totals mean that attacking&nbsp;&nbsp;
+
+00:04:40.320 --> 00:04:44.640
+opponents often feels barely useful anyway in&nbsp;
+the earlier stages of the game, but attacking&nbsp;&nbsp;
+
+00:04:44.640 --> 00:04:49.360
+a planeswalker can mean eliminating an opposing&nbsp;
+threat without needing to spend a card. I’ve also&nbsp;&nbsp;
+
+00:04:49.360 --> 00:04:53.120
+been in a lot of situations where an opponent&nbsp;
+will use a removal spell on a chunky creature I&nbsp;&nbsp;
+
+00:04:53.120 --> 00:04:57.760
+have in play to block for my planeswalker, which&nbsp;
+then ends up making that removal spell a 2-for-1&nbsp;&nbsp;
+
+00:04:57.760 --> 00:05:01.680
+since it lets my opponents collectively&nbsp;
+thwack my planeswalker to death as well.
+
+00:05:01.680 --> 00:05:05.760
+Now, all of this doesn’t mean that planeswalkers&nbsp;
+are totally unusable in EDH, or even that a&nbsp;&nbsp;
+
+00:05:05.760 --> 00:05:10.400
+planeswalker commander is a bad choice. This&nbsp;
+version of Quintorius is much more powerful&nbsp;&nbsp;
+
+00:05:10.400 --> 00:05:15.120
+than the previous creature iterations if you can&nbsp;
+keep him around on board, and I could imagine a&nbsp;&nbsp;
+
+00:05:15.120 --> 00:05:18.480
+universe in which you wait to play Quintorius&nbsp;
+until you have some tools to keep him around,&nbsp;&nbsp;
+
+00:05:18.480 --> 00:05:22.560
+or at least until you’re able to get a couple&nbsp;
+spirits off him the same turn to block with.&nbsp;&nbsp;
+
+00:05:22.560 --> 00:05:27.680
+The problem is, this deck isn’t designed to&nbsp;
+do that. It usually feels clunky and awkward&nbsp;&nbsp;
+
+00:05:27.680 --> 00:05:32.160
+without the commander, its graveyard-filling&nbsp;
+options too sparse and its value engines too&nbsp;&nbsp;
+
+00:05:32.160 --> 00:05:37.520
+techy and conditional. If I’m packing a hand full&nbsp;
+of payoff, I’m gonna be wanting to run out this&nbsp;&nbsp;
+
+00:05:37.520 --> 00:05:41.840
+bad boy as soon as possible, and that could&nbsp;
+mean him being in a very precarious position.&nbsp;&nbsp;
+
+00:05:42.960 --> 00:05:47.440
+This feature of the deck is worsened by its&nbsp;
+manabase, which is honestly the most disappointing&nbsp;&nbsp;
+
+00:05:47.440 --> 00:05:52.880
+precon manabase I’ve reviewed since the first one&nbsp;
+I reviewed, Blame Game. Despite my best efforts,&nbsp;&nbsp;
+
+00:05:52.880 --> 00:05:58.400
+five of my 20 test games with this deck saw a&nbsp;
+missed early land drop, and part of the issue here&nbsp;&nbsp;
+
+00:05:58.400 --> 00:06:04.800
+is the raw count of 37. This can be a perfectly&nbsp;
+fine number of lands to run if you’ve got a decent&nbsp;&nbsp;
+
+00:06:04.800 --> 00:06:09.840
+amount of early draw, filtering, or landcycling&nbsp;
+that can dig you to more, but this deck doesn’t&nbsp;&nbsp;
+
+00:06:09.840 --> 00:06:14.320
+really have any of these things. I honestly don’t&nbsp;
+really understand why we’re still getting precons&nbsp;&nbsp;
+
+00:06:14.320 --> 00:06:19.120
+with fewer than 39 lands in an era with ample&nbsp;
+quality MDFCs and utility lands that can be&nbsp;&nbsp;
+
+00:06:19.120 --> 00:06:24.240
+added to decks, it seems like we’re just dooming&nbsp;
+newer players to have unnecessary manascrew games.&nbsp;&nbsp;
+
+00:06:24.240 --> 00:06:29.200
+Beyond the raw count, the manabase is also awkward&nbsp;
+in some other ways—its symbol counts are high due&nbsp;&nbsp;
+
+00:06:29.200 --> 00:06:33.920
+to running a very high number of tapped-duals,&nbsp;
+but this also means some extra clunkiness in&nbsp;&nbsp;
+
+00:06:33.920 --> 00:06:38.720
+the early game, and there are some baffling&nbsp;
+inclusions like Mistveil Plains, Study Hall,&nbsp;&nbsp;
+
+00:06:38.720 --> 00:06:43.520
+and Lotus Field that add to the awkwardness.&nbsp;
+The end effect of all of this is making the&nbsp;&nbsp;
+
+00:06:43.520 --> 00:06:48.160
+commander’s filtering feel even more essential&nbsp;
+for smoothing and finding land drops, and I have&nbsp;&nbsp;
+
+00:06:48.160 --> 00:06:53.360
+to imagine this will play out poorly in practice&nbsp;
+a lot of games. For my test games I used the rule&nbsp;&nbsp;
+
+00:06:53.360 --> 00:06:58.800
+that Quintorius would survive the turn cycle as&nbsp;
+long as I had one blocker for each turn past 3,&nbsp;&nbsp;
+
+00:06:58.800 --> 00:07:02.800
+but honestly I’m pretty sure that testing&nbsp;
+policy is not nearly conservative enough&nbsp;&nbsp;
+
+00:07:02.800 --> 00:07:08.640
+to account for what a harsh environment an EDH&nbsp;
+game is for planeswalkers, even at bracket 2.
+
+00:07:08.640 --> 00:07:11.920
+Beyond the issue of overreliance on the&nbsp;
+commander, there are a couple other things&nbsp;&nbsp;
+
+00:07:11.920 --> 00:07:16.480
+this deck has going against it in my eyes. One&nbsp;
+of these is an issue that sort of compounds from&nbsp;&nbsp;
+
+00:07:16.480 --> 00:07:21.280
+the last one—a vulnerability to graveyard&nbsp;
+hate. In theory, effects that exile your&nbsp;&nbsp;
+
+00:07:21.280 --> 00:07:24.080
+graveyard shouldn’t be the end of the world&nbsp;
+for this deck, since it’s looking for more&nbsp;&nbsp;
+
+00:07:24.080 --> 00:07:28.400
+of an incremental graveyard gameplan rather than&nbsp;
+one that builds up a massive yard full of stuff.&nbsp;&nbsp;
+
+00:07:28.400 --> 00:07:33.680
+However, what makes it a potential issue here&nbsp;
+is, once again, the lack of non-commander ways&nbsp;&nbsp;
+
+00:07:33.680 --> 00:07:38.640
+to get stuff into the yard. I can easily imagine&nbsp;
+Quintorius creeping up in command tax over time,&nbsp;&nbsp;
+
+00:07:38.640 --> 00:07:42.320
+and though he’s pretty quick at creating a&nbsp;
+graveyard with enough fodder to last a while,&nbsp;&nbsp;
+
+00:07:42.320 --> 00:07:46.480
+if somebody exiles your graveyard you’re&nbsp;
+right back to square one. This deck broadly&nbsp;&nbsp;
+
+00:07:46.480 --> 00:07:50.080
+seems designed to be grindy and increase&nbsp;
+in power over the course of the game,&nbsp;&nbsp;
+
+00:07:50.080 --> 00:07:54.320
+but graveyard hate will also increase in frequency&nbsp;
+over the game as opponents are able to access more&nbsp;&nbsp;
+
+00:07:54.320 --> 00:07:58.160
+of their libraries, and without enough ways to&nbsp;
+feed the graveyard I could see the late game&nbsp;&nbsp;
+
+00:07:58.160 --> 00:08:03.040
+being a bit awkward for this deck as well. The&nbsp;
+final issue I see here is with interaction. Some&nbsp;&nbsp;
+
+00:08:03.040 --> 00:08:07.440
+of what’s here I don’t mind—all three of the five&nbsp;
+mana board wipes seem pretty sweet, and there are&nbsp;&nbsp;
+
+00:08:07.440 --> 00:08:13.120
+other cards like Skyclave Apparition and Lorehold&nbsp;
+Charm that seem likewise well-situated. However,&nbsp;&nbsp;
+
+00:08:13.120 --> 00:08:17.600
+the overall amount here does not impress me,&nbsp;
+particularly for a deck that’s grindy and might&nbsp;&nbsp;
+
+00:08:17.600 --> 00:08:23.200
+take a bit to get going. I’ve categorized 11 cards&nbsp;
+here as interaction, but that’s probably a bit&nbsp;&nbsp;
+
+00:08:23.200 --> 00:08:27.920
+generous given that three of the cards included in&nbsp;
+that group are Kami of Ancient Law, White Orchid&nbsp;&nbsp;
+
+00:08:27.920 --> 00:08:32.960
+Phantom, and Remorseful Cleric, filler spirits&nbsp;
+with somewhat mediocre attached interactive&nbsp;&nbsp;
+
+00:08:32.960 --> 00:08:37.920
+tools. These seem significantly more likely to be&nbsp;
+chump blockers for Quintorius than cards actually&nbsp;&nbsp;
+
+00:08:37.920 --> 00:08:42.480
+used against what opponents are doing, which is&nbsp;
+fine but I feel like I’d honestly rather just&nbsp;&nbsp;
+
+00:08:42.480 --> 00:08:47.360
+have a Wall of Omens at that point. Overall, this&nbsp;
+interaction issue will likely be felt in this deck&nbsp;&nbsp;
+
+00:08:47.360 --> 00:08:51.040
+struggling to slow opponents long enough to get&nbsp;
+its own plan up and running, though I will say&nbsp;&nbsp;
+
+00:08:51.040 --> 00:08:55.280
+that an improvement to the deck’s card economy&nbsp;
+could help quite a bit with this all on its own.
+
+00:08:55.280 --> 00:08:59.200
+Alright, so these are the issues I see here—too&nbsp;
+reliant on the commander for draw and graveyard&nbsp;&nbsp;
+
+00:08:59.200 --> 00:09:04.320
+filling, a bit vulnerable to graveyard hate, and&nbsp;
+containing not enough interaction. So, how do we&nbsp;&nbsp;
+
+00:09:04.320 --> 00:09:08.480
+go about fixing these things? Well, weakness&nbsp;
+to graveyard hate is tied in with the deck’s&nbsp;&nbsp;
+
+00:09:08.480 --> 00:09:13.040
+graveyard feeding, and quantity of available&nbsp;
+interaction is tied into the deck’s card economy,&nbsp;&nbsp;
+
+00:09:13.040 --> 00:09:17.920
+so we’re really going to be focused on these&nbsp;
+first two. Let’s start with cuts. This deck has&nbsp;&nbsp;
+
+00:09:17.920 --> 00:09:22.640
+some kinda-filler two and three cost creatures,&nbsp;
+and while I see the desire to have blockers,&nbsp;&nbsp;
+
+00:09:22.640 --> 00:09:27.120
+I just can’t get fully on board with these. Kami&nbsp;
+of Ancient Law and White Orchid Phantom are some&nbsp;&nbsp;
+
+00:09:27.120 --> 00:09:31.440
+two drop spirits I mentioned earlier and don’t&nbsp;
+really care for. If you’re gonna have a phantom&nbsp;&nbsp;
+
+00:09:31.440 --> 00:09:34.960
+in your deck, you could at least have the decency&nbsp;
+to pair it with an indestructible land and try to&nbsp;&nbsp;
+
+00:09:34.960 --> 00:09:40.720
+convince me it’s ramp. Another cut is Naktamun&nbsp;
+Lorespinner—this is probably going to be a very&nbsp;&nbsp;
+
+00:09:40.720 --> 00:09:45.600
+cool piece of tech in eternal formats, but in a&nbsp;
+grindy EDH deck with a value engine commander,&nbsp;&nbsp;
+
+00:09:45.600 --> 00:09:51.840
+it feels out of place. Another cut is going to&nbsp;
+be Drumbellower—this is far from a bad card,&nbsp;&nbsp;
+
+00:09:51.840 --> 00:09:55.760
+but it feels pretty underutilized here&nbsp;
+given that the commander’s -4 already&nbsp;&nbsp;
+
+00:09:55.760 --> 00:10:00.720
+offers vigilance on any turn you’d want to swing&nbsp;
+wide. Moving along to higher-cost creatures,&nbsp;&nbsp;
+
+00:10:00.720 --> 00:10:05.360
+I’m cutting the two Neon Dynasty dragons.&nbsp;
+These are also perfectly fine cards,&nbsp;&nbsp;
+
+00:10:05.360 --> 00:10:09.440
+but they kinda just seem like blockers here,&nbsp;
+and I’m not particularly sold on their beatdown&nbsp;&nbsp;
+
+00:10:09.440 --> 00:10:14.800
+potential with Quintorius’s -4 either. This deck&nbsp;
+is stacked with powerful five drops, so I’m also&nbsp;&nbsp;
+
+00:10:14.800 --> 00:10:19.440
+cutting Karmic Guide and Balefire Liege. The&nbsp;
+former is a passable recursion spell, and the&nbsp;&nbsp;
+
+00:10:19.440 --> 00:10:24.880
+latter is a guy that buffs the board but doesn’t&nbsp;
+do a whole lot else. Finally, as noncreature cuts,&nbsp;&nbsp;
+
+00:10:24.880 --> 00:10:31.360
+we’re axing Fateful Tempest and Monologue Tax. The&nbsp;
+latter is kinda a poor ramp spell in general IMHO,&nbsp;&nbsp;
+
+00:10:31.360 --> 00:10:35.040
+and though I see the appeals of Fateful&nbsp;
+Tempest, I dislike its unreliability,&nbsp;&nbsp;
+
+00:10:35.040 --> 00:10:39.440
+and I also wanted to cut a noncreature spell&nbsp;
+to avoid having our creature count dip too low.
+
+00:10:39.440 --> 00:10:44.400
+Now, for the additions, ten cards that each cost&nbsp;
+$3 or less. To start with, I want to see a couple&nbsp;&nbsp;
+
+00:10:44.400 --> 00:10:48.880
+MDFCs in here to make sure we’re hitting our&nbsp;
+land drops. Witch Enchanter is a no-brainer&nbsp;&nbsp;
+
+00:10:48.880 --> 00:10:52.240
+for a deck that doesn’t have a whole ton of&nbsp;
+noncreature permanent removal at the moment,&nbsp;&nbsp;
+
+00:10:52.240 --> 00:10:57.440
+and Makindi Stampede feels nice as a way to&nbsp;
+replace the spirit-buffing of Balefire Liege.&nbsp;&nbsp;
+
+00:10:57.440 --> 00:11:01.040
+Next up, let’s get a whole bunch more draw&nbsp;
+and filtering in here. From the main set,&nbsp;&nbsp;
+
+00:11:01.040 --> 00:11:05.600
+I’m pulling Ark of Hunger—cool ass card name&nbsp;
+and art, by the way—and Pursue the Past,&nbsp;&nbsp;
+
+00:11:05.600 --> 00:11:09.760
+both of which help fill our graveyard and generate&nbsp;
+card advantage. Something I’ve been noticing more&nbsp;&nbsp;
+
+00:11:09.760 --> 00:11:14.640
+and more is Wizards of the Coast including fairly&nbsp;
+obvious additions to precons within the main set,&nbsp;&nbsp;
+
+00:11:14.640 --> 00:11:18.480
+which seems nice as a way to get newer&nbsp;
+players started in tuning their decks.&nbsp;&nbsp;
+
+00:11:18.480 --> 00:11:21.920
+Another filtering spell I’m adding is&nbsp;
+Fear of Missing Out, which is a nice&nbsp;&nbsp;
+
+00:11:21.920 --> 00:11:26.400
+blocker that can offer some crazy alpha-strike&nbsp;
+potential with Quint’s -4 later in the game,&nbsp;&nbsp;
+
+00:11:26.400 --> 00:11:31.680
+since that loyalty ability also gives vigilance.&nbsp;
+Tersa Lightshatter is another addition with a&nbsp;&nbsp;
+
+00:11:31.680 --> 00:11:36.160
+similar profile—an immediate burst of filtering,&nbsp;
+a blocker in the short term, and a value engine&nbsp;&nbsp;
+
+00:11:36.160 --> 00:11:41.120
+once your graveyard hits threshold. Brass’s Tunnel&nbsp;
+Grinder also fits this mold, not including a body&nbsp;&nbsp;
+
+00:11:41.120 --> 00:11:45.760
+to block with but being an even better filtering&nbsp;
+tool and an even better value engine later in the&nbsp;&nbsp;
+
+00:11:45.760 --> 00:11:51.280
+game. As a sixth and final filtering addition,&nbsp;
+we’re adding good ol’ Plargg. I love that we&nbsp;&nbsp;
+
+00:11:51.280 --> 00:11:55.520
+get to include the Lorehold flip Dean from the&nbsp;
+previous Strixhaven set, and a two drop creature&nbsp;&nbsp;
+
+00:11:55.520 --> 00:12:00.240
+who can tap to rummage is exactly what this&nbsp;
+deck is looking for. Alright, now that we’ve&nbsp;&nbsp;
+
+00:12:00.240 --> 00:12:04.720
+eaten our vegetables with these first eight, I&nbsp;
+have two more “fun” additions. On Wings of Gold&nbsp;&nbsp;
+
+00:12:04.720 --> 00:12:09.280
+is an enchantment printed in the Aetherdrift&nbsp;
+zombie precon, and its appeals are simple—it’s&nbsp;&nbsp;
+
+00:12:09.280 --> 00:12:14.480
+an extra leaving-graveyard payoff, and more&nbsp;
+importantly it gives our spirits +1/+1 and flying,&nbsp;&nbsp;
+
+00:12:14.480 --> 00:12:19.280
+further improving this deck’s ability to punch in&nbsp;
+for damage. For my final addition, I’m adding the&nbsp;&nbsp;
+
+00:12:19.280 --> 00:12:24.080
+flip card Mila and Lukka. The front side is&nbsp;
+a nice fox friend to help defend Quintorius,&nbsp;&nbsp;
+
+00:12:24.080 --> 00:12:28.800
+and the backside is a top-end planeswalker that&nbsp;
+plays nicely into the deck’s graveyard themes.
+
+00:12:28.800 --> 00:12:33.280
+Alright, those are my 10 cuts and additions.&nbsp;
+Overall, this precon is operating in some fun&nbsp;&nbsp;
+
+00:12:33.280 --> 00:12:38.080
+mechanical territory, and this style of red white&nbsp;
+deck is really unique and deserves to be seen&nbsp;&nbsp;
+
+00:12:38.080 --> 00:12:42.880
+more. It also does “feel” pretty Lorehold to me,&nbsp;
+and I like that we still manage to get a few new&nbsp;&nbsp;
+
+00:12:42.880 --> 00:12:48.400
+arts for cards even in a set with five precons.&nbsp;
+Also, with this set we’ve finally finished the&nbsp;&nbsp;
+
+00:12:48.400 --> 00:12:54.320
+tango and bicycle land cycles, after 11 and&nbsp;
+9 years, respectively. Budget typed dual land&nbsp;&nbsp;
+
+00:12:54.320 --> 00:12:59.280
+enjoyers, rejoice! So, I broadly don’t mind this&nbsp;
+precon, or even the fact that it has some issues&nbsp;&nbsp;
+
+00:12:59.280 --> 00:13:03.920
+that make it a bit suboptimal. That said, I would&nbsp;
+prefer that precons steer away from the sorts of&nbsp;&nbsp;
+
+00:13:03.920 --> 00:13:08.400
+issues that make it likely for them to stall out:&nbsp;
+not enough lands, overreliance on the commander,&nbsp;&nbsp;
+
+00:13:08.400 --> 00:13:13.440
+and especially not enough filtering. What I mean&nbsp;
+by filtering is cards that prioritize letting you&nbsp;&nbsp;
+
+00:13:13.440 --> 00:13:18.320
+see more of your library over value or increasing&nbsp;
+your total card pool. This phrase accurately&nbsp;&nbsp;
+
+00:13:18.320 --> 00:13:23.120
+describes five of my ten additions, even if four&nbsp;
+of these are also capable of being value-positive,&nbsp;&nbsp;
+
+00:13:23.120 --> 00:13:27.760
+and the appeal of these in something like a precon&nbsp;
+is very straightforward: seeing more of your deck&nbsp;&nbsp;
+
+00:13:27.760 --> 00:13:31.760
+is good! Seeing more of your deck lets you play&nbsp;
+more of your deck, put together more interesting&nbsp;&nbsp;
+
+00:13:31.760 --> 00:13:35.440
+combinations of cards from within your deck, and&nbsp;
+if nothing else lay your eyes on and hold within&nbsp;&nbsp;
+
+00:13:35.440 --> 00:13:39.680
+your fingers a greater proportion of the cardboard&nbsp;
+that exists within your deck. That is going to be&nbsp;&nbsp;
+
+00:13:39.680 --> 00:13:44.560
+enjoyable for most decks, but it’s especially&nbsp;
+important for precons. Imbuing players with a&nbsp;&nbsp;
+
+00:13:44.560 --> 00:13:49.440
+sense of agency should be the #1 goal there, and&nbsp;
+that’s what friends like Plargg are here for.
+
+00:13:49.440 --> 00:13:53.520
+Thanks for watching, and thanks to Archidekt&nbsp;
+for supporting the channel. Archidekt’s&nbsp;&nbsp;
+
+00:13:53.520 --> 00:13:57.280
+multi-layered category system makes it easy&nbsp;
+for me to dig into decks like I did here,&nbsp;&nbsp;
+
+00:13:57.280 --> 00:14:02.000
+and the maybeboard categories system is perfect&nbsp;
+for displaying something like additions and cuts.&nbsp;&nbsp;
+
+00:14:02.000 --> 00:14:06.684
+A link to my upgrade of this precon is in the&nbsp;
+description. If you’re in the market for high&nbsp;&nbsp;
+
+00:14:06.684 --> 00:14:10.560
+quality sleeves with a great variety of different&nbsp;
+colors and designs, you can pick yourself up some&nbsp;&nbsp;
+
+00:14:10.560 --> 00:14:15.600
+Dragonshield sleeves at my affiliate link in the&nbsp;
+description, using code “salubrious” for 5% off.&nbsp;&nbsp;
+
+00:14:15.600 --> 00:14:19.120
+If you want to support me more directly, you&nbsp;
+can sign up for my Patreon, or sign up for a&nbsp;&nbsp;
+
+00:14:19.120 --> 00:14:23.440
+YouTube membership. Those lovely people get&nbsp;
+bonus videos from me once a month or so, and&nbsp;&nbsp;
+
+00:14:23.440 --> 00:14:27.934
+some of them get to be featured in my credits as&nbsp;
+well. Don’t you want to see your name on screen?
+

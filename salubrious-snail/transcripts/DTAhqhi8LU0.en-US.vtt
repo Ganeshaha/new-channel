@@ -1,0 +1,704 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.200 --> 00:00:04.720
+A now-infamous sentence in my play group is&nbsp;
+“wow, this opening hand would be great if&nbsp;&nbsp;
+
+00:00:04.720 --> 00:00:10.040
+it had more lands.” Whenever it’s said, either&nbsp;
+me or my friend Mr. Hans will sit up straight,&nbsp;&nbsp;
+
+00:00:10.040 --> 00:00:15.560
+get a devious glint in our eye, and say “yeah,&nbsp;
+nine card hands are pretty good.” This is a&nbsp;&nbsp;
+
+00:00:15.560 --> 00:00:19.840
+joke that we’ll never stop finding funny, but the&nbsp;
+frequency with which people express the original&nbsp;&nbsp;
+
+00:00:19.840 --> 00:00:25.040
+sentiment also speaks to a broader point about&nbsp;
+lands. Despite their centrality to the game,&nbsp;&nbsp;
+
+00:00:25.040 --> 00:00:29.280
+a lot of people don’t really see lands as a&nbsp;
+part of their deck in any meaningful sense.&nbsp;&nbsp;
+
+00:00:29.280 --> 00:00:33.360
+If your hand was missing something else you&nbsp;
+find vital to your gameplan—an artifact,&nbsp;&nbsp;
+
+00:00:33.360 --> 00:00:37.960
+a creature, a piece of ramp—you wouldn’t say&nbsp;
+“wow, this opening hand would be great if it&nbsp;&nbsp;
+
+00:00:37.960 --> 00:00:42.520
+had an artifact in it,” because that’s a&nbsp;
+silly statement to make. An opening hand&nbsp;&nbsp;
+
+00:00:42.520 --> 00:00:49.320
+without an artifact in an artifact deck is&nbsp;
+a bad hand, not a mildly-flawed good hand.
+
+00:00:49.320 --> 00:00:53.040
+To take this a step further, I think a lot of&nbsp;
+people also have a mindset of lands being a&nbsp;&nbsp;
+
+00:00:53.040 --> 00:00:57.720
+sort of necessary evil, a card type that dilutes&nbsp;
+the gas of a deck, and one that should be played&nbsp;&nbsp;
+
+00:00:57.720 --> 00:01:02.320
+in the lowest quantity the player can get away&nbsp;
+with. I don’t necessarily want to invalidate&nbsp;&nbsp;
+
+00:01:02.320 --> 00:01:06.520
+the desire to draw gas, but I do think that&nbsp;
+what I just described is a mindset that will&nbsp;&nbsp;
+
+00:01:06.520 --> 00:01:11.840
+naturally lead to deckbuilding mistakes. So to&nbsp;
+start with, I want to lay out a basic framework&nbsp;&nbsp;
+
+00:01:11.840 --> 00:01:16.280
+for the approximate number of lands you should be&nbsp;
+running in your deck. I’ve seen lots of numbers&nbsp;&nbsp;
+
+00:01:16.280 --> 00:01:21.040
+paraded around by various people as general&nbsp;
+reference points, and to be frank I think&nbsp;&nbsp;
+
+00:01:21.040 --> 00:01:25.520
+a single number does a poor job of answering&nbsp;
+the question. Speaking of Frank, let’s start&nbsp;&nbsp;
+
+00:01:25.520 --> 00:01:31.200
+there. Frank Karsten has done an admirable job&nbsp;
+of answering questions of mana and mana-fixing,&nbsp;&nbsp;
+
+00:01:31.200 --> 00:01:36.120
+and his analysis on the subject of land count is&nbsp;
+as good a place to start as any for the topic.
+
+00:01:36.120 --> 00:01:40.160
+The format-agnostic version of Karsten’s&nbsp;
+land-count analysis goes something like&nbsp;&nbsp;
+
+00:01:40.160 --> 00:01:44.600
+this—he takes a whole bunch of match data from&nbsp;
+across a couple years of online MTG events,&nbsp;&nbsp;
+
+00:01:44.600 --> 00:01:49.920
+and excludes any deck that didn’t have more wins&nbsp;
+than losses. He then does a regression analysis on&nbsp;&nbsp;
+
+00:01:49.920 --> 00:01:55.160
+the remaining decks, which sounds complicated but&nbsp;
+is actually pretty simple in concept—a regression&nbsp;&nbsp;
+
+00:01:55.160 --> 00:02:00.160
+analysis basically just cares about how a bunch&nbsp;
+of predictor variables correlate with an output&nbsp;&nbsp;
+
+00:02:00.160 --> 00:02:06.200
+variable. In this case, the question Karsten’s&nbsp;
+analysis is asking is “how do mana curve,&nbsp;&nbsp;
+
+00:02:06.200 --> 00:02:10.280
+quantity of cheap draw spells, and quantity&nbsp;
+of cheap ramp spells affect how many lands&nbsp;&nbsp;
+
+00:02:10.280 --> 00:02:15.240
+a successful deck plays?” The result of this&nbsp;
+question is then turned into a formula that can&nbsp;&nbsp;
+
+00:02:15.240 --> 00:02:21.120
+be used to determine the number of lands that a&nbsp;
+given deck should play. And as a starting point,&nbsp;&nbsp;
+
+00:02:21.120 --> 00:02:25.680
+I like this—I’d argue that average mana value&nbsp;
+as well as quantities of cheap draw and ramp&nbsp;&nbsp;
+
+00:02:25.680 --> 00:02:29.440
+should be major factors used to decide&nbsp;
+land count in a deck, and I’ve left a&nbsp;&nbsp;
+
+00:02:29.440 --> 00:02:34.000
+link to that article in the description if&nbsp;
+you want to give Karsten’s formula a try.
+
+00:02:34.000 --> 00:02:38.240
+However, since it was constructed from&nbsp;
+60 card deck data, Karsten’s analysis&nbsp;&nbsp;
+
+00:02:38.240 --> 00:02:42.960
+here misses out on some specific factors&nbsp;
+involved in EDH. And he himself is aware&nbsp;&nbsp;
+
+00:02:42.960 --> 00:02:47.400
+of this—another article of his lays out a&nbsp;
+different set of criteria for mana curve,&nbsp;&nbsp;
+
+00:02:47.400 --> 00:02:54.040
+ramp, and land count in an EDH-specific context.&nbsp;
+Due to the absence of good data on EDH games,&nbsp;&nbsp;
+
+00:02:54.040 --> 00:02:58.240
+this article obtained its findings through&nbsp;
+simulated games against a passive opponent,&nbsp;&nbsp;
+
+00:02:58.240 --> 00:03:04.480
+with the model optimizing for the highest quality&nbsp;
+curve-out. This “quality” is defined here as a&nbsp;&nbsp;
+
+00:03:04.480 --> 00:03:09.920
+single number, being composed of the mana value of&nbsp;
+each card played, repeated on each turn thereafter&nbsp;&nbsp;
+
+00:03:09.920 --> 00:03:15.040
+to simulate the value of having played a spell&nbsp;
+that influences the game. The model factors in a&nbsp;&nbsp;
+
+00:03:15.040 --> 00:03:19.440
+number of commander-specific assumptions, such&nbsp;
+as the free mulligan and the commander being&nbsp;&nbsp;
+
+00:03:19.440 --> 00:03:25.160
+effectively an extra nonland card available at all&nbsp;
+times. And honestly, I like this model a lot—not&nbsp;&nbsp;
+
+00:03:25.160 --> 00:03:30.760
+because it’s perfect, but because it’s simple&nbsp;
+and specific. It gives land count, ramp count,&nbsp;&nbsp;
+
+00:03:30.760 --> 00:03:37.080
+and mana curve recommendations based purely on the&nbsp;
+goal of curving out. Cards aren’t Necropotence and&nbsp;&nbsp;
+
+00:03:37.080 --> 00:03:43.160
+Rewind and Aquamoeba, they’re hypothetical&nbsp;
+pieces of cardboard with mana value 3, 4,&nbsp;&nbsp;
+
+00:03:43.160 --> 00:03:46.160
+and 2, respectively, and to assume&nbsp;
+that they’re different than each&nbsp;&nbsp;
+
+00:03:46.160 --> 00:03:51.640
+other beyond this information would introduce an&nbsp;
+unreasonable level of complexity to the model.
+
+00:03:51.640 --> 00:03:55.720
+So, as with the land count formula,&nbsp;
+it’s a good starting point. It offers&nbsp;&nbsp;
+
+00:03:55.720 --> 00:03:59.840
+some neat recommendations on optimal land&nbsp;
+counts, mana rock counts, and mana curve,&nbsp;&nbsp;
+
+00:03:59.840 --> 00:04:04.480
+and comes to the conclusion that, for purposes of&nbsp;
+curving out properly, decks would be well served&nbsp;&nbsp;
+
+00:04:04.480 --> 00:04:11.000
+to run at least 37 lands, and as many as 42 in&nbsp;
+some cases. This is good information, but the&nbsp;&nbsp;
+
+00:04:11.000 --> 00:04:16.160
+simplicity and specificity of the model mean that&nbsp;
+to get the full picture, we need to venture a bit&nbsp;&nbsp;
+
+00:04:16.160 --> 00:04:22.320
+beyond its scope. Karsten’s assumptions themselves&nbsp;
+offer a neat place to start thinking, and I’m most&nbsp;&nbsp;
+
+00:04:22.320 --> 00:04:27.720
+interested in his assumption about the commander.&nbsp;
+His model assumes it to be effectively a nonland&nbsp;&nbsp;
+
+00:04:27.720 --> 00:04:32.960
+card like any other, but one you have available&nbsp;
+all the time. This is a decent shortcut for&nbsp;&nbsp;
+
+00:04:32.960 --> 00:04:37.200
+purposes of putting together a model, but the&nbsp;
+commander of a deck can have a wildly important&nbsp;&nbsp;
+
+00:04:37.200 --> 00:04:42.600
+impact on the curve and desired landcount of&nbsp;
+the deck beyond just occupying a mana slot.
+
+00:04:42.600 --> 00:04:47.400
+Specifically, there are commanders that offer&nbsp;
+some form of draw or filtering, and these will&nbsp;&nbsp;
+
+00:04:47.400 --> 00:04:51.920
+influence the number of lands a deck is looking to&nbsp;
+run. If you’re building a Rona deck with lots of&nbsp;&nbsp;
+
+00:04:51.920 --> 00:04:56.560
+one and two cost legendaries, as long as you run&nbsp;
+enough blue sources to guarantee playing Rona on&nbsp;&nbsp;
+
+00:04:56.560 --> 00:05:01.000
+turn 2, your black sources and land count as a&nbsp;
+whole can be a bit lower since you know you’re&nbsp;&nbsp;
+
+00:05:01.000 --> 00:05:06.480
+gonna churn through a lot of cards on turns 3&nbsp;
+and 4. Similarly, a Yasharn deck can go a bit&nbsp;&nbsp;
+
+00:05:06.480 --> 00:05:11.080
+heavier on ramp and a bit lighter on lands knowing&nbsp;
+that as long as it’s able to get up to Yasharn,&nbsp;&nbsp;
+
+00:05:11.080 --> 00:05:15.880
+it’ll have its next couple land drops for free.&nbsp;
+These examples make sense, as they’re cases when&nbsp;&nbsp;
+
+00:05:15.880 --> 00:05:21.320
+the player will have guaranteed access to a high&nbsp;
+quality tool for drawing into additional lands.
+
+00:05:21.320 --> 00:05:24.880
+However, I also want to talk about a different&nbsp;
+type of commander that I think will be more&nbsp;&nbsp;
+
+00:05:24.880 --> 00:05:29.800
+controversial, that being the higher-costed&nbsp;
+commander that draws a lot of cards. If your&nbsp;&nbsp;
+
+00:05:29.800 --> 00:05:34.840
+commander costs 4 or more and draws cards, not&nbsp;
+only should you not run less lands than you&nbsp;&nbsp;
+
+00:05:34.840 --> 00:05:40.640
+otherwise would—you should run more. That’s&nbsp;
+a draw spell you’ll have every single game,&nbsp;&nbsp;
+
+00:05:40.640 --> 00:05:45.360
+and your only barrier between yourself and those&nbsp;
+sweet, sweet cards is drawing into enough lands&nbsp;&nbsp;
+
+00:05:45.360 --> 00:05:49.720
+or ramp to get there. Ditto if the deck&nbsp;
+is very heavy on draw that costs a lot of&nbsp;&nbsp;
+
+00:05:49.720 --> 00:05:55.480
+mana—medium-to-large draw will cut through that&nbsp;
+slightly higher density of lands with no problem,&nbsp;&nbsp;
+
+00:05:55.480 --> 00:06:01.240
+so running a higher land count won’t hurt you—it&nbsp;
+will only serve to lessen the chance of screw. And&nbsp;&nbsp;
+
+00:06:01.240 --> 00:06:05.880
+I’ll go a step further here—I suspect the&nbsp;
+reason a lot of people end up running low&nbsp;&nbsp;
+
+00:06:05.880 --> 00:06:10.360
+land counts isn’t because they’ve done lots of&nbsp;
+field testing and have decided they need to be&nbsp;&nbsp;
+
+00:06:10.360 --> 00:06:15.960
+drawing more gas—it’s because they get finished&nbsp;
+adding cards to the deck and feel attached to&nbsp;&nbsp;
+
+00:06:15.960 --> 00:06:21.200
+the nonland stuff they put in. Making cuts can&nbsp;
+be a somewhat painful and difficult process,&nbsp;&nbsp;
+
+00:06:21.200 --> 00:06:26.880
+so if EDHFan99 tells you that you can run 33&nbsp;
+lands, a lot of people will take that advice&nbsp;&nbsp;
+
+00:06:26.880 --> 00:06:30.880
+very eagerly, and then down the road they’ll&nbsp;
+curse the luck gods when they get stuck on&nbsp;&nbsp;
+
+00:06:30.880 --> 00:06:35.960
+four lands in their deck whose average mana&nbsp;
+value is 4.5. And I say this with a heart full&nbsp;&nbsp;
+
+00:06:35.960 --> 00:06:41.560
+of empathy—I’ve been there, but sometimes you&nbsp;
+just gotta bite the bullet and make those cuts.
+
+00:06:41.560 --> 00:06:46.240
+Another factor that should influence land count&nbsp;
+is colors—both the number of colors and the symbol&nbsp;&nbsp;
+
+00:06:46.240 --> 00:06:52.680
+density. Well, kind of. See, this is a subject&nbsp;
+that’s a bit harder to solve with big-brained&nbsp;&nbsp;
+
+00:06:52.680 --> 00:06:57.040
+deckbuilding tips. The annoying truth is if&nbsp;
+you want to run a lot of colors and you don’t&nbsp;&nbsp;
+
+00:06:57.040 --> 00:07:01.440
+wanna run a whole lot of taplands, in order to&nbsp;
+actually get the colors you need, you either&nbsp;&nbsp;
+
+00:07:01.440 --> 00:07:05.960
+need to spend hundreds of dollars on a mana base&nbsp;
+full of fetches and shocks, or you need to run a&nbsp;&nbsp;
+
+00:07:05.960 --> 00:07:10.720
+lot of lands. And I do not say this from sitting&nbsp;
+atop my throne of paper mache’d copies of Rhystic&nbsp;&nbsp;
+
+00:07:10.720 --> 00:07:15.640
+Study. I don’t run many fetches and shocks in my&nbsp;
+decks due to their cost, and I honestly find the&nbsp;&nbsp;
+
+00:07:15.640 --> 00:07:20.000
+effectiveness of them to be a little upsetting—if&nbsp;
+you’re willing to spend money you can run a lot&nbsp;&nbsp;
+
+00:07:20.000 --> 00:07:25.560
+of colors with basically no downside, and if you&nbsp;
+aren’t willing to spend money you can’t do that.&nbsp;&nbsp;
+
+00:07:25.560 --> 00:07:30.880
+But I’m not here to get upset—I’m here to give&nbsp;
+you actionable advice. And that advice is, if you&nbsp;&nbsp;
+
+00:07:30.880 --> 00:07:36.520
+can justify buying fetches and shocks, or if you&nbsp;
+feel like proxying, you should run them. If you’re&nbsp;&nbsp;
+
+00:07:36.520 --> 00:07:42.880
+like me and you can’t justify that purchase, you&nbsp;
+should either play fewer colors or run more lands.
+
+00:07:42.880 --> 00:07:47.880
+As an example of this principle, I built out four&nbsp;
+manabases for a hypothetical four-color deck with&nbsp;&nbsp;
+
+00:07:47.880 --> 00:07:54.240
+blue and green being dominant colors. The first&nbsp;
+one was 30 lands, 300 dollars, and a 10% taplands&nbsp;&nbsp;
+
+00:07:54.240 --> 00:07:59.520
+allowance—a decidedly solid manabase if you’re&nbsp;
+okay with the low overall count. Symbols-wise,&nbsp;&nbsp;
+
+00:07:59.520 --> 00:08:04.840
+it’s 22 each for green and blue, and 16 each for&nbsp;
+red and black—pretty good numbers for coming from&nbsp;&nbsp;
+
+00:08:04.840 --> 00:08:10.520
+just 30 lands, not even including any sort&nbsp;
+of ramp. The second one was 30 lands again,&nbsp;&nbsp;
+
+00:08:10.520 --> 00:08:15.760
+but 50 dollars this time, and a one-third&nbsp;
+tapland allowance. The symbols for this&nbsp;&nbsp;
+
+00:08:15.760 --> 00:08:21.280
+deck are 20 each for green and blue, and&nbsp;
+13 each for red and black—definitely worse,&nbsp;&nbsp;
+
+00:08:21.280 --> 00:08:25.800
+but not horrendously so, as long as you’re&nbsp;
+okay with taplands. A well-built ramp suite&nbsp;&nbsp;
+
+00:08:25.800 --> 00:08:29.240
+should be able to patch up those numbers to&nbsp;
+something that ends up being pretty reliable.
+
+00:08:29.800 --> 00:08:34.880
+The third one was 30 lands and 50 dollars&nbsp;
+once again, but going back to the 10%&nbsp;&nbsp;
+
+00:08:34.880 --> 00:08:41.400
+tapland allowance. This is where things get&nbsp;
+painful—16 symbols each for green and blue,&nbsp;&nbsp;
+
+00:08:41.400 --> 00:08:47.200
+and 10 each for red and black. This is rough—our&nbsp;
+core colors aren’t even well-supported, and 10&nbsp;&nbsp;
+
+00:08:47.200 --> 00:08:51.040
+is a low enough count for our off colors that&nbsp;
+we’ll quite frequently be missing one or both&nbsp;&nbsp;
+
+00:08:51.040 --> 00:08:56.240
+of them. However, if we dial the land count&nbsp;
+up to 40 with equivalent per-card budget,&nbsp;&nbsp;
+
+00:08:56.240 --> 00:09:00.560
+our count jumps back up to 20 for the&nbsp;
+core colors and 13 for the off-colors,&nbsp;&nbsp;
+
+00:09:00.560 --> 00:09:04.960
+the same as with the more tapland-oriented&nbsp;
+30 land option. I should reiterate that&nbsp;&nbsp;
+
+00:09:04.960 --> 00:09:08.240
+this still isn’t amazing, but it’s a good&nbsp;
+demonstration of the tradeoffs involved&nbsp;&nbsp;
+
+00:09:08.240 --> 00:09:12.440
+with building a mana base. I could go&nbsp;
+into specific cycles of lands and when&nbsp;&nbsp;
+
+00:09:12.440 --> 00:09:17.600
+they should or shouldn’t be used, but this&nbsp;
+video is long enough already, so I won’t.
+
+00:09:17.600 --> 00:09:21.520
+Instead, I want to talk more about the mana&nbsp;
+symbols, and how to know how many of each&nbsp;&nbsp;
+
+00:09:21.520 --> 00:09:26.840
+you’ll need. This is another area where lots of&nbsp;
+people have posited various counts and formulas&nbsp;&nbsp;
+
+00:09:26.840 --> 00:09:32.560
+and such-like, and to start with I’m gonna stick&nbsp;
+with a familiar face. Frank Karsten also posted an&nbsp;&nbsp;
+
+00:09:32.560 --> 00:09:36.760
+article offering an analysis of the number of each&nbsp;
+symbol a deck should run in order to consistently&nbsp;&nbsp;
+
+00:09:36.760 --> 00:09:45.240
+be able to play a card when they have enough total&nbsp;
+mana, with “consistently” being 89+M% of the time,&nbsp;&nbsp;
+
+00:09:45.240 --> 00:09:50.000
+where M is the mana value of a card. One&nbsp;
+application of this formula and resulting&nbsp;&nbsp;
+
+00:09:50.000 --> 00:09:55.200
+table would be to apply it to every single card in&nbsp;
+your deck, and then build a mana base that gets as&nbsp;&nbsp;
+
+00:09:55.200 --> 00:10:00.640
+close as possible to satisfying this for every&nbsp;
+single card. This works in faster formats where&nbsp;&nbsp;
+
+00:10:00.640 --> 00:10:06.800
+most or all cards want to be played on curve, but&nbsp;
+it works a bit less well in EDH. I do think it’s&nbsp;&nbsp;
+
+00:10:06.800 --> 00:10:13.240
+appropriate to apply this strict 89+M% standard&nbsp;
+for pivotal cards you want to land on curve, such&nbsp;&nbsp;
+
+00:10:13.240 --> 00:10:19.080
+as a commander or a ramp spell. However, for stuff&nbsp;
+you need a little later such as high drops, combo&nbsp;&nbsp;
+
+00:10:19.080 --> 00:10:23.880
+pieces, or removal, you can put them behind a&nbsp;
+substantially lower symbol count as long as you’ve&nbsp;&nbsp;
+
+00:10:23.880 --> 00:10:28.560
+got enough draw and ramp to help you get the&nbsp;
+needed symbols by the time you need those cards.
+
+00:10:28.560 --> 00:10:32.040
+This doesn’t necessarily mean you should totally&nbsp;
+let your guard down on that sort of stuff,&nbsp;&nbsp;
+
+00:10:32.040 --> 00:10:36.400
+though ; certainly, if you’re running a lot of&nbsp;
+colors or you’re running symbol heavy cards,&nbsp;&nbsp;
+
+00:10:36.400 --> 00:10:39.240
+it’s worth taking a careful look at your&nbsp;
+mana base to make sure things will work&nbsp;&nbsp;
+
+00:10:39.240 --> 00:10:42.480
+out. I recommend checking out the&nbsp;
+chart in Frank Karsten’s article,&nbsp;&nbsp;
+
+00:10:42.480 --> 00:10:46.520
+which I linked in the description, but&nbsp;
+as a bit of shorthand, 30 symbols in your&nbsp;&nbsp;
+
+00:10:46.520 --> 00:10:50.240
+mana base will give you great access to&nbsp;
+all but the most symbol-intensive cards,&nbsp;&nbsp;
+
+00:10:50.240 --> 00:10:54.640
+25 symbols will give you great access to single&nbsp;
+symbol cards and decent access to double symbol&nbsp;&nbsp;
+
+00:10:54.640 --> 00:10:59.760
+cards, 20 will give you decent access to single&nbsp;
+symbol cards and mediocre access to more symbols,&nbsp;&nbsp;
+
+00:10:59.760 --> 00:11:04.960
+and 15 symbols will give you okay access to single&nbsp;
+symbol cards but will be unreliable beyond that.
+
+00:11:04.960 --> 00:11:11.560
+For an example of one of my manabases, my Meria&nbsp;
+deck runs 37 lands, with 23 red symbols and 22&nbsp;&nbsp;
+
+00:11:11.560 --> 00:11:16.680
+green symbols. The deck is pretty low curved and&nbsp;
+has a three mana commander that ramps, so the&nbsp;&nbsp;
+
+00:11:16.680 --> 00:11:21.400
+lands and symbols are mostly to make sure that I&nbsp;
+can drop the commander on curve consistently. When&nbsp;&nbsp;
+
+00:11:21.400 --> 00:11:25.800
+I run this deck through Frank Karsten’s land count&nbsp;
+formula, it’s right on the money, which makes&nbsp;&nbsp;
+
+00:11:25.800 --> 00:11:30.240
+sense to me since the commander ramps, which would&nbsp;
+make me okay with fewer lands, but also draws,&nbsp;&nbsp;
+
+00:11:30.240 --> 00:11:35.920
+which would make me fine with more. For my Glissa&nbsp;
+deck, I’m running 41 total lands, with 31 green&nbsp;&nbsp;
+
+00:11:35.920 --> 00:11:42.120
+sources and 22 black sources. This count might&nbsp;
+sound high, but it’s totally justifiable: it’s a&nbsp;&nbsp;
+
+00:11:42.120 --> 00:11:47.400
+high-curved deck, it has card draw in the command&nbsp;
+zone, and its ideal mana curve is elf on one,&nbsp;&nbsp;
+
+00:11:47.400 --> 00:11:52.880
+commander on 2. Having mana issues my first three&nbsp;
+turns will dramatically slow down the deck, as&nbsp;&nbsp;
+
+00:11:52.880 --> 00:11:58.640
+it won’t be able to get its draw and ramp online,&nbsp;
+so I’m comfortable with a pretty high land count.&nbsp;&nbsp;
+
+00:11:58.640 --> 00:12:04.600
+In fact, Karsten’s formula generates an even&nbsp;
+higher count of 43-and-some-change, which might&nbsp;&nbsp;
+
+00:12:04.600 --> 00:12:09.560
+be partially because the deck’s average mana value&nbsp;
+of 4.71 would likely be an outlier in Karsten’s&nbsp;&nbsp;
+
+00:12:09.560 --> 00:12:14.960
+data set, but there are legitimate arguments for&nbsp;
+adding lands to the deck. Regardless, a general&nbsp;&nbsp;
+
+00:12:14.960 --> 00:12:19.400
+pattern across my decks is that even when they're&nbsp;
+relatively low-curved, I still generally run a&nbsp;&nbsp;
+
+00:12:19.400 --> 00:12:25.040
+high-30s quantity of lands in them as long as they&nbsp;
+can draw a lot of cards. Mana screw is optional,&nbsp;&nbsp;
+
+00:12:25.040 --> 00:12:30.400
+if you run a deck with big draw, running&nbsp;
+more lands is your way of unticking that box.
+
+00:12:30.400 --> 00:12:34.280
+I’ve covered a lot of stuff in this video and have&nbsp;
+meandered a little bit, so let me clarify what I’m&nbsp;&nbsp;
+
+00:12:34.280 --> 00:12:39.200
+actually trying to say here. For one, you should&nbsp;
+be intentional with the number of lands you run,&nbsp;&nbsp;
+
+00:12:39.200 --> 00:12:42.640
+and keep in mind that the optimal number might be&nbsp;
+higher than the sorts of numbers that get thrown&nbsp;&nbsp;
+
+00:12:42.640 --> 00:12:47.400
+around on the internet. Frank Karsten’s formula&nbsp;
+for the ideal count is a good start, though since&nbsp;&nbsp;
+
+00:12:47.400 --> 00:12:51.960
+it wasn’t designed with EDH in mind it may be&nbsp;
+correct to deviate from it in some cases. You&nbsp;&nbsp;
+
+00:12:51.960 --> 00:12:55.920
+can run fewer lands if your commander provides&nbsp;
+a consistent way to draw into additional lands&nbsp;&nbsp;
+
+00:12:55.920 --> 00:12:59.760
+in the early game, but you should always check&nbsp;
+your symbol counts to make sure you have enough&nbsp;&nbsp;
+
+00:12:59.760 --> 00:13:03.120
+to play your important cards when you need to,&nbsp;
+and you should also keep in mind that if you’re&nbsp;&nbsp;
+
+00:13:03.120 --> 00:13:07.480
+running a deck that runs a lot of big, expensive&nbsp;
+draw, keeping your land count high will almost&nbsp;&nbsp;
+
+00:13:07.480 --> 00:13:13.040
+certainly make the deck stronger. A land base will&nbsp;
+naturally perform two functions—achieving total&nbsp;&nbsp;
+
+00:13:13.040 --> 00:13:18.800
+mana values of cards and achieving colored symbols&nbsp;
+for cards, and neither goal can be ignored. These&nbsp;&nbsp;
+
+00:13:18.800 --> 00:13:23.200
+goals can be modulated to some extent by running&nbsp;
+certain types of lands—running taplands that&nbsp;&nbsp;
+
+00:13:23.200 --> 00:13:27.440
+offer more colors can be good in a deck that&nbsp;
+is color hungry but doesn’t need as much speed,&nbsp;&nbsp;
+
+00:13:27.440 --> 00:13:31.680
+and colorless-producing utility lands can be nice&nbsp;
+for a deck that wants a higher land count but&nbsp;&nbsp;
+
+00:13:31.680 --> 00:13:33.267
+already feels comfortable color-wise. You can also&nbsp;
+replace nonland cards with utility lands or MDFCs&nbsp;&nbsp;
+
+00:13:33.267 --> 00:13:34.280
+if you’re looking to up your land count without&nbsp;
+adding cards that do nothing but add mana. I&nbsp;&nbsp;
+
+00:13:34.280 --> 00:13:38.520
+didn’t talk much about taplands and utility lands&nbsp;
+in general because this script was looking a&nbsp;&nbsp;
+
+00:13:38.520 --> 00:13:43.200
+little thick already, but I’ll get back to those&nbsp;
+at some point. Regardless, just pay attention to&nbsp;&nbsp;
+
+00:13:43.200 --> 00:13:47.280
+your mana base. If you still can’t fully think&nbsp;
+of it as a part of your deck, you should at least&nbsp;&nbsp;
+
+00:13:47.280 --> 00:13:51.440
+think of it as your little helper—if you show&nbsp;
+your mana base the love and appreciation you show&nbsp;&nbsp;
+
+00:13:51.440 --> 00:13:57.440
+your nonland cards, it’ll pay you back by helping&nbsp;
+you actually do the things your deck wants to do.
+
+00:13:57.440 --> 00:14:00.320
+Fun update, I have a discord&nbsp;
+now, link in the pinned comment,&nbsp;&nbsp;
+
+00:14:00.320 --> 00:14:04.560
+so go join that if you feel like. Though&nbsp;
+first you should click the buttons—subscribe,&nbsp;&nbsp;
+
+00:14:04.560 --> 00:14:08.160
+like, dislike, and the other ones too.&nbsp;
+Preferably you should click all of them,&nbsp;&nbsp;
+
+00:14:08.160 --> 00:14:14.160
+in rapid succession. I hear if you click them just&nbsp;
+right they give you some sort of prize. Good luck.
+

@@ -1,0 +1,748 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.320 --> 00:00:03.840
+Magic: the Gathering is a card game&nbsp;
+where cards are drawn from a deck,&nbsp;&nbsp;
+
+00:00:03.840 --> 00:00:09.120
+and this naturally introduces a certain amount of&nbsp;
+randomness—sometimes draws are good, other times&nbsp;&nbsp;
+
+00:00:09.120 --> 00:00:14.080
+they’re less good. I imagine this isn’t news to&nbsp;
+you if you play this game a lot, either that or&nbsp;&nbsp;
+
+00:00:14.080 --> 00:00:20.080
+you’ve had a luck streak worthy of legend. In the&nbsp;
+worst case, you’ve got the dead card—a card that&nbsp;&nbsp;
+
+00:00:20.080 --> 00:00:25.680
+you draw and it doesn’t do anything meaningful&nbsp;
+whatsoever. To some extent this sort of draw&nbsp;&nbsp;
+
+00:00:25.680 --> 00:00:31.200
+is just a fact of life, and it’s not something&nbsp;
+you’re going to be able to fully avoid. Drawing&nbsp;&nbsp;
+
+00:00:31.200 --> 00:00:36.480
+a land when you don’t want one or not drawing&nbsp;
+a land when you do will always be a struggle,&nbsp;&nbsp;
+
+00:00:36.480 --> 00:00:41.600
+and though MDFCs, utility lands, and other tools&nbsp;
+can mitigate some of this unfortunate variance,&nbsp;&nbsp;
+
+00:00:41.600 --> 00:00:49.040
+it will always be somewhat present. But what about&nbsp;
+among nonland cards? Well, the number of nonland&nbsp;&nbsp;
+
+00:00:49.040 --> 00:00:53.520
+draws that end up being more or less dead can&nbsp;
+vary immensely deck to deck, and this number will&nbsp;&nbsp;
+
+00:00:53.520 --> 00:00:58.560
+often result from the specific choices that went&nbsp;
+into the deckbuilding process. So, in this video,&nbsp;&nbsp;
+
+00:00:58.560 --> 00:01:02.800
+I’m going to go through the sorts of cards&nbsp;
+that often end up being dead draws in a deck,&nbsp;&nbsp;
+
+00:01:02.800 --> 00:01:07.360
+and how to make your deck play more smoothly&nbsp;
+without harming the things you enjoy about it.
+
+00:01:07.360 --> 00:01:13.280
+To start with, let’s talk about an example of a&nbsp;
+deck with more or less no dead nonland cards—a&nbsp;&nbsp;
+
+00:01:13.280 --> 00:01:18.480
+deck with 35 Swamps, and 64 Rat Colonies. All&nbsp;
+of this deck’s nonland cards synergize with&nbsp;&nbsp;
+
+00:01:18.480 --> 00:01:24.160
+each other, and you’ll generally never draw a&nbsp;
+card and have it be entirely useless. However,&nbsp;&nbsp;
+
+00:01:24.160 --> 00:01:30.000
+this obviously comes at a cost. An exclusively&nbsp;
+Rat Colony and Swamp deck has an exceptionally&nbsp;&nbsp;
+
+00:01:30.000 --> 00:01:34.240
+specific gameplan with little to no&nbsp;
+flexibility—either a board with a&nbsp;&nbsp;
+
+00:01:34.240 --> 00:01:39.360
+moderate number of high power, low toughness&nbsp;
+creatures wins you the game, or it doesn’t.&nbsp;&nbsp;
+
+00:01:39.360 --> 00:01:44.160
+I choose this example not as a point of&nbsp;
+aspiration, but rather as an indication&nbsp;&nbsp;
+
+00:01:44.160 --> 00:01:50.240
+of what reduces dead draws—these Rat Colonies&nbsp;
+have no variation in the tasks they perform,&nbsp;&nbsp;
+
+00:01:50.240 --> 00:01:55.920
+all creatures that can beat down opponents, and&nbsp;
+they also all synergize with each other. So,&nbsp;&nbsp;
+
+00:01:55.920 --> 00:02:00.960
+the start of dead draw mitigation starts by paying&nbsp;
+attention to these two things—what does a card&nbsp;&nbsp;
+
+00:02:00.960 --> 00:02:06.160
+accomplish, and what else does it synergize&nbsp;
+with. Let’s start by discussing the latter.
+
+00:02:06.160 --> 00:02:11.440
+EDH as a format strongly encourages synergy,&nbsp;
+and by synergy I simply mean cards doing more&nbsp;&nbsp;
+
+00:02:11.440 --> 00:02:17.360
+together than they’d do on their own. This is the&nbsp;
+case because the format is 40 life instead of 20,&nbsp;&nbsp;
+
+00:02:17.360 --> 00:02:23.520
+and has three opponents instead of one, conditions&nbsp;
+that necessitate that gameplay be volumetrically&nbsp;&nbsp;
+
+00:02:23.520 --> 00:02:29.520
+larger. You simply gotta have more stuff going&nbsp;
+on. Obviously the most simple version of this&nbsp;&nbsp;
+
+00:02:29.520 --> 00:02:34.560
+is the Rat Colony example—your deck is made up&nbsp;
+of a creature that will have more power the more&nbsp;&nbsp;
+
+00:02:34.560 --> 00:02:40.880
+copies of it are in play, but this isn’t enough&nbsp;
+volume for a lot of EDH games. So let’s take the&nbsp;&nbsp;
+
+00:02:40.880 --> 00:02:48.240
+example of a somewhat larger lad—Kylar, Sigardian&nbsp;
+Emissary. Kyler is a 5 mana 2/2 that gets a +1/+1&nbsp;&nbsp;
+
+00:02:48.240 --> 00:02:53.280
+counter whenever another human enters and&nbsp;
+gives your other humans +1/+1 for each of&nbsp;&nbsp;
+
+00:02:53.280 --> 00:02:58.000
+those counters. So, this is a commander who can&nbsp;
+dramatically power up a board of humans if left&nbsp;&nbsp;
+
+00:02:58.000 --> 00:03:02.880
+unchecked, but whose high mana cost and small&nbsp;
+starting statline make him a bit of a removal&nbsp;&nbsp;
+
+00:03:02.880 --> 00:03:08.000
+magnet. Naturally, the primary synergy package&nbsp;
+here is humans, but different cards here will have&nbsp;&nbsp;
+
+00:03:08.000 --> 00:03:13.120
+different profiles of the situations in which&nbsp;
+they’re good. Coppercoat Vanguard is good as&nbsp;&nbsp;
+
+00:03:13.120 --> 00:03:17.600
+long as you have other humans—pretty decent&nbsp;
+assumption for a human deck—and also gives&nbsp;&nbsp;
+
+00:03:17.600 --> 00:03:22.240
+the commander a bit of extra protection. This&nbsp;
+card should rarely feel useless, and could even&nbsp;&nbsp;
+
+00:03:22.240 --> 00:03:27.600
+be a pretty solid anthem if there are tokens&nbsp;
+out. That brings me to another card—Increasing&nbsp;&nbsp;
+
+00:03:27.600 --> 00:03:35.280
+Devotion is a large-scale token creator, and&nbsp;
+this one is slightly more complicated. It’s&nbsp;&nbsp;
+
+00:03:35.280 --> 00:03:40.240
+fantastic if you currently have Kyler on the&nbsp;
+board plus some other humans to swing with,&nbsp;&nbsp;
+
+00:03:40.240 --> 00:03:44.640
+decent if you have some other human ETB effects&nbsp;
+on board like Lossarnach Captain or Champion of&nbsp;&nbsp;
+
+00:03:44.640 --> 00:03:49.600
+the Parish in play, also decent if you have an&nbsp;
+anthem at the ready to pump them up in size,&nbsp;&nbsp;
+
+00:03:49.600 --> 00:03:54.400
+and pretty mediocre if you have none of these&nbsp;
+support cards. The flashback prevents it from ever&nbsp;&nbsp;
+
+00:03:54.400 --> 00:03:59.920
+feeling truly horrible, but it might be a passable&nbsp;
+play at best if you have neither the commander&nbsp;&nbsp;
+
+00:03:59.920 --> 00:04:06.400
+available nor any of 15 cards in the deck that&nbsp;
+can amplify this card up to being a decent play.
+
+00:04:06.400 --> 00:04:10.880
+Most of the popular synergy cards for a Kyler&nbsp;
+deck will do things with humans, and with some&nbsp;&nbsp;
+
+00:04:10.880 --> 00:04:16.240
+exceptions, most of these will be pretty okay.&nbsp;
+However, synergy can go a bit deeper—you can&nbsp;&nbsp;
+
+00:04:16.240 --> 00:04:22.640
+venture into the magical world of subthemes.&nbsp;
+Take +1/+1 counters—the commander uses them,&nbsp;&nbsp;
+
+00:04:22.640 --> 00:04:28.320
+and the average Kyler deck has around 12&nbsp;
+cards in the 99 that feature +1/+1 counters,&nbsp;&nbsp;
+
+00:04:28.320 --> 00:04:34.240
+so some players choose to add Metastatic Evangel,&nbsp;
+a card that proliferates whenever another nontoken&nbsp;&nbsp;
+
+00:04:34.240 --> 00:04:39.040
+creature enters under your control. Paired with&nbsp;
+the commander, this card can turn powerful plays&nbsp;&nbsp;
+
+00:04:39.040 --> 00:04:44.640
+into utterly earth-shattering plays, but it&nbsp;
+also doesn’t do much to smooth over Kyler’s&nbsp;&nbsp;
+
+00:04:44.640 --> 00:04:50.160
+weaknesses. If he gets removed, the counters&nbsp;
+go with him. Put into the average Kyler deck&nbsp;&nbsp;
+
+00:04:50.160 --> 00:04:55.680
+this card benefits 12 other cards, which isn’t&nbsp;
+nothing but also isn’t great—paired with its&nbsp;&nbsp;
+
+00:04:55.680 --> 00:05:00.960
+somewhat ephemeral support of the commander, I’d&nbsp;
+skip this card personally. Now, does this mean our&nbsp;&nbsp;
+
+00:05:00.960 --> 00:05:06.480
+Phyrexian Cleric friend belongs in no decks? Not&nbsp;
+necessarily—some players might be running larger&nbsp;&nbsp;
+
+00:05:06.480 --> 00:05:11.120
+numbers of +1/+1 counter cards than the average&nbsp;
+player does, and others might be building the&nbsp;&nbsp;
+
+00:05:11.120 --> 00:05:16.160
+deck in a way that’s likely to keep Kyler around&nbsp;
+more of the time. This card might even be a star&nbsp;&nbsp;
+
+00:05:16.160 --> 00:05:21.760
+player in some decks—it’s certainly not a bad&nbsp;
+card. But, these are the sorts of considerations&nbsp;&nbsp;
+
+00:05:21.760 --> 00:05:25.920
+you should be making when you’re deciding&nbsp;
+whether or not to add a synergy piece. How&nbsp;&nbsp;
+
+00:05:25.920 --> 00:05:31.520
+often will it be in a situation to support other&nbsp;
+cards, and how substantial will that support be?
+
+00:05:31.520 --> 00:05:35.840
+When I’m building decks, I’ll typically keep track&nbsp;
+of support for different themes and subthemes them&nbsp;&nbsp;
+
+00:05:35.840 --> 00:05:40.800
+via Archidekt’s category system. I’ll have&nbsp;
+the baseline categories I put cards into,&nbsp;&nbsp;
+
+00:05:40.800 --> 00:05:46.000
+but also secondary categories for things like&nbsp;
+flicker, ETB, graveyard enabler, graveyard payoff,&nbsp;&nbsp;
+
+00:05:46.000 --> 00:05:50.480
+and so on. When I’m adding cards and trying to&nbsp;
+flesh out a list I’ll be mostly viewing the deck&nbsp;&nbsp;
+
+00:05:50.480 --> 00:05:55.360
+on the primary categories tab to keep things&nbsp;
+visually neat, but as I start to prune and&nbsp;&nbsp;
+
+00:05:55.360 --> 00:06:00.400
+sculpt the list I’ll start bouncing back and forth&nbsp;
+between that and the multi-category tab, and see&nbsp;&nbsp;
+
+00:06:00.400 --> 00:06:05.520
+if the various parts of my deck have the right&nbsp;
+amount of support. This multi-category approach&nbsp;&nbsp;
+
+00:06:05.520 --> 00:06:11.120
+is also nice for evaluating individual cards&nbsp;
+because I can immediately see and be reminded&nbsp;&nbsp;
+
+00:06:11.120 --> 00:06:16.560
+of all the reasons I included a particular card,&nbsp;
+which also indirectly tells me the situations in&nbsp;&nbsp;
+
+00:06:16.560 --> 00:06:21.040
+which the card will or won’t be useful. As an&nbsp;
+example, let’s take a card in a subtheme-heavy&nbsp;&nbsp;
+
+00:06:21.040 --> 00:06:26.640
+Phyrexian deck I recently built—Vat of Rebirth.&nbsp;
+The categories here tell me that it’s a source&nbsp;&nbsp;
+
+00:06:26.640 --> 00:06:31.760
+of value that’s payoff for having things in the&nbsp;
+graveyard—so as a baseline I can check how much&nbsp;&nbsp;
+
+00:06:31.760 --> 00:06:36.160
+stuff I have that helps get things into the&nbsp;
+graveyard, with a focus on creatures since&nbsp;&nbsp;
+
+00:06:36.160 --> 00:06:40.560
+that’s what this can reanimate. However, the&nbsp;
+other categories also tell me things about this&nbsp;&nbsp;
+
+00:06:40.560 --> 00:06:45.360
+card—this card will be stronger alongside&nbsp;
+counter-amplifiers like proliferate cards,&nbsp;&nbsp;
+
+00:06:45.360 --> 00:06:50.480
+and it’ll also be stronger when I have untap&nbsp;
+effects on the field. It’s also an artifact,&nbsp;&nbsp;
+
+00:06:50.480 --> 00:06:55.280
+and a low-cost one at that, so it’ll synergize&nbsp;
+with several other cards for that reason alone,&nbsp;&nbsp;
+
+00:06:55.280 --> 00:07:00.480
+and those cards are helpfully already organized&nbsp;
+into a category for me to check on. I can think&nbsp;&nbsp;
+
+00:07:00.480 --> 00:07:04.640
+about all the other combinations of cards this&nbsp;
+card may or may not be on the field with, and&nbsp;&nbsp;
+
+00:07:04.640 --> 00:07:11.600
+based on that I can approximate roughly how often&nbsp;
+this card will be dead. The answer for this card&nbsp;&nbsp;
+
+00:07:11.600 --> 00:07:17.040
+is that it’ll be dead some modest percentage of&nbsp;
+the time in the early game, maybe 25% of the time,&nbsp;&nbsp;
+
+00:07:17.040 --> 00:07:21.520
+but there are also situations in which it’ll be&nbsp;
+very powerful due to other supporting pieces being&nbsp;&nbsp;
+
+00:07:21.520 --> 00:07:27.120
+around, so I’ve currently deemed it worth staying&nbsp;
+in. I also love the art and flavor of the card,&nbsp;&nbsp;
+
+00:07:27.120 --> 00:07:32.080
+which does end up being a non-negligible&nbsp;
+factor for a lower-power deck like this.
+
+00:07:32.080 --> 00:07:36.720
+So that’s synergies, but that’s only one part&nbsp;
+of what makes a card dead or not dead. Another&nbsp;&nbsp;
+
+00:07:36.720 --> 00:07:41.520
+big factor to keep in mind is what stage&nbsp;
+of a game a card is useful in, and before&nbsp;&nbsp;
+
+00:07:41.520 --> 00:07:47.360
+I get into that I briefly want to introduce a&nbsp;
+concept—Quadrant Theory. This sounds complicated,&nbsp;&nbsp;
+
+00:07:47.360 --> 00:07:51.120
+but it’s basically just a way of analyzing&nbsp;
+different situations in which a card could&nbsp;&nbsp;
+
+00:07:51.120 --> 00:07:57.280
+be played. A basic example goes something like&nbsp;
+this—we have this four-quadrant box, and in this&nbsp;&nbsp;
+
+00:07:57.280 --> 00:08:02.240
+case we’ll choose to label the top side based on&nbsp;
+the size of an opponent’s board and the left side&nbsp;&nbsp;
+
+00:08:02.240 --> 00:08:08.160
+based on the size of my board. Now, let’s consider&nbsp;
+the card Teleportal—how is this in different&nbsp;&nbsp;
+
+00:08:08.160 --> 00:08:13.760
+situations? Well, if we both have small boards,&nbsp;
+this card sucks! Not many creatures to affect,&nbsp;&nbsp;
+
+00:08:13.760 --> 00:08:18.720
+and not many creatures to get past. If I have a&nbsp;
+small board and my opponent has a large board,&nbsp;&nbsp;
+
+00:08:18.720 --> 00:08:23.040
+well this is still pretty bad but maybe there&nbsp;
+are some niche scenarios where it lets me get&nbsp;&nbsp;
+
+00:08:23.040 --> 00:08:27.200
+in for the last couple points of damage after my&nbsp;
+opponent has stabilized against my aggression,&nbsp;&nbsp;
+
+00:08:27.200 --> 00:08:31.200
+and it can be cast single-target for&nbsp;
+two mana in a pinch. If I have a large&nbsp;&nbsp;
+
+00:08:31.200 --> 00:08:35.200
+board and my opponent has a small board,&nbsp;
+well the unblockable isn’t doing much,&nbsp;&nbsp;
+
+00:08:35.200 --> 00:08:38.800
+but at least I’m getting a power buff&nbsp;
+on all my creatures. Where this card is&nbsp;&nbsp;
+
+00:08:38.800 --> 00:08:42.880
+a straight up banger is when we both have&nbsp;
+large boards—this is the sort of situation&nbsp;&nbsp;
+
+00:08:42.880 --> 00:08:47.760
+where I’m probably praying for this card as&nbsp;
+a topdeck, since it’s getting maximum effect.
+
+00:08:47.760 --> 00:08:52.400
+This concept was originally designed with limited&nbsp;
+formats in mind, where cards are typically simpler&nbsp;&nbsp;
+
+00:08:52.400 --> 00:08:57.680
+and players tend to be on the lookout for narrow&nbsp;
+slivers of advantage. Fundamentally, though,&nbsp;&nbsp;
+
+00:08:57.680 --> 00:09:02.080
+Quadrant Theory has a straightforward&nbsp;
+and universally applicable purpose:&nbsp;&nbsp;
+
+00:09:02.080 --> 00:09:06.880
+it exists to make sure that you’re thinking&nbsp;
+about all the situations a card might exist in,&nbsp;&nbsp;
+
+00:09:06.880 --> 00:09:11.680
+not just the ideal ones. A variant of this might&nbsp;
+be to analyze a card based on the stage of the&nbsp;&nbsp;
+
+00:09:11.680 --> 00:09:17.280
+game we’re in. Take a card in a mid-power deck—how&nbsp;
+is that card in the early game? How does it fare&nbsp;&nbsp;
+
+00:09:17.280 --> 00:09:22.080
+in the mid-game? Now, decks will typically gain&nbsp;
+more card advantage over the course of the game,&nbsp;&nbsp;
+
+00:09:22.080 --> 00:09:26.640
+so it’s fine to weight your analyses a bit more&nbsp;
+heavily toward the later parts of the game as&nbsp;&nbsp;
+
+00:09:26.640 --> 00:09:30.720
+long as you have the support to get there, but&nbsp;
+you should still consider different versions&nbsp;&nbsp;
+
+00:09:30.720 --> 00:09:34.560
+of that late game. There will be the version&nbsp;
+of the later game where you’re hitting your&nbsp;&nbsp;
+
+00:09:34.560 --> 00:09:38.880
+stride without setbacks, but what happens&nbsp;
+if a board wipe was played? Or how about&nbsp;&nbsp;
+
+00:09:38.880 --> 00:09:43.520
+if you have your board but your life total has&nbsp;
+been taxed heavily by a more aggressive deck?&nbsp;&nbsp;
+
+00:09:43.520 --> 00:09:48.000
+How about if a midrange opponent is pulling&nbsp;
+far ahead and you need to either kill some key&nbsp;&nbsp;
+
+00:09:48.000 --> 00:09:52.480
+permanents or heavily diminish their life total?&nbsp;
+Different games will demand different things,&nbsp;&nbsp;
+
+00:09:52.480 --> 00:09:56.640
+and you should figure out how your different&nbsp;
+cards play in those different games.
+
+00:09:56.640 --> 00:09:58.960
+For a simple example, let’s&nbsp;
+talk about my Radha deck,&nbsp;&nbsp;
+
+00:09:58.960 --> 00:10:04.000
+a deck designed to be as resilient and&nbsp;
+consistent with its gameplay as possible.&nbsp;&nbsp;
+
+00:10:04.000 --> 00:10:08.960
+It typically curves mana dork commander&nbsp;
+into 4 mana ramp spell into 6 and 7 drops,&nbsp;&nbsp;
+
+00:10:08.960 --> 00:10:14.800
+with the goal of continuing to ramp and eventually&nbsp;
+getting to 20 or more lands. With that in mind,&nbsp;&nbsp;
+
+00:10:14.800 --> 00:10:20.320
+let’s talk about a couple cards that are present&nbsp;
+here. Drakuseth, Maw of Flames is a 7 mana 7/7&nbsp;&nbsp;
+
+00:10:20.320 --> 00:10:25.520
+flier that deals 4 damage to one target and three&nbsp;
+damage to two targets when it attacks. Oddly,&nbsp;&nbsp;
+
+00:10:25.520 --> 00:10:31.120
+this is a card that I’m actually most excited to&nbsp;
+see early, as landing it on turn 4 can be a pretty&nbsp;&nbsp;
+
+00:10:31.120 --> 00:10:36.400
+back-breaking opener if it doesn’t get removed due&nbsp;
+to its sheer power as a removal engine. However,&nbsp;&nbsp;
+
+00:10:36.400 --> 00:10:41.520
+it’s still plenty solid as a topdeck later in&nbsp;
+the game, what with its good flying statline and&nbsp;&nbsp;
+
+00:10:41.520 --> 00:10:45.920
+attack ability that remains respectable even if&nbsp;
+the creature size game has been heating up a bit.&nbsp;&nbsp;
+
+00:10:45.920 --> 00:10:51.680
+This sort of card is a good symbol of what this&nbsp;
+deck is best at—it’s just always decent. For an&nbsp;&nbsp;
+
+00:10:51.680 --> 00:10:57.600
+example with a decidedly different power profile,&nbsp;
+let’s consider a different card—Captivating Crew.&nbsp;&nbsp;
+
+00:10:57.600 --> 00:11:02.800
+Now, this card is pretty bad in the early game—4&nbsp;
+mana to threaten an opposing creature is just&nbsp;&nbsp;
+
+00:11:02.800 --> 00:11:07.440
+never what I want to do with my mana in the first&nbsp;
+six turns of the game, and I’m rarely all that&nbsp;&nbsp;
+
+00:11:07.440 --> 00:11:12.240
+happy when my turn 4 or 5 cascade card pops out&nbsp;
+this treason-triggering-troupe rather than a ramp&nbsp;&nbsp;
+
+00:11:12.240 --> 00:11:18.080
+spell. However, what keeps me from cutting the&nbsp;
+card is its sheer versatility in the late game—as&nbsp;&nbsp;
+
+00:11:18.080 --> 00:11:22.320
+long as I have enough lands, it almost&nbsp;
+always feels good. If I’m ahead on board,&nbsp;&nbsp;
+
+00:11:22.320 --> 00:11:25.920
+I can pull the last two or three blockers out&nbsp;
+from under an opponent and smack them down&nbsp;&nbsp;
+
+00:11:25.920 --> 00:11:30.480
+before they have the chance to stall things out.&nbsp;
+If I’m behind on board, it often means I had a&nbsp;&nbsp;
+
+00:11:30.480 --> 00:11:35.360
+more-aggressive-but-worse-scaling rollout in the&nbsp;
+early game, in which case I can often leverage&nbsp;&nbsp;
+
+00:11:35.360 --> 00:11:39.840
+opposing life totals to get some favorable chump&nbsp;
+blocks, or at least utilize some abilities on&nbsp;&nbsp;
+
+00:11:39.840 --> 00:11:44.640
+opposing creatures. If the board is in a state&nbsp;
+of parity, it’s the best of both worlds—I&nbsp;&nbsp;
+
+00:11:44.640 --> 00:11:49.840
+can nab my opponent’s best threats and turn&nbsp;
+a 5-attacker 5-blocker standstill into an 8-2&nbsp;&nbsp;
+
+00:11:49.840 --> 00:11:55.680
+or 9-1 smackdown. I was a bit hesitant to add&nbsp;
+this card to the deck initially, but the sheer&nbsp;&nbsp;
+
+00:11:55.680 --> 00:11:59.760
+consistency with which it feels great in the late&nbsp;
+game has made it one of my favorite topdecks.
+
+00:11:59.760 --> 00:12:04.080
+So, so far the lesson of this video has been&nbsp;
+more or less “be very careful with cards whose&nbsp;&nbsp;
+
+00:12:04.080 --> 00:12:09.280
+use-cases are highly specific.” But I can&nbsp;
+already hear some of you saying “but Alex,&nbsp;&nbsp;
+
+00:12:09.280 --> 00:12:12.880
+I want to play those cards. You’re describing&nbsp;
+a lot of my favorite cards, are you telling me&nbsp;&nbsp;
+
+00:12:12.880 --> 00:12:18.240
+I need to cut those?” And the secret third part&nbsp;
+of this video is that you can play those cards,&nbsp;&nbsp;
+
+00:12:18.240 --> 00:12:25.840
+and you can do it fully responsibly, *but* doing&nbsp;
+so requires one specific thing—card selection.&nbsp;&nbsp;
+
+00:12:25.840 --> 00:12:30.960
+This may be achieved by playing lots of filtering,&nbsp;
+or by playing a generally high-velocity deck,&nbsp;&nbsp;
+
+00:12:30.960 --> 00:12:36.640
+but the basic principle is simple—dead cards&nbsp;
+won’t matter as much if you simply see more&nbsp;&nbsp;
+
+00:12:36.640 --> 00:12:42.080
+cards. A basic example of this might be an ongoing&nbsp;
+source of filtering like Merfolk Looter—it’s&nbsp;&nbsp;
+
+00:12:42.080 --> 00:12:47.120
+not card advantage, but it doubles the number&nbsp;
+of new cards you see each turn, and lets you&nbsp;&nbsp;
+
+00:12:47.120 --> 00:12:51.120
+rid yourself of any that aren’t immediately&nbsp;
+useful. Same deal if you play lots of scry,&nbsp;&nbsp;
+
+00:12:51.120 --> 00:12:56.320
+or lots of selective draw. Don’t like the card&nbsp;
+on top? Ditch it. Don’t want a card in the top&nbsp;&nbsp;
+
+00:12:56.320 --> 00:13:01.440
+4? Great, pick a different one. This even&nbsp;
+goes for actual factual card advantage—if&nbsp;&nbsp;
+
+00:13:01.440 --> 00:13:05.200
+your deck is consistently able to set up&nbsp;
+multiple extra cards per turn in advantage,&nbsp;&nbsp;
+
+00:13:05.200 --> 00:13:09.360
+that’s often going to outpace your ability to&nbsp;
+cast what you draw, and as long as you have&nbsp;&nbsp;
+
+00:13:09.360 --> 00:13:13.360
+more useful stuff to play instead there’s&nbsp;
+really no harm in drawing that situational&nbsp;&nbsp;
+
+00:13:13.360 --> 00:13:18.720
+card. This was a major fact of life back when&nbsp;
+I played a mono black deck in my youth—I’d find&nbsp;&nbsp;
+
+00:13:18.720 --> 00:13:22.560
+one of my massive sources of draw, and then&nbsp;
+suddenly I could effortlessly cut through&nbsp;&nbsp;
+
+00:13:22.560 --> 00:13:27.360
+the quagmire of redundant pieces and specific&nbsp;
+answers that made up the top of my library.
+
+00:13:27.360 --> 00:13:31.520
+At the end of the day, all I’m trying to do&nbsp;
+is make you aware of the forces at play here.&nbsp;&nbsp;
+
+00:13:31.520 --> 00:13:36.480
+If your deck feels sluggish or awkward or swingy,&nbsp;
+there’s a good chance dead cards are playing a&nbsp;&nbsp;
+
+00:13:36.480 --> 00:13:41.200
+major contributing role in that feeling. If you&nbsp;
+frequently find yourself unable to meaningfully&nbsp;&nbsp;
+
+00:13:41.200 --> 00:13:45.280
+contribute to a game for stretches of time,&nbsp;
+it might be time to audit the contents of your&nbsp;&nbsp;
+
+00:13:45.280 --> 00:13:51.120
+deck. There are so many cards that look great and&nbsp;
+ingrain themselves in our brains as simply a part&nbsp;&nbsp;
+
+00:13:51.120 --> 00:13:57.280
+of our deck, basically getting to skip any sort&nbsp;
+of auditioning process for simple vibes reasons.&nbsp;&nbsp;
+
+00:13:57.280 --> 00:14:02.080
+I ran Don’t Blink in my Sharuum Slide deck&nbsp;
+for several months because the elevator pitch&nbsp;&nbsp;
+
+00:14:02.080 --> 00:14:07.040
+for it sounds great—it’s a card with cycling&nbsp;
+that can also be a big source of removal if&nbsp;&nbsp;
+
+00:14:07.040 --> 00:14:12.560
+I have Astral Slide out, turning those exiles&nbsp;
+into somewhat more lasting removal. However,&nbsp;&nbsp;
+
+00:14:12.560 --> 00:14:16.800
+when I actually examined what this card is&nbsp;
+accomplishing, it doesn’t fit the desired&nbsp;&nbsp;
+
+00:14:16.800 --> 00:14:21.440
+profile of a removal spell with cycling at&nbsp;
+all. I can cycle it, which is cool when I&nbsp;&nbsp;
+
+00:14:21.440 --> 00:14:25.600
+have some sort of cycling engine already up&nbsp;
+and going, and I can also cast it normally,&nbsp;&nbsp;
+
+00:14:25.600 --> 00:14:30.960
+which is cool when I have an even bigger sort&nbsp;
+of cycling engine already up and going. Missing&nbsp;&nbsp;
+
+00:14:30.960 --> 00:14:35.200
+entirely is the part of this card that has any&nbsp;
+impact on the game when Astral Slide isn’t in&nbsp;&nbsp;
+
+00:14:35.200 --> 00:14:40.640
+play outside of wasting two mana, and as a result&nbsp;
+it got cut for the far superior card Spectacular&nbsp;&nbsp;
+
+00:14:40.640 --> 00:14:45.200
+Pileup when Aetherdrift came out. For a simple&nbsp;
+exercise, think about the cards in your deck,&nbsp;&nbsp;
+
+00:14:45.200 --> 00:14:49.440
+and try to notice—is there a card where you&nbsp;
+seem to be thinking something along the lines&nbsp;&nbsp;
+
+00:14:49.440 --> 00:14:54.720
+of “this card hasn’t had any great games yet,&nbsp;
+but it’s awesome in theory.” If that’s the case,&nbsp;&nbsp;
+
+00:14:54.720 --> 00:14:58.640
+you’re gonna wanna check your theories a&nbsp;
+bit and take a longer look at that card.
+
+00:14:58.640 --> 00:15:01.600
+Thanks for watching, and thanks to my&nbsp;
+Patrons for supporting the channel,&nbsp;&nbsp;
+
+00:15:01.600 --> 00:15:05.600
+some of whom are on screen now. I’m actually&nbsp;
+gearing up for a cool patron video soon,&nbsp;&nbsp;
+
+00:15:05.600 --> 00:15:10.480
+which will go something as follows—I’ll take&nbsp;
+card suggestions from patrons, and then I’ll&nbsp;&nbsp;
+
+00:15:10.480 --> 00:15:14.000
+be running a poll with a bunch of those cards&nbsp;
+to determine three of those cards that I’ll&nbsp;&nbsp;
+
+00:15:14.000 --> 00:15:17.760
+need to construct a deck around. Then,&nbsp;
+I’ll build the deck, and put a video out&nbsp;&nbsp;
+
+00:15:17.760 --> 00:15:22.000
+on my patreon that details what the deck&nbsp;
+does and the process of constructing it.&nbsp;&nbsp;
+
+00:15:22.000 --> 00:15:26.047
+If you want to be a part of the input for that,&nbsp;
+you can sign up for my Patreon for $3 a month.
+

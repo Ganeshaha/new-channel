@@ -1,0 +1,1607 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.480 --> 00:00:05.160
+Imagine for a moment that you’ve never&nbsp;
+seen a board wipe before. No Wrath of God,&nbsp;&nbsp;
+
+00:00:05.160 --> 00:00:11.320
+no Blasphemous Act, no Toxic Deluge, and certainly&nbsp;
+no Farewell. Alternatively, we can imagine you&nbsp;&nbsp;
+
+00:00:11.320 --> 00:00:16.880
+have heard of these things, like you’re vaguely&nbsp;
+familiar with them, but nobody really plays them&nbsp;&nbsp;
+
+00:00:16.880 --> 00:00:22.320
+because why would you? That’s not how commander&nbsp;
+is played. We can imagine a resulting environment&nbsp;&nbsp;
+
+00:00:22.320 --> 00:00:26.320
+of decks that commit hard to the board with&nbsp;
+no fear of punishment, decks that prioritize&nbsp;&nbsp;
+
+00:00:26.320 --> 00:00:31.280
+proactive plans and pushing damage rather than&nbsp;
+developing slower engines and sculpting a hand.&nbsp;&nbsp;
+
+00:00:31.280 --> 00:00:35.720
+Players run less ramp, and likely less draw&nbsp;
+in some cases as well, because there’s less&nbsp;&nbsp;
+
+00:00:35.720 --> 00:00:40.040
+of a need to weave that stuff into the rest&nbsp;
+of your gameplan, and there’s a heavier focus&nbsp;&nbsp;
+
+00:00:40.040 --> 00:00:45.880
+on building an unbeatable board of synergistic&nbsp;
+nonsense. So let’s say that’s the universe we live&nbsp;&nbsp;
+
+00:00:45.880 --> 00:00:51.880
+in. Now let’s say somebody casts a Wrath of God.&nbsp;
+Everybody’s collections of midrange are wiped out&nbsp;&nbsp;
+
+00:00:51.880 --> 00:00:57.960
+in one fell swoop. Backup plans are scarce, hands&nbsp;
+dwindling in size. Looks of dejection, resentment,&nbsp;&nbsp;
+
+00:00:57.960 --> 00:01:03.400
+anger even, cross the faces of everybody else at&nbsp;
+the table. The unspoken rules have been broken,&nbsp;&nbsp;
+
+00:01:03.400 --> 00:01:08.800
+the format as it was known by these hypothetical&nbsp;
+people thrown on its head with a single card.&nbsp;&nbsp;
+
+00:01:08.800 --> 00:01:14.440
+Nobody prepared for this, because why would&nbsp;
+they? This isn’t how the format is played.
+
+00:01:14.440 --> 00:01:20.400
+Where am I going with this? Well, one could argue&nbsp;
+this is very similar to the relationship the EDH&nbsp;&nbsp;
+
+00:01:20.400 --> 00:01:26.640
+community has with mass land destruction. Just as&nbsp;
+there are ways people mitigate board wipes now,&nbsp;&nbsp;
+
+00:01:26.640 --> 00:01:29.920
+there are all sorts of ways you could&nbsp;
+mitigate the impact of a mass land&nbsp;&nbsp;
+
+00:01:29.920 --> 00:01:33.760
+destruction spell like Armageddon. You&nbsp;
+could play more indestructible lands,&nbsp;&nbsp;
+
+00:01:33.760 --> 00:01:37.040
+you could diversify your ramp package&nbsp;
+with creature and artifact-based ramp,&nbsp;&nbsp;
+
+00:01:37.040 --> 00:01:41.240
+you could place a heavier emphasis on land&nbsp;
+recursion or run Second Sunrise effects,&nbsp;&nbsp;
+
+00:01:41.240 --> 00:01:46.680
+you could run more extra land play effects and&nbsp;
+be careful to keep some lands in hand, and,&nbsp;&nbsp;
+
+00:01:46.680 --> 00:01:52.800
+you could run lower-curved decks that require less&nbsp;
+mana to do effective plays. Mass land destruction&nbsp;&nbsp;
+
+00:01:52.800 --> 00:01:58.400
+is acutely painful largely because people don’t&nbsp;
+prepare for it, and people don’t prepare for it&nbsp;&nbsp;
+
+00:01:58.400 --> 00:02:03.120
+because it’s not commonly accepted as a major&nbsp;
+part of the format. It’s worth keeping in mind&nbsp;&nbsp;
+
+00:02:03.120 --> 00:02:08.680
+that frequent board wipes being accepted as a fact&nbsp;
+of life at most EDH tables isn’t some natural fact&nbsp;&nbsp;
+
+00:02:08.680 --> 00:02:13.360
+that got plucked out of the ground wholly formed,&nbsp;
+and the fact that mass land destruction is mostly&nbsp;&nbsp;
+
+00:02:13.360 --> 00:02:18.440
+absent from EDH tables isn’t a natural fact&nbsp;
+either. The reason why people are frequently&nbsp;&nbsp;
+
+00:02:18.440 --> 00:02:24.080
+prepared for one and frequently unprepared for&nbsp;
+the other comes down to social factors. Now,&nbsp;&nbsp;
+
+00:02:24.080 --> 00:02:28.720
+does that mean that Armageddon and Wrath of God&nbsp;
+are equivalent cards in some objective sense,&nbsp;&nbsp;
+
+00:02:28.720 --> 00:02:34.520
+sharing a common DNA even if they’re interpreted&nbsp;
+differently by the people who play EDH? The answer&nbsp;&nbsp;
+
+00:02:34.520 --> 00:02:39.600
+to that is more complicated than it seems&nbsp;
+and I’ll touch back on this question later,&nbsp;&nbsp;
+
+00:02:39.600 --> 00:02:45.588
+but I’ll start by exploring the answer that most&nbsp;
+players would give you: no, they’re obviously not.
+
+00:02:45.588 --> 00:02:45.600
+Part 1: Stax
+
+00:02:45.600 --> 00:02:50.720
+Why aren’t they? Well, lands produce mana,&nbsp;
+a fundamental resource required for playing&nbsp;&nbsp;
+
+00:02:50.720 --> 00:02:55.600
+the game, whereas creatures are just the guys you&nbsp;
+hit your opponents with. If creatures are wiped,&nbsp;&nbsp;
+
+00:02:55.600 --> 00:03:00.920
+players can usually keep casting spells, whereas&nbsp;
+if lands are wiped, they often can’t. To bring&nbsp;&nbsp;
+
+00:03:00.920 --> 00:03:07.160
+a key piece of vocabulary into this, mass land&nbsp;
+destruction is a form of Stax. Stax is a broad&nbsp;&nbsp;
+
+00:03:07.160 --> 00:03:10.840
+category of card with conflicting etymological&nbsp;
+claims that I will not be getting into,&nbsp;&nbsp;
+
+00:03:10.840 --> 00:03:15.960
+but the most basic definition of stax is&nbsp;
+that it’s resource denial. A 2013 post on&nbsp;&nbsp;
+
+00:03:15.960 --> 00:03:23.040
+MTGSalvation’s EDH forum lists 14 cards as the&nbsp;
+universal colorless stax package. Of these,&nbsp;&nbsp;
+
+00:03:23.040 --> 00:03:29.200
+4 remove lands, 4 keep lands or other permanents&nbsp;
+tapped down, 3 increase the cost of spells,&nbsp;&nbsp;
+
+00:03:29.200 --> 00:03:34.080
+and the other 3 perform other effects that are&nbsp;
+broadly in line with the rest of these things.&nbsp;&nbsp;
+
+00:03:34.080 --> 00:03:38.640
+The common theme is that all but one of these&nbsp;
+target mana in some way, and it’s also common&nbsp;&nbsp;
+
+00:03:38.640 --> 00:03:44.760
+to see cards that target card draw among classic&nbsp;
+stax pieces. Broadly, a stax deck is one that&nbsp;&nbsp;
+
+00:03:44.760 --> 00:03:50.640
+looks to restrict the table’s resources, and then&nbsp;
+break parity on those restrictions—basically to do&nbsp;&nbsp;
+
+00:03:50.640 --> 00:03:55.760
+something to everybody, and then play in a way&nbsp;
+that isn’t as affected by that thing. Examples&nbsp;&nbsp;
+
+00:03:55.760 --> 00:04:00.040
+include playing a Winter Orb with a bunch&nbsp;
+of mana rocks on board, playing a Smokestack&nbsp;&nbsp;
+
+00:04:00.040 --> 00:04:04.920
+with a Bitterblossom on board, and playing mostly&nbsp;
+creature spells with cards that tax noncreature&nbsp;&nbsp;
+
+00:04:04.920 --> 00:04:09.840
+spells on board. In common EDH parlance, there&nbsp;
+are a number of other things that also fall into&nbsp;&nbsp;
+
+00:04:09.840 --> 00:04:14.240
+the stax descriptor—cards that prevent players&nbsp;
+from casting certain spells, cards that limit&nbsp;&nbsp;
+
+00:04:14.240 --> 00:04:19.160
+how many spells a player can play, cards that&nbsp;
+prevent abilities in some way, and even cards&nbsp;&nbsp;
+
+00:04:19.160 --> 00:04:24.680
+that prevent players from using their graveyards.&nbsp;
+These are also sometimes called “Rule” cards.
+
+00:04:24.680 --> 00:04:29.160
+The Stax archetype is traditionally all about&nbsp;
+denying your opponents the tools they need to&nbsp;&nbsp;
+
+00:04:29.160 --> 00:04:33.440
+play the game. A Modern deck known as lantern&nbsp;
+control is the most distilled version of this&nbsp;&nbsp;
+
+00:04:33.440 --> 00:04:38.360
+idea—control opposing draws to prevent them from&nbsp;
+finding anything useful, prevent the opponent&nbsp;&nbsp;
+
+00:04:38.360 --> 00:04:42.680
+from attacking with a card known as Ensnaring&nbsp;
+Bridge, and then eventually win with incremental&nbsp;&nbsp;
+
+00:04:42.680 --> 00:04:49.200
+mill or another slow but compact wincon. As Sam of&nbsp;
+Rhystic Studies laid out in his video on the deck,&nbsp;&nbsp;
+
+00:04:49.200 --> 00:04:54.960
+the gameplay goal of the deck was less to win than&nbsp;
+it was to prevent the opponent from playing Magic:&nbsp;&nbsp;
+
+00:04:54.960 --> 00:04:59.920
+the Gathering, to assemble a Rube Goldberg machine&nbsp;
+that could prevent the unlucky opponent from&nbsp;&nbsp;
+
+00:04:59.920 --> 00:05:06.400
+taking any meaningful game action. This amplified&nbsp;
+version of things makes it clear why many Stax-y&nbsp;&nbsp;
+
+00:05:06.400 --> 00:05:12.200
+strategies are taboo in EDH—they are all about&nbsp;
+restricting the agency of players. This stands&nbsp;&nbsp;
+
+00:05:12.200 --> 00:05:17.120
+in contrast to most popular visions for the EDH&nbsp;
+format—that it’s a palette to be drawn upon,&nbsp;&nbsp;
+
+00:05:17.120 --> 00:05:21.240
+a format where more expressive strategies&nbsp;
+have room to breathe. This vision of the&nbsp;&nbsp;
+
+00:05:21.240 --> 00:05:25.920
+format was codified by the RC, rest in&nbsp;
+peace, in the cards they chose to ban&nbsp;&nbsp;
+
+00:05:25.920 --> 00:05:31.480
+and why. Sway of the Stars is banned because it&nbsp;
+nullifies all the gameplay that came before it,&nbsp;&nbsp;
+
+00:05:31.480 --> 00:05:36.360
+making those actions irrelevant. Iona is banned&nbsp;
+because it has the potential to lock a whole&nbsp;&nbsp;
+
+00:05:36.360 --> 00:05:40.680
+player out of casting spells if their deck&nbsp;
+is monocolored. A number of other cards are&nbsp;&nbsp;
+
+00:05:40.680 --> 00:05:46.800
+banned for making agency-denying strategies just&nbsp;
+a bit too easy. Whether these bans were deserved&nbsp;&nbsp;
+
+00:05:46.800 --> 00:05:52.320
+is outside the scope of this video, but they do&nbsp;
+indicate a pattern—player agency is important in&nbsp;&nbsp;
+
+00:05:52.320 --> 00:05:58.240
+EDH. On this much I agree—it’s good when all&nbsp;
+players get to play a part in an EDH game,&nbsp;&nbsp;
+
+00:05:58.240 --> 00:06:03.000
+and it’s never a great feeling when&nbsp;
+somebody feels truly left out of a game.
+
+00:06:03.000 --> 00:06:08.040
+However, over time we as players have developed a&nbsp;
+skewed vision of what player agency actually looks&nbsp;&nbsp;
+
+00:06:08.040 --> 00:06:12.520
+like. “Able to perform meaningful game actions”&nbsp;
+is the bar for player suppression when it comes&nbsp;&nbsp;
+
+00:06:12.520 --> 00:06:18.000
+to Lantern Control, but when it comes to EDH the&nbsp;
+definitions are much murkier. We can think about&nbsp;&nbsp;
+
+00:06:18.000 --> 00:06:23.640
+two different situations in an EDH game as an&nbsp;
+example—in situation A, the table is in a soft&nbsp;&nbsp;
+
+00:06:23.640 --> 00:06:28.560
+lock from a stax player, with a 90% chance of&nbsp;
+losing to that player in the next few turns.&nbsp;&nbsp;
+
+00:06:28.560 --> 00:06:33.000
+In situation B, the table is wildly behind in&nbsp;
+resources as compared to an Ur Dragon player,&nbsp;&nbsp;
+
+00:06:33.000 --> 00:06:38.520
+and has a 90% of losing in the next few turns.&nbsp;
+These situations are identical in terms of ability&nbsp;&nbsp;
+
+00:06:38.520 --> 00:06:43.080
+to perform meaningful game actions—it’s just as&nbsp;
+easy to break out of the stax player’s grip as&nbsp;&nbsp;
+
+00:06:43.080 --> 00:06:48.440
+it is to catch back up to the Ur Dragon player—yet&nbsp;
+the first one is generally thought of as the more&nbsp;&nbsp;
+
+00:06:48.440 --> 00:06:53.280
+objectionable one. One possible reason for this is&nbsp;
+that a lot of players seem to think of their deck&nbsp;&nbsp;
+
+00:06:53.280 --> 00:06:58.440
+more as a fidget toy than as an actual game piece.&nbsp;
+You have some sort of synergy thing that your deck&nbsp;&nbsp;
+
+00:06:58.440 --> 00:07:03.280
+is meant to do, and being able to complete a few&nbsp;
+entirely insignificant game actions on your turn,&nbsp;&nbsp;
+
+00:07:03.280 --> 00:07:08.760
+to scratch that brain itch, registers as a more&nbsp;
+positive thing than being able to do nothing at&nbsp;&nbsp;
+
+00:07:08.760 --> 00:07:14.720
+all. This isn’t some radical observation, but&nbsp;
+things get a bit uncomfortable when we consider&nbsp;&nbsp;
+
+00:07:14.720 --> 00:07:20.080
+that a large portion of commander decks are&nbsp;
+snowball midrange in some form or other, decks&nbsp;&nbsp;
+
+00:07:20.080 --> 00:07:25.400
+with abundant tools to keep getting ahead once&nbsp;
+they’re already ahead. Why don’t these violate&nbsp;&nbsp;
+
+00:07:25.400 --> 00:07:29.760
+conventions of player agency? Shouldn’t decks&nbsp;
+give opponents more opportunities to catch back&nbsp;&nbsp;
+
+00:07:29.760 --> 00:07:35.160
+up? I’ve mentioned excessive counts of “win-more”&nbsp;
+cards as a strategic folly in past videos, but&nbsp;&nbsp;
+
+00:07:35.160 --> 00:07:40.600
+isn’t this deckbuilding choice a bit rude as well?&nbsp;
+You can say “just play removal”, but that logic&nbsp;&nbsp;
+
+00:07:40.600 --> 00:07:45.520
+works equally well for a stax piece like Ward of&nbsp;
+Bones as it does for a turbocharged engine like&nbsp;&nbsp;
+
+00:07:45.520 --> 00:07:51.160
+Chimil the Inner Sun, even as the former is going&nbsp;
+to catch you a lot more side-eye than the latter.
+
+00:07:51.160 --> 00:07:55.360
+As another example, let’s talk about one of&nbsp;
+the most agency denying cards that’s widely&nbsp;&nbsp;
+
+00:07:55.360 --> 00:08:00.200
+played in EDH—Teferi’s Protection. Being&nbsp;
+completely disallowed from interacting with&nbsp;&nbsp;
+
+00:08:00.200 --> 00:08:06.480
+a player in any form for a whole turn cycle is&nbsp;
+wildly disempowering. A core feature of Magic:&nbsp;&nbsp;
+
+00:08:06.480 --> 00:08:11.280
+the Gathering is that there are different axes on&nbsp;
+which to attack your opponent—life total can be&nbsp;&nbsp;
+
+00:08:11.280 --> 00:08:16.600
+hit, noncreature permanents can be knocked&nbsp;
+out with removal, and creatures can be hit&nbsp;&nbsp;
+
+00:08:16.600 --> 00:08:22.560
+either with removal or by forcing blocks. Even if&nbsp;
+somebody plays a fog or counters a removal spell,&nbsp;&nbsp;
+
+00:08:22.560 --> 00:08:26.920
+there is still usually a counterplay that&nbsp;
+a prepared player can execute. Not so with&nbsp;&nbsp;
+
+00:08:26.920 --> 00:08:32.400
+Teferi’s Protection—for three mana, all board&nbsp;
+interaction and forms of damaging a player are&nbsp;&nbsp;
+
+00:08:32.400 --> 00:08:38.080
+shut down until that player’s next turn, with a&nbsp;
+counterspell being the only possible option for&nbsp;&nbsp;
+
+00:08:38.080 --> 00:08:42.080
+counterplay. It’s the sort of effect whose&nbsp;
+all-encompassing nature would be valid at&nbsp;&nbsp;
+
+00:08:42.080 --> 00:08:48.240
+an inflated cost of something like 5 mana, but&nbsp;
+instead it’s costed at 3, the same as most board&nbsp;&nbsp;
+
+00:08:48.240 --> 00:08:54.120
+wipe dodges. You get invulnerability as just a&nbsp;
+little-bitty tacked on side benefit. I have a&nbsp;&nbsp;
+
+00:08:54.120 --> 00:08:59.800
+similar problem with The One Ring—it’s a powerful&nbsp;
+draw spell for four mana, it’s indestructible,&nbsp;&nbsp;
+
+00:08:59.800 --> 00:09:05.520
+and it makes a player invulnerable to most forms&nbsp;
+of life loss until their next turn. In both cases,&nbsp;&nbsp;
+
+00:09:05.520 --> 00:09:10.840
+these are cards with one primary mode, but also&nbsp;
+a stapled on effect that dramatically reduces&nbsp;&nbsp;
+
+00:09:10.840 --> 00:09:15.720
+the number of meaningful game actions opponents&nbsp;
+can take. People know these cards are strong,&nbsp;&nbsp;
+
+00:09:15.720 --> 00:09:20.200
+but I haven’t seen much complaining about&nbsp;
+these particular clauses being on these cards,&nbsp;&nbsp;
+
+00:09:20.200 --> 00:09:24.560
+and it’s not hard to guess the reason&nbsp;
+why—these cards don’t restrict the fidget&nbsp;&nbsp;
+
+00:09:24.560 --> 00:09:28.800
+toy. Opponents can still putter around&nbsp;
+inconsequentially with value permanents,&nbsp;&nbsp;
+
+00:09:28.800 --> 00:09:34.400
+even if they’re about to die to a massive turn&nbsp;
+from the Teferi-protected or One Ring-ed player.
+
+00:09:34.400 --> 00:09:39.120
+What I’m illustrating with these examples is my&nbsp;
+biggest issue with the way people talk about Stax,&nbsp;&nbsp;
+
+00:09:39.120 --> 00:09:44.480
+and really the term Stax itself in the context&nbsp;
+of EDH—it does a poor job of describing the thing&nbsp;&nbsp;
+
+00:09:44.480 --> 00:09:48.920
+people have a problem with, and often excludes&nbsp;
+lots of other cards with very similar play&nbsp;&nbsp;
+
+00:09:48.920 --> 00:09:53.640
+patterns. Looking at the Stax primer from&nbsp;
+ten years ago is fascinating, as a number&nbsp;&nbsp;
+
+00:09:53.640 --> 00:09:59.320
+of the cards listed as stax or stax-adjacent&nbsp;
+sound weird to a modern commander player’s brain.&nbsp;&nbsp;
+
+00:09:59.920 --> 00:10:04.760
+Edicts are once instance of this, and&nbsp;
+wraths are another. These may seem like&nbsp;&nbsp;
+
+00:10:04.760 --> 00:10:08.840
+strange inclusions for a stax-specific guide&nbsp;
+given the current dominance of these cards,&nbsp;&nbsp;
+
+00:10:11.920 --> 00:10:17.040
+but in the context of older eras of commander&nbsp;
+and 60 card formats it makes a lot of sense.&nbsp;&nbsp;
+
+00:10:17.040 --> 00:10:20.640
+It’s accepted as a fact of life now that board&nbsp;
+wipes will be lurking around every corner of a&nbsp;&nbsp;
+
+00:10:20.640 --> 00:10:24.600
+commander game, and that every deck will&nbsp;
+have one or more of these sorts of tools,&nbsp;&nbsp;
+
+00:10:24.600 --> 00:10:29.840
+but most 60 card games feature decks that include&nbsp;
+none of these things. Developing a powerful board&nbsp;&nbsp;
+
+00:10:29.840 --> 00:10:35.440
+in a 60 card format is a genuinely game-winning&nbsp;
+proposition, and creatures are useful as tools to&nbsp;&nbsp;
+
+00:10:35.440 --> 00:10:40.400
+deal damage as opponents, not just as another&nbsp;
+permanent type that draws cards or has a cool&nbsp;&nbsp;
+
+00:10:40.400 --> 00:10:46.400
+ability. Under this previous conceptualization&nbsp;
+of the game, wiping a board full of creatures&nbsp;&nbsp;
+
+00:10:46.400 --> 00:10:51.480
+is ripping away resources from opponents,&nbsp;
+in the same way ripping away artifacts is,&nbsp;&nbsp;
+
+00:10:51.480 --> 00:10:57.880
+or maybe even lands. These aren’t identical, but&nbsp;
+the parallels are absolutely there. Another card&nbsp;&nbsp;
+
+00:10:57.880 --> 00:11:02.240
+type here that echoes back to my frustration&nbsp;
+with Teferi’s Protection is defensive cards.&nbsp;&nbsp;
+
+00:11:02.240 --> 00:11:07.600
+Attacking a player is a game action, and when&nbsp;
+a Lantern Control deck runs Ensnaring Bridge,&nbsp;&nbsp;
+
+00:11:07.600 --> 00:11:11.440
+that is one of the game actions they are&nbsp;
+looking to curtail. We can even think about&nbsp;&nbsp;
+
+00:11:11.440 --> 00:11:17.120
+goad—Maldhound was correct to call it a cousin to&nbsp;
+stax, as though it does have the escape valve of&nbsp;&nbsp;
+
+00:11:17.120 --> 00:11:23.080
+getting less effective once the table is down to a&nbsp;
+1v1, it’s still a form of limiting player agency.
+
+00:11:23.080 --> 00:11:27.760
+All of what I just said is fun theorizing, but&nbsp;
+it doesn’t paint a full picture of Stax and what&nbsp;&nbsp;
+
+00:11:27.760 --> 00:11:33.560
+it means for the EDH format, both as a style of&nbsp;
+card and as an archetype. The subject of player&nbsp;&nbsp;
+
+00:11:33.560 --> 00:11:39.200
+agency naturally dovetails into a strategy that&nbsp;
+is very much adjacent to stax—control. Some of you&nbsp;&nbsp;
+
+00:11:39.200 --> 00:11:44.160
+probably raised your eyebrows at me using Lantern&nbsp;
+Control as an example of Stax—it’s right there&nbsp;&nbsp;
+
+00:11:44.160 --> 00:11:49.760
+in the name! Well, the two strategies are deeply&nbsp;
+intertwined—they both care chiefly about the range&nbsp;&nbsp;
+
+00:11:49.760 --> 00:11:54.840
+of actions opponents are able to take. There are,&nbsp;
+however, a handful of commonly cited distinctions&nbsp;&nbsp;
+
+00:11:54.840 --> 00:11:59.360
+between the two. The most basic distinction is&nbsp;
+that stax is predominantly permanent-focused&nbsp;&nbsp;
+
+00:11:59.360 --> 00:12:04.120
+whereas control is typically instant and sorcery&nbsp;
+focused. This is largely true in that the cards&nbsp;&nbsp;
+
+00:12:04.120 --> 00:12:08.080
+people associate with stax are often permanents&nbsp;
+and the cards people associate with control often&nbsp;&nbsp;
+
+00:12:08.080 --> 00:12:13.080
+aren’t, but this isn’t a distinction that tells&nbsp;
+us very much about the game. A more interesting&nbsp;&nbsp;
+
+00:12:13.080 --> 00:12:19.840
+distinction I’ve heard is that stax is proactive,&nbsp;
+whereas control is reactive. This isn’t exactly&nbsp;&nbsp;
+
+00:12:19.840 --> 00:12:24.680
+true within the context of EDH, but it’s not&nbsp;
+true in a very nuanced way that is interesting to&nbsp;&nbsp;
+
+00:12:24.680 --> 00:12:30.760
+explore, so explore we shall. To start with, when&nbsp;
+I say stax is proactive and control is reactive,&nbsp;&nbsp;
+
+00:12:30.760 --> 00:12:34.760
+what I mean is that stax plays its answers&nbsp;
+before problematic spells are cast, whereas&nbsp;&nbsp;
+
+00:12:34.760 --> 00:12:39.840
+control plays its answers after problematic&nbsp;
+spells are cast, often to counter or remove&nbsp;&nbsp;
+
+00:12:39.840 --> 00:12:44.320
+them. Neither of these styles are considered&nbsp;
+proactive in the broader landscape of Magic,&nbsp;&nbsp;
+
+00:12:44.320 --> 00:12:48.520
+but positioning them as proactive vs reactive in&nbsp;
+comparison to each other isn’t an unreasonable&nbsp;&nbsp;
+
+00:12:48.520 --> 00:12:53.160
+distinction. On a surface level, there is an&nbsp;
+undeniable pattern here—a decent portion of&nbsp;&nbsp;
+
+00:12:53.160 --> 00:12:58.520
+stax pieces are only effective before spells are&nbsp;
+cast. Thorn of Amethyst and Rule of Law cannot,&nbsp;&nbsp;
+
+00:12:58.520 --> 00:13:04.480
+as a point of fact, prevent a spell after it&nbsp;
+has been cast—whereas a counterspell can. So&nbsp;&nbsp;
+
+00:13:04.480 --> 00:13:08.000
+this distinction works on some level, but&nbsp;
+it starts to fall apart when we consider&nbsp;&nbsp;
+
+00:13:08.000 --> 00:13:13.600
+one of the most popular types of stax piece in&nbsp;
+commander—permanents that remove abilities. There&nbsp;&nbsp;
+
+00:13:13.600 --> 00:13:17.480
+are different versions of these in different&nbsp;
+colors, but I’m going to use the classics&nbsp;&nbsp;
+
+00:13:17.480 --> 00:13:22.920
+as our example here—Null Rod, which prevents&nbsp;
+artifact ability activations, and Cursed Totem,&nbsp;&nbsp;
+
+00:13:22.920 --> 00:13:29.280
+which prevents creature ability activations. These&nbsp;
+can be both proactive and reactive—you can play&nbsp;&nbsp;
+
+00:13:29.280 --> 00:13:33.800
+them before a permanent enters, you can play them&nbsp;
+after a permanent enters, and you can flash them&nbsp;&nbsp;
+
+00:13:33.800 --> 00:13:38.560
+in response to a permanent spell if you have&nbsp;
+a Shimmer Myr in play. We can even imagine a&nbsp;&nbsp;
+
+00:13:38.560 --> 00:13:43.360
+player seeing a problematic artifact enter play,&nbsp;
+and then casting an Enlightened Tutor in order to&nbsp;&nbsp;
+
+00:13:43.360 --> 00:13:48.680
+find and play a Null Rod on their next turn. This&nbsp;
+stands in contrast to the ever-popular control&nbsp;&nbsp;
+
+00:13:48.680 --> 00:13:54.080
+tool of counterspells, which can only be cast&nbsp;
+in response to a problematic spell, and being&nbsp;&nbsp;
+
+00:13:54.080 --> 00:14:00.400
+entirely useless to deal with such a card at&nbsp;
+any other time. So… which is the proactive one?
+
+00:14:00.400 --> 00:14:05.320
+A better way to think about these sorts of cards&nbsp;
+is in terms of their relationship with resources.&nbsp;&nbsp;
+
+00:14:05.320 --> 00:14:10.080
+Now, I made the argument earlier that capacity&nbsp;
+to deal damage to players is a resource. And I&nbsp;&nbsp;
+
+00:14:10.080 --> 00:14:14.400
+do believe that! However, it is worth injecting a&nbsp;
+bit of nuance into this, because there are useful&nbsp;&nbsp;
+
+00:14:14.400 --> 00:14:18.680
+distinctions here that shouldn’t be brushed aside&nbsp;
+in a fun, quippy little statement. So, I’m going&nbsp;&nbsp;
+
+00:14:18.680 --> 00:14:24.400
+to separate resources into primary resources and&nbsp;
+secondary resources. Secondary resources are what&nbsp;&nbsp;
+
+00:14:24.400 --> 00:14:29.960
+is directly required to win games, and primary&nbsp;
+resources are what is required to get there.&nbsp;&nbsp;
+
+00:14:29.960 --> 00:14:35.280
+So we can conjure forth in our minds something&nbsp;
+that can allow us to win games—a grizzly bear,&nbsp;&nbsp;
+
+00:14:35.280 --> 00:14:40.920
+let’s say. How can this grizzly bear be rendered&nbsp;
+manifest? Well, we need to have the card available&nbsp;&nbsp;
+
+00:14:40.920 --> 00:14:45.600
+to us to play, physically in our hand, and we&nbsp;
+need to have the mana to cast it. So, those&nbsp;&nbsp;
+
+00:14:45.600 --> 00:14:51.440
+are our two primary resources—cards and mana, with&nbsp;
+that mana coming from either a land or some other&nbsp;&nbsp;
+
+00:14:51.440 --> 00:14:57.000
+source. With this primary and secondary resource&nbsp;
+distinction in mind, we can reframe the proactive&nbsp;&nbsp;
+
+00:14:57.000 --> 00:15:02.960
+vs reactive distinction with regard to stax and&nbsp;
+control. Stax is proactive because it attacks&nbsp;&nbsp;
+
+00:15:02.960 --> 00:15:08.320
+primary resources, the basic building blocks&nbsp;
+required for playing the game, whereas control is&nbsp;&nbsp;
+
+00:15:08.320 --> 00:15:14.360
+reactive because it attacks secondary resources,&nbsp;
+the ones required for winning. This makes a lot&nbsp;&nbsp;
+
+00:15:14.360 --> 00:15:18.920
+of sense when we look at the ability-denying&nbsp;
+artifacts I mentioned earlier—the little box&nbsp;&nbsp;
+
+00:15:18.920 --> 00:15:23.680
+in the bottom right of creatures is what matters&nbsp;
+as a secondary resource. The fussy colon-riddled&nbsp;&nbsp;
+
+00:15:23.680 --> 00:15:28.600
+stuff in the middle of the card is by contrast&nbsp;
+more often a primary resource, or at least this&nbsp;&nbsp;
+
+00:15:28.600 --> 00:15:34.080
+is the pattern among the cards popular in EDH.&nbsp;
+If an opponent plays a Vilis, Broker of Blood,&nbsp;&nbsp;
+
+00:15:34.080 --> 00:15:38.560
+a Cursed Totem will certainly remove a bit of&nbsp;
+the utility of the card, but a counterspell or&nbsp;&nbsp;
+
+00:15:38.560 --> 00:15:42.640
+removal spell is going to be a handier solution&nbsp;
+to the problem if getting smashed in the face&nbsp;&nbsp;
+
+00:15:42.640 --> 00:15:48.320
+by an 8/8 isn’t your idea of a good time. This&nbsp;
+framing also comfortably places defensive cards&nbsp;&nbsp;
+
+00:15:48.320 --> 00:15:53.560
+like Ghostly Prison firmly back in the realm of&nbsp;
+being a control tool rather than a Stax tool,&nbsp;&nbsp;
+
+00:15:53.560 --> 00:15:59.280
+which likely feels more intuitively correct&nbsp;
+to a lot of players. So, this updated version&nbsp;&nbsp;
+
+00:15:59.280 --> 00:16:06.120
+of the proactive vs reactive argument basically&nbsp;
+works—in 1v1 formats, that is. In commander&nbsp;&nbsp;
+
+00:16:06.120 --> 00:16:12.080
+it’s still a bit wrong, and to understand why we&nbsp;
+need to talk about what control is trying to do.
+
+00:16:12.080 --> 00:16:16.800
+In a 1v1 format a control deck is one that&nbsp;
+seeks to bring the game to a point of stability,&nbsp;&nbsp;
+
+00:16:16.800 --> 00:16:21.640
+where an opponent’s capacity to win is in a&nbsp;
+managed state, before closing out the game with&nbsp;&nbsp;
+
+00:16:21.640 --> 00:16:26.800
+some sort of compact wincon. Deck space is split&nbsp;
+between cards to manage opposing threats and cards&nbsp;&nbsp;
+
+00:16:26.800 --> 00:16:31.320
+that allow the control player to gain advantage,&nbsp;
+with a smaller portion of deck space spent on&nbsp;&nbsp;
+
+00:16:31.320 --> 00:16:36.160
+whatever wins the game. This works because&nbsp;
+the win isn’t the primary gameplay focus of&nbsp;&nbsp;
+
+00:16:36.160 --> 00:16:41.800
+the deck—getting to that point of stability is,&nbsp;
+survival is. There will be games where a control&nbsp;&nbsp;
+
+00:16:41.800 --> 00:16:46.440
+player fails to establish enough advantage&nbsp;
+pieces or lets their life total drop too low,&nbsp;&nbsp;
+
+00:16:46.440 --> 00:16:51.520
+and under these circumstances a loss can still&nbsp;
+occur once the game has stabilized to some degree,&nbsp;&nbsp;
+
+00:16:51.520 --> 00:16:56.640
+but these are largely the exception. Broadly,&nbsp;
+survival is the name of the game when a control&nbsp;&nbsp;
+
+00:16:56.640 --> 00:17:01.760
+deck is facing a faster deck. One reason this is&nbsp;
+the case is that aggressive decks don’t build in&nbsp;&nbsp;
+
+00:17:01.760 --> 00:17:06.560
+a bunch of card draw and ramp, because doing&nbsp;
+such a thing would be wasteful. You only need&nbsp;&nbsp;
+
+00:17:06.560 --> 00:17:11.120
+enough resources to reduce your opponent’s life&nbsp;
+total to 0, and an additional beater or removal&nbsp;&nbsp;
+
+00:17:11.120 --> 00:17:16.640
+spell to help push through damage is usually a&nbsp;
+better choice than a draw engine. In commander,&nbsp;&nbsp;
+
+00:17:16.640 --> 00:17:22.200
+though, this is entirely different. All decks&nbsp;
+run ramp and draw engines because there’s 120&nbsp;&nbsp;
+
+00:17:22.200 --> 00:17:26.800
+health among opponents rather than 20, meaning&nbsp;
+that scrappy, low-to-the-ground strategies just&nbsp;&nbsp;
+
+00:17:26.800 --> 00:17:32.560
+don’t pan out as well. As a result, control decks&nbsp;
+in EDH can’t necessarily rely on survival alone&nbsp;&nbsp;
+
+00:17:32.560 --> 00:17:38.200
+to win a game. One way this manifests is in&nbsp;
+more powerful wincons—usually combos at higher&nbsp;&nbsp;
+
+00:17:38.200 --> 00:17:44.160
+powers—but another is that targeting resources&nbsp;
+is essential for a control deck in EDH. It’s&nbsp;&nbsp;
+
+00:17:44.160 --> 00:17:48.880
+near-impossible to fully stabilize if a bunch of&nbsp;
+faster decks are able to keep their value engines,&nbsp;&nbsp;
+
+00:17:48.880 --> 00:17:54.400
+and powerful mana enhancers can likewise pose&nbsp;
+a problem. Being a control deck in EDH pretty&nbsp;&nbsp;
+
+00:17:54.400 --> 00:17:59.600
+much always means hating out opposing sources of&nbsp;
+cards and mana—that’s just how the game is played.
+
+00:17:59.600 --> 00:18:05.320
+All of this to say, control and stax in EDH exist&nbsp;
+in a much more tangled and messy relationship than&nbsp;&nbsp;
+
+00:18:05.320 --> 00:18:09.680
+they do in 60 card formats, bleeding into&nbsp;
+one another with their roles and mostly&nbsp;&nbsp;
+
+00:18:09.680 --> 00:18:14.400
+differentiable through superficial differences&nbsp;
+and culturally understood indicators. You could&nbsp;&nbsp;
+
+00:18:14.400 --> 00:18:19.960
+say that control targets mana less frequently&nbsp;
+than stax, and that is true, but doing so isn’t&nbsp;&nbsp;
+
+00:18:19.960 --> 00:18:24.800
+even solely the domain of these suppressive&nbsp;
+decks. As I mentioned earlier, board wipes&nbsp;&nbsp;
+
+00:18:24.800 --> 00:18:29.000
+are commonplace in EDH, and these frequently&nbsp;
+destroy mana in some form or other—things&nbsp;&nbsp;
+
+00:18:29.640 --> 00:18:34.320
+that wipe creatures remove mana dorks, things&nbsp;
+that wipe artifacts destroy mana rocks,&nbsp;&nbsp;
+
+00:18:34.320 --> 00:18:39.200
+and things that destroy enchantments destroy land&nbsp;
+enchantments. Is this just an unfortunate side&nbsp;&nbsp;
+
+00:18:39.200 --> 00:18:44.040
+effect? Are players shedding a tear every time&nbsp;
+they incidentally demolish some opposing mana&nbsp;&nbsp;
+
+00:18:44.040 --> 00:18:49.240
+production? Stop and genuinely ask yourself,&nbsp;
+how many players would run Vandalblast if it&nbsp;&nbsp;
+
+00:18:49.240 --> 00:18:53.080
+didn’t destroy cards with mana abilities?&nbsp;
+I’m willing to bet the answer is a whole&nbsp;&nbsp;
+
+00:18:53.080 --> 00:18:57.800
+lot less than 16% of all EDH decks with red&nbsp;
+in them. We all have the blood of a thousand&nbsp;&nbsp;
+
+00:18:57.800 --> 00:19:02.080
+slaughtered primary resource generators on our&nbsp;
+hands, whether we happen to be a stax player,&nbsp;&nbsp;
+
+00:19:02.080 --> 00:19:06.960
+a control player, or any other sort of player.&nbsp;
+You might be thinking, well that’s just the cost&nbsp;&nbsp;
+
+00:19:06.960 --> 00:19:12.760
+of playing ramp—but it’s not. Rampant Growth is&nbsp;
+the same rate as most mana rocks and it doesn’t&nbsp;&nbsp;
+
+00:19:12.760 --> 00:19:18.000
+get destroyed by artifact wipes. Green ramp spells&nbsp;
+are basically identical to all widely available&nbsp;&nbsp;
+
+00:19:18.000 --> 00:19:24.080
+mana rocks in terms of efficiency, and yet they&nbsp;
+are exempt from this divine mana ramp sin tax.&nbsp;&nbsp;
+
+00:19:24.080 --> 00:19:28.720
+Colors that aren’t green need to live in fear of&nbsp;
+wipes eating their mana, whereas green players&nbsp;&nbsp;
+
+00:19:28.720 --> 00:19:33.400
+don’t unless they make the voluntary choice&nbsp;
+to run dorks, which are often better-costed.
+
+00:19:33.400 --> 00:19:38.720
+Another type of card often considered stax is&nbsp;
+rules cards—basically cards that tell opponents&nbsp;&nbsp;
+
+00:19:38.720 --> 00:19:43.160
+what they can and can’t do. Examples of this&nbsp;
+would be Null Rod and Cursed Totem that fully&nbsp;&nbsp;
+
+00:19:43.160 --> 00:19:47.480
+shut off certain modes of play, as well as&nbsp;
+cards like Rule of Law and Aven Mindcensor,&nbsp;&nbsp;
+
+00:19:47.480 --> 00:19:52.320
+which dramatically restrict the effectiveness of&nbsp;
+certain play patterns. These tend to be somewhat&nbsp;&nbsp;
+
+00:19:52.320 --> 00:19:57.320
+unpopular, since players don’t like being told&nbsp;
+what they can’t do, but the awkward thing is that&nbsp;&nbsp;
+
+00:19:57.320 --> 00:20:01.720
+there are other equally-severe forms of hate&nbsp;
+in EDH that players have simply accepted as a&nbsp;&nbsp;
+
+00:20:01.720 --> 00:20:06.560
+fact of life. When people think of nonbasic hate,&nbsp;
+the number one thing they think of is Blood Moon,&nbsp;&nbsp;
+
+00:20:06.560 --> 00:20:11.240
+a pretty brutal hate piece against decks with&nbsp;
+a lot of nonbasic lands. Even more severe is&nbsp;&nbsp;
+
+00:20:11.240 --> 00:20:16.400
+graveyard hate—most popular graveyard hate&nbsp;
+cards exile entire graveyards at a time,&nbsp;&nbsp;
+
+00:20:16.400 --> 00:20:21.960
+and the most powerful graveyard hate options—which&nbsp;
+are reasonably popular cards, mind you—may as well&nbsp;&nbsp;
+
+00:20:21.960 --> 00:20:28.120
+read “graveyards don’t exist”. This isn’t to&nbsp;
+say any of this is unearned, necessarily—EDH’s&nbsp;&nbsp;
+
+00:20:28.120 --> 00:20:31.960
+nonbasic lands make colorfixing easier than it&nbsp;
+should be as long as you’ve got the wallet to&nbsp;&nbsp;
+
+00:20:31.960 --> 00:20:38.440
+back it up, and the EDH format also has access to&nbsp;
+some intensely powerful utility lands. Likewise,&nbsp;&nbsp;
+
+00:20:38.440 --> 00:20:43.600
+graveyard strategies can get genuinely disgusting&nbsp;
+at times, so a lot of powerful hate has been&nbsp;&nbsp;
+
+00:20:43.600 --> 00:20:48.760
+printed over the years. However, I think a lot of&nbsp;
+players would do well to reckon with the fact that&nbsp;&nbsp;
+
+00:20:48.760 --> 00:20:53.680
+the more powerful graveyard hate options out there&nbsp;
+are basically stax pieces, and even a lot of the&nbsp;&nbsp;
+
+00:20:53.680 --> 00:20:58.360
+less-potent graveyard hate out there exists in a&nbsp;
+similar realm. I’d even put a lot of board wipes&nbsp;&nbsp;
+
+00:20:58.360 --> 00:21:03.360
+into a similar category, particularly ones that&nbsp;
+wipe all nonland permanents from a board. These&nbsp;&nbsp;
+
+00:21:03.360 --> 00:21:08.680
+sorts of cards represent an extreme solution in&nbsp;
+a 1v1 format and are costed with those formats&nbsp;&nbsp;
+
+00:21:08.680 --> 00:21:13.240
+in mind, but this means that when they end&nbsp;
+up in formats with more players their effect&nbsp;&nbsp;
+
+00:21:13.240 --> 00:21:19.840
+is outsized for how much mana they cost. The fact&nbsp;
+that Cyclonic Rift is in 28% of blue decks is the&nbsp;&nbsp;
+
+00:21:19.840 --> 00:21:24.560
+best indicator of this—it was an acceptable answer&nbsp;
+at best when I played with it in standard 10 years&nbsp;&nbsp;
+
+00:21:24.560 --> 00:21:31.200
+ago, but in EDH it’s an absolute haymaker,&nbsp;
+setting opponents vastly behind in spent mana.
+
+00:21:31.200 --> 00:21:35.800
+All of this is to say that stax isn’t some special&nbsp;
+type of card. There are cards adjacent to the&nbsp;&nbsp;
+
+00:21:35.800 --> 00:21:40.880
+things we call stax absolutely everywhere in EDH,&nbsp;
+and we accept their existence. It’s often only&nbsp;&nbsp;
+
+00:21:40.880 --> 00:21:46.520
+the uncommon things that warrant the forehead&nbsp;
+scrunches, the sour looks, the “oh, you’re playing&nbsp;&nbsp;
+
+00:21:46.520 --> 00:21:53.480
+stax?” from the table. Now, is this a defense of&nbsp;
+stax necessarily? Well it kind of is—I don’t think&nbsp;&nbsp;
+
+00:21:53.480 --> 00:21:58.840
+it should be categorized as a wholly unique type&nbsp;
+of card as much as it currently is—but to stop&nbsp;&nbsp;
+
+00:21:58.840 --> 00:22:03.560
+there would be to stop short of asking the more&nbsp;
+interesting questions. The most important of these&nbsp;&nbsp;
+
+00:22:03.560 --> 00:22:09.720
+questions is this—do stax pieces, stax-adjacent&nbsp;
+cards, and decks that play a lot of these things&nbsp;&nbsp;
+
+00:22:09.720 --> 00:22:15.760
+have a positive effect on the EDH format? Well,&nbsp;
+the answer to that question is a complicated one,&nbsp;&nbsp;
+
+00:22:15.760 --> 00:22:21.960
+and it depends a lot on the power level. In cEDH&nbsp;
+and the highest reaches of high power casual,&nbsp;&nbsp;
+
+00:22:21.960 --> 00:22:27.960
+these things are absolutely good tools. cEDH decks&nbsp;
+utilize every part of the game to their maximum,&nbsp;&nbsp;
+
+00:22:28.720 --> 00:22:33.720
+whether that be disgusting graveyard shenanigans,&nbsp;
+constant library searching, and frequent turns&nbsp;&nbsp;
+
+00:22:33.720 --> 00:22:38.240
+with several spells cast in them. Lands and&nbsp;
+manafixing alike are also very powerful in&nbsp;&nbsp;
+
+00:22:38.240 --> 00:22:42.960
+budgetless formats like cEDH, and actually,&nbsp;
+a major side effect of Dockside Extortionist&nbsp;&nbsp;
+
+00:22:42.960 --> 00:22:48.080
+getting banned that I’ve seen cEDH players praise&nbsp;
+is that mana hate cards, particularly Blood Moon,&nbsp;&nbsp;
+
+00:22:48.080 --> 00:22:51.920
+have regained a lot of their former viability&nbsp;
+now that there isn’t an easy way around them&nbsp;&nbsp;
+
+00:22:51.920 --> 00:22:57.360
+via treasures. So yes, high-caliber hate in all&nbsp;
+forms will be useful in the highest powers of&nbsp;&nbsp;
+
+00:22:57.360 --> 00:23:02.480
+commander, and will have a positive effect in&nbsp;
+contesting the most powerful proactive decks.
+
+00:23:02.480 --> 00:23:06.120
+However, at the more middling power levels&nbsp;
+that most players play at, these cards don’t&nbsp;&nbsp;
+
+00:23:06.120 --> 00:23:11.000
+constitute such an unambiguous good. Many of&nbsp;
+the heavier-duty stax pieces effectively end&nbsp;&nbsp;
+
+00:23:11.000 --> 00:23:15.200
+up reading “target opponent gets to putter around&nbsp;
+doing barely anything until they draw a removal&nbsp;&nbsp;
+
+00:23:15.200 --> 00:23:20.360
+spell for this” and is that really positive for&nbsp;
+the game? I have a couple friends who would answer&nbsp;&nbsp;
+
+00:23:20.360 --> 00:23:25.120
+that question with a definite yes—one friend I&nbsp;
+asked made the point that playing against an ETB&nbsp;&nbsp;
+
+00:23:25.120 --> 00:23:30.000
+silencer like Torpor Orb will encourage a Brago&nbsp;
+player to diversify their deck. While this isn’t&nbsp;&nbsp;
+
+00:23:30.000 --> 00:23:34.800
+strictly untrue and while it is a good thing for&nbsp;
+players to have more diverse decks, I don’t really&nbsp;&nbsp;
+
+00:23:34.800 --> 00:23:39.840
+fully buy into this—the only guaranteed fact when&nbsp;
+you play a Torpor Orb against a Brago player is&nbsp;&nbsp;
+
+00:23:39.840 --> 00:23:43.880
+that they’re gonna have a really bad time in this&nbsp;
+particular game until the card gets removed—you&nbsp;&nbsp;
+
+00:23:43.880 --> 00:23:48.680
+have no idea what they’ll do later. I will&nbsp;
+always encourage people to build resilient decks,&nbsp;&nbsp;
+
+00:23:48.680 --> 00:23:52.720
+since these are the decks that will let players&nbsp;
+have more fun and will be harder to shut down,&nbsp;&nbsp;
+
+00:23:52.720 --> 00:23:56.800
+but if you brutalize an unprepared player&nbsp;
+with a hard stax piece they almost never see,&nbsp;&nbsp;
+
+00:23:56.800 --> 00:24:02.240
+the bad time they’ll have isn’t undone by the they&nbsp;
+could have been more prepared. Now, I think a lot&nbsp;&nbsp;
+
+00:24:02.240 --> 00:24:07.440
+of players see this fact and want to draw the&nbsp;
+opposite conclusion—that mid-power EDH should be&nbsp;&nbsp;
+
+00:24:07.440 --> 00:24:12.680
+an unfettered stomp-fest—and unfortunately that’s&nbsp;
+an even worse vision for the format. I made an&nbsp;&nbsp;
+
+00:24:12.680 --> 00:24:18.600
+entire video about why I dislike that version&nbsp;
+of mid-power EDH, and I actually think more of&nbsp;&nbsp;
+
+00:24:18.600 --> 00:24:23.360
+certain types of pressure would be good for EDH&nbsp;
+players. So what’s the best way of threading the&nbsp;&nbsp;
+
+00:24:23.360 --> 00:24:27.000
+needle here? Before I get into that, if you’re&nbsp;
+enjoying this video, consider checking out my&nbsp;&nbsp;
+
+00:24:27.000 --> 00:24:30.880
+Patreon! I’ve been workshopping ideas for this&nbsp;
+video for more than three months, and my lovely&nbsp;&nbsp;
+
+00:24:30.880 --> 00:24:35.200
+Patrons make it possible for me to put in the&nbsp;
+effort needed to make deep dives such as this one.
+
+00:24:35.200 --> 00:24:40.200
+Alright, solutions. Let’s start with the subject&nbsp;
+of mass mana hate and boardwipes. As I mentioned,&nbsp;&nbsp;
+
+00:24:40.200 --> 00:24:44.480
+there’s a certain incongruity to lands being an&nbsp;
+untouchable resource while mana rocks and mana&nbsp;&nbsp;
+
+00:24:44.480 --> 00:24:49.400
+dorks get thrown in the trash, sometimes multiple&nbsp;
+times per game. One solution to the question of&nbsp;&nbsp;
+
+00:24:49.400 --> 00:24:55.200
+wipes is incomplete boardwipes. I dislike Farewell&nbsp;
+more than most other cards specifically because&nbsp;&nbsp;
+
+00:24:55.200 --> 00:25:00.200
+it’s such an absolute wipe—most of the game pieces&nbsp;
+present are just immediately put into exile if the&nbsp;&nbsp;
+
+00:25:00.200 --> 00:25:06.280
+Farewelling player desires it. However, a board&nbsp;
+wipe I do like a lot is Cataclysmic Gearhulk. I&nbsp;&nbsp;
+
+00:25:06.280 --> 00:25:11.120
+run it in my Sharuum Slide deck and it has all&nbsp;
+sorts of great attributes there—it’s an artifact&nbsp;&nbsp;
+
+00:25:11.120 --> 00:25:16.160
+for purposes of reanimation with Sharuum, it’s a&nbsp;
+creature with an ETB for purposes of flicker, and&nbsp;&nbsp;
+
+00:25:16.160 --> 00:25:20.400
+is has two different card types which can allow&nbsp;
+the person who played it ample choice on whether&nbsp;&nbsp;
+
+00:25:20.400 --> 00:25:25.000
+to keep it around or not. The deck can get it out&nbsp;
+and trigger it multiple times with relative ease,&nbsp;&nbsp;
+
+00:25:25.000 --> 00:25:29.920
+but it’s far less polarizing than a lot of removal&nbsp;
+engines specifically because it allows players to&nbsp;&nbsp;
+
+00:25:29.920 --> 00:25:34.400
+keep one permanent of each type. On my side of&nbsp;
+the board it gives me interesting setup choices&nbsp;&nbsp;
+
+00:25:34.400 --> 00:25:39.320
+and opportunities to break parity on it with an&nbsp;
+especially potent card, and it’s preferable for my&nbsp;&nbsp;
+
+00:25:39.320 --> 00:25:44.440
+opponents as well. Despite the card being a board&nbsp;
+wipe, my opponents get a sense of agency on what&nbsp;&nbsp;
+
+00:25:44.440 --> 00:25:49.280
+to do with their board, and even when I flicker&nbsp;
+it multiple times it still gives some opportunity&nbsp;&nbsp;
+
+00:25:49.280 --> 00:25:53.680
+for players to develop a board through it, since&nbsp;
+they can “upgrade” the cards they keep around,&nbsp;&nbsp;
+
+00:25:53.680 --> 00:25:58.320
+effectively. It also punishes players who are&nbsp;
+ahead much more than players who are behind,&nbsp;&nbsp;
+
+00:25:58.320 --> 00:26:01.920
+since a player with two artifacts will only&nbsp;
+lose half of them, whereas a player with five&nbsp;&nbsp;
+
+00:26:01.920 --> 00:26:07.320
+artifacts will lose 80% of them. This idea of an&nbsp;
+incomplete boardwipe is also a great solution for&nbsp;&nbsp;
+
+00:26:07.320 --> 00:26:13.000
+lands—Keldon Firebombers and Urza’s Sylex are&nbsp;
+examples of land hate that is less severe than&nbsp;&nbsp;
+
+00:26:13.000 --> 00:26:18.640
+other land hate specifically because it allows&nbsp;
+players to keep around lands. Keeping even three&nbsp;&nbsp;
+
+00:26:18.640 --> 00:26:22.960
+lands is so much less punishing than keeping&nbsp;
+around none at all, as there will be a wide&nbsp;&nbsp;
+
+00:26:22.960 --> 00:26:27.320
+range of spells in a player’s deck that are still&nbsp;
+castable, and players can choose the specific&nbsp;&nbsp;
+
+00:26:27.320 --> 00:26:32.280
+lands they keep rather than praying to the topdeck&nbsp;
+gods to deliver them the correct colors. There are&nbsp;&nbsp;
+
+00:26:32.280 --> 00:26:36.960
+only these two at the moment as far as I know,&nbsp;
+but given that Urza’s Sylex was printed just two&nbsp;&nbsp;
+
+00:26:36.960 --> 00:26:41.320
+years ago, I can certainly hope that Wizards&nbsp;
+of the Coast will revisit this design choice.
+
+00:26:41.320 --> 00:26:45.800
+Another thing that it would be great to see&nbsp;
+more of is soft hate—options for interaction&nbsp;&nbsp;
+
+00:26:45.800 --> 00:26:50.480
+that are decently powerful but less brutal in&nbsp;
+effect. There are a number of cards that cause&nbsp;&nbsp;
+
+00:26:50.480 --> 00:26:55.720
+nonbasic lands to enter tapped, and these are so&nbsp;
+satisfying to me—suddenly the players running the&nbsp;&nbsp;
+
+00:26:55.720 --> 00:26:59.640
+fancy mana packages are brought back to the level&nbsp;
+of me and my friends playing kitchen table magic&nbsp;&nbsp;
+
+00:26:59.640 --> 00:27:04.280
+in middle school, needing to use taplands to&nbsp;
+get more than one color from our lands. The&nbsp;&nbsp;
+
+00:27:04.280 --> 00:27:08.720
+fact that these can threaten a double-hit on the&nbsp;
+most powerful fixing in commander, fetchlands,&nbsp;&nbsp;
+
+00:27:08.720 --> 00:27:13.120
+is especially nice. I don’t get much joy out&nbsp;
+of seeing players get mana screwed by powerful&nbsp;&nbsp;
+
+00:27:13.120 --> 00:27:18.200
+nonbasic hate, but I love to see them join the&nbsp;
+tapland gang. For graveyard hate, this could look&nbsp;&nbsp;
+
+00:27:18.200 --> 00:27:22.800
+like pinpoint exilers such as Emperor of Bones&nbsp;
+or Pit of Offerings, and it could also look like&nbsp;&nbsp;
+
+00:27:22.800 --> 00:27:28.360
+shuffle effects such as Endurance. I want to see&nbsp;
+additional powerful shuffle-into-library effects&nbsp;&nbsp;
+
+00:27:28.360 --> 00:27:32.840
+be printed as a graveyard hate options—it’s&nbsp;
+equally effective in the short term without&nbsp;&nbsp;
+
+00:27:32.840 --> 00:27:37.520
+posing such a dramatic and final punishment for&nbsp;
+the graveyard enjoyer, and has added utility in&nbsp;&nbsp;
+
+00:27:37.520 --> 00:27:42.440
+being able to shuffle one’s own graveyard as well.&nbsp;
+Aside from soft hate, a good option for mid-power&nbsp;&nbsp;
+
+00:27:42.440 --> 00:27:47.280
+stax in the here and now are some of the softer&nbsp;
+general-purpose stax pieces that already exist,&nbsp;&nbsp;
+
+00:27:47.280 --> 00:27:52.720
+with the two key ones being tax cards and rule of&nbsp;
+law effects. Tax cards like Thorn of Amethyst make&nbsp;&nbsp;
+
+00:27:52.720 --> 00:27:57.040
+spells more expensive, most often noncreature&nbsp;
+spells, and these are nice because they’re&nbsp;&nbsp;
+
+00:27:57.040 --> 00:28:01.880
+not too hard to break parity on, and they also&nbsp;
+impact players who are ahead and thus casting&nbsp;&nbsp;
+
+00:28:01.880 --> 00:28:06.240
+more spells much more than they impact players&nbsp;
+who are behind. The same is true for rule of&nbsp;&nbsp;
+
+00:28:06.240 --> 00:28:11.360
+law effects—though capping the number of spells a&nbsp;
+player can cast each turn at 1 is a more dramatic&nbsp;&nbsp;
+
+00:28:11.360 --> 00:28:16.600
+effect and will make opponents unhappy at times,&nbsp;
+they likewise punish players who are ahead more&nbsp;&nbsp;
+
+00:28:16.600 --> 00:28:21.600
+than players who are behind. In addition, since&nbsp;
+basically all of these are symmetrical and require&nbsp;&nbsp;
+
+00:28:21.600 --> 00:28:26.520
+a bit of effort to break parity on, they’re much&nbsp;
+more fair than a lot of other options for stax.
+
+00:28:26.520 --> 00:28:30.880
+My Liesa deck features a number of these sorts&nbsp;
+of softer stax pieces, and though I’d place the&nbsp;&nbsp;
+
+00:28:30.880 --> 00:28:35.800
+deck on the upper end of mid-power, it can play&nbsp;
+decently at both mid and high powers because all&nbsp;&nbsp;
+
+00:28:35.800 --> 00:28:41.600
+of the tools in the deck disproportionately hit&nbsp;
+more powerful decks, and especially combo decks.&nbsp;&nbsp;
+
+00:28:41.600 --> 00:28:46.800
+My Liesa deck also features the final form of stax&nbsp;
+I find especially appropriate in mid-powers—Slug&nbsp;&nbsp;
+
+00:28:46.800 --> 00:28:51.600
+Effects. A major critique of Stax cards that I&nbsp;
+mentioned about 20 minutes ago is that they limit&nbsp;&nbsp;
+
+00:28:51.600 --> 00:28:57.720
+player agency, and slug stax cards subvert this&nbsp;
+by forcing players to pay with a resource that is,&nbsp;&nbsp;
+
+00:28:57.720 --> 00:29:03.680
+by default, quite plentiful in commander—life&nbsp;
+total. Liesa is such a fantastic creature because&nbsp;&nbsp;
+
+00:29:03.680 --> 00:29:08.680
+her effect punishes players who play a lot of&nbsp;
+spells more heavily and fully prevents combos&nbsp;&nbsp;
+
+00:29:08.680 --> 00:29:13.360
+that require casting a spell an arbitrarily&nbsp;
+large number of times, but it accomplishes&nbsp;&nbsp;
+
+00:29:13.360 --> 00:29:18.680
+these things through the vector of life total.&nbsp;
+This means that stax decks, traditionally a more&nbsp;&nbsp;
+
+00:29:18.680 --> 00:29:23.520
+controlling strategy, can take on new life&nbsp;
+as a beatdown strategy, forcing opponents to&nbsp;&nbsp;
+
+00:29:23.520 --> 00:29:28.320
+make hard choices about whether to do the plays&nbsp;
+they want to and face life total consequences,&nbsp;&nbsp;
+
+00:29:28.320 --> 00:29:33.560
+or whether to keep their life total at a more safe&nbsp;
+level and hold back on their power plays. Liesa&nbsp;&nbsp;
+
+00:29:33.560 --> 00:29:38.480
+and Rug of Smothering are examples of cards that&nbsp;
+cause players to lose life for each spell cast,&nbsp;&nbsp;
+
+00:29:38.480 --> 00:29:42.160
+but there are also cards that deal damage to&nbsp;
+players for their nonbasic lands, cards that&nbsp;&nbsp;
+
+00:29:42.160 --> 00:29:45.680
+deal damage to players for their creature counts,&nbsp;
+cards that deal damage to players for attacking&nbsp;&nbsp;
+
+00:29:45.680 --> 00:29:49.920
+in certain ways, cards that deal damage to players&nbsp;
+for drawing cards, Blood Artist effects to punish&nbsp;&nbsp;
+
+00:29:49.920 --> 00:29:54.920
+sacrifice-oriented strategies, and so on. I highly&nbsp;
+recommend including these in aggressive decks,&nbsp;&nbsp;
+
+00:29:54.920 --> 00:29:59.520
+as they allow for a sort of stax-aggro blend&nbsp;
+that makes for some really cool gameplay and&nbsp;&nbsp;
+
+00:29:59.520 --> 00:30:03.920
+puts the pressure on opposing decision making&nbsp;
+without needing to flat-out tell them no.
+
+00:30:03.920 --> 00:30:08.520
+EDH doesn’t necessarily benefit from people&nbsp;
+getting fully locked out or made miserable,&nbsp;&nbsp;
+
+00:30:08.520 --> 00:30:14.080
+but a format with a greater amount of soft stax&nbsp;
+and soft hate has a lot of benefits. It encourages&nbsp;&nbsp;
+
+00:30:14.080 --> 00:30:18.240
+more resilient, well-rounded decks. It pushes&nbsp;
+players toward thinking about their opponents,&nbsp;&nbsp;
+
+00:30:18.240 --> 00:30:22.720
+both during games and during deckbuilding. A&nbsp;
+format where everybody brings their solitaire&nbsp;&nbsp;
+
+00:30:22.720 --> 00:30:26.800
+pile to play against three other solitaire&nbsp;
+piles isn’t a good one, and anything that&nbsp;&nbsp;
+
+00:30:26.800 --> 00:30:32.080
+pushes people into considering their opponents&nbsp;
+more heavily is a good thing. Players should&nbsp;&nbsp;
+
+00:30:32.080 --> 00:30:36.880
+feel pressured by what opponents are doing, but&nbsp;
+they shouldn’t necessarily feel oppressed. Stax&nbsp;&nbsp;
+
+00:30:36.880 --> 00:30:41.560
+effects that loop in life loss in some way are&nbsp;
+good specifically because they pressure opponents&nbsp;&nbsp;
+
+00:30:41.560 --> 00:30:46.800
+while maintaining player agency. More soft stax&nbsp;
+will also reduce the height of the format—the&nbsp;&nbsp;
+
+00:30:46.800 --> 00:30:51.040
+battlecruiser version of EDH does appeal to&nbsp;
+a lot of people, and I do get the appeal,&nbsp;&nbsp;
+
+00:30:51.040 --> 00:30:55.080
+but there are elements of it that we’d&nbsp;
+be well-served to curtail a bit. It’s not&nbsp;&nbsp;
+
+00:30:55.080 --> 00:30:58.200
+good when boards are filled up with endless&nbsp;
+permanents that nobody wants to keep track&nbsp;&nbsp;
+
+00:30:58.200 --> 00:31:02.120
+of, when turns take 5-10 minutes each,&nbsp;
+and where frequent full-board wipes are&nbsp;&nbsp;
+
+00:31:02.120 --> 00:31:06.600
+a necessary fact of life. I’m not saying that&nbsp;
+this is a form of EDH that needs to die off&nbsp;&nbsp;
+
+00:31:06.600 --> 00:31:11.200
+or that nobody enjoys it, but it shouldn’t&nbsp;
+be the default as much as it is currently.
+
+00:31:11.200 --> 00:31:14.200
+Some of what I’m suggesting here is&nbsp;
+ways players can change their own decks,&nbsp;&nbsp;
+
+00:31:14.200 --> 00:31:18.480
+but a lot of it comes down to Wizards of the Coast&nbsp;
+since they control what cards are printed, as well&nbsp;&nbsp;
+
+00:31:18.480 --> 00:31:24.080
+as the commander format as a whole now. Only time&nbsp;
+will tell what exactly they have in store for EDH,&nbsp;&nbsp;
+
+00:31:24.080 --> 00:31:28.680
+but there are some promising indicators. The&nbsp;
+sorts of soft hate cards I want to see more of&nbsp;&nbsp;
+
+00:31:28.680 --> 00:31:33.640
+are being printed—Magebane Lizard, Emperor&nbsp;
+of Bones, Aven Interruptor, Sunspine Lynx,&nbsp;&nbsp;
+
+00:31:33.640 --> 00:31:38.040
+and High Noon are a handful of designs I really&nbsp;
+like from this year, and there are others like&nbsp;&nbsp;
+
+00:31:38.040 --> 00:31:42.800
+Urza’s Sylex and Rug of Smothering from recent&nbsp;
+past years that are likewise good signs of things&nbsp;&nbsp;
+
+00:31:42.800 --> 00:31:47.880
+to come. The Valgavoth deck also serves as a&nbsp;
+notable milestone in precon design—the fact&nbsp;&nbsp;
+
+00:31:47.880 --> 00:31:52.320
+that Wizards of the Coast felt comfortable making&nbsp;
+a group slug deck full of the sort of damage-stax&nbsp;&nbsp;
+
+00:31:52.320 --> 00:31:56.680
+I mentioned earlier is cool and makes me&nbsp;
+curious about what’s to come. We’ve also&nbsp;&nbsp;
+
+00:31:56.680 --> 00:32:00.880
+seen a gradual increase in stax effects being&nbsp;
+stapled to cards with another primary purpose,&nbsp;&nbsp;
+
+00:32:00.880 --> 00:32:06.280
+such as in the case of Boromir Warden of the&nbsp;
+Tower. The stax cards of yore—Tabernacle,&nbsp;&nbsp;
+
+00:32:06.280 --> 00:32:11.040
+Winter Orb, Armageddon, Overburden—these&nbsp;
+aren’t going to be the future of the game,&nbsp;&nbsp;
+
+00:32:11.040 --> 00:32:15.760
+nor should they be. Hard stax provides a&nbsp;
+fun tool for the power gamers out there,&nbsp;&nbsp;
+
+00:32:15.760 --> 00:32:19.880
+but EDH isn’t going to be improved by putting a&nbsp;
+bunch of battlecruiser players through a trial&nbsp;&nbsp;
+
+00:32:19.880 --> 00:32:24.080
+by fire of the nastiest permanents that have&nbsp;
+ever been printed. This format will be at its&nbsp;&nbsp;
+
+00:32:24.080 --> 00:32:29.320
+most vibrant when it can find a balance between&nbsp;
+player agency and interactivity between players,&nbsp;&nbsp;
+
+00:32:29.320 --> 00:32:33.440
+where players can do their own thing but&nbsp;
+where that thing might need to take into&nbsp;&nbsp;
+
+00:32:33.440 --> 00:32:39.160
+account the actions of opponents, might have to&nbsp;
+navigate some challenges here and there. And,&nbsp;&nbsp;
+
+00:32:39.160 --> 00:32:44.600
+things we might call stax have a valid role&nbsp;
+to play in cultivating that sort of format.
+
+00:32:44.600 --> 00:32:48.800
+Thanks for making it to the end! And thanks to&nbsp;
+Archidekt for supporting the channel. Archidekt&nbsp;&nbsp;
+
+00:32:48.800 --> 00:32:52.880
+recently had a major UI update, and I’ve been&nbsp;
+enjoying the increased flexibility of the visual&nbsp;&nbsp;
+
+00:32:52.880 --> 00:32:58.000
+display as well as the extra analysis tools.&nbsp;
+A link to my decks is down in the description.&nbsp;&nbsp;
+
+00:32:58.000 --> 00:33:02.120
+Additional thanks to my patrons, some of whom&nbsp;
+are on screen now. If you want to join them,&nbsp;&nbsp;
+
+00:33:02.120 --> 00:33:06.200
+a link to my patreon is down in the description.&nbsp;
+Earlier today I uploaded some thoughts about the&nbsp;&nbsp;
+
+00:33:06.200 --> 00:33:09.800
+announcement last week—it’s not something I&nbsp;
+feel strongly enough about to want to make a&nbsp;&nbsp;
+
+00:33:09.800 --> 00:33:14.520
+public video yet, but if you want my thoughts&nbsp;
+that’s where you can find them. Alternatively,&nbsp;&nbsp;
+
+00:33:14.520 --> 00:33:18.000
+if you want some different thoughts of mine&nbsp;
+without paying me money, I was on the Magic&nbsp;&nbsp;
+
+00:33:18.000 --> 00:33:24.520
+Mirror Podcast with 3/3 Elk last week, and a link&nbsp;
+to that is in the description. Alright, bye now.
+

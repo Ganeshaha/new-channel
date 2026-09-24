@@ -1,0 +1,952 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.400 --> 00:00:05.360
+Interaction is a well-trodden question within&nbsp;
+the EDH community with raging debates over how&nbsp;&nbsp;
+
+00:00:05.360 --> 00:00:10.560
+much is too much, how little is too little, what&nbsp;
+types are the best, and what types are the rudest.&nbsp;&nbsp;
+
+00:00:10.560 --> 00:00:14.960
+I’ve thrown my hat in this ring before, but what&nbsp;
+has struck me recently is how many people seem&nbsp;&nbsp;
+
+00:00:14.960 --> 00:00:20.080
+to not really understand interaction as a&nbsp;
+concept, and what it is accomplishing for&nbsp;&nbsp;
+
+00:00:20.080 --> 00:00:25.120
+any given deck. As with many subjects, we as&nbsp;
+the EDH community have created lots of little&nbsp;&nbsp;
+
+00:00:25.120 --> 00:00:30.320
+myths about interaction and removal. When I say&nbsp;
+myths, I don’t mean strictly untrue statements,&nbsp;&nbsp;
+
+00:00:30.320 --> 00:00:35.520
+but rather kinda true things accepted as&nbsp;
+undeniable fact, or sometimes-true things&nbsp;&nbsp;
+
+00:00:35.520 --> 00:00:40.960
+overgeneralized to always be true. So, I wanna&nbsp;
+tackle some of these misunderstandings, and in&nbsp;&nbsp;
+
+00:00:40.960 --> 00:00:47.440
+the process drill into the fundamentals of what&nbsp;
+interaction does, why, and how best to use it.
+
+00:00:47.440 --> 00:00:51.120
+To start with, let’s talk about what’s&nbsp;
+worth considering alongside your removal&nbsp;&nbsp;
+
+00:00:51.120 --> 00:00:55.920
+when deckbuilding. I’ve occasionally gotten some&nbsp;
+flak because I tend to have a pretty wide scope&nbsp;&nbsp;
+
+00:00:55.920 --> 00:01:00.400
+of what I consider interaction and removal, and&nbsp;
+I’ll sometimes organize my interaction suites in&nbsp;&nbsp;
+
+00:01:00.400 --> 00:01:05.280
+ways that other people find unintuitive.&nbsp;
+Graveyard exiling is a form of removal,&nbsp;&nbsp;
+
+00:01:05.280 --> 00:01:09.920
+bounce spells are a form of removal, and defensive&nbsp;
+cards like propaganda are a form of removal,&nbsp;&nbsp;
+
+00:01:09.920 --> 00:01:14.160
+though the degree this label will fit can&nbsp;
+depend on the deck. I think the reason this&nbsp;&nbsp;
+
+00:01:14.160 --> 00:01:19.840
+rubs people wrong is because they have a very&nbsp;
+specific idea of what removal entails—removal&nbsp;&nbsp;
+
+00:01:19.840 --> 00:01:23.840
+is when you remove an opposing thing, and&nbsp;
+more specific tools like defensive cards,&nbsp;&nbsp;
+
+00:01:23.840 --> 00:01:28.480
+graveyard hate, protection, and pinpoint land&nbsp;
+destruction deserve to be placed in an entirely&nbsp;&nbsp;
+
+00:01:28.480 --> 00:01:33.680
+different mental category, their own boxes on&nbsp;
+a checklist. In some decks these things will&nbsp;&nbsp;
+
+00:01:33.680 --> 00:01:38.560
+warrant this sort of separation, but in many&nbsp;
+others doing this is a waste of time at best,&nbsp;&nbsp;
+
+00:01:38.560 --> 00:01:43.760
+and in the worst cases actively counterproductive&nbsp;
+to constructing a functional deck. No,&nbsp;&nbsp;
+
+00:01:43.760 --> 00:01:47.520
+instead of this sort of checklist approach,&nbsp;
+the best way to think about interaction is&nbsp;&nbsp;
+
+00:01:47.520 --> 00:01:52.240
+as a network of overlapping solutions&nbsp;
+to a number of specific gamestates.
+
+00:01:52.240 --> 00:01:56.640
+Let’s say an opponent plays Animate Dead to bring&nbsp;
+back an Archon of Cruelty, and let’s say this&nbsp;&nbsp;
+
+00:01:56.640 --> 00:02:01.600
+poses a problem to us—how can we shut this down&nbsp;
+before they start attacking us with it? Well,&nbsp;&nbsp;
+
+00:02:01.600 --> 00:02:04.640
+we could destroy the Archon of Cruelty&nbsp;
+with creature removal, we could destroy the&nbsp;&nbsp;
+
+00:02:04.640 --> 00:02:08.960
+Animate Dead with enchantment removal, we could&nbsp;
+counter the Animate Dead with a counterspell,&nbsp;&nbsp;
+
+00:02:08.960 --> 00:02:13.840
+and we could use instant speed graveyard hate to&nbsp;
+exile the Archon of Cruelty in response. There are&nbsp;&nbsp;
+
+00:02:13.840 --> 00:02:18.240
+some less common approaches as well, but let’s&nbsp;
+stick with these four. In this case, all four&nbsp;&nbsp;
+
+00:02:18.240 --> 00:02:22.480
+of these options would be ways of removing this&nbsp;
+threat, dealing with this gamestate that I’ve&nbsp;&nbsp;
+
+00:02:22.480 --> 00:02:27.360
+decided is problematic to us. I’ll allow myself a&nbsp;
+single cheeky comment here and point out that, for&nbsp;&nbsp;
+
+00:02:27.360 --> 00:02:33.440
+our purposes here, Abrade is not a removal spell,&nbsp;
+and Cremate is. For another example, let’s say our&nbsp;&nbsp;
+
+00:02:33.440 --> 00:02:38.000
+opponent is playing a Krenko deck, and is starting&nbsp;
+to pop off. Several goblins, a couple sources of&nbsp;&nbsp;
+
+00:02:38.000 --> 00:02:43.760
+untapping, an Anger in the graveyard, the works. A&nbsp;
+piece of instant speed creature removal could deal&nbsp;&nbsp;
+
+00:02:43.760 --> 00:02:47.440
+with this, so long as the Krenko isn’t wearing&nbsp;
+a Swiftfoot Boots or something. However, there&nbsp;&nbsp;
+
+00:02:47.440 --> 00:02:51.200
+are also a number of less absolute ways to slow&nbsp;
+down or survive this sort of play—you could have&nbsp;&nbsp;
+
+00:02:51.200 --> 00:02:55.040
+a Soul Sister out to allow your life total to keep&nbsp;
+pace with the number of goblins on board, or you&nbsp;&nbsp;
+
+00:02:55.040 --> 00:02:59.200
+could have a defensive card like a Ghostly Prison&nbsp;
+already in play to limit the number of attackers.&nbsp;&nbsp;
+
+00:02:59.200 --> 00:03:05.392
+You could even have a Thalia, Heretic Cathar to&nbsp;
+have the goblins enter tapped, or have a Rakdos&nbsp;&nbsp;
+
+00:03:05.392 --> 00:03:08.080
+Charm at the ready to explode your opponent’s&nbsp;
+life total as punishment for their token crimes.
+
+00:03:08.080 --> 00:03:12.800
+Now what point am I trying to make here,&nbsp;
+you might ask? Put simply, in EDH problems&nbsp;&nbsp;
+
+00:03:12.800 --> 00:03:17.040
+are often more complicated than one single&nbsp;
+problem permanent that needs to be removed,&nbsp;&nbsp;
+
+00:03:17.040 --> 00:03:21.520
+and even more complicated than just being the&nbsp;
+occasional spooky board that needs wiping.&nbsp;&nbsp;
+
+00:03:21.520 --> 00:03:26.240
+Single target removal and generic board wipes&nbsp;
+can be the solution to a lot of problems, and&nbsp;&nbsp;
+
+00:03:26.240 --> 00:03:30.640
+I’d certainly never tell you to avoid these cards,&nbsp;
+but they’re far from the only options available,&nbsp;&nbsp;
+
+00:03:30.640 --> 00:03:34.880
+and a lot of times they won’t be the most&nbsp;
+efficient way to tackle a given problem. Sources&nbsp;&nbsp;
+
+00:03:34.880 --> 00:03:39.600
+of graveyard exile are generally extremely cheap&nbsp;
+per mana, as are stax cards, defensive permanents,&nbsp;&nbsp;
+
+00:03:39.600 --> 00:03:43.920
+and other things that stick around to hinder&nbsp;
+multiple opposing plays. As a result, it’s&nbsp;&nbsp;
+
+00:03:43.920 --> 00:03:47.600
+beneficial to get to know these types of cards,&nbsp;
+and the sorts of decks and metagames where they&nbsp;&nbsp;
+
+00:03:47.600 --> 00:03:51.840
+could play the role of more traditional removal&nbsp;
+better. When newer players are being inducted into&nbsp;&nbsp;
+
+00:03:51.840 --> 00:03:56.720
+the ways of the commander format, discussions of&nbsp;
+interaction tend to center card types as a thing&nbsp;&nbsp;
+
+00:03:56.720 --> 00:04:01.680
+to focus on—you want a way to hit creatures,&nbsp;
+to hit artifacts, to hit enchantments, and so&nbsp;&nbsp;
+
+00:04:01.680 --> 00:04:07.360
+on. To be clear, I have no problem with this—card&nbsp;
+types are undoubtedly a good thing to think about&nbsp;&nbsp;
+
+00:04:07.360 --> 00:04:12.560
+as a starting point. However, as you get more&nbsp;
+acquainted with common play patterns of decks,&nbsp;&nbsp;
+
+00:04:12.560 --> 00:04:17.200
+and which ones you tend to have a problem with,&nbsp;
+it becomes much more useful to focus on situations&nbsp;&nbsp;
+
+00:04:17.200 --> 00:04:22.960
+that need to be remedied. Some decks won’t care&nbsp;
+about certain types of threats as much—a go-wide&nbsp;&nbsp;
+
+00:04:22.960 --> 00:04:27.360
+tokens deck isn’t going to be as spooky if you’re&nbsp;
+playing a thick-boarded midrange deck, a pinging&nbsp;&nbsp;
+
+00:04:27.360 --> 00:04:30.880
+engine isn’t going to be as spooky if you’re&nbsp;
+playing a deck with a good amount of lifegain,&nbsp;&nbsp;
+
+00:04:30.880 --> 00:04:35.200
+decks with more explosive plays aren’t going to&nbsp;
+be as spooky if you’re already packing a handful&nbsp;&nbsp;
+
+00:04:35.200 --> 00:04:39.520
+of hate pieces, and so on. If you’re playing&nbsp;
+a deck with a focus on some defensive cards,&nbsp;&nbsp;
+
+00:04:39.520 --> 00:04:43.680
+you’re already going to be somewhat shielded from&nbsp;
+a lot of plays that involve large combat steps,&nbsp;&nbsp;
+
+00:04:43.680 --> 00:04:46.560
+and if you’re playing a deck that runs&nbsp;
+some counterspells for protection,&nbsp;&nbsp;
+
+00:04:46.560 --> 00:04:51.200
+you’re already going to have some ways to nail&nbsp;
+critical centerpiece cards or combos. Likewise,&nbsp;&nbsp;
+
+00:04:51.200 --> 00:04:55.360
+an interaction suite that does a good job&nbsp;
+handling the threats of one table might not&nbsp;&nbsp;
+
+00:04:55.360 --> 00:04:59.680
+do as good a job at a different table—you need&nbsp;
+to know the environment you’re stepping into.
+
+00:04:59.680 --> 00:05:03.040
+To clarify, if what I’m saying sounds&nbsp;
+overwhelming, you shouldn’t worry about it&nbsp;&nbsp;
+
+00:05:03.040 --> 00:05:07.920
+too much. What I’m describing is what takes place&nbsp;
+during a potentially months-long process of tuning&nbsp;&nbsp;
+
+00:05:07.920 --> 00:05:11.920
+and pruning a deck, not necessarily what you&nbsp;
+should be doing when you’re first putting together&nbsp;&nbsp;
+
+00:05:11.920 --> 00:05:16.880
+a deck. It’s fine if you’re using templates or&nbsp;
+rough rules of thumb to start out with, but as&nbsp;&nbsp;
+
+00:05:16.880 --> 00:05:22.080
+you get deeper into tuning an individual deck,&nbsp;
+and as you get more experienced as a deckbuilder,&nbsp;&nbsp;
+
+00:05:22.080 --> 00:05:26.800
+it’s generally good to move away from deciding&nbsp;
+counts of different cards using a simple template.
+
+00:05:26.800 --> 00:05:31.200
+There’s no way to know exactly how many removal&nbsp;
+spells or overall interaction spells you need&nbsp;&nbsp;
+
+00:05:31.200 --> 00:05:35.120
+because different forms of removal will have&nbsp;
+overlap in the profile of what they can answer,&nbsp;&nbsp;
+
+00:05:35.120 --> 00:05:39.120
+and different interaction spells will have&nbsp;
+different degrees in how much they hinder opposing&nbsp;&nbsp;
+
+00:05:39.120 --> 00:05:47.280
+plays. Some of my decks run interaction counts in&nbsp;
+the teens, but others might include 20-something&nbsp;&nbsp;
+
+00:05:47.280 --> 00:05:51.600
+or even 30-something cards that interact&nbsp;
+with the resources of opponents in some way,&nbsp;&nbsp;
+
+00:05:51.600 --> 00:05:57.440
+excluding life total. And, excluding life total&nbsp;
+isn’t even necessarily a fair thing to do. I don’t&nbsp;&nbsp;
+
+00:05:57.440 --> 00:06:01.680
+know if you’ve ever watched how a person with 14&nbsp;
+life conducts themself within a commander game,&nbsp;&nbsp;
+
+00:06:01.680 --> 00:06:06.160
+but it’s generally very different than how&nbsp;
+somebody with 34 life conducts themself.&nbsp;&nbsp;
+
+00:06:06.160 --> 00:06:10.480
+That 14 life total person will often find themself&nbsp;
+holding back on attacks and chump-blocking more&nbsp;&nbsp;
+
+00:06:10.480 --> 00:06:13.840
+often than they’d like, and they’re also often&nbsp;
+going to be more conservative in the sorts of&nbsp;&nbsp;
+
+00:06:13.840 --> 00:06:18.320
+spells they play. Tapping out to draw a bunch of&nbsp;
+cards or play some powerful amplifier permanent&nbsp;&nbsp;
+
+00:06:18.320 --> 00:06:22.400
+is perfectly commonplace for somebody at&nbsp;
+a higher life total, but it’s a terrifying&nbsp;&nbsp;
+
+00:06:22.400 --> 00:06:27.600
+proposition when finding just a little bit of&nbsp;
+extra damage could let an opponent swing lethal.
+
+00:06:27.600 --> 00:06:31.040
+For that reason, having a higher degree of&nbsp;
+life total pressure can often allow for a&nbsp;&nbsp;
+
+00:06:31.040 --> 00:06:35.200
+bit smaller of a removal count. All sorts of&nbsp;
+late game permanents that would generally be&nbsp;&nbsp;
+
+00:06:35.200 --> 00:06:39.280
+good candidates for removal become a lot less&nbsp;
+of a concern if their controller is in range of&nbsp;&nbsp;
+
+00:06:39.280 --> 00:06:43.840
+being rapidly focused down. This is one reason&nbsp;
+why Magister Sphinx is such a useful card in my&nbsp;&nbsp;
+
+00:06:43.840 --> 00:06:48.560
+Sharuum Slide deck—the deck generally looks to&nbsp;
+build toward a late-game win, so having a way to&nbsp;&nbsp;
+
+00:06:48.560 --> 00:06:53.120
+put an opponent on death’s door if they’re pushing&nbsp;
+out of control a bit too early is a sweet escape&nbsp;&nbsp;
+
+00:06:53.120 --> 00:06:57.040
+valve that takes a little bit of pressure off the&nbsp;
+deck’s suite of control spells. Overall, though,&nbsp;&nbsp;
+
+00:06:57.040 --> 00:07:03.440
+this life total rule is going to be most pertinent&nbsp;
+in aggro decks, and especially in Voltron decks,&nbsp;&nbsp;
+
+00:07:03.440 --> 00:07:08.320
+which typically look to knock players down one&nbsp;
+at a time with commander damage. Careful threat&nbsp;&nbsp;
+
+00:07:08.320 --> 00:07:12.640
+assessment and a few swings with a big commander&nbsp;
+can be worth countless pieces of removal,&nbsp;&nbsp;
+
+00:07:12.640 --> 00:07:16.880
+and for the pieces of removal that do exist&nbsp;
+in a deck, it can be beneficial to have them&nbsp;&nbsp;
+
+00:07:16.880 --> 00:07:20.960
+be targeted more toward the stages of the game&nbsp;
+that are worth worrying about. Get rid of some&nbsp;&nbsp;
+
+00:07:20.960 --> 00:07:24.960
+blockers, kill something that can let an opponent&nbsp;
+stabilize, remove a bigger mana dork that might&nbsp;&nbsp;
+
+00:07:24.960 --> 00:07:29.280
+let your opponent contest you. Flame Slash isn’t&nbsp;
+going to be a great card in most slower decks&nbsp;&nbsp;
+
+00:07:29.280 --> 00:07:33.360
+because it misses a whole lot of stuff you’ll&nbsp;
+see in the later stages of a commander game,&nbsp;&nbsp;
+
+00:07:33.360 --> 00:07:37.840
+but that’s not super important if your most&nbsp;
+important turns are going to be happening earlier.
+
+00:07:37.840 --> 00:07:41.200
+Ultimately, all I’m trying to say here is&nbsp;
+that different decks will utilize removal&nbsp;&nbsp;
+
+00:07:41.200 --> 00:07:44.800
+for very different purposes. If you’re&nbsp;
+playing a creature-based aggressive deck,&nbsp;&nbsp;
+
+00:07:44.800 --> 00:07:48.160
+you might want to focus on options that can&nbsp;
+clear out blockers, and you likely won’t want&nbsp;&nbsp;
+
+00:07:48.160 --> 00:07:52.400
+much in the way of conventional board wipes unless&nbsp;
+you have ways to make them one-sided. If you’re&nbsp;&nbsp;
+
+00:07:52.400 --> 00:07:55.680
+playing a combo deck, you’ll want to focus your&nbsp;
+interaction on dealing with obstacles to your&nbsp;&nbsp;
+
+00:07:55.680 --> 00:08:00.560
+combo, and spending removal on only the most&nbsp;
+imminent of threats. In either of these cases,&nbsp;&nbsp;
+
+00:08:00.560 --> 00:08:04.560
+your interaction will exist predominantly&nbsp;
+to buy yourself time, and things opponents&nbsp;&nbsp;
+
+00:08:04.560 --> 00:08:08.560
+have that require time on their end like a&nbsp;
+draw or mana engine might not be a concern&nbsp;&nbsp;
+
+00:08:08.560 --> 00:08:12.960
+to you at all. By contrast, if you’re playing&nbsp;
+a slower, more controlling deck, you’ll want&nbsp;&nbsp;
+
+00:08:12.960 --> 00:08:17.120
+to focus more of your removal on knocking out&nbsp;
+resource generation such as card draw engines,&nbsp;&nbsp;
+
+00:08:17.120 --> 00:08:21.520
+since not letting opponents get ahead of you&nbsp;
+will be important in winning in the long game.&nbsp;&nbsp;
+
+00:08:21.520 --> 00:08:25.680
+You also might want to focus on interaction that&nbsp;
+targets multiple things or which accomplishes&nbsp;&nbsp;
+
+00:08:25.680 --> 00:08:30.480
+multiple tasks, since those tend to be more&nbsp;
+card-efficient. These cards do tend to cost&nbsp;&nbsp;
+
+00:08:30.480 --> 00:08:34.960
+more mana, though, which brings me to the final&nbsp;
+little myth I want to tackle. Let’s talk about the&nbsp;&nbsp;
+
+00:08:34.960 --> 00:08:40.240
+interaction staples of the format, specifically&nbsp;
+when they should be played—or not played.
+
+00:08:40.240 --> 00:08:43.840
+Typically, the forms of removal considered&nbsp;
+“staples” are ones that cost very little&nbsp;&nbsp;
+
+00:08:43.840 --> 00:08:48.640
+mana and hit a limited range of targets, such as&nbsp;
+Nature’s Claim, or which cost a bit more mana but&nbsp;&nbsp;
+
+00:08:48.640 --> 00:08:53.200
+which hit a variety of different targets, such as&nbsp;
+Generous Gift. There are also a handful of board&nbsp;&nbsp;
+
+00:08:53.200 --> 00:08:56.480
+wipes that also end up heavily played because&nbsp;
+they’re just hands-down the best thing available&nbsp;&nbsp;
+
+00:08:56.480 --> 00:09:01.200
+in the color. Now, am I about to explain to you&nbsp;
+why these cards are garbage that you need to rip&nbsp;&nbsp;
+
+00:09:01.200 --> 00:09:06.960
+out of your deck? No. In fact, I’m about to tell&nbsp;
+you exactly why these cards are generally so good,&nbsp;&nbsp;
+
+00:09:06.960 --> 00:09:10.960
+because I think a lot of people have a tendency to&nbsp;
+accept that these cards are always the best option&nbsp;&nbsp;
+
+00:09:10.960 --> 00:09:16.000
+and treat it as dogma, a primordial and unshakable&nbsp;
+feature of our world alongside gravity and the&nbsp;&nbsp;
+
+00:09:16.000 --> 00:09:20.720
+rising of the sun, and this does this cards a bit&nbsp;
+of a disservice. Let’s start with the flexible&nbsp;&nbsp;
+
+00:09:20.720 --> 00:09:27.040
+removal spells—why are Beast Within, Chaos Warp,&nbsp;
+and Generous Gift good cards? Right off the bat,&nbsp;&nbsp;
+
+00:09:27.040 --> 00:09:32.800
+let’s make something clear—one of these cards I’m&nbsp;
+a lot less likely to play than the other two. Can&nbsp;&nbsp;
+
+00:09:32.800 --> 00:09:37.920
+you guess which one? If you said Generous Gift,&nbsp;
+you’re correct, and that’s not an insult to the&nbsp;&nbsp;
+
+00:09:37.920 --> 00:09:42.400
+card itself. It’s functionally identical to Beast&nbsp;
+Within, after all, unless your opponent is playing&nbsp;&nbsp;
+
+00:09:42.400 --> 00:09:49.200
+an Elephant deck. No, it’s merely a statement&nbsp;
+that Beast Within and Chaos Warp are exceptional&nbsp;&nbsp;
+
+00:09:49.200 --> 00:09:54.400
+cards—they are hard removal in colors that really&nbsp;
+don’t have much hard removal for creatures,&nbsp;&nbsp;
+
+00:09:54.400 --> 00:09:58.960
+and in the case of Chaos Warp, in a color that&nbsp;
+lacks enchantment removal on top of that. There&nbsp;&nbsp;
+
+00:09:58.960 --> 00:10:02.720
+are several two color combinations in which&nbsp;
+these will be some of the only removal for&nbsp;&nbsp;
+
+00:10:02.720 --> 00:10:07.840
+certain permanent types you’ll get, and that’s to&nbsp;
+say nothing of our monocolored compatriots. So,&nbsp;&nbsp;
+
+00:10:07.840 --> 00:10:11.840
+you won’t catch me wasting my breath trying to get&nbsp;
+people to take these out of their decks. However,&nbsp;&nbsp;
+
+00:10:11.840 --> 00:10:16.400
+there are also color combinations where you’ll&nbsp;
+have access to lots of other options—Beast Within&nbsp;&nbsp;
+
+00:10:16.400 --> 00:10:19.200
+won’t feel as essential in a green-black&nbsp;
+deck since you’re going to have a number&nbsp;&nbsp;
+
+00:10:19.200 --> 00:10:24.400
+of other reliable ways to remove creatures, and&nbsp;
+as I alluded to earlier, any deck that includes&nbsp;&nbsp;
+
+00:10:24.400 --> 00:10:28.880
+white is going to have ways to deal with a&nbsp;
+variety of permanent types already available.
+
+00:10:28.880 --> 00:10:32.320
+So, does that mean that these cards aren’t worth&nbsp;
+playing in color combinations where they’re not in&nbsp;&nbsp;
+
+00:10:32.320 --> 00:10:37.360
+some wholly unique niche? Not necessarily. For&nbsp;
+one, these hit lands, though the importance of&nbsp;&nbsp;
+
+00:10:37.360 --> 00:10:41.680
+that fact can vary a lot depending on the power&nbsp;
+level and matchup you find yourself in. Secondly,&nbsp;&nbsp;
+
+00:10:41.680 --> 00:10:45.840
+if your interaction suite is relatively narrow,&nbsp;
+somewhere in the ballpark of 8-12 cards,&nbsp;&nbsp;
+
+00:10:45.840 --> 00:10:50.800
+there will be a lot of utility in having each of&nbsp;
+those cards be as flexible as possible. If I’m&nbsp;&nbsp;
+
+00:10:50.800 --> 00:10:55.840
+packing 9 pieces of interaction, after my first&nbsp;
+seven draws of the game plus my opening hand, I’ve&nbsp;&nbsp;
+
+00:10:55.840 --> 00:11:00.480
+on average seen about one and a quarter of these.&nbsp;
+If I’m running 14 pieces of interaction, I’ve seen&nbsp;&nbsp;
+
+00:11:00.480 --> 00:11:05.600
+around 2 instead, and if I’m running 18 pieces of&nbsp;
+interaction that number is more than 2 and a half.&nbsp;&nbsp;
+
+00:11:05.600 --> 00:11:09.600
+If I have a diverse interaction suite and I’m&nbsp;
+seeing multiple pieces of interaction pretty early&nbsp;&nbsp;
+
+00:11:09.600 --> 00:11:13.680
+into a game, there’s a good chance I’ll have a way&nbsp;
+to deal with a specific problem unfolding in front&nbsp;&nbsp;
+
+00:11:13.680 --> 00:11:18.720
+of me, but if that average is lower, running more&nbsp;
+of these versatile staples will likely be a good&nbsp;&nbsp;
+
+00:11:18.720 --> 00:11:23.760
+idea. Personally I prefer to run a higher count of&nbsp;
+interaction that’s more carefully integrated into&nbsp;&nbsp;
+
+00:11:23.760 --> 00:11:28.480
+what my deck is doing, but there will be times&nbsp;
+when it makes sense to run a lower count—some&nbsp;&nbsp;
+
+00:11:28.480 --> 00:11:32.960
+decks can threaten player kills or wins faster,&nbsp;
+in which case removal won’t be as necessary, and&nbsp;&nbsp;
+
+00:11:32.960 --> 00:11:37.040
+other decks will be tight on deck space and might&nbsp;
+struggle to integrate removal into what they’re&nbsp;&nbsp;
+
+00:11:37.040 --> 00:11:41.520
+doing. Regardless, versatility of removal is going&nbsp;
+to be one of the deckbuilding knobs that you can&nbsp;&nbsp;
+
+00:11:41.520 --> 00:11:46.640
+modulate, and it’s good to have an understanding&nbsp;
+of when it’s more important and when it’s less.
+
+00:11:46.640 --> 00:11:52.080
+Now let’s get to the cheapest removal out there,&nbsp;
+your 0, 1, and 2 mana options. These are powerful&nbsp;&nbsp;
+
+00:11:52.080 --> 00:11:56.560
+for a very simple reason—they’re just mana&nbsp;
+efficient. If you’re exiling a 4 or 5 mana&nbsp;&nbsp;
+
+00:11:56.560 --> 00:12:00.800
+creature with a Swords to Plowshares, that’s&nbsp;
+going to be a significant tempo advantage. This&nbsp;&nbsp;
+
+00:12:00.800 --> 00:12:05.280
+will be most relevant in a fast, proactive deck,&nbsp;
+one that is mostly dialed in on its own gameplan&nbsp;&nbsp;
+
+00:12:05.280 --> 00:12:08.800
+and just needs little bits of removal that it&nbsp;
+can fit in around the edges of turns in order&nbsp;&nbsp;
+
+00:12:08.800 --> 00:12:14.640
+to prevent opponents from causing problems. The&nbsp;
+most extreme cases of this are in cEDH—here,&nbsp;&nbsp;
+
+00:12:14.640 --> 00:12:19.280
+almost all instant-speed interaction is going&nbsp;
+to be 0-1 mana, and you’ll sometimes see 1&nbsp;&nbsp;
+
+00:12:19.280 --> 00:12:23.360
+mana bounce spells played because it’s just&nbsp;
+that worthwhile to temporarily deal with any&nbsp;&nbsp;
+
+00:12:23.360 --> 00:12:27.920
+nonland permanent for 1 mana. Even if you’re&nbsp;
+not playing some insane combo deck trying to&nbsp;&nbsp;
+
+00:12:27.920 --> 00:12:32.800
+pop off on turn 4, low cost removal options&nbsp;
+can still feel quite good if you’re willing&nbsp;&nbsp;
+
+00:12:32.800 --> 00:12:37.520
+to play a lot of card draw. Because that’s the&nbsp;
+downside of these—they’re single target removal,&nbsp;&nbsp;
+
+00:12:37.520 --> 00:12:42.320
+and some of the most popular options actively&nbsp;
+give your opponent a thing, so by default you’re&nbsp;&nbsp;
+
+00:12:42.320 --> 00:12:46.720
+going to be falling behind the table in cards.&nbsp;
+If you’re happy to go ham on card draw in order&nbsp;&nbsp;
+
+00:12:46.720 --> 00:12:51.120
+to counteract this fact, that’s fine enough,&nbsp;
+but going for removal that can hit more targets&nbsp;&nbsp;
+
+00:12:51.120 --> 00:12:55.840
+or which provides some other benefit can really&nbsp;
+help a deck to keep up in cards and run smoothly,&nbsp;&nbsp;
+
+00:12:55.840 --> 00:12:58.960
+especially if there’s a lot of elements to&nbsp;
+fit into a deck that will be taxing your&nbsp;&nbsp;
+
+00:12:58.960 --> 00:13:03.840
+deck space. If you want a stronger sense of how to&nbsp;
+densify a removal suite like this, I’d recommend&nbsp;&nbsp;
+
+00:13:03.840 --> 00:13:09.680
+watching my removal video from 11 months ago,&nbsp;
+because that was a large part of that video.
+
+00:13:09.680 --> 00:13:14.800
+I said earlier that 0-2 mana removal is strong&nbsp;
+due to its mana efficiency, and for some use&nbsp;&nbsp;
+
+00:13:14.800 --> 00:13:19.440
+cases that’s actually kind of an understatement.&nbsp;
+Specifically, any time a deck is holding up mana&nbsp;&nbsp;
+
+00:13:19.440 --> 00:13:24.320
+to use interaction at instant speed, there is&nbsp;
+effectively a mana cost associated with that,&nbsp;&nbsp;
+
+00:13:24.320 --> 00:13:30.480
+since if the interaction wasn’t needed the mana&nbsp;
+goes unspent. This is one reason why cheap,&nbsp;&nbsp;
+
+00:13:30.480 --> 00:13:34.720
+instant-speed kill spells are popular, and it’s&nbsp;
+also why low-cost counterspells are especially&nbsp;&nbsp;
+
+00:13:34.720 --> 00:13:40.240
+highly prioritized in EDH. And that’s good and&nbsp;
+fine—a deck with mostly sorcery speed plays will&nbsp;&nbsp;
+
+00:13:40.240 --> 00:13:45.120
+want its counterspells as cheaply-costed&nbsp;
+as possible—but as with low-cost removal,&nbsp;&nbsp;
+
+00:13:45.120 --> 00:13:49.760
+the issue comes when players treat this preference&nbsp;
+as unshakeable dogma. 3 mana counterspells aren’t&nbsp;&nbsp;
+
+00:13:49.760 --> 00:13:54.960
+inherently bad, nor are 4 mana counterspells or&nbsp;
+5 mana counterspells—what matters is whether you&nbsp;&nbsp;
+
+00:13:54.960 --> 00:13:58.800
+have other things to do with that mana you hold&nbsp;
+up. The simplest version of this is in something&nbsp;&nbsp;
+
+00:13:58.800 --> 00:14:03.600
+like a draw-go style control deck. My friend&nbsp;
+Hans has a Lilah, Undefeated Slickshot deck&nbsp;&nbsp;
+
+00:14:03.600 --> 00:14:08.640
+that follows a simple premise—there’s 20 blue red&nbsp;
+instants that draw cards and/or remove things,&nbsp;&nbsp;
+
+00:14:08.640 --> 00:14:12.160
+and once Lilah is on the board the deck&nbsp;
+just plays very reactively, mostly only&nbsp;&nbsp;
+
+00:14:12.160 --> 00:14:16.560
+casting plotted spells on its own turn, a thing&nbsp;
+that doesn’t require mana. This allows it to&nbsp;&nbsp;
+
+00:14:16.560 --> 00:14:20.800
+play a suite of exclusively high-mana-cost&nbsp;
+counterspells, which can have backbreaking&nbsp;&nbsp;
+
+00:14:20.800 --> 00:14:25.840
+upsides compared to their low-cost counterparts.&nbsp;
+Aethersnatch fully yoinks an opposing spell,&nbsp;&nbsp;
+
+00:14:25.840 --> 00:14:30.160
+Sublime Epiphany does a whole bunch of stuff,&nbsp;
+and ending the turn with Time Stop in response&nbsp;&nbsp;
+
+00:14:30.160 --> 00:14:35.040
+to a critical main phase spell or ability&nbsp;
+can be equal parts hilarious and devastating.
+
+00:14:35.040 --> 00:14:39.040
+You might argue that this is niche advice, since&nbsp;
+most decks aren’t going to be playing at instant&nbsp;&nbsp;
+
+00:14:39.040 --> 00:14:43.680
+speed, but it’s nonetheless good to keep in mind&nbsp;
+as an option. The other way to have higher-costed&nbsp;&nbsp;
+
+00:14:43.680 --> 00:14:48.720
+options make sense is by having unspent mana&nbsp;
+rollover between turns in some way. Storage&nbsp;&nbsp;
+
+00:14:48.720 --> 00:14:53.120
+lands or a Kruphix-adjacent commander might&nbsp;
+come to mind here, but the most well-supported&nbsp;&nbsp;
+
+00:14:53.120 --> 00:14:57.520
+option for this is treasures—you can spend&nbsp;
+treasures on counterspells if they’re needed,&nbsp;&nbsp;
+
+00:14:57.520 --> 00:15:01.760
+and if they aren't needed the treasures get to&nbsp;
+stick around. Finally, there are also a smaller&nbsp;&nbsp;
+
+00:15:01.760 --> 00:15:06.000
+number of counterspells with some built-in&nbsp;
+modality. I’m a big fan of Mystic Confluence,&nbsp;&nbsp;
+
+00:15:06.000 --> 00:15:10.640
+and Cryptic Command and Thassa’s Intervention are&nbsp;
+other cards that also feel fine enough played for&nbsp;&nbsp;
+
+00:15:10.640 --> 00:15:15.120
+their other modes. This is also why Three Steps&nbsp;
+Ahead has broken the three mana counterspell&nbsp;&nbsp;
+
+00:15:15.120 --> 00:15:19.440
+mold and actually seen decent levels of&nbsp;
+play—it can be a three mana counterspell,&nbsp;&nbsp;
+
+00:15:19.440 --> 00:15:23.600
+but if it’s not needed it can also be a three&nbsp;
+mana filtering spell, and it can also soak up&nbsp;&nbsp;
+
+00:15:23.600 --> 00:15:28.480
+extra mana with decently mana-efficient results.&nbsp;
+There aren’t a ton of amazing modal counterspells&nbsp;&nbsp;
+
+00:15:28.480 --> 00:15:32.240
+at the moment, but this is definitely an&nbsp;
+area that I’d keep an eye on, and if we&nbsp;&nbsp;
+
+00:15:32.240 --> 00:15:36.880
+see more options like this printed I could see&nbsp;
+EDH shifting toward higher-costed counterspells.
+
+00:15:36.880 --> 00:15:40.960
+As a final note, counterspells are one of the&nbsp;
+rare types of card that will consistently embody&nbsp;&nbsp;
+
+00:15:40.960 --> 00:15:45.440
+multiple roles in decks—they’re a form of removal&nbsp;
+in a sense since they can nail pivotal spells from&nbsp;&nbsp;
+
+00:15:45.440 --> 00:15:50.000
+opponents, and they’re useful for protection&nbsp;
+since they can counter opposing interaction.&nbsp;&nbsp;
+
+00:15:50.000 --> 00:15:54.400
+When I’m deckbuilding, how I categorize them will&nbsp;
+depend a lot on how important protection is for&nbsp;&nbsp;
+
+00:15:54.400 --> 00:15:59.040
+my gameplan. If I expect to have critical plays my&nbsp;
+opponents will be trying to answer, I’ll generally&nbsp;&nbsp;
+
+00:15:59.040 --> 00:16:03.360
+either put counterspells in their own category,&nbsp;
+or lump them into a protection category along&nbsp;&nbsp;
+
+00:16:03.360 --> 00:16:07.920
+with other sorts of protection cards. Sometimes&nbsp;
+I’ll even throw recursion spells into a protection&nbsp;&nbsp;
+
+00:16:07.920 --> 00:16:12.320
+category as well if there are critical permanents&nbsp;
+to protect, which can help with conceptualizing&nbsp;&nbsp;
+
+00:16:12.320 --> 00:16:15.920
+a deck so long as you can keep in mind that&nbsp;
+different cards are accomplishing the protection&nbsp;&nbsp;
+
+00:16:15.920 --> 00:16:20.880
+task in different ways. On the other hand, if I&nbsp;
+have less to protect and I expect my counterspells&nbsp;&nbsp;
+
+00:16:20.880 --> 00:16:25.360
+to be mostly aimed at stopping my opponents’&nbsp;
+plays, putting them in their own category is less&nbsp;&nbsp;
+
+00:16:25.360 --> 00:16:29.520
+helpful for understanding my deck, and I’m more&nbsp;
+likely to lump them in with the other interaction&nbsp;&nbsp;
+
+00:16:29.520 --> 00:16:34.560
+in a deck. And, that’s what this is about—how&nbsp;
+you categorize your cards matters for being able&nbsp;&nbsp;
+
+00:16:34.560 --> 00:16:38.880
+to understand your own deck and make sure you’re&nbsp;
+able to accomplish the different tasks you want to&nbsp;&nbsp;
+
+00:16:38.880 --> 00:16:43.600
+accomplish. My Sharuum Slide deck does use its&nbsp;
+seven counterspells for protection sometimes,&nbsp;&nbsp;
+
+00:16:43.600 --> 00:16:47.520
+but I keep these cards in the broader control&nbsp;
+category because these cards are a bit too messy&nbsp;&nbsp;
+
+00:16:47.520 --> 00:16:51.680
+in what they accomplish to put into a standalone&nbsp;
+category. Three of them are counterspells with&nbsp;&nbsp;
+
+00:16:51.680 --> 00:16:56.800
+cycling that can be used as fuel for Astral Slide,&nbsp;
+one also serves as a flickerable removal engine,&nbsp;&nbsp;
+
+00:16:56.800 --> 00:17:01.440
+one of them has transmute, and how am I even&nbsp;
+supposed to categorize what Nimble Obstructionist&nbsp;&nbsp;
+
+00:17:01.440 --> 00:17:06.160
+does? In this case, the interaction suite of this&nbsp;
+deck is too convoluted and multifaceted to be&nbsp;&nbsp;
+
+00:17:06.160 --> 00:17:10.880
+worth trying to make more digestible, and I know&nbsp;
+any overhaul of it is going to require a whole&nbsp;&nbsp;
+
+00:17:10.880 --> 00:17:16.560
+lot of effort anyway. The one aspect of my control&nbsp;
+suite I do differentiate with a subcategory is the&nbsp;&nbsp;
+
+00:17:16.560 --> 00:17:21.360
+creatures with ETBs since building flicker-based&nbsp;
+engines to suppress opponents is a key part of the&nbsp;&nbsp;
+
+00:17:21.360 --> 00:17:26.880
+deck, and if I click the category in Archidekt&nbsp;
+to select those cards this becomes evident.
+
+00:17:26.880 --> 00:17:30.320
+I have other decks I could go into detail&nbsp;
+discussing the interaction suites of and&nbsp;&nbsp;
+
+00:17:30.320 --> 00:17:34.880
+how I categorize them, but that would pretty&nbsp;
+well destroy the pacing of this video. However,&nbsp;&nbsp;
+
+00:17:34.880 --> 00:17:38.320
+in preparation for MagicCon Vegas I’m&nbsp;
+doing audits of a bunch of my decks,&nbsp;&nbsp;
+
+00:17:38.320 --> 00:17:41.760
+and so I’m releasing a bonus segment of how the&nbsp;
+interaction suites of each of my decks are looking&nbsp;&nbsp;
+
+00:17:41.760 --> 00:17:45.760
+and what changes I’m looking to make before&nbsp;
+Vegas. Some of these decks I haven’t visited&nbsp;&nbsp;
+
+00:17:45.760 --> 00:17:51.120
+a whole lot lately, so it’s kinda fun evaluating&nbsp;
+the decisions of my past self. To access that,&nbsp;&nbsp;
+
+00:17:51.120 --> 00:17:55.280
+you can either join my Patreon or my newly&nbsp;
+launched YouTube membership—this video will&nbsp;&nbsp;
+
+00:17:55.280 --> 00:17:59.920
+be both places. With that said, thanks for&nbsp;
+watching, and here’s a preview of that video.
+

@@ -1,0 +1,940 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.160 --> 00:00:03.040
+At a panel I was hosting during&nbsp;
+MagicCon Vegas a few weeks ago,&nbsp;&nbsp;
+
+00:00:03.040 --> 00:00:06.800
+an audience member asked a question&nbsp;
+that really got me thinking:
+
+00:00:06.800 --> 00:00:12.080
+“I’ve been trying to build a hidden&nbsp;
+commander and I don’t know how to&nbsp;&nbsp;
+
+00:00:12.080 --> 00:00:18.160
+make it work. It’s the Sibsig Ceremony: three&nbsp;
+black, creature spells cost 2 less to cast,&nbsp;&nbsp;
+
+00:00:18.160 --> 00:00:21.520
+and whenever a creature you&nbsp;
+control enters, if you cast it,&nbsp;&nbsp;
+
+00:00:21.520 --> 00:00:30.240
+destroy it and then you get a token…. How do&nbsp;
+I make weird niche hidden commanders work?”
+
+00:00:30.240 --> 00:00:35.280
+Hidden commanders are an interesting subject, but&nbsp;
+they definitely aren’t all made equal. I responded&nbsp;&nbsp;
+
+00:00:35.280 --> 00:00:40.320
+to this person’s question, and my cohost’s answer,&nbsp;
+by saying that some classically-touted examples&nbsp;&nbsp;
+
+00:00:40.320 --> 00:00:45.040
+of build-around cards, such as Sunforger,&nbsp;
+are deceptively simple to pull off because&nbsp;&nbsp;
+
+00:00:45.040 --> 00:00:49.840
+the cards that they work with don’t eat up that&nbsp;
+much deck space. Red and white instants that cost&nbsp;&nbsp;
+
+00:00:49.840 --> 00:00:54.880
+four or less mana are good, and you’ll already&nbsp;
+want some of them in your deck. Equipments are&nbsp;&nbsp;
+
+00:00:54.880 --> 00:00:58.720
+also good, and you should be able to find other&nbsp;
+options to grab if you want to run tutors for&nbsp;&nbsp;
+
+00:00:58.720 --> 00:01:04.000
+your Forger. However, for a secret commander that&nbsp;
+typically requires more deck space to support it,&nbsp;&nbsp;
+
+00:01:04.000 --> 00:01:09.520
+as The Sibsig Ceremony often does, you’ll need to&nbsp;
+thread the needle more carefully in deckbuilding.
+
+00:01:09.520 --> 00:01:12.400
+“The second question would be are there analogs,&nbsp;&nbsp;
+
+00:01:12.400 --> 00:01:19.120
+are there things that do what you want to do&nbsp;
+with the Sibsig Ceremony—kind of—that aren’t it….&nbsp;&nbsp;
+
+00:01:26.960 --> 00:01:31.280
+if you're dedicating a lot of deck space to&nbsp;
+this card, what else can work with those cards?”
+
+00:01:34.160 --> 00:01:38.400
+And, that felt like pretty good advice to&nbsp;
+give generally—cards don’t always get drawn,&nbsp;&nbsp;
+
+00:01:38.400 --> 00:01:42.480
+and sometimes get removed. I’d tangled&nbsp;
+with The Sibsig Ceremony myself a bit&nbsp;&nbsp;
+
+00:01:42.480 --> 00:01:46.480
+a year prior for a video building a deck&nbsp;
+based around cards chosen by my patrons,&nbsp;&nbsp;
+
+00:01:46.480 --> 00:01:50.960
+so I had some familiarity with that card in&nbsp;
+particular and its challenges, but I’m by no&nbsp;&nbsp;
+
+00:01:50.960 --> 00:01:55.200
+means an expert. That deck was a little on the&nbsp;
+goofy side, and the card isn’t really my first&nbsp;&nbsp;
+
+00:01:55.200 --> 00:01:59.200
+choice as a build-around in the first place, so&nbsp;
+I figured it could be somebody else’s job to be&nbsp;&nbsp;
+
+00:01:59.200 --> 00:02:04.640
+a scholar on The Sibsig Ceremony in particular.&nbsp;
+However, that plan was upended about a week later&nbsp;&nbsp;
+
+00:02:04.640 --> 00:02:09.040
+when I was spinning a wheel to decide what&nbsp;
+deck I’d build for the Magic Mirror Podcast.
+
+00:02:19.920 --> 00:02:21.200
+[Magic Mirror audio]
+
+00:02:21.200 --> 00:02:27.520
+The set of wheels I created spun me into building&nbsp;
+a $60 budget deck with 50 or more subtypes in some&nbsp;&nbsp;
+
+00:02:27.520 --> 00:02:33.520
+way centered around The Sibsig Ceremony, this old&nbsp;
+nemesis of mine. At this point, I just accepted&nbsp;&nbsp;
+
+00:02:33.520 --> 00:02:38.000
+that I needed to create a full-effort build-around&nbsp;
+for this card in order to shake whatever curse&nbsp;&nbsp;
+
+00:02:38.000 --> 00:02:43.040
+had caused it to follow me. And to be clear,&nbsp;
+I do mean an honest to god bracket 3 deck,&nbsp;&nbsp;
+
+00:02:43.040 --> 00:02:47.040
+maybe a little janky by choice and by nature&nbsp;
+of the requirements going into this deck,&nbsp;&nbsp;
+
+00:02:47.040 --> 00:02:52.000
+but no jankier than that and with plenty of&nbsp;
+powerful plays up its sleeve. In the process&nbsp;&nbsp;
+
+00:02:52.000 --> 00:02:56.240
+of doing precisely this, I ended up landing on&nbsp;
+two principles that should guide anybody building&nbsp;&nbsp;
+
+00:02:56.240 --> 00:03:01.040
+a deck centered around a card in their 99, one&nbsp;
+of these being something I directly identified&nbsp;&nbsp;
+
+00:03:01.040 --> 00:03:05.200
+at the panel and the other being one I kind&nbsp;
+of alluded to more indirectly and have since&nbsp;&nbsp;
+
+00:03:05.200 --> 00:03:11.520
+developed further. These principles are (1) find&nbsp;
+analogues for your central card, and (2) minimize&nbsp;&nbsp;
+
+00:03:11.520 --> 00:03:15.280
+the footprint of cards that synergize with your&nbsp;
+central card, with both principles stemming from&nbsp;&nbsp;
+
+00:03:15.280 --> 00:03:19.840
+the essential fact that you simply won’t always&nbsp;
+have access to your hidden commander card. So in&nbsp;&nbsp;
+
+00:03:19.840 --> 00:03:23.920
+this video, I’m going to talk you through my&nbsp;
+process of building a Sibsig Ceremony deck,&nbsp;&nbsp;
+
+00:03:23.920 --> 00:03:29.892
+and in doing so demonstrate how these two rules&nbsp;
+produced a successful—hidden-commander—deck.
+
+00:03:29.892 --> 00:03:29.920
+Aligning big-mana incentives
+
+00:03:29.920 --> 00:03:34.480
+To start with, let’s discuss the nature of hidden&nbsp;
+commanders a bit, and why The Sibsig Ceremony&nbsp;&nbsp;
+
+00:03:34.480 --> 00:03:39.920
+is one of the trickier ones. The phrase “hidden&nbsp;
+commander” simply refers to a deck where one of&nbsp;&nbsp;
+
+00:03:39.920 --> 00:03:45.120
+the cards in the 99 is built around more heavily&nbsp;
+than the commander itself. My Sharuum Astral&nbsp;&nbsp;
+
+00:03:45.120 --> 00:03:49.120
+Slide deck is an example of this, where Astral&nbsp;
+Slide is a key piece of how the deck works and&nbsp;&nbsp;
+
+00:03:49.120 --> 00:03:54.000
+Sharuum plays more of a secondary role in adding&nbsp;
+flexibility and resilience to the deck. This type&nbsp;&nbsp;
+
+00:03:54.000 --> 00:03:58.720
+of deck usually involves some number of tutors to&nbsp;
+find the core card, although whether or not a deck&nbsp;&nbsp;
+
+00:03:58.720 --> 00:04:03.520
+tutors for its hidden commander every game might&nbsp;
+depend on the nature of the card a bit. Astral&nbsp;&nbsp;
+
+00:04:03.520 --> 00:04:08.320
+Slide is a ridiculously powerful lategame tool,&nbsp;
+so I’ll almost always want to find a copy of the&nbsp;&nbsp;
+
+00:04:08.320 --> 00:04:13.200
+card at some point even if I survived the early&nbsp;
+to midgame without it. For purposes of adhering&nbsp;&nbsp;
+
+00:04:13.200 --> 00:04:19.200
+to principle 1—having analogues—Astral Slide&nbsp;
+makes my job easy because it has a functionally&nbsp;&nbsp;
+
+00:04:19.200 --> 00:04:23.920
+identical card as well as a similar enchantment&nbsp;
+in another color, effectively giving me three&nbsp;&nbsp;
+
+00:04:23.920 --> 00:04:28.560
+copies of my key card. There’s no need to get&nbsp;
+creative finding cards that do something similar;&nbsp;&nbsp;
+
+00:04:28.560 --> 00:04:33.440
+they’re just handed to me. Other hidden commanders&nbsp;
+make principle #2 the easy one, allowing a player&nbsp;&nbsp;
+
+00:04:33.440 --> 00:04:37.120
+to minimize the footprint of the cards that&nbsp;
+work with their central card quite easily,&nbsp;&nbsp;
+
+00:04:37.120 --> 00:04:41.440
+and not feel like their deck space is being&nbsp;
+gobbled up. As I mentioned earlier, Sunforger&nbsp;&nbsp;
+
+00:04:41.440 --> 00:04:45.600
+is a great build-around because the cards it&nbsp;
+works with span a wide range of different roles,&nbsp;&nbsp;
+
+00:04:45.600 --> 00:04:49.680
+and since they don’t even need to be in hand for&nbsp;
+Sunforger to synergize with them, the challenge of&nbsp;&nbsp;
+
+00:04:49.680 --> 00:04:55.440
+figuring out the right number to guarantee setup&nbsp;
+and payoff lining up is basically nonexistent. So&nbsp;&nbsp;
+
+00:04:55.440 --> 00:04:59.600
+these are two secret commanders where one of the&nbsp;
+two principles I mentioned earlier is basically&nbsp;&nbsp;
+
+00:04:59.600 --> 00:05:04.800
+guaranteed, easing a bit of the challenge of&nbsp;
+deckbuilding. However, some hidden commanders&nbsp;&nbsp;
+
+00:05:04.800 --> 00:05:10.480
+don’t make either of these two principles easy,&nbsp;
+and this brings us to The Sibsig Ceremony.
+
+00:05:10.480 --> 00:05:15.680
+Let’s start, as I did when building this deck, by&nbsp;
+tackling what this card does. The first line of&nbsp;&nbsp;
+
+00:05:15.680 --> 00:05:21.680
+text is 100% upside—it makes our creature spells&nbsp;
+cost 2 less. That’s a pretty great effect for&nbsp;&nbsp;
+
+00:05:21.680 --> 00:05:26.880
+three mana. Urza’s Incubator and Semblance Anvil&nbsp;
+come the closest to this rate among artifact-based&nbsp;&nbsp;
+
+00:05:26.880 --> 00:05:31.760
+reducers, but each of these has a substantial&nbsp;
+downside or limitation. So does The Sibsig&nbsp;&nbsp;
+
+00:05:31.760 --> 00:05:36.400
+Ceremony, though: the second line of text destroys&nbsp;
+creatures when they enter if they were cast,&nbsp;&nbsp;
+
+00:05:36.400 --> 00:05:41.600
+and creates a 2/2 zombie. This does place a&nbsp;
+serious limitation on what’s going to make sense&nbsp;&nbsp;
+
+00:05:41.600 --> 00:05:46.320
+to do with this card, though it’s definitely&nbsp;
+not an insurmountable limitation. When I was&nbsp;&nbsp;
+
+00:05:46.320 --> 00:05:50.560
+searching for a commander for this card, I knew I&nbsp;
+wanted it to be something on the more generic side&nbsp;&nbsp;
+
+00:05:50.560 --> 00:05:55.040
+to work out with the other restrictions I’d been&nbsp;
+given, and I also knew I wanted it to be something&nbsp;&nbsp;
+
+00:05:55.040 --> 00:06:00.400
+that combines relatively easily with the card&nbsp;
+to produce positive outcomes. In other words,&nbsp;&nbsp;
+
+00:06:00.400 --> 00:06:05.440
+I wanted something low-footprint, a commander&nbsp;
+that just kinda works with The Sibsig Ceremony&nbsp;&nbsp;
+
+00:06:05.440 --> 00:06:10.480
+without me needing to put in a lot of extra effort&nbsp;
+or bring in additional cards. This is how I landed&nbsp;&nbsp;
+
+00:06:10.480 --> 00:06:15.520
+on Athreos, Shroud-Veiled. The card is 6 mana,&nbsp;
+it’s indestructible even when I have it fully&nbsp;&nbsp;
+
+00:06:15.520 --> 00:06:20.880
+online via devotion, and it has an ability that&nbsp;
+works well alongside ETBs and on-death effects&nbsp;&nbsp;
+
+00:06:20.880 --> 00:06:25.520
+among creatures I play. Even without anything&nbsp;
+else on my side of the board, the card is just&nbsp;&nbsp;
+
+00:06:25.520 --> 00:06:29.600
+pretty solid if I get it into play turn 4 off&nbsp;
+of a turn 3 Ceremony and start throwing coins&nbsp;&nbsp;
+
+00:06:29.600 --> 00:06:35.680
+on opposing creatures, effectively making the&nbsp;
+card a Worn Powerstone for this precise function.&nbsp;&nbsp;
+
+00:06:35.680 --> 00:06:40.240
+To go along with this, I grabbed a handful of&nbsp;
+other indestructible and pseudo-indestructible&nbsp;&nbsp;
+
+00:06:40.240 --> 00:06:44.640
+creatures: Erebos Bleak-Hearted as another&nbsp;
+God that works well with my zombie tokens,&nbsp;&nbsp;
+
+00:06:44.640 --> 00:06:50.080
+Yahenni as a sac outlet, Breathkeeper Seraph as&nbsp;
+a unique soulbond creature that can save itself&nbsp;&nbsp;
+
+00:06:50.080 --> 00:06:55.840
+and others, and all four in-color Myojins.&nbsp;
+These are 8 mana spirits that enter with an&nbsp;&nbsp;
+
+00:06:55.840 --> 00:07:00.160
+indestructible counter and can remove this&nbsp;
+counter to do a variety of powerful effects.
+
+00:07:00.160 --> 00:07:04.320
+So in these instances we’re taking advantage of&nbsp;
+The Sibsig Ceremony’s powerful ramp potential&nbsp;&nbsp;
+
+00:07:04.320 --> 00:07:08.160
+with creatures that don’t care about the&nbsp;
+rest of its text box, and already amongst&nbsp;&nbsp;
+
+00:07:08.160 --> 00:07:12.640
+these indestructible creatures we can see a&nbsp;
+lot of points of cohesion. Erebos + Myojin of&nbsp;&nbsp;
+
+00:07:12.640 --> 00:07:17.760
+Blooming Dawn can draw a billion cards, and any&nbsp;
+big Erebos plays are assisted by a sac outlet&nbsp;&nbsp;
+
+00:07:17.760 --> 00:07:23.120
+like Yahenni. Athreos Shroud-Veiled and Myojin&nbsp;
+of Grim Betrayal both work fabulously alongside&nbsp;&nbsp;
+
+00:07:23.120 --> 00:07:28.000
+conventional board wipes, as does Breathkeeper&nbsp;
+Seraph to a lesser extent, and Myojin of Cleansing&nbsp;&nbsp;
+
+00:07:28.000 --> 00:07:33.120
+Fire is a boardwipe. The picture that’s being&nbsp;
+painted so far is of a big mana, controlling,&nbsp;&nbsp;
+
+00:07:33.120 --> 00:07:37.040
+aristocrats-oriented deck, and to minimize&nbsp;
+friction we’re going to want to expand on&nbsp;&nbsp;
+
+00:07:37.040 --> 00:07:41.520
+that vision and make sure it’s a consistent&nbsp;
+feature of the deck, starting with the mana.&nbsp;&nbsp;
+
+00:07:41.520 --> 00:07:46.560
+The Sibsig Ceremony provides us a lot of mana,&nbsp;
+so the first order of business in making sure&nbsp;&nbsp;
+
+00:07:46.560 --> 00:07:52.000
+the deck works without it is adding a lot of&nbsp;
+other ramp—finding analogs. Heartless Summoning&nbsp;&nbsp;
+
+00:07:52.000 --> 00:07:56.720
+is the easiest choice here as a similar 2 mana&nbsp;
+creature discount + downside sort of effect,&nbsp;&nbsp;
+
+00:07:56.720 --> 00:08:02.000
+and another solid choice is ramp on ETB creatures&nbsp;
+like Solemn Simulacrum, Scampering Surveyor,&nbsp;&nbsp;
+
+00:08:02.000 --> 00:08:07.040
+and Kor Cartographer. These work on their own as&nbsp;
+an alternate ladder from 4 to 6 mana to get the&nbsp;&nbsp;
+
+00:08:07.040 --> 00:08:11.680
+commander and give an immediate coin destination,&nbsp;
+and they also function quite enjoyably with The&nbsp;&nbsp;
+
+00:08:11.680 --> 00:08:16.400
+Sibsig Ceremony in play, costing 2 mana less&nbsp;
+and getting their 2/2 bodies replaced with 2/2&nbsp;&nbsp;
+
+00:08:16.400 --> 00:08:21.440
+zombies. Past these, I chose to add Crowded&nbsp;
+Crypt as a synergistic rock, a Sol Ring,&nbsp;&nbsp;
+
+00:08:21.440 --> 00:08:25.600
+Myr Convert for subtype purposes—The Wheel decreed&nbsp;
+that this deck needs to have 50 or more subtypes,&nbsp;&nbsp;
+
+00:08:25.600 --> 00:08:31.200
+remember—and seven other two mana rocks to round&nbsp;
+things out. This deck ended up pretty high-curved,&nbsp;&nbsp;
+
+00:08:31.200 --> 00:08:35.098
+so playing a mana rock is really what we&nbsp;
+want to be doing with our 2 mana turn.
+
+00:08:35.098 --> 00:08:35.120
+Pairings and analogues
+
+00:08:35.120 --> 00:08:39.680
+So okay, step 1 of this was making sure that this&nbsp;
+deck can make use of The Sibsig Ceremony’s mana&nbsp;&nbsp;
+
+00:08:39.680 --> 00:08:45.360
+generation, and that it has plenty of other ways&nbsp;
+to generate mana in the card’s absence. Great. But&nbsp;&nbsp;
+
+00:08:45.360 --> 00:08:50.240
+let’s think a little harder about this second&nbsp;
+line of text—it’s intended to be a downside,&nbsp;&nbsp;
+
+00:08:50.240 --> 00:08:54.400
+but does it have to be? The biggest area&nbsp;
+where this isn’t a downside is when it comes&nbsp;&nbsp;
+
+00:08:54.400 --> 00:09:00.400
+to creatures that we actively want to die. Take&nbsp;
+Junji the Midnight Sky—both the discard and the&nbsp;&nbsp;
+
+00:09:00.400 --> 00:09:05.040
+reanimate modes of its death trigger are solid&nbsp;
+three mana effects, and with the Sibsig Ceremony&nbsp;&nbsp;
+
+00:09:05.040 --> 00:09:09.040
+you get that plus a zombie and a death trigger and&nbsp;
+a thing in your graveyard you can use for other&nbsp;&nbsp;
+
+00:09:09.040 --> 00:09:14.800
+purposes. More on those things later. Same with&nbsp;
+Ao—one mode is a sort of Collected Company effect,&nbsp;&nbsp;
+
+00:09:14.800 --> 00:09:19.760
+the other is a big amplification to our board if&nbsp;
+we’re already loaded with zombies. Both great to&nbsp;&nbsp;
+
+00:09:19.760 --> 00:09:24.160
+get for three mana, and even better with some&nbsp;
+extra goodies tacked on top. We’ve also got&nbsp;&nbsp;
+
+00:09:24.160 --> 00:09:28.480
+Erebos Bleak-Hearted and Dark Prophecy as&nbsp;
+powerful draw engines when creatures die,&nbsp;&nbsp;
+
+00:09:28.480 --> 00:09:34.400
+which pair nicely with both zombie tokens and our&nbsp;
+nontoken creatures meeting an untimely demise.&nbsp;&nbsp;
+
+00:09:34.400 --> 00:09:39.280
+All of this on-death stuff goes great with The&nbsp;
+Sibsig Ceremony, though it does also pose a bit&nbsp;&nbsp;
+
+00:09:39.280 --> 00:09:43.680
+of a problem: these cards are a lot less good if&nbsp;
+we don’t have a way for creatures to die. If we&nbsp;&nbsp;
+
+00:09:43.680 --> 00:09:48.560
+assume The Sibsig Ceremony will always be in play,&nbsp;
+we’re gonna run into some problems when it’s not.&nbsp;&nbsp;
+
+00:09:48.560 --> 00:09:54.240
+So, this deck also integrates a number of ways&nbsp;
+to sacrifice our creatures as well—analogs for&nbsp;&nbsp;
+
+00:09:54.240 --> 00:09:59.920
+Sibsig Ceremony’s destroy effect. Season of Loss&nbsp;
+is a flexible removal tool that can also draw,&nbsp;&nbsp;
+
+00:09:59.920 --> 00:10:03.840
+Fanatical Devotion is a sac outlet that&nbsp;
+can also save creatures from destruction,&nbsp;&nbsp;
+
+00:10:03.840 --> 00:10:08.960
+and there are five other cards that do some&nbsp;
+sort of sacrificing task. These are perfect&nbsp;&nbsp;
+
+00:10:08.960 --> 00:10:13.200
+here because they replace the creature-death&nbsp;
+portion of what The Sibsig Ceremony does,&nbsp;&nbsp;
+
+00:10:13.200 --> 00:10:18.480
+but most of them are also great when paired with&nbsp;
+The Sibsig Ceremony, and this is the perfect&nbsp;&nbsp;
+
+00:10:18.480 --> 00:10:22.960
+relationship to create with a build-around&nbsp;
+card. You want the best possible spread of&nbsp;&nbsp;
+
+00:10:22.960 --> 00:10:28.160
+situational usefulness on a card, not just the&nbsp;
+one that’s best paired with a hidden commander.
+
+00:10:28.160 --> 00:10:33.120
+The same logic applies to this deck’s 19 ETB&nbsp;
+creatures. Each of these will have a bit of&nbsp;&nbsp;
+
+00:10:33.120 --> 00:10:37.840
+a spread when it comes to how effective they&nbsp;
+are, but the floor is decently high, making&nbsp;&nbsp;
+
+00:10:37.840 --> 00:10:44.000
+their footprint relatively low. As a baseline,&nbsp;
+they’re fine. A deck that’s casting a standalone&nbsp;&nbsp;
+
+00:10:44.000 --> 00:10:49.280
+Simulacrum, a standalone Chupacabra, a standalone&nbsp;
+Crabomination—at worst you’re talking about&nbsp;&nbsp;
+
+00:10:49.280 --> 00:10:54.000
+bracket 2 midrange deck territory. Bring in The&nbsp;
+Sibsig Ceremony and suddenly the power of these&nbsp;&nbsp;
+
+00:10:54.000 --> 00:10:59.200
+jumps a couple notches up from that, particularly&nbsp;
+for the 3-4 mana ETB creatures. Those creatures&nbsp;&nbsp;
+
+00:10:59.200 --> 00:11:04.240
+are around 2/2 already, so The Sibsig Ceremony&nbsp;
+basically just looks like a 2 mana discount&nbsp;&nbsp;
+
+00:11:04.240 --> 00:11:09.040
+that shoves their real body into the graveyard.&nbsp;
+Speaking of which, this is where the aristocrats&nbsp;&nbsp;
+
+00:11:09.040 --> 00:11:13.920
+stuff we mentioned earlier comes into play again.&nbsp;
+This deck has five cards that recur creatures,&nbsp;&nbsp;
+
+00:11:14.480 --> 00:11:18.720
+as well as the seven sources of creature sacrifice&nbsp;
+I mentioned earlier for when The Sibsig Ceremony&nbsp;&nbsp;
+
+00:11:18.720 --> 00:11:22.720
+isn’t in play to assist creatures with&nbsp;
+their journey to the graveyard. And,&nbsp;&nbsp;
+
+00:11:22.720 --> 00:11:27.840
+when you’re using one of those and have a bit more&nbsp;
+flexibility on your timing for creatures dying,&nbsp;&nbsp;
+
+00:11:27.840 --> 00:11:33.040
+Athreos also works as a recursion engine, offering&nbsp;
+a ton of value generation alongside one of the&nbsp;&nbsp;
+
+00:11:33.040 --> 00:11:37.920
+deck’s four sources of continual sacrifice. If&nbsp;
+you’re getting a Sepulchral Primordial trigger&nbsp;&nbsp;
+
+00:11:37.920 --> 00:11:43.280
+every turn, a Crabomination trigger every turn,&nbsp;
+or a couple Ashen Rider triggers every turn,&nbsp;&nbsp;
+
+00:11:43.280 --> 00:11:47.520
+you’re going to be feeling pretty fabulous about&nbsp;
+things. The deck also features a few flicker cards&nbsp;&nbsp;
+
+00:11:47.520 --> 00:11:52.800
+baked into the deck to enhance the ETB plan&nbsp;
+further, as well as an extra spicy inclusion:&nbsp;&nbsp;
+
+00:11:52.800 --> 00:11:58.160
+Mirror of Life Trapping. This is an artifact that&nbsp;
+exiles creatures that enter if they were cast,&nbsp;&nbsp;
+
+00:11:58.160 --> 00:12:03.440
+and then returns them when the next creature&nbsp;
+enters after being cast. In one sense this is like&nbsp;&nbsp;
+
+00:12:03.440 --> 00:12:09.680
+a convoluted table-wide ETB doubler, which works&nbsp;
+with our ETBs, but it also pairs beautifully with&nbsp;&nbsp;
+
+00:12:09.680 --> 00:12:14.480
+The Sibsig Ceremony. Instead of getting destroyed,&nbsp;
+we can order the triggers so that our creatures&nbsp;&nbsp;
+
+00:12:14.480 --> 00:12:18.800
+get sucked into the mirror instead, and then&nbsp;
+they can join their zombie friend whenever the&nbsp;&nbsp;
+
+00:12:18.800 --> 00:12:23.680
+next creature comes into play. It’s actually crazy&nbsp;
+to me that this isn’t run in more Sibsig Ceremony&nbsp;&nbsp;
+
+00:12:23.680 --> 00:12:29.600
+decks—Panharmonicon itself is run in 8% of decks&nbsp;
+with the card, and yet the number of people&nbsp;&nbsp;
+
+00:12:29.600 --> 00:12:36.000
+running Mirror of Life Trapping doesn’t even cross&nbsp;
+the 2% threshold to make the EDHRec page? Wild.
+
+00:12:36.000 --> 00:12:40.320
+This inclusion also brings us back to the&nbsp;
+idea of footprint, how good it feels to be&nbsp;&nbsp;
+
+00:12:40.320 --> 00:12:45.040
+devoting deck space to a given card. Mirror is&nbsp;
+a great accompaniment to the Sibsig Ceremony,&nbsp;&nbsp;
+
+00:12:45.040 --> 00:12:50.640
+but in a deck with 19 ETB creatures it’ll also&nbsp;
+just feel solid in general most of the time.&nbsp;&nbsp;
+
+00:12:50.640 --> 00:12:54.800
+This fact is important because this deck is&nbsp;
+designed in a way that the task of mitigating&nbsp;&nbsp;
+
+00:12:54.800 --> 00:13:00.080
+The Sibsig Ceremony’s downside is nice, but not&nbsp;
+essential. Obviously we won’t always have the card&nbsp;&nbsp;
+
+00:13:00.080 --> 00:13:04.640
+in play, and even if we do there are a single&nbsp;
+digit number of creatures that we’ll be really&nbsp;&nbsp;
+
+00:13:04.640 --> 00:13:10.160
+bummed if we play into it, mainly engines&nbsp;
+like Braids and Sun Titan. These do exist,&nbsp;&nbsp;
+
+00:13:10.160 --> 00:13:13.920
+but because the number of them is small it&nbsp;
+wouldn’t be worth the deck slot to run a card&nbsp;&nbsp;
+
+00:13:13.920 --> 00:13:18.720
+like Shielded by Faith that would only exist for&nbsp;
+the purpose of mitigating Ceremony’s downside.&nbsp;&nbsp;
+
+00:13:18.720 --> 00:13:22.560
+It also wouldn’t be worth it to try and&nbsp;
+make that mitigating card feel more useful&nbsp;&nbsp;
+
+00:13:22.560 --> 00:13:26.320
+by running additional creatures that we&nbsp;
+don’t want The Sibsig Ceremony to bonk,&nbsp;&nbsp;
+
+00:13:26.320 --> 00:13:31.360
+because then we’d be sad when we drew The&nbsp;
+Sibsig Ceremony but not the mitigator. However,&nbsp;&nbsp;
+
+00:13:31.360 --> 00:13:36.080
+what we’re doing with Mirror of Life Trapping here&nbsp;
+threads the needle perfectly—the deck is built&nbsp;&nbsp;
+
+00:13:36.080 --> 00:13:41.360
+to mostly feel good with the Sibsig Ceremony, and&nbsp;
+to also feel decent with Mirror of Life Trapping,&nbsp;&nbsp;
+
+00:13:41.360 --> 00:13:45.840
+and the fact that these pair with each other to&nbsp;
+give the deck a bunch more flexibility is a bit of&nbsp;&nbsp;
+
+00:13:45.840 --> 00:13:50.720
+extra sauce that pushes Mirror over the edge into&nbsp;
+being a worthwhile inclusion. Another example of&nbsp;&nbsp;
+
+00:13:50.720 --> 00:13:55.040
+this idea is Fanatical Devotion, the enchantment&nbsp;
+I mentioned earlier that allows its controller&nbsp;&nbsp;
+
+00:13:55.040 --> 00:13:59.920
+to sacrifice a creature in order to regenerate a&nbsp;
+creature. This is nice with The Sibsig Ceremony&nbsp;&nbsp;
+
+00:13:59.920 --> 00:14:04.160
+since zombies generated by it can effectively pay&nbsp;
+to prevent it from destroying future creatures,&nbsp;&nbsp;
+
+00:14:04.160 --> 00:14:08.880
+but it’s also just a solid protection spell, and&nbsp;
+it’s a sac outlet in a deck that can do some very&nbsp;&nbsp;
+
+00:14:08.880 --> 00:14:13.440
+juicy things with a sac outlet. None of these&nbsp;
+three tasks would be good enough on their own&nbsp;&nbsp;
+
+00:14:13.440 --> 00:14:18.160
+to justify giving them deck space, and even&nbsp;
+doing two of the three might not be enough,&nbsp;&nbsp;
+
+00:14:18.160 --> 00:14:22.320
+but put them all together and you’ve got&nbsp;
+a card that slots into the deck nicely.
+
+00:14:22.320 --> 00:14:26.400
+So at this point, we’ve constructed a deck that&nbsp;
+feels decent without The Sibsig Ceremony in play,&nbsp;&nbsp;
+
+00:14:26.400 --> 00:14:31.120
+and hopefully pretty great with it. However, I’ve&nbsp;
+omitted arguably one of the most important parts&nbsp;&nbsp;
+
+00:14:31.120 --> 00:14:36.400
+of a hidden commander deck—the tutors. There are&nbsp;
+four of these, they slot nicely into the deck&nbsp;&nbsp;
+
+00:14:36.400 --> 00:14:41.760
+since three of them are ETB creatures, and they&nbsp;
+all have other useful targets to grab. And, that’s&nbsp;&nbsp;
+
+00:14:41.760 --> 00:14:45.600
+kinda all there is to say about them. It might&nbsp;
+be a little odd to you that I saved them for last&nbsp;&nbsp;
+
+00:14:45.600 --> 00:14:50.560
+and spent all of 27 words telling you about them,&nbsp;
+but in truth tutors shouldn’t be the focus of your&nbsp;&nbsp;
+
+00:14:50.560 --> 00:14:55.840
+attention if you’re trying to decide if building&nbsp;
+around a card in your 99 is feasible. You’ll&nbsp;&nbsp;
+
+00:14:55.840 --> 00:14:59.840
+probably want them if you want the card to be a&nbsp;
+part of your plan more often, but focusing first&nbsp;&nbsp;
+
+00:14:59.840 --> 00:15:04.160
+on how the deck works without the card is going to&nbsp;
+be your easiest road to having a deck that is fun&nbsp;&nbsp;
+
+00:15:04.160 --> 00:15:08.880
+and flexible. I also skimmed over tutors because&nbsp;
+this is the part of the video where I get to pull&nbsp;&nbsp;
+
+00:15:08.880 --> 00:15:12.640
+the rug out from under this whole operation,&nbsp;
+and tell you that both of the principles I’ve&nbsp;&nbsp;
+
+00:15:12.640 --> 00:15:18.320
+mentioned in this video also apply to ordinary&nbsp;
+commanders that live in the command zone as well.
+
+00:15:18.320 --> 00:15:23.040
+Principle 1 was to run analogs, cards that do&nbsp;
+an equivalent task as your hidden commander.&nbsp;&nbsp;
+
+00:15:23.040 --> 00:15:26.320
+The reason for that was that you won’t&nbsp;
+always have access to your hidden commander,&nbsp;&nbsp;
+
+00:15:26.320 --> 00:15:30.640
+either due to removal or due to not finding&nbsp;
+it, so it’s useful to be able to still have&nbsp;&nbsp;
+
+00:15:30.640 --> 00:15:35.680
+some access to whatever that card gives you.&nbsp;
+That principle isn’t quite as important with&nbsp;&nbsp;
+
+00:15:35.680 --> 00:15:39.520
+your actual command zone since drawing&nbsp;
+the card isn’t part of the equation,&nbsp;&nbsp;
+
+00:15:39.520 --> 00:15:44.640
+but it still might be a genuinely useful piece&nbsp;
+of advice. If your commander costs a lot of mana,&nbsp;&nbsp;
+
+00:15:44.640 --> 00:15:48.720
+having cards that do something similar to what it&nbsp;
+does at a lower cost might help you to have fewer&nbsp;&nbsp;
+
+00:15:48.720 --> 00:15:53.120
+awkward periods in a game when you can’t quite&nbsp;
+afford to cast the card. If your commander is a&nbsp;&nbsp;
+
+00:15:53.120 --> 00:15:56.800
+creature, having a noncreature permanent that does&nbsp;
+something similar could help if you’re playing&nbsp;&nbsp;
+
+00:15:56.800 --> 00:16:02.320
+against a deck that thrives on clearing out boards&nbsp;
+of creatures. Having a deck that feels truly fluid&nbsp;&nbsp;
+
+00:16:02.320 --> 00:16:06.960
+and cohesive generally means having various&nbsp;
+different options pointed in the same general&nbsp;&nbsp;
+
+00:16:06.960 --> 00:16:12.800
+gameplay direction, and this will often mean cards&nbsp;
+sharing some of the functions of your commander.
+
+00:16:12.800 --> 00:16:17.200
+Principle 2 was to minimize the footprint&nbsp;
+of synergizing cards, and this is the much&nbsp;&nbsp;
+
+00:16:17.200 --> 00:16:22.000
+more broadly applicable one in my mind. If you’re&nbsp;
+adding cards to your deck that specifically play&nbsp;&nbsp;
+
+00:16:22.000 --> 00:16:27.360
+well with your commander, it’s good if those cards&nbsp;
+are as flexible and multi-purpose as possible. If&nbsp;&nbsp;
+
+00:16:27.360 --> 00:16:33.200
+I’m playing a Hakbal deck, Silvergill Mentor and&nbsp;
+Jungleborn Pioneer will both pair fabulously with&nbsp;&nbsp;
+
+00:16:33.200 --> 00:16:39.120
+the commander, since they give me two bodies for&nbsp;
+one card, and can be curved into Hakbal. However,&nbsp;&nbsp;
+
+00:16:39.120 --> 00:16:44.080
+these might not actually be the best inclusions,&nbsp;
+because what if Hakbal gets removed and I don’t&nbsp;&nbsp;
+
+00:16:44.080 --> 00:16:47.920
+feel like shelling out the command tax just yet?&nbsp;
+What if I draw a different card I’d much rather&nbsp;&nbsp;
+
+00:16:47.920 --> 00:16:52.800
+play on turn 4? What if I draw into some synergy&nbsp;
+pieces that push advantage in a slightly different&nbsp;&nbsp;
+
+00:16:52.800 --> 00:16:57.680
+direction than my commander on my current board&nbsp;
+state? What if I’m expecting a board wipe soon? If&nbsp;&nbsp;
+
+00:16:57.680 --> 00:17:02.640
+I add cards to my deck specifically to synergize&nbsp;
+with my commander and that’s all they do,&nbsp;&nbsp;
+
+00:17:02.640 --> 00:17:08.320
+I’m kind of forced into playing and replaying my&nbsp;
+commander in order to make those cards useful,&nbsp;&nbsp;
+
+00:17:08.320 --> 00:17:12.320
+even when it might be better to develop&nbsp;
+other parts of my gameplan. This is where&nbsp;&nbsp;
+
+00:17:12.320 --> 00:17:17.200
+the minimized footprint comes into play:&nbsp;
+cards that do multiple things for your deck,&nbsp;&nbsp;
+
+00:17:17.200 --> 00:17:22.320
+feel useful in multiple situations—these give&nbsp;
+you more freedom in how to play the game.&nbsp;&nbsp;
+
+00:17:22.320 --> 00:17:27.120
+The easiest way to go with this is having cards&nbsp;
+that both have a card type you want and also ramp,&nbsp;&nbsp;
+
+00:17:27.120 --> 00:17:31.040
+draw, or remove something, but you can get&nbsp;
+a lot more intricate with how you make cards&nbsp;&nbsp;
+
+00:17:31.040 --> 00:17:36.240
+feel useful if you try. I do think some people&nbsp;
+go too far and suggest that your deck should&nbsp;&nbsp;
+
+00:17:36.240 --> 00:17:40.640
+always be able to function just fine without&nbsp;
+your commander, and this does feel a little&nbsp;&nbsp;
+
+00:17:40.640 --> 00:17:46.080
+silly to say about the Commander format.&nbsp;
+Still, making sure cards feel good across&nbsp;&nbsp;
+
+00:17:46.080 --> 00:17:51.840
+a variety of different situations, or are truly&nbsp;
+powerful enough to compensate if they’re not,&nbsp;&nbsp;
+
+00:17:51.840 --> 00:17:56.000
+is a good way to improve your decks&nbsp;
+and your experience with the game.
+
+00:17:56.000 --> 00:18:00.560
+Thanks for watching, and thanks to Archidekt&nbsp;
+for supporting the channel. Archidekt’s easy&nbsp;&nbsp;
+
+00:18:00.560 --> 00:18:04.720
+to use search bar is great for building decks&nbsp;
+like this—I can type something like “enter”&nbsp;&nbsp;
+
+00:18:04.720 --> 00:18:09.600
+or “sacrifice” or “exile” and it’ll instantly&nbsp;
+isolate the cards I want to look at. A link to&nbsp;&nbsp;
+
+00:18:09.600 --> 00:18:13.920
+this deck is down in the description. Also, I’m&nbsp;
+halfway tempted to actually build and play this&nbsp;&nbsp;
+
+00:18:13.920 --> 00:18:17.840
+deck a bit since it seems like fun and is pretty&nbsp;
+cheap, and if you want me to do that you can type&nbsp;&nbsp;
+
+00:18:17.840 --> 00:18:22.720
+“this deck looks like a burning trash heap, Alex”&nbsp;
+down in the comments to goad me into it. Anyway,&nbsp;&nbsp;
+
+00:18:22.720 --> 00:18:27.840
+also supporting the channel is Dragonshield,&nbsp;
+creators of quality sleeves, deck boxes, and more.&nbsp;&nbsp;
+
+00:18:27.840 --> 00:18:32.080
+I’ve recently been using their black outer sleeves&nbsp;
+for a somewhat strange purpose that I’ll probably&nbsp;&nbsp;
+
+00:18:32.080 --> 00:18:36.560
+get into at some point—you might know if you’ve&nbsp;
+played a game against me recently—and the fit,&nbsp;&nbsp;
+
+00:18:36.560 --> 00:18:41.200
+durability, and shuffle feel of them has been&nbsp;
+good, as always. Follow the affiliate link in the&nbsp;&nbsp;
+
+00:18:41.200 --> 00:18:46.000
+description and use code “salubrious” at checkout&nbsp;
+to get a 10% discount on your order. If you want&nbsp;&nbsp;
+
+00:18:46.000 --> 00:18:50.480
+to support me more directly, you can become a&nbsp;
+YouTube member or sign up for my Patreon. I made&nbsp;&nbsp;
+
+00:18:50.480 --> 00:18:55.040
+a short bonus video to go with this one about the&nbsp;
+other restrictions my Sibsig Ceremony deck had,&nbsp;&nbsp;
+
+00:18:55.040 --> 00:19:00.640
+as well as the nature of strange deck restrictions&nbsp;
+in general. A preview for that begins right now!
+

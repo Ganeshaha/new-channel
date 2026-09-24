@@ -1,0 +1,74 @@
+[
+ {
+  "name": "Dack Fayden, Helping Hand",
+  "file": "dack-fayden-helping-hand.png",
+  "set": "frc",
+  "number": "4",
+  "artist": "Josiah \"Jo\" Cameron",
+  "scryfall": "https://scryfall.com/card/frc/4/dack-fayden-helping-hand",
+  "oracle": "When Dack Fayden enters, reveal cards from the top of your library until you reveal X creature cards, where X is the number of opponents you have. Put those creature cards onto the battlefield, then shuffle. They're goaded for the rest of the game. For each of those permanents, choose a different opponent. Each opponent gains control of the permanent for which they were chosen."
+ },
+ {
+  "name": "Venser, Fervent Forger",
+  "file": "venser-fervent-forger.png",
+  "set": "frc",
+  "number": "9",
+  "artist": "Borja Pindado",
+  "scryfall": "https://scryfall.com/card/frc/9/venser-fervent-forger",
+  "oracle": "Flash\nWhen Venser enters, choose one —\n• Copy target instant or sorcery spell an opponent controls twice. You may choose new targets for the copies.\n• Create two tokens that are copies of target permanent an opponent controls. They gain haste. At the beginning of the next end step, sacrifice them."
+ },
+ {
+  "name": "Jace, Multiverse Architect",
+  "file": "jace-multiverse-architect.png",
+  "set": "frc",
+  "number": "1",
+  "artist": "Volkan Baǵa",
+  "scryfall": "https://scryfall.com/card/frc/1/jace-multiverse-architect",
+  "oracle": "At the beginning of combat on each opponent's turn, they may pay {2}. If they don't, creatures they control can't attack Jaces you control this turn.\n+1: Draw two cards, then put a card from your hand on the bottom of your library.\n−3: Exile another target planeswalker or creature you control. Reveal cards from the top of your library until you reveal a creature or planeswalker card. Put that card onto the battlefield and the rest on the bottom of your library in a random order.\nJace, Multiverse Architect can be your commander."
+ },
+ {
+  "name": "Nissa, Leyline Tamer",
+  "file": "nissa-leyline-tamer.png",
+  "set": "frc",
+  "number": "2",
+  "artist": "Justyna Dura",
+  "scryfall": "https://scryfall.com/card/frc/2/nissa-leyline-tamer",
+  "oracle": "Deathtouch, vigilance\nLandfall — Whenever a land you control enters, draw a card. Then if this is the first time this ability has resolved this turn, reveal cards from the top of your library until you reveal a creature card. Put that card onto the battlefield and the rest on the bottom of your library in a random order."
+ },
+ {
+  "name": "Brainstorm",
+  "file": "brainstorm.png",
+  "set": "frc",
+  "number": "39",
+  "artist": "Daarken",
+  "scryfall": "https://scryfall.com/card/frc/39/brainstorm",
+  "oracle": "Draw three cards, then put two cards from your hand on top of your library in any order."
+ },
+ {
+  "name": "Brainsurge",
+  "file": "brainsurge.png",
+  "set": "frc",
+  "number": "40",
+  "artist": "Liiga Smilshkalne",
+  "scryfall": "https://scryfall.com/card/frc/40/brainsurge",
+  "oracle": "Draw four cards, then put two cards from your hand on top of your library in any order."
+ },
+ {
+  "name": "Archon of Cruelty",
+  "file": "archon-of-cruelty.png",
+  "set": "frc",
+  "number": "47",
+  "artist": "Andrew Mar",
+  "scryfall": "https://scryfall.com/card/frc/47/archon-of-cruelty",
+  "oracle": "Flying\nWhenever this creature enters or attacks, target opponent sacrifices a creature or planeswalker of their choice, discards a card, and loses 3 life. You draw a card and gain 3 life."
+ },
+ {
+  "name": "Darksteel Angel",
+  "file": "darksteel-angel.png",
+  "set": "frc",
+  "number": "13",
+  "artist": "Chippy",
+  "scryfall": "https://scryfall.com/card/frc/13/darksteel-angel",
+  "oracle": "Flying, indestructible\nYou can't lose the game and your opponents can't win the game.\nCreatures you control can't have -1/-1 counters put on them."
+ }
+]

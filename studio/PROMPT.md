@@ -27,6 +27,9 @@ Content rules:
 - Every rules or factual claim must be correct. Cite Comprehensive Rules numbers in sources.md and
   double-check each claim before narrating it. If you are unsure of a ruling, leave it out.
 - Open with the stakes in the first sentence: no greeting, no "in this video", no sponsor read.
+- HARD RULE: nothing may feel AI-written. Follow ../VOICE.md, run `python tools/check_script.py` on the
+  narration and fix every flag, and avoid the listed tells (AI vocabulary, "not just X, it's Y", reflexive
+  triplets, stock openers, tidy one-liner endings, em dashes). Never invent anecdotes or stats.
 - Follow the pre-upload checklist in ../RETENTION.md: hook within 15s, a new visual beat every 2–4s,
   at least one open loop paid off later, and one comment prompt tied to the content.
 - Long-form only: overlay studio/assets/subscribe-beat.webm exactly once, right after the first payoff

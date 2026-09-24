@@ -1,0 +1,653 @@
+[
+ {
+  "board": "commanders",
+  "qty": 1,
+  "name": "Jace, Multiverse Architect",
+  "type": "Legendary Planeswalker — Jace",
+  "cost": "{1}{W}{U}{B}{R}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Darksteel Angel",
+  "type": "Artifact Creature — Angel",
+  "cost": "{9}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Fatehold Charm",
+  "type": "Instant",
+  "cost": "{W}{U}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "The Ur-Sphinx",
+  "type": "Legendary Creature — Sphinx Avatar",
+  "cost": "{6}{W}{U}{B}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Niv-Mizzet, Ghost Counsel",
+  "type": "Legendary Creature — Spirit Dragon",
+  "cost": "{2}{W}{W}{B}{B}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Nissa, Leyline Tamer",
+  "type": "Legendary Creature — Elf Wizard",
+  "cost": "{3}{W}{U}{B}{R}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Tamiyo, Upriser Crowned",
+  "type": "Legendary Creature — Moonfolk Warrior",
+  "cost": "{4}{R}{W}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Avacyn, Angel of Horror",
+  "type": "Legendary Creature — Angel",
+  "cost": "{5}{B}{B}{B}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Memnarch, the Warden",
+  "type": "Legendary Artifact Creature — Wizard",
+  "cost": "{10}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Dack Fayden, Helping Hand",
+  "type": "Legendary Creature — Human Advisor",
+  "cost": "{4}{W}{W}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Venser, Fervent Forger",
+  "type": "Legendary Creature — Human Sorcerer",
+  "cost": "{4}{R}{R}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Ob Nixilis, the Ascended",
+  "type": "Legendary Creature — Angel",
+  "cost": "{5}{W}{W}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Jhoira, Weatherlight Corsair",
+  "type": "Legendary Creature — Human Pirate",
+  "cost": "{4}{B}{B}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Ginger, Queen of Sweets",
+  "type": "Legendary Artifact Creature — Food Noble",
+  "cost": "{6}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Omnath, Locus of the Void",
+  "type": "Legendary Creature — Elemental",
+  "cost": "{7}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Turbulent Shore",
+  "type": "Land — Plains Island",
+  "cost": ""
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Turbulent Crater",
+  "type": "Land — Swamp Mountain",
+  "cost": ""
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Turbulent Wetlands",
+  "type": "Land — Island Swamp",
+  "cost": ""
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Teferi's Reproach",
+  "type": "Instant",
+  "cost": "{2}{W}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Akroma, Angel of Fury",
+  "type": "Legendary Creature — Angel",
+  "cost": "{5}{R}{R}{R}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Sol Ring",
+  "type": "Artifact",
+  "cost": "{1}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Arcane Signet",
+  "type": "Artifact",
+  "cost": "{2}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Command Tower",
+  "type": "Land",
+  "cost": ""
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Reflecting Pool",
+  "type": "Land",
+  "cost": ""
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Plan for All Outcomes",
+  "type": "Enchantment",
+  "cost": "{3}{U}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Swords to Plowshares",
+  "type": "Instant",
+  "cost": "{W}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Flawless Maneuver",
+  "type": "Instant",
+  "cost": "{2}{W}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Martial Coup",
+  "type": "Sorcery",
+  "cost": "{X}{W}{W}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "White Sun's Twilight",
+  "type": "Sorcery",
+  "cost": "{X}{W}{W}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Talisman of Creativity",
+  "type": "Artifact",
+  "cost": "{2}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Brainstorm",
+  "type": "Instant",
+  "cost": "{U}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Occult Epiphany",
+  "type": "Instant",
+  "cost": "{X}{U}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Grand Crescendo",
+  "type": "Instant",
+  "cost": "{X}{W}{W}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Brainsurge",
+  "type": "Instant",
+  "cost": "{2}{U}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Stroke of Midnight",
+  "type": "Instant",
+  "cost": "{2}{W}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Kher Keep",
+  "type": "Legendary Land",
+  "cost": ""
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Chromatic Lantern",
+  "type": "Artifact",
+  "cost": "{3}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Fellwar Stone",
+  "type": "Artifact",
+  "cost": "{2}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Dreadhorde Invasion",
+  "type": "Enchantment",
+  "cost": "{1}{B}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Overlord of the Mistmoors",
+  "type": "Enchantment Creature — Avatar Horror",
+  "cost": "{5}{W}{W}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Skrelv's Hive",
+  "type": "Enchantment",
+  "cost": "{1}{W}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Windcrag Siege",
+  "type": "Enchantment",
+  "cost": "{1}{R}{W}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Archfiend of Despair",
+  "type": "Creature — Demon",
+  "cost": "{6}{B}{B}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Fabled Passage",
+  "type": "Land",
+  "cost": ""
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Fact or Fiction",
+  "type": "Instant",
+  "cost": "{3}{U}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Cursed Mirror",
+  "type": "Artifact",
+  "cost": "{2}{R}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Exotic Orchard",
+  "type": "Land",
+  "cost": ""
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Despark",
+  "type": "Instant",
+  "cost": "{W}{B}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Fetid Heath",
+  "type": "Land",
+  "cost": ""
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Dimir Signet",
+  "type": "Artifact",
+  "cost": "{2}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Archon of Cruelty",
+  "type": "Creature — Archon",
+  "cost": "{6}{B}{B}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Mass Polymorph",
+  "type": "Sorcery",
+  "cost": "{5}{U}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Lingering Souls",
+  "type": "Sorcery",
+  "cost": "{2}{W}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Staff of the Storyteller",
+  "type": "Artifact",
+  "cost": "{1}{W}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Currency Converter",
+  "type": "Artifact",
+  "cost": "{1}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Prairie Stream",
+  "type": "Land — Plains Island",
+  "cost": ""
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Talisman of Dominance",
+  "type": "Artifact",
+  "cost": "{2}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Talisman of Indulgence",
+  "type": "Artifact",
+  "cost": "{2}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Talisman of Progress",
+  "type": "Artifact",
+  "cost": "{2}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Drowned Catacomb",
+  "type": "Land",
+  "cost": ""
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Sunken Ruins",
+  "type": "Land",
+  "cost": ""
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Underground River",
+  "type": "Land",
+  "cost": ""
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Elspeth, Sun's Champion",
+  "type": "Legendary Planeswalker — Elspeth",
+  "cost": "{4}{W}{W}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Rakdos Signet",
+  "type": "Artifact",
+  "cost": "{2}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Azorius Signet",
+  "type": "Artifact",
+  "cost": "{2}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Izzet Signet",
+  "type": "Artifact",
+  "cost": "{2}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Sulfur Falls",
+  "type": "Land",
+  "cost": ""
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Sulfurous Springs",
+  "type": "Land",
+  "cost": ""
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Path to Exile",
+  "type": "Instant",
+  "cost": "{W}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Proteus Staff",
+  "type": "Artifact",
+  "cost": "{3}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Sunfall",
+  "type": "Sorcery",
+  "cost": "{3}{W}{W}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Secure the Wastes",
+  "type": "Instant",
+  "cost": "{X}{W}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Battlefield Forge",
+  "type": "Land",
+  "cost": ""
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Caves of Koilos",
+  "type": "Land",
+  "cost": ""
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Clifftop Retreat",
+  "type": "Land",
+  "cost": ""
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Contaminated Landscape",
+  "type": "Land",
+  "cost": ""
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Shivan Reef",
+  "type": "Land",
+  "cost": ""
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Perilous Landscape",
+  "type": "Land",
+  "cost": ""
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Glacial Fortress",
+  "type": "Land",
+  "cost": ""
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Mystic Gate",
+  "type": "Land",
+  "cost": ""
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Whirlwind of Thought",
+  "type": "Enchantment",
+  "cost": "{1}{U}{R}{W}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Isolated Chapel",
+  "type": "Land",
+  "cost": ""
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Serra's Emissary",
+  "type": "Creature — Angel",
+  "cost": "{4}{W}{W}{W}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Restless Spire",
+  "type": "Land",
+  "cost": ""
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Path of Ancestry",
+  "type": "Land",
+  "cost": ""
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Shark Typhoon",
+  "type": "Enchantment",
+  "cost": "{5}{U}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Restless Anchorage",
+  "type": "Land",
+  "cost": ""
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Synthetic Destiny",
+  "type": "Instant",
+  "cost": "{4}{U}{U}"
+ },
+ {
+  "board": "mainboard",
+  "qty": 1,
+  "name": "Radiant Summit",
+  "type": "Land — Mountain Plains",
+  "cost": ""
+ },
+ {
+  "board": "mainboard",
+  "qty": 3,
+  "name": "Island",
+  "type": "Basic Land — Island",
+  "cost": ""
+ },
+ {
+  "board": "mainboard",
+  "qty": 2,
+  "name": "Mountain",
+  "type": "Basic Land — Mountain",
+  "cost": ""
+ },
+ {
+  "board": "mainboard",
+  "qty": 2,
+  "name": "Swamp",
+  "type": "Basic Land — Swamp",
+  "cost": ""
+ },
+ {
+  "board": "mainboard",
+  "qty": 4,
+  "name": "Plains",
+  "type": "Basic Land — Plains",
+  "cost": ""
+ }
+]

@@ -40,7 +40,7 @@ Timings are approximate at ~200 words per minute. **VISUAL** notes follow the ho
 ### 0:19 · Claim and promise
 
 **VO:**
-> And I think it's because a lot of us, me included, play Commander like the goal is to win. I don't think it is. So in this video we're going to look at what the point actually is, and three mistakes that quietly ruin games. The third one's the one I still make, and I'd call myself a pretty decent player, so… yeah.
+> And I think it's because a lot of us, me included, play Commander like the goal is to win. I don't think it is. In this video we're going to look at what the point actually is, and three mistakes that quietly ruin games. The third one's the one I still make, and I'd call myself a pretty decent player, so… yeah.
 
 **VISUAL:**
 - Title text builds from cut-out letters: "YOU'RE PLAYING COMMANDER WRONG".
@@ -94,7 +94,7 @@ Timings are approximate at ~200 words per minute. **VISUAL** notes follow the ho
 ### ≈2:14 · Subscribe segment (≤5s, overlaid, narration continues)
 
 **VO:**
-> Quick thing: this is a pretty new channel, so if you're into this kind of stuff, subscribing helps a lot. Okay. Three mistakes. And the first one happens before anyone's even drawn a card.
+> Quick thing: this is a pretty new channel, so if you're into this stuff, subscribing helps a lot. Okay. Three mistakes. And the first one happens before anyone's even drawn a card.
 
 **VISUAL:**
 - Overlay `studio/assets/subscribe-beat.webm`. Set the overlay line to something plain like "New channel, subscribing helps!" and re-render with the `--props` command in RETENTION.md.
@@ -149,7 +149,7 @@ Timings are approximate at ~200 words per minute. **VISUAL** notes follow the ho
 ### 4:06 · Mistake 3: the one I still make (pays off the open loop)
 
 **VO:**
-> Okay, number three. This is the one I still do, and I think it's the one experienced players do the most: playing not to lose.
+> Okay, number three. This is the one I still do, and it's probably the one experienced players do the most: playing not to lose.
 >
 > You get better at the game and you get careful. You hold up answers, you don't attack, you wait for someone else to overextend first. And to be fair, a lot of the time that's the correct play. But when everyone at the table does it, you get a ninety-minute game where nothing happens.
 >

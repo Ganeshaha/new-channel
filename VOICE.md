@@ -47,6 +47,22 @@ Overused by drafts compared with real speech: "which is" and "and that's" (real 
 
 **Informative but fun:** get the facts exactly right, cite rules, and put the numbers on screen. Then deliver them like you're explaining it at the table: short lines, a joke where it lands naturally ("Merry Christmas" when Dack hands out creatures, "Love that for you" when the Angel stops your win), and your real opinion. `check_script.py` measures cadence too.
 
+### How to open a video (measured from the transcripts)
+
+Next Level Commander, the closest match to this channel, uses the same structure in most videos. 61% introduce the host within the first minute, after a median of 4 words:
+
+1. **Hook, 1–2 sentences, sensational but true:** "My group is being destroyed by this $50 deck and it's so stupid."
+2. **Self-intro:** "Hello everyone, this is Jin with Next Level Commander…"
+3. **"…and today we have / I present…"** plus what the video covers.
+
+Attack on Cardboard's drama openers work for news-style videos ("You better believe it's that time again", "Reddit, Twitter, and Twitch chat are kicking up a storm, and I'm here to settle this once and for all").
+
+**Our version:** hook, then "Hello everyone, this is Wil D. Card with Wild Card Commander", then "Today we're looking at…", then the promise (with one open loop). "This is [name] with [channel]" is Next Level Commander's own wording; the transcripts never use "I'm X, and this is Y". Keep the hook sensational, but only with claims that are true. An opinion ("Wizards messed up") is fine when it rests on a checkable fact and the video argues it. When something's unknown, frame it as a question.
+
+**Sign-off:** end the narration with "Thanks for watching, and I'll see you in the next one." (or close to it), then the end screen. The transcripts do this: "thanks for watching" appears in 51/90 Attack on Cardboard and 49/90 Salubrious Snail videos, and "see you in the next one" in 57/90 Attack on Cardboard and 22/79 Next Level Commander videos. It's a sign-off, not a second subscribe ask.
+
+**Spelling:** use US spelling in anything viewers read (on-screen text, descriptions, captions): color, favorite. The three channels and most of the audience are American.
+
 **The biggest lesson:** a first draft that tries to sound casual overuses "honestly", "really" and "actually". One early draft of episode 001 used "honestly" 30 times more often than real creators do. Sprinkling casual words everywhere is itself an AI tell. Real casual speech comes from sentence shape, not filler words.
 
 Common sentence openers in the transcripts: "So,", "I think", "And", "Yeah,", "Okay,", "Now,", "This is…", "I mean,", "Well,". Real creators point at what's on screen ("so this is the card…", "and here we've got…") and bring the viewer in with "we".
@@ -142,3 +158,47 @@ No single sign proves something is AI-made; human writers use every one of these
 - [ElevenLabs: how to make text to speech sound less robotic](https://elevenlabs.io/blog/how-to-make-text-to-speech-sound-less-robotic)
 - [The Hollywood Reporter: YouTube cracks down on AI slop](https://www.hollywoodreporter.com/business/digital/faceless-creators-youtube-ai-damage-1236617586/)
 - [ScaleLab: YouTube's AI content crackdown in 2026](https://scalelab.com/en/why-youtube-is-cracking-down-on-ai-generated-content-in-2026)
+
+## Wil's narration voice (researched 25 Sep 2026)
+
+Wil's voice is designed once in Qwen3-TTS VoiceDesign (https://huggingface.co/spaces/Qwen/Qwen3-TTS-Voice-Design). We keep one 20–30 s reference clip of it, and every episode is narrated by cloning that clip (Fish Audio S2.1 Pro on OpenRouter). The clip is the channel's voice, so it stays private.
+
+**Design prompt (main):**
+
+> Male, around 30, General American accent. A clear, natural mid-to-low voice with a warm, lightly textured tone. No rasp, no vocal fry. Friendly and quick-witted, with a light smile in his voice and dry, playful humor. Brisk, conversational pace, a bit faster than an audiobook, slowing down for key numbers and punchlines. Lively intonation: his pitch and energy lift when something surprises him and drop for quick asides. He sounds like a sharp friend explaining a wild card combo at game night, relaxed and confident. Not an announcer, not someone reading a script.
+
+**Variants to A/B against the main prompt:**
+- *Calmer:* swap "Brisk, conversational pace…" for "Easygoing, unhurried pace with natural pauses", and "lively intonation" for "gentle, expressive intonation".
+- *Higher energy:* add "Upbeat and a little excitable, like he can't wait to tell you the next part."
+
+**Why each part is there:**
+
+| Choice | Evidence |
+|---|---|
+| Lively pitch and energy (vocal variety) | The most popular TED speakers had about 30% more vocal variety than less popular ones, and variety tracked views. Engagement models weight pitch and energy variation above tempo. This is correlation, not proof, but it's the strongest signal. |
+| Brisk pace, slower on key points | In audiobooks, a higher articulation rate predicts listener liking and absorption. Credibility studies favour moderate-to-fast speech over slow speech. The studied channels run 145–220 wpm (Attack on Cardboard's rules videos 145–162, Salubrious Snail about 205, Next Level Commander about 220). |
+| No rasp or vocal fry | In a 2014 PLOS ONE study, creaky (fry) voices were rated less competent, trustworthy and likeable. The effect was stronger for women, but it applied to men too. The study's method has been criticised, but there's no evidence a rough voice helps. |
+| A light smile in the voice, not a grin | Smiling is audible in speech and reads as friendlier and more trustworthy. A broad smile reads as warmer but less competent, and a rules channel needs competence. |
+| Mid-to-low pitch, confident | Lower male voices read as more reliable. The lift in energy keeps it from sounding flat. Listeners judge trustworthiness within about 0.3–0.5 s, so the first line of every video matters. |
+| "Not an announcer, not reading a script" | Radio or announcer polish, and every sentence ending on the same pitch, are the clearest synthetic-voice tells. |
+| General American | Most of the audience and the three studied channels are American. |
+
+**How to pick the voice:**
+1. Paste the cold open and intro ("The new Jace precon isn't even out yet… Let's take a look.") as the text. That's about 20 s, with a hook, a joke and a self-intro.
+2. Generate 3–5 takes per prompt, since each run gives a slightly different voice. Keep the favourites.
+3. Reject any take with:
+   - the same pitch drop at the end of every sentence;
+   - no audible breaths;
+   - over-crisp consonants;
+   - odd stress on numbers or card names;
+   - sounding like a trailer voice.
+4. Save the winner as `studio/voice/wil-reference.wav`. Keep it private: add it to `.gitignore` before committing, so the channel's voice isn't published in a public repo.
+
+Sources:
+- TED vocal variety: https://www.scienceofpeople.com/secrets-of-a-successful-ted-talk/
+- Engagement modelling: https://pmc.ncbi.nlm.nih.gov/articles/PMC13269690/
+- Audiobook narration appeal: https://arxiv.org/html/2607.02473v1
+- Credible voices: https://pubs.aip.org/asa/jasa/article/157/5/3780/3347110/How-does-a-credible-voice-sound
+- Vocal fry: https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0097506
+- Smiling voice: https://www.york.ac.uk/language/ypl/parlay/01/YPL-PARLAY2013-07-Torre.pdf and https://www.researchgate.net/publication/319494205_Smile_Big_or_Not_Effects_of_Smile_Intensity_on_Perceptions_of_Warmth_and_Competence
+- Qwen voice-design prompting: https://getstream.io/blog/qwen3-voice-design/

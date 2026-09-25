@@ -54,6 +54,10 @@ export const SubscribeBeat: React.FC<Props> = ({ line, accent, background }) => 
   return (
     <AbsoluteFill style={{ backgroundColor: background ?? "transparent" }}>
       <div
+        data-audit="fig"
+        data-label="subscribe overlay"
+        data-at="0"
+        data-p="1"
         style={{
           position: "absolute",
           right: 70,

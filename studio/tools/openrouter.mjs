@@ -4,6 +4,7 @@
 //   node tools/openrouter.mjs check
 //   node tools/openrouter.mjs image  "<prompt>" out.png [--aspect 9:16] [--ref mascot.png,style.png] [--model google/gemini-3.1-flash-image]
 //   node tools/openrouter.mjs speech "<text>"   out.wav [--voice nova] [--style "warm, curious narrator"]
+//   node tools/openrouter.mjs tts    "<text>"|@file out.mp3 [--ref voice.wav --ref-text @ref.txt] [--model fish-audio/s2.1-pro]
 //   node tools/openrouter.mjs spend
 //
 // Every paid call is logged to $RUN_DIR/spend.jsonl (default: ./spend.jsonl) and refused once the
@@ -173,13 +174,71 @@ async function speech(text, out, opts) {
   console.log(out);
 }
 
+/** "@path" reads the value from a file (long scripts, transcripts); anything else is used as-is. */
+function textArg(v) {
+  if (v && v.startsWith("@")) return readFileSync(v.slice(1), "utf8").trim();
+  return v;
+}
+
+/** Actual cost of a generation, from OpenRouter's generation stats (retried briefly while they settle). */
+async function generationCost(id) {
+  for (let i = 0; i < 6 && id; i++) {
+    await new Promise((r) => setTimeout(r, 1500));
+    const res = await fetch(`${API}/generation?id=${id}`, { headers: { Authorization: `Bearer ${KEY}` } });
+    if (res.ok) {
+      const d = (await res.json()).data;
+      if (d?.total_cost != null) return d.total_cost;
+    }
+  }
+  return undefined;
+}
+
+// Dedicated text-to-speech endpoint (/audio/speech), with optional voice cloning from a reference clip.
+//   node tools/openrouter.mjs tts "<text>|@file.txt" out.mp3 [--model fish-audio/s2.1-pro] [--ref voice.wav] [--ref-text "<transcript>"|@file] [--voice id] [--speed 1.0]
+async function tts(text, out, opts) {
+  requireKey(); guardBudget();
+  text = textArg(text);
+  if (!text || !out) die(`usage: tts "<text>"|@file out.mp3 [--model id] [--ref voice.wav] [--ref-text "..."|@file] [--voice id]`);
+  const model = opts.model || process.env.TTS_MODEL || "fish-audio/s2.1-pro";
+  const pcm = opts.format === "pcm" || out.toLowerCase().endsWith(".wav");
+  const body = { model, input: text, response_format: pcm ? "pcm" : "mp3" };
+  if (opts.voice) body.voice = opts.voice;
+  if (opts.speed) body.speed = Number(opts.speed);
+  if (opts.ref) {
+    if (!existsSync(opts.ref)) die(`reference audio not found: ${opts.ref}`);
+    const ext = opts.ref.toLowerCase().endsWith(".mp3") ? "mpeg" : "wav";
+    body.input_references = [
+      { type: "input_audio", input_audio: { data: `data:audio/${ext};base64,${readFileSync(opts.ref).toString("base64")}` } },
+    ];
+    const refText = textArg(opts["ref-text"]);
+    if (refText) body.input_references.push({ type: "text", text: refText });
+  }
+  const res = await call("/audio/speech", body);
+  const audio = Buffer.from(await res.arrayBuffer());
+  let cost = await generationCost(res.headers.get("x-generation-id"));
+  if (cost == null) {
+    // generation stats aren't always available for speech; fall back to the listed per-character price
+    const models = (await (await call("/models?output_modalities=speech")).json()).data;
+    const perChar = Number(models.find((m) => m.id === model)?.pricing?.prompt || 0);
+    cost = perChar * text.length;
+  }
+  logSpend("tts", model, cost, text.slice(0, 80));
+  if (!audio.length) die(`no audio returned by ${model}`);
+  mkdirSync(dirname(resolve(out)), { recursive: true });
+  // raw PCM (16-bit mono, 24 kHz) gets a WAV header; anything already containerised is written as-is
+  const isContainer = ["RIFF", "ID3"].includes(audio.subarray(0, 4).toString().slice(0, 4)) || audio.subarray(0, 3).toString() === "ID3" || (audio[0] === 0xff && (audio[1] & 0xe0) === 0xe0);
+  writeFileSync(out, pcm && !isContainer ? wav(audio, Number(opts.rate || 24000)) : audio);
+  console.log(out);
+}
+
 const [cmd, ...rest] = process.argv.slice(2);
 const f = flags(rest);
 const run = {
   check: () => check(),
   image: () => image(f._[0], f._[1], f),
   speech: () => speech(f._[0], f._[1], f),
+  tts: () => tts(f._[0], f._[1], f),
   spend: () => console.log(`$${spent().toFixed(4)} logged of $${BUDGET} in ${LEDGER}`),
 }[cmd];
-if (!run) die(`commands: check | image | speech | spend  (see header of tools/openrouter.mjs)`);
+if (!run) die(`commands: check | image | speech | tts | spend  (see header of tools/openrouter.mjs)`);
 await run();

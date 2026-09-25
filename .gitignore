@@ -14,3 +14,12 @@ studio/runs/
 studio/test/
 studio/reference/
 studio/spend.jsonl
+
+# Rendered episode videos (large)
+episodes/*/render/
+
+# Wil's voice reference and narration takes (private)
+studio/voice/
+
+# Python caches
+__pycache__/

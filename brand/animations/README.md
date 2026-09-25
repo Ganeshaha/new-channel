@@ -89,6 +89,7 @@ ffmpeg -i video.mp4 -c:v libvpx -i brand/animations/facepalm.webm \
 
 - All motion is code in `video/src/mascot/animations.tsx`. Each animation maps a frame to rig settings: body lean, squash and stretch, sunglasses position and tilt, eyes, eyebrows, mouth, arms and effects.
 - The character itself is drawn in `video/src/mascot/Rig.tsx`.
+- **Eye proportions (changed 24 Sep 2026):** when Wil's eyes show (shades up or lowered), each open eye is about 19% of the body width (r=17 on a 180-wide card; r=21 when wide), with large pupils and a white catchlight. They used to be r=8 with 3px pupils, which was too small to read in thumbnails or on phones. Big eyes follow baby-schema proportions. A 2026 eye-tracking study found large-eyed mascots got longer looks and much higher preference ratings than medium or small eyes. Keep the eyes at least this big. With the shades on, the shades stay the eyes, as before.
 - Preview everything live with `cd video && npm run dev`, then open **MascotGallery**.
 - Re-render one animation:
 

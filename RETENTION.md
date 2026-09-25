@@ -96,6 +96,7 @@ The overlay uses the Wild Card Commander mascot (`video/src/Mascot.tsx`): an ori
 - [ ] One comment prompt tied to the content, at least a minute from the subscribe segment.
 - [ ] A "watch next" end screen in the last 5–20 seconds, and no second spoken ask.
 - [ ] Chapters in the description for videos over 5 minutes.
+- [ ] No burned-in subtitles in long-form (channel preference). Upload an SRT as closed captions instead.
 - [ ] Shorts: a thumb-stopping first frame, no spoken ask, and an ending that loops to the opening.
 - [ ] After 48 hours, check the Intro percentage and any dip at the subscribe segment in YouTube Studio.
 

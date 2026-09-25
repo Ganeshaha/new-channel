@@ -5,6 +5,8 @@ import { Logo } from "./HelloWorld/Logo";
 import { SubscribeBeat, subscribeBeatSchema } from "./SubscribeBeat";
 import { BackOptions, Banner, MascotSheet, ProfilePicture } from "./Mascot";
 import { AnimationGallery, LIBRARY, MascotAnimation } from "./mascot/library";
+import { Ep002, EP002_SECONDS } from "./episodes/ep002/Ep002";
+import { Ep002Thumbnail } from "./episodes/ep002/Thumbnail";
 
 // Each <Composition> is an entry in the sidebar!
 
@@ -69,6 +71,12 @@ export const RemotionRoot: React.FC = () => {
       <Composition id="MascotGallery" component={AnimationGallery} durationInFrames={120} fps={30} width={1920} height={1080} defaultProps={{ groups: ["core"] }} />
       <Composition id="MascotGalleryMagic" component={AnimationGallery} durationInFrames={120} fps={30} width={1920} height={1080} defaultProps={{ groups: ["magic"] }} />
       <Composition id="MascotGalleryYouTubeMeme" component={AnimationGallery} durationInFrames={120} fps={30} width={1920} height={1080} defaultProps={{ groups: ["youtube", "meme"] }} />
+
+      {/* Episode 002: "The New Jace Precon Has a One-Card Infinite Combo" (timing from src/episodes/ep002/timing.json) */}
+      <Composition id="Ep002" component={Ep002} durationInFrames={EP002_SECONDS * 30} fps={30} width={1920} height={1080} defaultProps={{ audit: false }} />
+      <Composition id="Ep002ThumbA" component={Ep002Thumbnail} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ variant: "messed-up" as const }} />
+      <Composition id="Ep002ThumbB" component={Ep002Thumbnail} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ variant: "one-card" as const }} />
+      <Composition id="Ep002ThumbC" component={Ep002Thumbnail} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ variant: "solo" as const }} />
 
       {/* Mount any React component to make it show up in the sidebar and work on it individually! */}
       <Composition

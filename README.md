@@ -9,7 +9,7 @@ This repo holds the research and production files for **Wild Card Commander** (@
   - `animations/`, 17 expressive transparent mascot animations. Its [README](brand/animations/README.md) covers what each is for and the ffmpeg overlay command.
 
   The source is `video/src/Mascot.tsx` (poses and stills), `video/src/mascot/Rig.tsx` (the character rig), `video/src/mascot/animations.tsx` and `animations2.tsx`. The plan for what's next is in [video/ANIMATION-ROADMAP.md](video/ANIMATION-ROADMAP.md).
-- **Mascot:** a plain red card back (brick red with a thin cream inner border, not Wizards' back) wearing pixel sunglasses. Red was chosen for contrast at avatar size, because no big Commander channel uses it, and because it pairs with Deck Check cEDH's maroon. Change `MASCOT_BACK` in `video/src/Mascot.tsx` to restyle every asset. The poses are cool, "hold on…" (shades down), verdict (shades drop), shrug, and point.
+- **Mascot: Wil D. Card**, a plain red card back (brick red with a thin cream inner border, not Wizards' back) wearing pixel sunglasses. Red was chosen for contrast at avatar size, because no big Commander channel uses it, and because it pairs with Deck Check cEDH's maroon. Change `MASCOT_BACK` in `video/src/Mascot.tsx` to restyle every asset. The poses are cool, "hold on…" (shades down), verdict (shades drop), shrug, and point.
 
 ## Research
 
@@ -31,6 +31,9 @@ This repo holds teardowns of Magic: The Gathering YouTube channels, used to plan
 Data was pulled with [yt-dlp](https://github.com/yt-dlp/yt-dlp) on 24 Sep 2026. The raw `.info.json` metadata runs to hundreds of MB, so it's gitignored. Everything the analysis uses is kept in each channel's `analysis/dataset.json`.
 
 ## Making videos
+
+**Start with [WORKFLOW.md](WORKFLOW.md)**. It's the step-by-step episode pipeline, covering research, script checks, the video build, QA tools, Wil's voice, thumbnails and rendering, plus every pitfall found so far.
+
 
 **`studio/`** is the main workflow. You paste one prompt into Claude Code, and it writes, illustrates, voices, animates and renders a video, using OpenRouter for images and voice. Setup is in [studio/README.md](studio/README.md), and the prompt template is in [studio/PROMPT.md](studio/PROMPT.md).
 

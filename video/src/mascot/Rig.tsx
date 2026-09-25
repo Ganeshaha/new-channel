@@ -132,8 +132,11 @@ const Arm: React.FC<{ from: [number, number]; to: [number, number] }> = ({ from,
   </g>
 );
 
-const EYE_L: [number, number] = [64, 66];
-const EYE_R: [number, number] = [116, 66];
+// Big eyes (baby-schema proportions): each open eye is ~19% of the body width, with a catchlight.
+const EYE_L: [number, number] = [58, 70];
+const EYE_R: [number, number] = [122, 70];
+/** Top edge of the visible eyes, so brows can sit clear of them. */
+const EYE_TOP = 70 - 21;
 
 const EyesView: React.FC<{ eyes: Eyes; px: number; py: number; face: string }> = ({ eyes, px, py, face }) => {
   if (eyes === "none") return null;
@@ -141,17 +144,19 @@ const EyesView: React.FC<{ eyes: Eyes; px: number; py: number; face: string }> =
     <g>
       {[EYE_L, EYE_R].map(([cx, cy], i) =>
         eyes === "closed" ? (
-          <path key={i} d={`M${cx - 9} ${cy} Q${cx} ${cy + 6} ${cx + 9} ${cy}`} stroke={face} strokeWidth={4} fill="none" strokeLinecap="round" />
+          <path key={i} d={`M${cx - 15} ${cy} Q${cx} ${cy + 10} ${cx + 15} ${cy}`} stroke={face} strokeWidth={5.5} fill="none" strokeLinecap="round" />
         ) : eyes === "x" ? (
-          <path key={i} d={`M${cx - 8} ${cy - 8} L${cx + 8} ${cy + 8} M${cx + 8} ${cy - 8} L${cx - 8} ${cy + 8}`} stroke={face} strokeWidth={4.5} strokeLinecap="round" />
+          <path key={i} d={`M${cx - 12} ${cy - 12} L${cx + 12} ${cy + 12} M${cx + 12} ${cy - 12} L${cx - 12} ${cy + 12}`} stroke={face} strokeWidth={6} strokeLinecap="round" />
         ) : eyes === "star" ? (
-          <path key={i} d={starPath(cx, cy, 13, 5.5)} fill={GOLD} stroke={INK} strokeWidth={2.5} strokeLinejoin="round" />
+          <path key={i} d={starPath(cx, cy, 20, 8.5)} fill={GOLD} stroke={INK} strokeWidth={3} strokeLinejoin="round" />
         ) : eyes === "happy" ? (
-          <path key={i} d={`M${cx - 9} ${cy + 3} Q${cx} ${cy - 8} ${cx + 9} ${cy + 3}`} stroke={face} strokeWidth={4} fill="none" strokeLinecap="round" />
+          <path key={i} d={`M${cx - 15} ${cy + 5} Q${cx} ${cy - 13} ${cx + 15} ${cy + 5}`} stroke={face} strokeWidth={5.5} fill="none" strokeLinecap="round" />
         ) : (
           <g key={i}>
-            <circle cx={cx} cy={cy} r={eyes === "wide" ? 12 : 8} fill={PAPER} stroke={INK} strokeWidth={3} />
-            <circle cx={cx + 2 + px} cy={cy + 1 + py} r={eyes === "wide" ? 3 : 3.5} fill={INK} />
+            <circle cx={cx} cy={cy} r={eyes === "wide" ? 21 : 17} fill={PAPER} stroke={INK} strokeWidth={3.5} />
+            {/* pupil: big when relaxed, pinned small when shocked */}
+            <circle cx={cx + 3 + px * 1.6} cy={cy + 2 + py * 1.6} r={eyes === "wide" ? 5.5 : 7.5} fill={INK} />
+            <circle cx={cx + 0.5 + px * 1.6} cy={cy - 0.5 + py * 1.6} r={eyes === "wide" ? 1.8 : 2.6} fill="#fff" />
           </g>
         ),
       )}
@@ -261,7 +266,7 @@ export const MascotRig: React.FC<RigProps> = ({
           </g>
         )}
         <EyesView eyes={eyes} px={pupilX} py={pupilY} face={face} />
-        <BrowsView brows={brows} y={shadesOn ? Math.min(44, shadesY - 10) : 44} face={face} />
+        <BrowsView brows={brows} y={Math.min(shadesOn ? Math.min(44, shadesY - 10) : 44, eyes === "none" ? 44 : EYE_TOP - 7)} face={face} />
         {shadesOn && <PixelShades x={34 + shadesX} y={shadesY} rotate={shadesRotate} />}
         <MouthView mouth={mouth} face={face} />
         <Arm from={[0, 150]} to={lTip} />

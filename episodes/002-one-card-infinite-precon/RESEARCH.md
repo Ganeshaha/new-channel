@@ -21,6 +21,11 @@ Researched 24 Sep 2026. The set releases 2 Oct 2026, so the cards aren't out yet
 
 As of 24 Sep 2026, neither Dack nor Venser has official rulings on Scryfall.
 
+**"Wizards messed up" (the video's take).** This is an opinion, and the video states it as one. It rests on two checkable facts:
+- The combo is printed in the precon as sold, and needs no outside cards.
+- Wizards' own bracket guidance says "the average current preconstructed deck is at a Core (Bracket 2) level", and Bracket 2 means "no intentional two-card infinite combos". Sources: [Introducing Commander Brackets Beta](https://magic.wizards.com/en/news/announcements/introducing-commander-brackets-beta) and the [February 9, 2026 update](https://magic.wizards.com/en/news/announcements/commander-brackets-beta-update-february-9-2026). The Multiverse Reforged decklist article gives no bracket for this deck.
+- As of 24 Sep 2026, Wizards has made no public statement on whether the combo was known or intended. The script doesn't claim either way.
+
 ## Why it works (Comprehensive Rules, version dated 25 Sep 2026)
 
 | Rule | What it says (summary) | Why it matters |
@@ -64,3 +69,25 @@ If you control Venser and an opponent makes a copy of him with any clone effect,
 ## Card images
 
 These are in `assets/cards/` (Scryfall PNGs, covered by the WotC permission in PERMISSIONS.md). `cards.json` lists the artist for each, which is used for the credits in the description.
+
+
+## Counterplay and extra checks (25 Sep 2026)
+
+Checked against Scryfall Oracle text and the Comprehensive Rules effective 25 Sep 2026 (MagicCompRules 20260925.txt).
+
+- **Stopping the loop.** Every Venser trigger in the loop targets the original Venser, which an opponent controls. If that Venser leaves the battlefield while a trigger targets it, the trigger doesn't resolve: "If all its targets… are now illegal, the spell or ability doesn't resolve" (608.2b). The combo player's own token Vensers aren't legal targets, because the mode says "target permanent an opponent controls".
+- **Answers in the precon** (instant speed):
+  - Swords to Plowshares and Path to Exile (exile target creature).
+  - Despark (exile target permanent with mana value 4 or greater; Venser is 6).
+  - Stroke of Midnight (destroy target nonland permanent).
+  - Fatehold Charm (mode: return target spell or creature to its owner's hand).
+- **Darksteel Angel** is indestructible ({9}, Flying, indestructible). Destroy effects don't work on it, but exile, bounce, edicts and similar do.
+- **Jace, Multiverse Architect** −3: "Exile another target planeswalker or creature you control. Reveal cards from the top of your library until you reveal a creature or planeswalker card. Put that card onto the battlefield and the rest on the bottom of your library in a random order."
+- **Cursed Mirror** (in the precon): "As this artifact enters, you may have it become a copy of any creature on the battlefield until end of turn, except it has haste." Entering as a copy of Venser means its enters trigger fires. That's the in-deck example for "the Venser problem".
+- **Venser also has flash.** It's not used in the script.
+- The loop is optional: each new trigger can target something else, so the combo player can stop whenever they want.
+- **The end state** (the user's correction, 25 Sep 2026; the script now says it):
+  - Every loop gives two token Vensers. One dies to the legend rule, but both entered (704.5j is a state-based action after the tokens are created, and both enter triggers still happen).
+  - One trigger retargets the original Venser. The other makes two hasty copies of any permanent an opponent controls.
+  - So you end with as many copies of their creatures, artifacts and lands as you like. Copied lands enter untapped, unless the land itself says it enters tapped, which makes the mana effectively unlimited.
+  - All of the tokens are sacrificed at the beginning of the next end step (Venser's own text), so the combo belongs in the precombat main phase.

@@ -37,12 +37,13 @@ Timings are approximate at ~200 words per minute. **VISUAL** notes follow the ho
 - The group-chat phone, with messages thinning out.
 - The mascot slowly slides the trophy off-screen.
 
-### 0:19 · Claim and promise
+### 0:19 · Intro and promise
 
 **VO:**
-> And I think it's because a lot of us, me included, play Commander like the goal is to win. I don't think it is. In this video we're going to look at what the point actually is, and three mistakes that quietly ruin games. The third one's the one I still make, and I'd call myself a pretty decent player, so… yeah.
+> Hello everyone, this is Wil D. Card with Wild Card Commander. Today we're talking about why that happens, because I think a lot of us, me included, play Commander like the goal is to win. I don't think it is. We're going to look at what the point actually is, and three mistakes that quietly ruin games. The third one's the one I still make, and I'd call myself a pretty decent player, so… yeah.
 
 **VISUAL:**
+- **Wil D. Card is introduced:** he bounces in centre-stage (`enter`), waves, and gets a cut-out-letter name card "WIL D. CARD" plus a "WILD CARD COMMANDER" sticker, then slides to his corner on "Today…". There's no Wil in the cold open.
 - Title text builds from cut-out letters: "YOU'RE PLAYING COMMANDER WRONG".
 - Three face-down "mistake" cards are dealt. The third gets a small hand-drawn arrow labelled "me". This is the open loop.
 

@@ -267,7 +267,7 @@ export const ANIMS2: Anim[] = [
         fixed: (
           <g>
             <InfinitySym x={90} y={-72} s={S(f, fps, 4) * (1 + 0.08 * Math.sin(f * 0.5))} rot={Math.sin(f * 0.1) * 10} />
-            {f > 8 && <Bubble x={270} y={60} s={1} text={n} color={GOLD} size={34} />}
+            {f > 8 && <Bubble x={225} y={40} s={1} text={n} color={GOLD} size={34} />}
             {[0, 1].map((k) => {
               const a = f * 0.15 + k * Math.PI;
               return <Arrow key={k} x={90 + 170 * Math.cos(a)} y={140 + 120 * Math.sin(a)} rot={(a * 180) / Math.PI} s={0.6} color={ACCENT} />;
@@ -573,8 +573,8 @@ export const ANIMS2: Anim[] = [
       brows: "up",
       fixed: (
         <g>
-          <Arrow x={250} y={262 + 10 * Math.sin(f * 0.5)} s={S(f, fps, 4)} />
-          <Bubble x={250} y={335} s={S(f, fps, 8)} text="description" color={GOLD} size={26} />
+          <Arrow x={205} y={232 + 10 * Math.sin(f * 0.5)} s={S(f, fps, 4)} />
+          <Bubble x={185} y={300} s={S(f, fps, 8)} text="description" color={GOLD} size={26} />
         </g>
       ),
     }),
@@ -592,8 +592,8 @@ export const ANIMS2: Anim[] = [
       brows: "up",
       fixed: (
         <g>
-          <VideoThumb x={275} y={-15} s={S(f, fps, 6, { damping: 9 })} />
-          <MotionLines x={275} y={-70} opacity={I(f, [8, 14, 30, 36], [0, 1, 1, 0])} color={GOLD} />
+          <VideoThumb x={228} y={-15} s={S(f, fps, 6, { damping: 9 })} />
+          <MotionLines x={228} y={-70} opacity={I(f, [8, 14, 30, 36], [0, 1, 1, 0])} color={GOLD} />
         </g>
       ),
     }),

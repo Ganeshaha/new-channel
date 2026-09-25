@@ -10,6 +10,8 @@
   - Wizards logos or trademarks
   - work made for a third party
 
+- **Product images confirmed (24 Sep 2026):** the owner confirmed the permission also covers official product images, such as precon deck boxes and key art. That includes the Magic logo as it appears on the packaging. Episode 002 uses the Multiverse Reforged deck-box shot and the Jace key art from Wizards' own decklist article (`video/public/ep002/product/`).
+
 This permission supersedes the earlier "check Wizards' Fan Content Policy" caveat in the research notes, for this channel's own videos.
 
 ## What this does not cover
@@ -21,5 +23,6 @@ The Wizards permission covers Wizards' material only. It does not extend to anyo
 | Asset | Source | Notes |
 |---|---|---|
 | Card images and data | [Scryfall API](https://scryfall.com/docs/api) | Follow Scryfall's API guidelines (rate limits, no paywalling their data). The WotC permission covers the images themselves. |
+| Product shots and key art | Wizards' own announcement pages (magic.wizards.com, media.wizards.com) | Download the official image rather than a retailer's copy. Credit it in the description. |
 | Comprehensive Rules text | Wizards of the Coast | Quoted to cite rules (for example CR 509.2). |
 | Fonts, music, sound effects | To be decided | Record each licence here when chosen. |

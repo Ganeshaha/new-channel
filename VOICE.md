@@ -12,7 +12,7 @@ Scripts, narration, Shorts, titles and on-screen text should sound like a real p
 >
 > Passing the numbers is necessary but **not sufficient**.
 
-The targets below come from **~670,000 words of real speech**, the auto-captions of all three channels studied (`*/analysis/transcripts.json`). Use those transcripts as the reference for how people in this niche actually talk. Use them as a guide to rhythm and wording, not as material to copy.
+The targets below come from **~670,000 words of real speech**, the auto-captions of all three channels studied (`research/*/analysis/transcripts.json`). Use those transcripts as the reference for how people in this niche actually talk. Use them as a guide to rhythm and wording, not as material to copy.
 
 ## What the transcripts show (per 1,000 spoken words)
 

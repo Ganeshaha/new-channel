@@ -16,22 +16,52 @@ How it works:
   4. BLEED: an element still on screen more than 1.2 s after its section ended (it belongs to the
      previous thought and clutters the next scene), unless it appeared so late that it needs that long.
   5. WIL CUT SHORT: one of Wil's animations interrupted by the next cue before 60 % of it played.
+  7. WIL REACTIONS TOO CLOSE: two library animations starting under REACTION_GAP apart; and the
+     expression plan (nods/brows/gestures) breaking its minimum gaps (scripts/wil_director.py).
+  --shorts: a 1080x1920 Short; "CLIPPED" then means outside the area the Shorts UI leaves clear (SHORTS_SAFE).
+  6. SMALL TEXT: rendered text size at rest below MIN_TEXT for its kind (phones and TVs; see
+     research/youtube-general). --fonts lists every element's size.
+  It warns (not counted) about CAPTION ZONE text, mostly inside the bottom-centre area where YouTube draws captions.
+  It also prints BLANK BEATS as warnings: 0.3 s or more with only Wil on stage (usually a scene handoff
+  where the old group fades before the new one arrives).
 Text must keep a MARGIN (12 px) of clear space from whatever it's checked against, so "just touching"
 counts as an overlap.
 Exit code 1 if anything is reported.
 """
 import json, math, os, re, subprocess, sys, tempfile
+
+sys.stdout.reconfigure(encoding="utf-8")  # labels contain symbols the Windows console codepage can't print
 from collections import defaultdict
 
 FPS, EVERY = 30, 3
 DT = EVERY / FPS
-TEXT = {"sticker", "callout", "title", "label", "note"}
+TEXT = {"sticker", "callout", "title", "label", "note", "caption"}
 # "note" = card-like text (a trigger on the stack, the verdict card): read like text, and a stamp may sit on it
 SOLID = {"card", "fig", "char", "wil", "note"}
 W, H = 1920, 1080
+# Vertical Shorts (--shorts): YouTube's UI covers the top ~250 px, the right rail (x >= 880: like/
+# comment/share) and the bottom ~420 px (handle, title, carousel with the related-video link, progress).
+SHORTS_SAFE = (60, 250, 880, 1500)  # research/shorts/REPORT.md (Jun 2026 player adds a carousel row)
 MARGIN = 12      # px of clear space required around text
 SAFE = 24        # px text keeps inside the frame edge at rest
 BLEED = 1.2      # s an element may outlive its section
+REACTION_GAP = 2.5  # s between the starts of two of Wil's library reactions (his face mustn't flip-flop)
+REACTION_OK_AFTER = {"enter"}  # a designed sequence: the entrance flows straight into its follow-up
+# What Wil's face actually does in the render (the "face" probe in kit.tsx), research/wil-motion:
+BROW_MIN_SPELL = 0.25   # s a brow raise must stay visible (shorter reads as a flicker)
+BROW_MIN_GAP = 1.0      # s before brows may come back after vanishing
+BROW_MAX_PER_MIN = 8    # appearances in any minute (research: 4-8 flashes a minute)
+EYES_MIN_SPELL = 0.3    # s an eye state (open, wide, closed...) must hold, blinks aside
+JITTER_REVERSALS = 4    # fast direction reversals of his tilt, height or sideways position in one second
+JITTER_FAST = 4         # frames: a reversal counts as "fast" if the previous one was this recent (> ~4 Hz)
+JITTER_MIN_STEP = 0.04  # deg / px per frame: smaller steps don't count as movement
+# (a deliberate nod like "yes" reverses every ~6 frames and passes; a 2-3 frame wobble fails)
+# rendered font px at rest. Calibrated on the white-background MTG channels (research/layout-study):
+# their display text has a cap height of ~3.4 % of the frame (about 50 px type, 25th percentile ~35 px),
+# body lines ~1.9 % (about 30 px). Below these, text is smaller than what those audiences read comfortably.
+MIN_TEXT = {"sticker": 40, "title": 48, "callout": 30, "label": 30, "note": 28, "caption": 56}
+# YouTube draws captions here (bottom centre); critical text should stay out of it
+CAPTION_ZONE = [(480, 870), (1440, 870), (1440, 1060), (480, 1060)]
 
 
 def read_secs(label):
@@ -86,7 +116,7 @@ def clip(subject, clipper):
 
 def shape(row, m=0.0):
     """The element as a (rotated) rectangle, grown by m px on every side."""
-    kind, label, at, p, left, top, bw, bh, lw, lh, rot, stamp = row
+    kind, label, at, p, left, top, bw, bh, lw, lh, rot, stamp = row[:12]
     if kind in ("wil", "char"):
         # the rig's SVG box is wider than the character: keep the body (x 20-80 %, y 11-100 %)
         return rect_poly(left + bw / 2, top + bh * 0.555, bw * 0.3 + m, bh * 0.445 + m, 0)
@@ -108,14 +138,27 @@ def collect(comp, frames, log):
     out = os.path.join(tmp, "audit.mp4")
     props = os.path.join(tmp, "props.json")  # a file, because Windows mangles quotes in inline JSON
     open(props, "w").write('{"audit": true}')
-    cmd = ["npx", "remotion", "render", comp, out, "--scale=0.1", f"--props={props}", "--log=verbose"]
+    cmd = ["npx", "remotion", "render", comp, out, "--scale=0.1" if "--shorts" not in sys.argv else "--scale=0.15", f"--props={props}", "--log=verbose"]
     if frames:
         cmd.append(f"--frames={frames}")
     res = subprocess.run(" ".join(f'"{c}"' if " " in c else c for c in cmd), cwd=root, shell=True,
                          capture_output=True, text=True, encoding="utf-8", errors="ignore")
     text = res.stdout + res.stderr
-    open(os.path.join(os.path.dirname(out), "audit.log"), "w", encoding="utf-8").write(text)
+    log_path = os.path.join(os.path.dirname(out), "audit.log")
+    open(log_path, "w", encoding="utf-8").write(text)
+    print(f"render log: {log_path}  (reuse with --log; feed to scripts/wil_looks.py)")
     return text
+
+
+def parse_face_every_frame(text):
+    """Wil's pose on every frame ("AUDITF <frame> <label>"), merged with the every-3rd-frame probe rows."""
+    out = {}
+    for m in re.finditer(r'AUDITF (\d+) ("(?:[^"\\]|\\.)*")', text):
+        try:
+            out[int(m.group(1))] = json.loads(m.group(2))
+        except json.JSONDecodeError:
+            pass
+    return out
 
 
 def parse(text):
@@ -133,7 +176,13 @@ def main():
     comp = sys.argv[1] if len(sys.argv) > 1 and not sys.argv[1].startswith("--") else "Ep002"
     frames = sys.argv[sys.argv.index("--frames") + 1] if "--frames" in sys.argv else None
     log = sys.argv[sys.argv.index("--log") + 1] if "--log" in sys.argv else None
-    data = parse(collect(comp, frames, log))
+    raw = collect(comp, frames, log)
+    data = parse(raw)
+    shorts = "--shorts" in sys.argv
+    global W, H
+    if shorts:
+        W, H = 1080, 1920
+    face_all = parse_face_every_frame(raw)
     if not data:
         sys.exit("no AUDIT lines found: is the composition rendering <AuditProbe/> with the audit prop?")
     print(f"sampled {len(data)} frames ({DT:.1f} s apart)")
@@ -142,7 +191,7 @@ def main():
     timing = json.load(open(os.path.join(root, "src", "episodes", comp.lower(), "timing.json"), encoding="utf-8"))
 
     def section_end(at):
-        end = 0
+        end = timing["sections"][0]["end"]  # anything already up at the start belongs to the first section
         for sct in timing["sections"]:
             if sct["start"] - 0.5 <= at:
                 end = sct["end"]
@@ -153,12 +202,19 @@ def main():
     overlaps = defaultdict(list)   # (a, b) -> [t]
     clipped = defaultdict(list)
     seen = defaultdict(lambda: [0, None, None])  # key -> [readable samples, first t, last t]
+    fonts = defaultdict(list)      # key -> rendered text px while at rest
+    face = []                      # (t, brows, eyes) from Wil's face probe
+    in_captions = defaultdict(list)
 
     for f, rows in sorted(data.items()):
         t = f / FPS
         items = []
         for r in rows:
             kind, label, at, p = r[0], r[1], r[2], r[3]
+            if kind == "face":
+                parts = dict(x.split("=", 1) for x in label.split(";") if "=" in x)
+                face.append((t, parts.get("brows", "none"), parts.get("eyes", "")))
+                continue
             # live counters (LOOPS: 12, each opponent: 34) are one element whose number changes
             key = (kind, re.sub(r"\d+", "#", label), round(at, 1))
             if kind != "wil":
@@ -181,10 +237,17 @@ def main():
                 lost = 1 - (area(inside) / area(poly) if inside else 0)
                 # at rest, text also keeps SAFE px inside the frame (title-safe; the player UI covers edges)
                 if 0.97 <= p <= 1.03:
-                    safe = clip(poly, [(SAFE, SAFE), (W - SAFE, SAFE), (W - SAFE, H - SAFE), (SAFE, H - SAFE)])
+                    x0, y0, x1, y1 = SHORTS_SAFE if shorts else (SAFE, SAFE, W - SAFE, H - SAFE)
+                    safe = clip(poly, [(x0, y0), (x1, y0), (x1, y1), (x0, y1)])
                     lost = max(lost, 1 - (area(safe) / area(poly) if safe else 0))
                 if lost > 0.02:
                     clipped[(kind, label)].append(t)
+                if 0.97 <= p <= 1.03:
+                    if len(r) > 12 and r[12]:
+                        fonts[key].append(r[12])
+                    cz = None if shorts else clip(poly, CAPTION_ZONE)
+                    if cz and len(cz) >= 3 and area(cz) > 0.25 * area(poly):
+                        in_captions[(kind, label)].append(t)
         for i in range(len(items)):
             for j in range(i + 1, len(items)):
                 a, b = items[i], items[j]
@@ -245,6 +308,8 @@ def main():
     print("\n== TOO SHORT (fully visible for less than its reading time) ==")
     rows = []
     for (kind, label, at), (n, t0, t1) in seen.items():
+        if kind == "caption":
+            continue  # captions are read along with the voice, chunk by chunk
         need = read_secs(label) if kind in TEXT else 1.2
         got = n * DT
         if got + DT < need and t0 is not None:
@@ -256,6 +321,8 @@ def main():
     print("\n== BLEED (still on screen well after its section ended) ==")
     rows = []
     for (kind, label, at), t_last in last_visible.items():
+        if label.startswith("HUD:"):
+            continue  # a running counter meant to stay up across sections (e.g. ep003's cabbage count)
         over = t_last - section_end(at)
         # something that appears in a section's last words may stay as long as it needs to be read
         need = read_secs(label) if kind in TEXT else 1.2
@@ -273,6 +340,133 @@ def main():
     for start, anim, prog in rows:
         print(f"  {start:6.1f}s  {anim:24} only {prog:.0%} played")
     problems += len(rows)
+
+    print(f"\n== WIL REACTIONS TOO CLOSE (library animations starting under {REACTION_GAP}s apart; his mood mustn't flip-flop) ==")
+    starts = sorted({(start, anim) for (anim, start) in wil_seen})
+    rows = [(a, x, b, y) for (a, x), (b, y) in zip(starts, starts[1:]) if b - a < REACTION_GAP and x not in REACTION_OK_AFTER]
+    for a, x, b, y in rows:
+        print(f"  {a:6.1f}s  {x} -> {y} after {b - a:.1f}s")
+    problems += len(rows)
+
+    print("\n== WIL EXPRESSION PLAN (nods, brow raises, gestures: scripts/wil_director.py rules) ==")
+    exp = os.path.join(root, "src", "episodes", comp.lower(), "expression.json")
+    if os.path.exists(exp):
+        sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+        import wil_director
+        probs, rates = wil_director.check(json.load(open(exp)), timing["narrationEnd"] / 60)
+        print(f"  nods {rates['accents']:.1f}/min, brow raises {rates['brows']:.1f}/min, gestures {rates['gestures']:.1f}/min")
+        for x in probs:
+            print("  " + x)
+        problems += len(probs)
+    else:
+        print("  no expression.json: run scripts/wil_director.py")
+
+    print(f"\n== WIL FACE FLICKER (brows up < {BROW_MIN_SPELL}s or back within {BROW_MIN_GAP}s, > {BROW_MAX_PER_MIN} brow raises a minute, eye states < {EYES_MIN_SPELL}s) ==")
+    rows = []
+
+    def runs(values):
+        out, start, cur = [], None, None
+        for t, v in values:
+            if v != cur:
+                if cur is not None:
+                    out.append((cur, start, t))
+                cur, start = v, t
+        if cur is not None:
+            out.append((cur, start, values[-1][0] + DT))
+        return out
+
+    if face:
+        vis = runs([(t, b != "none") for t, b, _ in face])
+        ups = [(s0, s1) for v, s0, s1 in vis if v]
+        for s0, s1 in ups:
+            if s1 - s0 < BROW_MIN_SPELL:
+                rows.append(f"  {s0:6.1f}s  brows up for only {s1 - s0:.2f}s")
+        for (a0, a1), (b0, b1) in zip(ups, ups[1:]):
+            if b0 - a1 < BROW_MIN_GAP:
+                rows.append(f"  {a1:6.1f}s  brows back after only {b0 - a1:.2f}s")
+        starts_up = [s0 for s0, _ in ups]
+        for s0 in starts_up:
+            n = sum(1 for x in starts_up if s0 <= x < s0 + 60)
+            if n > BROW_MAX_PER_MIN:
+                rows.append(f"  {s0:6.1f}s  {n} brow raises in the next minute")
+                break
+        for v, s0, s1 in runs([(t, e) for t, _, e in face]):
+            if v not in ("shades", "closed") and s1 - s0 < EYES_MIN_SPELL and s0 > face[0][0]:
+                rows.append(f"  {s0:6.1f}s  eyes '{v}' for only {s1 - s0:.2f}s")
+        mins = (face[-1][0] - face[0][0]) / 60
+        print(f"  brow raises: {len(ups)} ({len(ups) / max(mins, 1e-6):.1f}/min)")
+    for x in rows:
+        print(x)
+    problems += len(rows)
+
+    print(f"\n== WIL JITTER (his tilt, height or sideways position reversing fast, {JITTER_REVERSALS}+ times in a second: a wobble) ==")
+    rows = []
+    series = dict(face_all)
+    for f, rws in data.items():
+        for r in rws:
+            if r[0] == "face":
+                series[f] = r[1]
+    pose = []
+    for f in sorted(series):
+        d = dict(x.split("=", 1) for x in series[f].split(";") if "=" in x)
+        if "rot" in d:
+            pose.append((f, float(d["rot"]), float(d["y"]), float(d.get("x", 0))))
+    if len(pose) > 3 and all(b[0] - a[0] == 1 for a, b in zip(pose[:50], pose[1:51])):
+        for idx, name in ((1, "tilt"), (2, "height"), (3, "sideways position")):
+            rev = []
+            for i in range(2, len(pose)):
+                if pose[i][0] - pose[i - 2][0] != 2:
+                    continue
+                d1 = pose[i - 1][idx] - pose[i - 2][idx]
+                d2 = pose[i][idx] - pose[i - 1][idx]
+                if d1 * d2 < 0 and abs(d1) > JITTER_MIN_STEP and abs(d2) > JITTER_MIN_STEP:
+                    rev.append(pose[i][0])
+            # keep only fast reversals (the previous one within JITTER_FAST frames)
+            rev = [b / FPS for a, b in zip(rev, rev[1:]) if b - a <= JITTER_FAST]
+            flagged = []
+            for t0 in rev:
+                if sum(1 for x in rev if t0 <= x < t0 + 1) >= JITTER_REVERSALS and not (flagged and t0 - flagged[-1][1] < 1):
+                    flagged.append([t0, t0 + 1])
+                elif flagged and t0 - flagged[-1][1] < 1:
+                    flagged[-1][1] = t0 + 0.1
+            for a, b in flagged:
+                rows.append(f"  {a:6.1f}-{b:6.1f}s  his {name} wobbles back and forth")
+    else:
+        print("  (no every-frame pose data: re-render the audit)")
+    for x in rows:
+        print(x)
+    problems += len(rows)
+
+    print("\n== SMALL TEXT (rendered size at rest below the minimum for its kind; phone and TV viewers) ==")
+    rows = []
+    for (kind, label, at), px in fonts.items():
+        med = sorted(px)[len(px) // 2]
+        if med < MIN_TEXT.get(kind, 0):
+            rows.append((at, kind, label, med))
+    for at, kind, label, med in sorted(rows):
+        print(f"  {at:6.1f}s  {kind}:{label[:56]:56} {med:.0f}px < {MIN_TEXT[kind]}px")
+    problems += len(rows)
+    if "--fonts" in sys.argv:
+        for (kind, label, at), px in sorted(fonts.items(), key=lambda kv: sorted(kv[1])[len(kv[1]) // 2]):
+            print(f"    font {sorted(px)[len(px) // 2]:4.0f}px  {kind}:{label[:60]}")
+
+    print("\n== CAPTION ZONE (warnings: text mostly inside the bottom-centre area YouTube captions cover) ==")
+    for (k, l), ts in sorted(in_captions.items(), key=lambda kv: kv[1][0]):
+        for s0, s1 in spans(sorted(ts)):
+            if s1 - s0 + DT >= 0.5:
+                print(f"  {s0:6.1f}-{s1:6.1f}s  {k}:{l[:60]}")
+
+    print("\n== BLANK BEATS (warnings, not counted: 0.3 s+ with nothing on stage but Wil; fine when Wil is the point) ==")
+    st = None
+    for f, rows in sorted(data.items()):
+        x = f / FPS
+        c = sum(1 for r in rows if r[0] not in ("wil", "face") and r[3] >= 0.5)
+        if c == 0 and st is None:
+            st = x
+        if c > 0 and st is not None:
+            if x - st >= 0.3:
+                print(f"  {st:6.1f}-{x:6.1f}s  make it a swap: the outgoing group leaves just after the next one arrives")
+            st = None
 
     print(f"\n{problems} problem(s)")
     sys.exit(1 if problems else 0)

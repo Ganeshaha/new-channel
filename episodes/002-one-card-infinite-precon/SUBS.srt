@@ -1,0 +1,730 @@
+1
+00:00:00,300 --> 00:00:04,100
+The new Jace precon isn't even out yet,
+and people have already found a way to win
+
+2
+00:00:04,120 --> 00:00:05,000
+the game with it.
+
+3
+00:00:05,020 --> 00:00:07,420
+With one card, straight out of the box.
+
+4
+00:00:07,620 --> 00:00:08,620
+Yeah.
+
+5
+00:00:08,740 --> 00:00:09,658
+Wizards messed up.
+
+6
+00:00:09,678 --> 00:00:13,138
+Hello everyone, this is Wil
+D. Card with Wild Card Commander.
+
+7
+00:00:13,518 --> 00:00:16,258
+Today we're looking at
+the Dack and Venser combo.
+
+8
+00:00:16,538 --> 00:00:22,298
+A Redditor called Huaojozu posted it on
+r/magicTCG, and the thread's been going
+
+9
+00:00:22,318 --> 00:00:23,338
+nuts ever since.
+
+10
+00:00:23,718 --> 00:00:26,698
+We'll go through how it works
+and why it's even legal.
+
+11
+00:00:27,178 --> 00:00:31,338
+And there's one card in this same deck
+that stops you from winning with it.
+
+12
+00:00:31,398 --> 00:00:32,398
+We'll get to that.
+
+13
+00:00:32,478 --> 00:00:33,443
+Let's take a look.
+
+14
+00:00:33,463 --> 00:00:34,553
+All right, real quick.
+
+15
+00:00:34,953 --> 00:00:37,173
+The deck is Multiverse Reforged.
+
+16
+00:00:37,313 --> 00:00:40,593
+It's the four-color Jace precon from
+Reality Fracture, and it's out October
+
+17
+00:00:40,613 --> 00:00:43,573
+2nd. Two of the new cards
+in it are the problem.
+
+18
+00:00:43,813 --> 00:00:46,113
+First up, Dack Fayden, Helping Hand.
+
+19
+00:00:46,133 --> 00:00:48,553
+Dack's a six-mana creature now.
+
+20
+00:00:48,573 --> 00:00:49,613
+Already a bit weird.
+
+21
+00:00:49,833 --> 00:00:53,673
+When he enters, you reveal cards off the
+top until you hit one creature for each
+
+22
+00:00:53,693 --> 00:00:56,913
+opponent. In a normal four-player
+game, that's three creatures.
+
+23
+00:00:57,113 --> 00:01:00,133
+They come in under your control, you
+shuffle, and they're goaded for the rest
+
+24
+00:01:00,153 --> 00:01:01,113
+of the game.
+
+25
+00:01:01,133 --> 00:01:02,993
+Then you hand one to each opponent.
+
+26
+00:01:03,853 --> 00:01:04,853
+Merry Christmas.
+
+27
+00:01:05,353 --> 00:01:07,593
+Next up, Venser, Fervent Forger.
+
+28
+00:01:07,893 --> 00:01:11,753
+When Venser enters, one of his modes makes
+two token copies of target permanent an
+
+29
+00:01:11,773 --> 00:01:12,833
+opponent controls.
+
+30
+00:01:13,133 --> 00:01:15,853
+They've got haste, and you
+sacrifice them at the next end step.
+
+31
+00:01:16,018 --> 00:01:18,638
+Now let's say we flip Venser
+as one of those three.
+
+32
+00:01:18,658 --> 00:01:20,178
+Dack's ability is resolving.
+
+33
+00:01:20,198 --> 00:01:24,218
+Venser comes in under your control,
+so when his trigger happens, it's your
+
+34
+00:01:24,238 --> 00:01:28,078
+trigger. Then, still in the middle of
+Dack's ability, Venser gets handed to an
+
+35
+00:01:28,098 --> 00:01:29,918
+opponent. Dack finishes.
+
+36
+00:01:30,458 --> 00:01:32,318
+Now we put Venser's trigger on the stack.
+
+37
+00:01:32,818 --> 00:01:34,798
+And Venser's on an
+opponent's side now, right?
+
+38
+00:01:34,858 --> 00:01:35,718
+They control him.
+
+39
+00:01:35,738 --> 00:01:38,518
+So you can point his ability at… Venser.
+
+40
+00:01:39,158 --> 00:01:40,158
+Yeah. Himself.
+
+41
+00:01:41,078 --> 00:01:42,808
+We get two token Vensers.
+
+42
+00:01:43,018 --> 00:01:45,038
+Legend rule, you keep one, and
+the other goes to the graveyard.
+
+43
+00:01:45,058 --> 00:01:46,878
+But they both entered.
+
+44
+00:01:47,098 --> 00:01:49,298
+That means we've got
+two new Venser triggers.
+
+45
+00:01:49,698 --> 00:01:53,278
+One targets the original Venser
+again, and that keeps the loop going.
+
+46
+00:01:53,968 --> 00:01:56,268
+The other can target anything
+an opponent controls.
+
+47
+00:01:56,908 --> 00:01:58,768
+Remember the other two
+creatures Dack flipped?
+
+48
+00:01:58,868 --> 00:02:00,628
+They're on your opponents' boards now.
+
+49
+00:02:00,848 --> 00:02:02,608
+Our second trigger can copy one of those.
+
+50
+00:02:02,968 --> 00:02:04,368
+And it just keeps going.
+
+51
+00:02:04,648 --> 00:02:07,988
+Every loop, you get two hasty
+copies of whatever you pointed at.
+
+52
+00:02:08,088 --> 00:02:10,988
+Their creatures, their
+artifacts, even their lands.
+
+53
+00:02:11,528 --> 00:02:14,188
+Copy the lands, and that's
+basically unlimited mana.
+
+54
+00:02:14,608 --> 00:02:18,368
+Loop it as many times as you want, and you
+end up with endless copies of their whole
+
+55
+00:02:18,388 --> 00:02:19,388
+board.
+
+56
+00:02:19,898 --> 00:02:22,518
+They all get sacrificed at the
+beginning of the next end step, though.
+
+57
+00:02:22,848 --> 00:02:24,888
+So do it before combat, then swing.
+
+58
+00:02:25,568 --> 00:02:27,168
+And yeah, before anyone types it.
+
+59
+00:02:27,228 --> 00:02:28,288
+It's two cards.
+
+60
+00:02:28,748 --> 00:02:30,188
+But you only cast one.
+
+61
+00:02:30,208 --> 00:02:32,488
+Dack goes and finds the other one for you.
+
+62
+00:02:32,646 --> 00:02:33,286
+Quick thing.
+
+63
+00:02:33,306 --> 00:02:36,466
+I break down weird new interactions
+like this before they hit your table.
+
+64
+00:02:36,906 --> 00:02:38,426
+Subscribe, or Dack goads your commander.
+
+65
+00:02:38,946 --> 00:02:40,146
+Okay. Quick quiz.
+
+66
+00:02:40,466 --> 00:02:42,786
+When does Venser's trigger
+actually pick its target?
+
+67
+00:02:43,146 --> 00:02:44,146
+Pause if you want.
+
+68
+00:02:44,306 --> 00:02:46,586
+Three, two, one.
+
+69
+00:02:46,728 --> 00:02:48,348
+It's when it goes on the stack.
+
+70
+00:02:48,568 --> 00:02:51,388
+That's the thing everyone in the
+Reddit thread kept asking about.
+
+71
+00:02:51,708 --> 00:02:54,248
+Venser's ability triggers
+the moment he enters.
+
+72
+00:02:54,348 --> 00:02:56,228
+But it doesn't go on the stack yet.
+
+73
+00:02:56,348 --> 00:02:59,788
+It waits until the next time a player
+would get priority, which is after Dack's
+
+74
+00:02:59,808 --> 00:03:01,248
+whole ability is done.
+
+75
+00:03:01,388 --> 00:03:03,388
+That's rule 603.3.
+
+76
+00:03:03,828 --> 00:03:07,268
+And you choose targets as it goes
+on the stack, not when it triggers.
+
+77
+00:03:07,408 --> 00:03:09,479
+That's 603.3d.
+
+78
+00:03:09,928 --> 00:03:13,088
+The trigger's yours, because you
+controlled Venser when it triggered.
+
+79
+00:03:13,108 --> 00:03:14,488
+That's 603.3a.
+
+80
+00:03:14,708 --> 00:03:18,308
+But you pick the target after
+he's already switched sides.
+
+81
+00:03:18,588 --> 00:03:20,048
+I mean, it's a tiny gap.
+
+82
+00:03:20,068 --> 00:03:21,888
+But yeah, that's the
+whole reason it works.
+
+83
+00:03:22,157 --> 00:03:24,437
+Okay, so how often does this happen?
+
+84
+00:03:24,717 --> 00:03:26,597
+We've got 18 creatures in this deck.
+
+85
+00:03:26,997 --> 00:03:29,117
+Dack's one of them, and he's
+already on the battlefield.
+
+86
+00:03:29,277 --> 00:03:30,717
+That leaves 17.
+
+87
+00:03:31,117 --> 00:03:33,117
+Dack grabs the first three he finds.
+
+88
+00:03:33,497 --> 00:03:37,197
+Assuming you haven't drawn any other
+creatures yet, the chance Venser's one of
+
+89
+00:03:37,217 --> 00:03:38,657
+them is three in seventeen.
+
+90
+00:03:38,677 --> 00:03:40,157
+So, about 18 percent.
+
+91
+00:03:40,177 --> 00:03:41,697
+But you can help it along.
+
+92
+00:03:41,717 --> 00:03:44,117
+Say Venser's already in your hand.
+
+93
+00:03:44,457 --> 00:03:47,777
+Brainstorm or Brainsurge, both in the
+deck, let you put him back on top.
+
+94
+00:03:47,797 --> 00:03:50,057
+Then Dack finds him every time.
+
+95
+00:03:50,637 --> 00:03:52,137
+We can get there with Jace too.
+
+96
+00:03:52,337 --> 00:03:56,057
+His minus three exiles one of your other
+creatures, then puts the next creature or
+
+97
+00:03:56,077 --> 00:03:57,997
+planeswalker off the top into play.
+
+98
+00:03:58,297 --> 00:03:59,677
+That could be Dack.
+
+99
+00:04:00,277 --> 00:04:01,277
+Lots of ifs.
+
+100
+00:04:01,497 --> 00:04:03,137
+But it's all in the box.
+
+101
+00:04:03,460 --> 00:04:04,440
+Now, there's a catch.
+
+102
+00:04:04,460 --> 00:04:06,400
+It's my favorite part of this whole thing.
+
+103
+00:04:06,600 --> 00:04:09,080
+Every creature Dack finds
+goes to a different opponent.
+
+104
+00:04:09,320 --> 00:04:11,840
+And this deck also has Darksteel Angel.
+
+105
+00:04:12,000 --> 00:04:15,060
+Darksteel Angel says you can't lose the
+game, and your opponents can't win the
+
+106
+00:04:15,080 --> 00:04:19,240
+game. So if Dack flips Venser and the
+Angel, the Angel goes to an opponent.
+
+107
+00:04:19,580 --> 00:04:21,680
+And now you're one of
+the people who can't win.
+
+108
+00:04:21,800 --> 00:04:25,380
+You've got a board full of infinite
+copies, and you're not allowed to win.
+
+109
+00:04:26,110 --> 00:04:27,130
+Love that for you.
+
+110
+00:04:27,330 --> 00:04:29,990
+And it's indestructible,
+so killing it won't work.
+
+111
+00:04:30,310 --> 00:04:32,230
+Luckily, this deck has
+other ways to get rid of it.
+
+112
+00:04:32,250 --> 00:04:33,250
+Hold that thought.
+
+113
+00:04:33,270 --> 00:04:35,690
+The dream version is the other way around.
+
+114
+00:04:35,970 --> 00:04:39,610
+If Dack also finds Archon of Cruelty,
+we don't even need to attack.
+
+115
+00:04:39,930 --> 00:04:42,530
+Every copy of Archon makes
+an opponent lose three life.
+
+116
+00:04:42,930 --> 00:04:45,790
+The problem is, every copy
+also makes you draw a card.
+
+117
+00:04:46,090 --> 00:04:49,330
+Three opponents on 40
+life is around 40 copies.
+
+118
+00:04:49,730 --> 00:04:51,190
+Count your library before you start.
+
+119
+00:04:51,321 --> 00:04:53,441
+So what if someone pulls this on you?
+
+120
+00:04:54,001 --> 00:04:56,121
+Every loop needs the original Venser.
+
+121
+00:04:56,281 --> 00:04:58,081
+The one sitting on an opponent's board.
+
+122
+00:04:58,481 --> 00:05:01,921
+If he leaves while a trigger's pointing
+at him, that trigger does nothing.
+
+123
+00:05:02,141 --> 00:05:04,818
+That's rule 608.2b.
+
+124
+00:05:05,341 --> 00:05:06,781
+Swords to Plowshares does it.
+
+125
+00:05:06,881 --> 00:05:08,411
+Path to Exile, Despark,
+
+126
+00:05:08,741 --> 00:05:10,821
+even a bounce spell like Fatehold Charm.
+
+127
+00:05:11,301 --> 00:05:13,241
+All in this same precon.
+
+128
+00:05:13,481 --> 00:05:14,801
+They handle that Angel too.
+
+129
+00:05:15,261 --> 00:05:17,181
+Hold one up, and that's your moment.
+
+130
+00:05:17,423 --> 00:05:19,943
+One more thing people in
+the thread pointed out.
+
+131
+00:05:20,223 --> 00:05:22,183
+This can happen to you, too.
+
+132
+00:05:22,643 --> 00:05:26,903
+If you've got Venser out and an opponent
+copies him, their copy's trigger can
+
+133
+00:05:26,923 --> 00:05:28,143
+target your Venser.
+
+134
+00:05:28,163 --> 00:05:30,843
+And now they're the one going infinite.
+
+135
+00:05:31,303 --> 00:05:34,023
+This precon even has a
+Cursed Mirror that can do it.
+
+136
+00:05:34,043 --> 00:05:36,303
+Which makes Venser kind of a liability.
+
+137
+00:05:36,668 --> 00:05:38,728
+So, did Wizards mess up?
+
+138
+00:05:38,948 --> 00:05:39,808
+Yeah.
+
+139
+00:05:39,828 --> 00:05:43,788
+Most precons land in Bracket 2, and
+Bracket 2 isn't supposed to have two-card
+
+140
+00:05:43,808 --> 00:05:46,148
+infinites. This one ships with one.
+
+141
+00:05:46,368 --> 00:05:47,748
+Has Wizards said anything?
+
+142
+00:05:47,948 --> 00:05:49,408
+Not yet, as far as I know.
+
+143
+00:05:49,448 --> 00:05:51,008
+If they do, I'll pin it in the comments.
+
+144
+00:05:51,368 --> 00:05:52,808
+Should we worry about it, though?
+
+145
+00:05:52,928 --> 00:05:53,688
+Not really.
+
+146
+00:05:53,708 --> 00:05:56,828
+Most of us won't ever see this
+happen, and it takes a lot of luck.
+
+147
+00:05:56,948 --> 00:05:59,708
+But if you know about it, tell
+the table before you shuffle up.
+
+148
+00:05:59,728 --> 00:06:03,608
+Something like, "hey, this deck can go
+infinite by accident, you cool with that?"
+
+149
+00:06:03,788 --> 00:06:05,008
+Some groups will love it.
+
+150
+00:06:05,028 --> 00:06:05,688
+Some won't.
+
+151
+00:06:05,708 --> 00:06:06,708
+So just ask.
+
+152
+00:06:07,048 --> 00:06:10,088
+If you'd rather not deal with it,
+cutting Venser takes two seconds.
+
+153
+00:06:10,348 --> 00:06:12,388
+A lot of people in the
+thread were cutting Dack.
+
+154
+00:06:12,408 --> 00:06:16,408
+But someone made a good point: handing
+everyone a random big creature is a pretty
+
+155
+00:06:16,428 --> 00:06:18,088
+fun political game on its own.
+
+156
+00:06:18,108 --> 00:06:19,288
+So I'd keep him.
+
+157
+00:06:19,488 --> 00:06:21,028
+Would you let this fly at your table?
+
+158
+00:06:21,048 --> 00:06:23,268
+Or is Venser coming out
+before the first game?
+
+159
+00:06:23,408 --> 00:06:24,408
+Tell me in the comments.
+
+160
+00:06:24,563 --> 00:06:25,723
+So that's the combo.
+
+161
+00:06:25,743 --> 00:06:30,443
+Dack hands Venser over, the trigger waits,
+and by the time you pick a target, he's
+
+162
+00:06:30,463 --> 00:06:31,283
+theirs.
+
+163
+00:06:31,303 --> 00:06:32,743
+All from one box.
+
+164
+00:06:33,343 --> 00:06:36,043
+Thread's linked below, so
+go give Huaojozu some love.
+
+165
+00:06:36,223 --> 00:06:38,543
+And if you want more breakdowns
+like this, subscribe.
+
+166
+00:06:38,783 --> 00:06:40,743
+Thanks for watching, and
+I'll see you in the next one.

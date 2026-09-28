@@ -11,6 +11,8 @@ Passing the checker is necessary but NOT sufficient. A human line-by-line read-a
 import re
 import sys
 
+sys.stdout.reconfigure(encoding="utf-8")  # the report uses ≤ and –, which the Windows console codepage can't print
+
 # Rates per 1,000 words: (pattern, max or (min, max)), from the transcripts of the three studied channels.
 RATES = {
     "honestly": (r"\bhonestly\b", 0.5),

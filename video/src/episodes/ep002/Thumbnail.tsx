@@ -8,7 +8,16 @@ import { BLOCK } from "../kit";
  * white paper, the product and one or two real card scans, a 2–4 word solid headline, Wil reacting.
  * `variant` picks the verdict so the same layout can be A/B tested in YouTube's Test & Compare.
  */
-export type ThumbProps = { variant: "messed-up" | "one-card" | "solo" };
+export type ThumbProps = {
+  variant: "messed-up" | "one-card" | "solo";
+  /** paper = the channel's white look; cyan / yellow = a saturated background that stands out in YouTube's white light-mode feed */
+  bg?: "paper" | "cyan" | "yellow";
+};
+const BGS = {
+  paper: "radial-gradient(ellipse at 40% 45%, #ffffff 0%, #fbf8f1 55%, #efe8d8 100%)",
+  cyan: "radial-gradient(ellipse at 40% 45%, #bff3fb 0%, #5fd6ec 55%, #1eb3d3 100%)",
+  yellow: "radial-gradient(ellipse at 40% 45%, #fff6c4 0%, #ffe066 55%, #ffc629 100%)",
+};
 
 /**
  * Solid headline: one heavy face, thick ink outline and a hard shadow so it reads at phone size.
@@ -68,7 +77,7 @@ const Card: React.FC<{
   />
 );
 
-export const Ep002Thumbnail: React.FC<ThumbProps> = ({ variant }) => {
+export const Ep002Thumbnail: React.FC<ThumbProps> = ({ variant, bg = "paper" }) => {
   const headline: [string, string][] =
     variant === "messed-up"
       ? [["WOTC", ACCENT], ["MESSED UP", "#fff"]]
@@ -81,8 +90,7 @@ export const Ep002Thumbnail: React.FC<ThumbProps> = ({ variant }) => {
       {/* faint paper tone so the white doesn't read as empty */}
       <AbsoluteFill
         style={{
-          background:
-            "radial-gradient(ellipse at 40% 45%, #ffffff 0%, #fbf8f1 55%, #efe8d8 100%)",
+          background: BGS[bg],
         }}
       />
 

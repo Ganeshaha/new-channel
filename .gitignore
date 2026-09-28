@@ -1,11 +1,16 @@
-# Raw yt-dlp metadata (hundreds of MB); distilled into <channel>/analysis/dataset.json
-*/analysis/meta/**/*.info.json
-*/analysis/clips/
+# Raw yt-dlp metadata (hundreds of MB); distilled into research/<channel>/analysis/dataset.json
+research/*/analysis/meta/**/*.info.json
+research/*/analysis/clips/
 # Scratch files from the fetch runs
-*/analysis/batch_*
-*/analysis/todo.txt
-*/analysis/*_err.txt
-*/analysis/meta_errors.txt
+research/*/analysis/batch_*
+research/*/analysis/todo.txt
+research/*/analysis/*_err.txt
+research/*/analysis/meta_errors.txt
+# Raw word-timed captions for channels added after the first three are distilled into
+# research/<channel>/text/ by research/tools/build_corpus.py (the first three keep theirs tracked)
+research/*/transcripts/*.vtt
+research/*/analysis/fetch_state_*.jsonl
+research/.kb/
 
 # Studio: never commit API keys; keep generated runs out of git (large media)
 .env
@@ -15,11 +20,24 @@ studio/test/
 studio/reference/
 studio/spend.jsonl
 
-# Rendered episode videos (large)
+# Rendered episode videos and Shorts (large; regenerate from video/)
 episodes/*/render/
+episodes/*/short/*.mp4
 
 # Wil's voice reference and narration takes (private)
 studio/voice/
 
 # Python caches
 __pycache__/
+
+# Layout study: extracted frames (~360 MB) and the raw per-frame data. The report, tables,
+# measurements.json, tools and contact sheets are tracked; re-extract frames with tools/fetch.py.
+research/layout-study/frames/
+research/layout-study/dense/
+research/layout-study/data/
+
+# upload credentials and tokens (Instagram, TikTok): never commit
+studio/secrets/
+
+# narration audio: large (ep003 is 72 MB) and rebuilt by the narration timing step; ep002 was committed before this rule
+video/public/*/narration.wav

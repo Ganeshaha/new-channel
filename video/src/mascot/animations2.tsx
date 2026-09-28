@@ -255,11 +255,12 @@ export const ANIMS2: Anim[] = [
     group: "magic",
     duration: 75,
     fn: (f, fps) => {
-      const jitter = Math.sin(f * 2.2) * Math.min(2, f / 30);
+      // powering up: a sway that builds, about 3 times a second (it was a 10 Hz vibration that read as jitter)
+      const jitter = Math.sin(f * 0.6) * Math.min(2, f / 30);
       const n = f < 55 ? `x${Math.floor(Math.pow(2, f / 4.5))}` : "x∞";
       return {
-        rotate: jitter * 3,
-        x: jitter * 1.5,
+        rotate: jitter * 2,
+        x: jitter * 1,
         mouth: f < 30 ? "grin" : "open",
         brows: "up",
         leftArm: 120 + jitter * 10,
@@ -580,6 +581,24 @@ export const ANIMS2: Anim[] = [
     }),
   },
   {
+    id: "point-down",
+    label: "point down (Shorts: at the related-video link)",
+    group: "youtube",
+    duration: 50,
+    fn: (f, fps) => ({
+      rightArm: I(f, [0, 6], [45, 12]),
+      rightArmLength: 72,
+      rotate: 4,
+      mouth: "grin",
+      brows: "up",
+      fixed: (
+        <g>
+          <Arrow x={205} y={232 + 10 * Math.sin(f * 0.5)} s={S(f, fps, 4)} />
+        </g>
+      ),
+    }),
+  },
+  {
     id: "watch-next",
     label: "watch next",
     group: "youtube",
@@ -689,7 +708,8 @@ export const ANIMS2: Anim[] = [
     duration: 50,
     fn: (f) => {
       const boom = f >= 10;
-      const shake = boom && f < 30 ? Math.sin(f * 3) * 3 : 0;
+      // one recoil on the boom (a 10 Hz rattle read as jitter)
+      const shake = boom ? -7 * I(f, [10, 13, 24], [0, 1, 0]) : 0;
       return {
         leftArm: I(f, [0, 8], [45, 172.9]),
         rightArm: I(f, [0, 8], [45, 172.9]),
@@ -776,7 +796,7 @@ export const ANIMS2: Anim[] = [
     duration: 60,
     loop: true,
     fn: (f) => ({
-      x: Math.sin(f * 2.5) * 1.5,
+      x: Math.sin(f * 0.45) * 2, // a nervous fidget, about twice a second (was a 6 Hz tremble)
       mouth: "teeth",
       brows: "sad",
       shadesY: 56 + I(f, [0, 40], [0, 10]),

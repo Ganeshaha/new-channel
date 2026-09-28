@@ -4,9 +4,12 @@ import { HelloWorld } from "./HelloWorld";
 import { Logo } from "./HelloWorld/Logo";
 import { SubscribeBeat, subscribeBeatSchema } from "./SubscribeBeat";
 import { BackOptions, Banner, MascotSheet, ProfilePicture } from "./Mascot";
+import { ChannelBanner } from "./ChannelBanner";
 import { AnimationGallery, LIBRARY, MascotAnimation } from "./mascot/library";
 import { Ep002, EP002_SECONDS } from "./episodes/ep002/Ep002";
 import { Ep002Thumbnail } from "./episodes/ep002/Thumbnail";
+import { Ep002Short, EP002_SHORT_FRAMES } from "./episodes/ep002short/Short";
+import { Ep003, EP003_SECONDS } from "./episodes/ep003/Ep003";
 
 // Each <Composition> is an entry in the sidebar!
 
@@ -54,6 +57,7 @@ export const RemotionRoot: React.FC = () => {
       <Composition id="BackOptions" component={BackOptions} durationInFrames={1} fps={30} width={1920} height={1080} />
       <Composition id="ProfilePicture" component={ProfilePicture} durationInFrames={1} fps={30} width={800} height={800} />
       <Composition id="Banner" component={Banner} durationInFrames={1} fps={30} width={2560} height={1440} />
+      <Composition id="ChannelBanner" component={ChannelBanner} durationInFrames={1} fps={30} width={2560} height={1440} defaultProps={{ guides: false }} />
 
       {/* Mascot animation library: one transparent 600x600 composition per move (see brand/animations/README.md) */}
       {LIBRARY.map((a) => (
@@ -73,10 +77,15 @@ export const RemotionRoot: React.FC = () => {
       <Composition id="MascotGalleryYouTubeMeme" component={AnimationGallery} durationInFrames={120} fps={30} width={1920} height={1080} defaultProps={{ groups: ["youtube", "meme"] }} />
 
       {/* Episode 002: "The New Jace Precon Has a One-Card Infinite Combo" (timing from src/episodes/ep002/timing.json) */}
+      <Composition id="Ep002Short" component={Ep002Short} durationInFrames={EP002_SHORT_FRAMES} fps={30} width={1080} height={1920} defaultProps={{ audit: false }} />
+      {/* Episode 003: "The Cabbage Converter" (The Cabbage Merchant deck tech; timing estimated until narrated) */}
+      <Composition id="Ep003" component={Ep003} durationInFrames={EP003_SECONDS * 30} fps={30} width={1920} height={1080} defaultProps={{ audit: false }} />
       <Composition id="Ep002" component={Ep002} durationInFrames={EP002_SECONDS * 30} fps={30} width={1920} height={1080} defaultProps={{ audit: false }} />
       <Composition id="Ep002ThumbA" component={Ep002Thumbnail} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ variant: "messed-up" as const }} />
       <Composition id="Ep002ThumbB" component={Ep002Thumbnail} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ variant: "one-card" as const }} />
       <Composition id="Ep002ThumbC" component={Ep002Thumbnail} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ variant: "solo" as const }} />
+      <Composition id="Ep002ThumbD" component={Ep002Thumbnail} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ variant: "solo" as const, bg: "cyan" as const }} />
+      <Composition id="Ep002ThumbE" component={Ep002Thumbnail} durationInFrames={1} fps={30} width={1280} height={720} defaultProps={{ variant: "solo" as const, bg: "yellow" as const }} />
 
       {/* Mount any React component to make it show up in the sidebar and work on it individually! */}
       <Composition

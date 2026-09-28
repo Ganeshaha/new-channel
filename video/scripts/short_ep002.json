@@ -1,0 +1,87 @@
+{
+  "audio": "public/ep002/narration.wav",
+  "timing": "src/episodes/ep002/timing.json",
+  "out": "ep002short",
+  "lead": 0.15,
+  "gap": 0.28,
+  "clips": [
+    {
+      "id": "hook",
+      "title": "Hook: one card, out of the box",
+      "from": 0.3,
+      "to": 7.12,
+      "gap": 0.35,
+      "scene": "hook"
+    },
+    {
+      "id": "messed-up",
+      "title": "Wizards messed up",
+      "from": 8.74,
+      "to": 9.26,
+      "gap": 0.4,
+      "scene": "hook"
+    },
+    {
+      "id": "venser",
+      "title": "Venser's copy mode",
+      "from": 67.89,
+      "to": 72.53,
+      "scene": "venser"
+    },
+    {
+      "id": "handoff",
+      "title": "Dack hands Venser over",
+      "from": 385.74,
+      "to": 390.64,
+      "scene": "stage"
+    },
+    {
+      "id": "himself",
+      "title": "Point it at Venser himself",
+      "from": 95.74,
+      "to": 99.8,
+      "gap": 0.4,
+      "scene": "stage"
+    },
+    {
+      "id": "tokens",
+      "title": "Two tokens, two triggers",
+      "from": 101.08,
+      "to": 102.51,
+      "gap": 0.2,
+      "scene": "stage"
+    },
+    {
+      "id": "triggers",
+      "title": "Two new triggers",
+      "from": 107.1,
+      "to": 109.0,
+      "gap": 0.2,
+      "scene": "stage"
+    },
+    {
+      "id": "loop",
+      "title": "Keeps the loop going",
+      "from": 109.7,
+      "to": 112.98,
+      "gap": 0.35,
+      "scene": "stage"
+    },
+    {
+      "id": "board",
+      "title": "Endless copies of their board",
+      "from": 134.61,
+      "to": 138.69,
+      "gap": 0.45,
+      "scene": "board"
+    },
+    {
+      "id": "catch",
+      "title": "There's a catch",
+      "from": 243.46,
+      "to": 246.1,
+      "gap": 0.2,
+      "scene": "catch"
+    }
+  ]
+}

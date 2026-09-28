@@ -1,0 +1,208 @@
+THE CABBAGE CONVERTER: The Cabbage Merchant (Commander deck)
+==============================================================
+100 cards. About $214 without basic lands (Scryfall prices, 28 Sep 2026).
+Bracket 2: no Game Changers, no infinite combos.
+Commander legal: yes, every card.
+
+COMMANDER (1)
+  1 The Cabbage Merchant                     $ 29.13
+
+CREATURES (27)
+  1 Academy Manufactor                       $  9.66
+  1 Alloy Animist                            $  0.17
+  1 Arbor Elf                                $  0.89
+  1 Bramble Familiar                         $  0.63
+  1 Disciple of Freyalise                    $  4.68
+  1 Displaced Dinosaurs                      $ 10.37
+  1 Elvish Mystic                            $  5.21
+  1 Elvish Spirit Guide                      $  3.40
+  1 Eternal Witness                          $  2.33
+  1 Feasting Troll King                      $  0.74
+  1 Fyndhorn Elves                           $  1.90
+  1 Gilded Goose                             $  0.38
+  1 Halsin, Emerald Archdruid                $  0.14
+  1 Heartwood Storyteller                    $  4.52
+  1 Hydra Broodmaster                        $  0.37
+  1 Intrepid Paleontologist                  $  0.49
+  1 Jaheira, Friend of the Forest            $ 15.33
+  1 Llanowar Elves                           $  0.35
+  1 Magus of the Vineyard                    $  4.64
+  1 Peregrin Took                            $  1.32
+  1 Rootweaver Druid                         $  0.26
+  1 Sarinth Steelseeker                      $  0.19
+  1 Tireless Provisioner                     $  4.17
+  1 Tough Cookie                             $  0.30
+  1 Veteran Explorer                         $  0.33
+  1 Wolfbriar Elemental                      $  0.41
+  1 Wren's Run Packmaster                    $  1.12
+
+ARTIFACTS (16)
+  1 Clock of Omens                           $  3.81
+  1 Golden Egg                               $  0.28
+  1 Heraldic Banner                          $  0.31
+  1 Hot Dog Cart                             $  0.27
+  1 Howling Mine                             $  5.53
+  1 Idol of Oblivion                         $  2.82
+  1 Inspiring Statuary                       $  0.39
+  1 Magnifying Glass                         $  0.22
+  1 Mind's Eye                               $  5.68
+  1 Otherworld Atlas                         $  1.70
+  1 Pendant of Prosperity                    $  7.20
+  1 Retrofitter Foundry                      $  1.28
+  1 Sol Ring                                 $  1.53
+  1 Swiftfoot Boots                          $  2.00
+  1 Temple Bell                              $  6.55
+  1 Well of Lost Dreams                      $  8.31
+
+ENCHANTMENTS (6)
+  1 Eladamri's Vineyard                      $  4.59
+  1 Elephant Grass                           $  3.65
+  1 Heartbeat of Spring                      $  4.37
+  1 Night of the Sweets' Revenge             $  0.80
+  1 Rites of Flourishing                     $  0.62
+  1 Wild Growth                              $  0.63
+
+INSTANTS (5)
+  1 Arachnogenesis                           $  7.64
+  1 Jaheira's Respite                        $  1.20
+  1 Krosan Grip                              $  1.73
+  1 Second Harvest                           $  5.33
+  1 Shared Summons                           $  3.69
+
+SORCERIES (7)
+  1 Explore                                  $  0.22
+  1 Gelatinous Genesis                       $  0.69
+  1 Genesis Wave                             $  0.38
+  1 Harmonize                                $  0.28
+  1 Pest Infestation                         $  0.57
+  1 Shamanic Revelation                      $  1.50
+  1 Threats Undetected                       $  0.34
+
+PLANESWALKERS (1)
+  1 Karn, Living Legacy                      $  1.23
+
+LANDS (37)
+  1 Arch of Orazca                           $  0.37
+  1 Blighted Woodland                        $  0.41
+  1 Bonders' Enclave                         $  0.97
+  1 Buried Ruin                              $  0.41
+  1 Dark Depths                              $  2.99
+  1 Deserted Temple                          $  0.89
+  16 Forest                                   (basic)
+  1 Fountainport                             $  3.04
+  1 Geier Reach Sanitarium                   $  2.07
+  1 Gingerbread Cabin                        $  0.44
+  1 Lair of the Hydra                        $  0.37
+  1 Mariposa Military Base                   $  0.40
+  1 Mikokoro, Center of the Sea              $  5.11
+  1 Mosswort Bridge                          $  0.37
+  1 Myriad Landscape                         $  0.24
+  1 Mystifying Maze                          $  0.59
+  1 Roadside Reliquary                       $  0.26
+  1 Scavenger Grounds                        $  0.29
+  1 Scene of the Crime                       $  0.34
+  1 The Gold Saucer                          $  0.30
+  1 The Hunter Maze                          $  0.26
+  1 The Shire                                $  3.32
+
+UPGRADES FROM THE VIDEO (not in the list; about $166 for all eight)
+  Unwinding Clock                            $ 20.78
+  Fomori Vault                               $ 14.53
+  Inventors' Fair                            $ 19.06
+  Collective Voyage                          $  7.54
+  Horn of Greed                              $ 16.83
+  Doubling Season                            $ 32.35
+  Parallel Lives                             $ 40.22
+  Primal Vigor                               $ 14.75
+
+Notes:
+  - The land count (16 Forest) was inferred to make 100 cards; the original list didn't record it.
+  - Fomori Vault and Inventors' Fair can replace two Forests.
+
+IMPORT (paste into Moxfield or Archidekt)
+------------------------------------------
+1 The Cabbage Merchant
+1 Academy Manufactor
+1 Alloy Animist
+1 Arachnogenesis
+1 Arbor Elf
+1 Arch of Orazca
+1 Blighted Woodland
+1 Bonders' Enclave
+1 Bramble Familiar
+1 Buried Ruin
+1 Clock of Omens
+1 Dark Depths
+1 Deserted Temple
+1 Disciple of Freyalise
+1 Displaced Dinosaurs
+1 Eladamri's Vineyard
+1 Elephant Grass
+1 Elvish Mystic
+1 Elvish Spirit Guide
+1 Eternal Witness
+1 Explore
+1 Feasting Troll King
+16 Forest
+1 Fountainport
+1 Fyndhorn Elves
+1 Geier Reach Sanitarium
+1 Gelatinous Genesis
+1 Genesis Wave
+1 Gilded Goose
+1 Gingerbread Cabin
+1 Golden Egg
+1 Halsin, Emerald Archdruid
+1 Harmonize
+1 Heartbeat of Spring
+1 Heartwood Storyteller
+1 Heraldic Banner
+1 Hot Dog Cart
+1 Howling Mine
+1 Hydra Broodmaster
+1 Idol of Oblivion
+1 Inspiring Statuary
+1 Intrepid Paleontologist
+1 Jaheira's Respite
+1 Jaheira, Friend of the Forest
+1 Karn, Living Legacy
+1 Krosan Grip
+1 Lair of the Hydra
+1 Llanowar Elves
+1 Magnifying Glass
+1 Magus of the Vineyard
+1 Mariposa Military Base
+1 Mikokoro, Center of the Sea
+1 Mind's Eye
+1 Mosswort Bridge
+1 Myriad Landscape
+1 Mystifying Maze
+1 Night of the Sweets' Revenge
+1 Otherworld Atlas
+1 Pendant of Prosperity
+1 Peregrin Took
+1 Pest Infestation
+1 Retrofitter Foundry
+1 Rites of Flourishing
+1 Roadside Reliquary
+1 Rootweaver Druid
+1 Sarinth Steelseeker
+1 Scavenger Grounds
+1 Scene of the Crime
+1 Second Harvest
+1 Shamanic Revelation
+1 Shared Summons
+1 Sol Ring
+1 Swiftfoot Boots
+1 Temple Bell
+1 The Gold Saucer
+1 The Hunter Maze
+1 The Shire
+1 Threats Undetected
+1 Tireless Provisioner
+1 Tough Cookie
+1 Veteran Explorer
+1 Well of Lost Dreams
+1 Wild Growth
+1 Wolfbriar Elemental
+1 Wren's Run Packmaster

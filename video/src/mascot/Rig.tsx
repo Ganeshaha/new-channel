@@ -14,7 +14,7 @@ export const MASCOT_BACK: Back = "red";
 
 export type Eyes = "none" | "open" | "wide" | "closed" | "happy" | "x" | "star";
 export type Brows = "none" | "raised" | "up" | "angry" | "sad";
-export type Mouth = "smile" | "grin" | "open" | "o" | "flat" | "wavy" | "frown" | "teeth" | "chew";
+export type Mouth = "smile" | "grin" | "open" | "o" | "flat" | "wavy" | "frown" | "teeth" | "chew" | "talk";
 
 export type RigProps = {
   id?: string;
@@ -43,7 +43,11 @@ export type RigProps = {
   pupilX?: number;
   pupilY?: number;
   brows?: Brows;
+  /** 0-1: how present the brows are. They fade and settle into place instead of popping. */
+  browAmt?: number;
   mouth?: Mouth;
+  /** for mouth "talk": how open the mouth is, 0 (closed smile) to 1 (wide open); drive it from the voice's loudness */
+  mouthOpen?: number;
   blush?: number;
   /** arm angles in degrees: 0 = hanging straight down, 90 = straight out sideways, 180 = straight up, >180 swings inward */
   leftArm?: number;
@@ -165,10 +169,21 @@ const EyesView: React.FC<{ eyes: Eyes; px: number; py: number; face: string }> =
 };
 
 // Brows sit above the sunglasses, so the mascot can emote with its shades on.
-const BrowsView: React.FC<{ brows: Brows; y: number; face: string }> = ({ brows, y, face }) => {
-  if (brows === "none") return null;
+const BrowsView: React.FC<{ brows: Brows; y: number; face: string; amt?: number }> = ({ brows, y, face, amt = 1 }) => {
+  if (brows === "none" || amt <= 0.01) return null;
+  // rises 5 units into place as it fades in
+  return (
+    <g opacity={Math.min(1, amt)} transform={`translate(0 ${(1 - Math.min(1, amt)) * 5})`}>
+      <BrowShape brows={brows} y={y} face={face} />
+    </g>
+  );
+};
+
+const BrowShape: React.FC<{ brows: Brows; y: number; face: string }> = ({ brows, y, face }) => {
   const L = (d: string) => <path d={d} stroke={face} strokeWidth={4.5} fill="none" strokeLinecap="round" />;
   switch (brows) {
+    case "none":
+      return null;
     case "raised":
       return <g>{L(`M48 ${y + 2} L74 ${y + 2}`)}{L(`M104 ${y - 4} Q116 ${y - 12} 130 ${y - 6}`)}</g>;
     case "up":
@@ -180,7 +195,44 @@ const BrowsView: React.FC<{ brows: Brows; y: number; face: string }> = ({ brows,
   }
 };
 
-const MouthView: React.FC<{ mouth: Mouth; face: string }> = ({ mouth, face }) => {
+/**
+ * A tongue: a filled pink mound resting on the lower lip, clipped to the mouth so it can never
+ * poke outside it. (It used to be a pink arc bowing upward, which read as a second, upside-down mouth.)
+ */
+const Tongue: React.FC<{ mouth: string; cx: number; bottom: number; rx: number; ry: number }> = ({ mouth, cx, bottom, rx, ry }) => {
+  const id = "tongue" + React.useId().replace(/[^a-zA-Z0-9_-]/g, "");
+  return (
+    <g>
+      <defs>
+        <clipPath id={id}>
+          <path d={mouth} />
+        </clipPath>
+      </defs>
+      <ellipse cx={cx} cy={bottom} rx={rx} ry={ry} fill="#e5796c" clipPath={`url(#${id})`} />
+    </g>
+  );
+};
+
+/** Continuous talking mouth: a smiling "D" shape whose depth and width follow `open` (0-1). */
+const TalkMouth: React.FC<{ open: number; face: string }> = ({ open, face }) => {
+  const o = Math.max(0, Math.min(1, open));
+  if (o < 0.06) return <path d="M66 118 Q91 136 116 116" stroke={face} strokeWidth={5} fill="none" strokeLinecap="round" />;
+  const half = 20 + 7 * o; // half-width
+  const top = 117 - 2 * o; // upper lip, a gentle smile curve
+  const depth = 8 + 30 * o; // how far the lower lip drops
+  const d = `M${91 - half} ${top} Q91 ${top + 7} ${91 + half} ${top} Q${91 + half * 0.55} ${top + depth} 91 ${top + depth} Q${91 - half * 0.55} ${top + depth} ${91 - half} ${top} Z`;
+  return (
+    <g>
+      <path d={d} fill="#2a0f0c" />
+      {o > 0.35 && <Tongue mouth={d} cx={91} bottom={top + depth} rx={half * 0.55} ry={4 + 9 * o} />}
+      {/* lip line drawn last so the tongue sits inside it */}
+      <path d={d} fill="none" stroke={face} strokeWidth={4.5} strokeLinejoin="round" />
+    </g>
+  );
+};
+
+const MouthView: React.FC<{ mouth: Mouth; face: string; open?: number }> = ({ mouth, face, open = 0 }) => {
+  if (mouth === "talk") return <TalkMouth open={open} face={face} />;
   const dark = "#2a0f0c";
   switch (mouth) {
     case "smile":
@@ -190,8 +242,9 @@ const MouthView: React.FC<{ mouth: Mouth; face: string }> = ({ mouth, face }) =>
     case "open":
       return (
         <g>
-          <path d="M62 112 Q91 160 120 112 Z" fill={dark} stroke={face} strokeWidth={4.5} strokeLinejoin="round" />
-          <path d="M78 136 Q91 146 104 136" stroke="#e5796c" strokeWidth={6} fill="none" strokeLinecap="round" />
+          <path d="M62 112 Q91 160 120 112 Z" fill={dark} />
+          <Tongue mouth="M62 112 Q91 160 120 112 Z" cx={91} bottom={138} rx={15} ry={10} />
+          <path d="M62 112 Q91 160 120 112 Z" fill="none" stroke={face} strokeWidth={4.5} strokeLinejoin="round" />
         </g>
       );
     case "o":
@@ -234,7 +287,9 @@ export const MascotRig: React.FC<RigProps> = ({
   pupilX = 0,
   pupilY = 0,
   brows = "none",
+  browAmt = 1,
   mouth = "smile",
+  mouthOpen = 0,
   blush = 0,
   leftArm = 45,
   rightArm = 45,
@@ -266,9 +321,10 @@ export const MascotRig: React.FC<RigProps> = ({
           </g>
         )}
         <EyesView eyes={eyes} px={pupilX} py={pupilY} face={face} />
-        <BrowsView brows={brows} y={Math.min(shadesOn ? Math.min(44, shadesY - 10) : 44, eyes === "none" ? 44 : EYE_TOP - 7)} face={face} />
+        {/* brows ride above the shades, but never off the top of the card when the shades are pushed up */}
+        <BrowsView brows={brows} amt={browAmt} y={Math.max(30, Math.min(shadesOn ? Math.min(44, shadesY - 10) : 44, eyes === "none" ? 44 : EYE_TOP - 7))} face={face} />
         {shadesOn && <PixelShades x={34 + shadesX} y={shadesY} rotate={shadesRotate} />}
-        <MouthView mouth={mouth} face={face} />
+        <MouthView mouth={mouth} face={face} open={mouthOpen} />
         <Arm from={[0, 150]} to={lTip} />
         <Arm from={[180, 150]} to={rTip} />
         {children}

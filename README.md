@@ -11,12 +11,23 @@ This repo holds the research and production files for **Wild Card Commander** (@
   The source is `video/src/Mascot.tsx` (poses and stills), `video/src/mascot/Rig.tsx` (the character rig), `video/src/mascot/animations.tsx` and `animations2.tsx`. The plan for what's next is in [video/ANIMATION-ROADMAP.md](video/ANIMATION-ROADMAP.md).
 - **Mascot: Wil D. Card**, a plain red card back (brick red with a thin cream inner border, not Wizards' back) wearing pixel sunglasses. Red was chosen for contrast at avatar size, because no big Commander channel uses it, and because it pairs with Deck Check cEDH's maroon. Change `MASCOT_BACK` in `video/src/Mascot.tsx` to restyle every asset. The poses are cool, "hold on…" (shades down), verdict (shades drop), shrug, and point.
 
+## Repo layout
+
+| Folder or file | What's in it |
+|---|---|
+| `research/` | Teardowns and transcript corpora of the studied channels, with a search tool. See [research/README.md](research/README.md) and [Research](#research). |
+| `episodes/` | One folder per episode: script, research notes, thumbnails, upload text. |
+| `video/` | The Remotion project that renders the videos, plus the mascot rig. |
+| `studio/` | Paid-call helper, narration and QA tools, shared assets. |
+| `brand/` | Profile picture, banner, mascot sheet and animations. |
+| `WORKFLOW.md`, `VOICE.md`, `RETENTION.md`, `PERMISSIONS.md` | Episode pipeline, script voice rules, retention rules, and the Wizards permission scope. |
+
 ## Research
 
-This repo holds teardowns of Magic: The Gathering YouTube channels, used to plan a new channel. Each channel folder has the same layout:
+`research/` holds teardowns of Magic: The Gathering YouTube channels, used to plan a new channel. Each channel folder has the same layout:
 
 ```
-<channel>/
+research/<channel>/
   FINDINGS.md     what made the channel grow, what's weak, and a 12-month roadmap
   transcripts/    caption files (.vtt)
   analysis/       scripts, dataset.json, thumbnail sheets, sample frames, report source
@@ -24,11 +35,15 @@ This repo holds teardowns of Magic: The Gathering YouTube channels, used to plan
 
 | Channel | Lane | Subscribers | Median long-form views | Findings | Visual report (private) |
 |---|---|---:|---:|---|---|
-| [Attack on Cardboard](https://www.youtube.com/@attackoncardboard) | MTG rules answers and rules news | 35.7k | 16.7k | [FINDINGS.md](attack-on-cardboard/FINDINGS.md) | [report](https://claude.ai/artifact/1WxaT8uRL3RGuHwBZjbvdA) |
-| [Salubrious Snail](https://www.youtube.com/@salubrioussnail) | EDH deckbuilding theory essays | 99.5k | 115k | [FINDINGS.md](salubrious-snail/FINDINGS.md) | [report](https://claude.ai/artifact/Awa6TxvcLutaixcGYL5Kn1) |
-| [Next Level Commander](https://www.youtube.com/@NextLevelCommander) | New-commander deck techs (16 months old) | 7.2k | 4.3k (13.5k since Mar 2026) | [FINDINGS.md](next-level-commander/FINDINGS.md) | [report](https://claude.ai/artifact/JhFF91GVnxWjkB9AfSt2iz) |
+| [Attack on Cardboard](https://www.youtube.com/@attackoncardboard) | MTG rules answers and rules news | 35.7k | 16.7k | [FINDINGS.md](research/attack-on-cardboard/FINDINGS.md) | [report](https://claude.ai/artifact/1WxaT8uRL3RGuHwBZjbvdA) |
+| [Salubrious Snail](https://www.youtube.com/@salubrioussnail) | EDH deckbuilding theory essays | 99.5k | 115k | [FINDINGS.md](research/salubrious-snail/FINDINGS.md) | [report](https://claude.ai/artifact/Awa6TxvcLutaixcGYL5Kn1) |
+| [Next Level Commander](https://www.youtube.com/@NextLevelCommander) | New-commander deck techs (16 months old) | 7.2k | 4.3k (13.5k since Mar 2026) | [FINDINGS.md](research/next-level-commander/FINDINGS.md) | [report](https://claude.ai/artifact/JhFF91GVnxWjkB9AfSt2iz) |
 
 Data was pulled with [yt-dlp](https://github.com/yt-dlp/yt-dlp) on 24 Sep 2026. The raw `.info.json` metadata runs to hundreds of MB, so it's gitignored. Everything the analysis uses is kept in each channel's `analysis/dataset.json`.
+
+Two cross-channel reports feed every episode:
+- [research/youtube-general/REPORT.md](research/youtube-general/REPORT.md): how YouTube recommends, monetises and labels AI content in 2026, packaging data, and the upload checklist.
+- [research/layout-study/REPORT.md](research/layout-study/REPORT.md): card sizes, frame fill, text and pacing measured on the white-background channels, compared with ours.
 
 ## Making videos
 
@@ -64,13 +79,4 @@ Card images can be used: the channel owner has written permission from Wizards o
 
 ## Adding another channel
 
-1. `mkdir <channel>/{transcripts,analysis}` and copy `salubrious-snail/analysis/*.py` into the new `analysis/` folder. Its captions are keyed by video ID, which is the more robust of the two setups.
-2. Fetch the metadata, thumbnails and captions:
-   ```
-   yt-dlp --skip-download --write-info-json --write-thumbnail --convert-thumbnails jpg \
-     --write-auto-subs --sub-langs en --sub-format vtt --sleep-requests 1 \
-     -o "analysis/meta/videos/%(id)s.%(ext)s" -o "subtitle:transcripts/%(id)s.%(ext)s" \
-     "https://www.youtube.com/@<handle>/videos"
-   ```
-   Repeat for `/shorts` and `/streams`. Use a few parallel workers at most, because YouTube starts showing a bot check after a few hundred rapid requests.
-3. Run `build_dataset.py`, then `categorize.py` (adjust the title patterns to the channel), then `sheets.py`.
+Use `research/tools/fetch_channel.py` (metadata and thumbnails first, then captions), then `build_corpus.py` to get clean text and a dataset. The steps, and why captions are fetched in a separate slow pass, are in [research/README.md](research/README.md#adding-a-channel).

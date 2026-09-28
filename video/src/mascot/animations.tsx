@@ -115,13 +115,14 @@ export const ANIMS: Anim[] = [
     label: "laugh",
     duration: 60,
     fn: (f) => {
-      const shake = Math.sin(f * 1.5) * I(f, [0, 6, 52, 60], [0, 1, 1, 0]);
+      // a chuckle: rock and bounce about 2.6 times a second (it was a 7 Hz, 5 deg shake that read as jitter)
+      const shake = Math.sin(f * 0.55) * I(f, [0, 6, 52, 60], [0, 1, 1, 0]);
       const has = [8, 22, 36].map((t0, k) => (
         <Bubble key={k} x={k % 2 ? -30 : 210} y={-4 - k * 14} s={I(f, [t0, t0 + 5, t0 + 14, t0 + 18], [0, 1, 1, 0])} text="ha" color={GOLD} size={40} />
       ));
       return {
-        rotate: shake * 5,
-        y: -Math.abs(Math.sin(f * 0.75)) * 8,
+        rotate: shake * 3,
+        y: -Math.abs(Math.sin(f * 0.275)) * 7, // one bounce per rock (|sin| doubles the rate)
         mouth: "open",
         brows: "up",
         leftArm: 75 + shake * 12,

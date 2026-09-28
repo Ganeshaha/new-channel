@@ -25,6 +25,8 @@ import {
   useT,
   Wil,
   WilEvent,
+  Voice,
+  Expression,
   audit,
   AuditProbe,
   holdOut,
@@ -32,6 +34,9 @@ import {
   SEE_SECS,
 } from "../kit";
 import timingJson from "./timing.json";
+import voiceJson from "./voice.json";
+import looksJson from "./looks.json";
+import expressionJson from "./expression.json";
 
 // Episode 002: "The New Jace Precon Has a One-Card Infinite Combo".
 // White stage, Wil D. Card bottom-right, every beat cued to a word of the real narration.
@@ -39,7 +44,15 @@ import timingJson from "./timing.json";
 const T = timingJson as Timing;
 const C = (id: string, phrase: string, nth = 0) => cue(T, id, phrase, nth);
 const sec = (id: string) => T.sections.find((s) => s.id === id)!;
-const END = (id: string) => sec(id).end + 0.35;
+/**
+ * When a scene's elements leave: just after the next section has started, so the old scene is still up
+ * while the new one arrives (a quick crossfade instead of a blank beat between scenes).
+ */
+const END = (id: string) => {
+  const i = T.sections.findIndex((s) => s.id === id);
+  const next = T.sections[i + 1];
+  return Math.max(sec(id).end + 0.35, next ? next.start + 0.3 : 0);
+};
 export const EP002_SECONDS = Math.ceil(T.narrationEnd + 18);
 
 const card = (name: string) => `ep002/cards/${name}.png`;
@@ -157,20 +170,28 @@ const Fit: React.FC<{
 
 const ColdOpen: React.FC = () => {
   const id = "cold-open";
-  const out = END(id);
-  const { t, fps } = useT();
-  const box = pop(t, fps, 0, out); // on screen from frame 0: no empty opening frame
+  const { t } = useT();
+  const hello = C("intro-and-promise", "hello everyone");
+  // the pieces leave one after another as Wil walks on, instead of all at once before he arrives
+  const exit = (i: number) => hello - 0.05 + i * 0.06;
+  // the deck box opens the video centred and large (slow push-in), then glides left as the title and card arrive
+  const move = C(id, "win the game") - 0.9;
+  const k = ((x: number) => x * x * (3 - 2 * x))(ramp(t, move, move + 0.7));
+  const push = 1 + 0.04 * ramp(t, 0, move);
+  const boxW = (450 + (350 - 450) * k) * push;
+  const boxX = 960 + (430 - 960) * k;
+  const boxY = 520 + (530 - 520) * k;
+  const boxBottom = boxY + boxW * 0.77; // deck.png is ~1.54 tall per unit of width
   return (
     <>
-      {box > 0.01 && (
-        <ProductImg src={DECK_BOX} x={430} y={470} w={320} at={0} out={out} rot={-4} />
-      )}
+      {/* at={-0.4}: already popped in on the first frame, so the video never opens on an empty stage */}
+      <ProductImg src={DECK_BOX} x={boxX} y={boxY} w={boxW} at={-0.4} out={exit(5)} rot={-4} />
       <Sticker
         text="NOT EVEN OUT YET"
-        x={430}
-        y={800}
+        x={boxX}
+        y={boxBottom + 84}
         at={C(id, "isn't even out")}
-        out={out}
+        out={C(id, "win the game") + 0.1}
         size={58}
         bg="#fff"
         color={ACCENT}
@@ -186,51 +207,35 @@ const ColdOpen: React.FC = () => {
       />
       <CardImg
         src={DACK}
-        x={1080}
-        y={560}
-        w={330}
+        x={1070}
+        y={575}
+        w={420}
         at={C(id, "one card")}
-        out={out}
+        out={exit(2)}
         rot={6}
         from="right"
-      />
-      <Sticker text="1 CARD" x={1570} y={380}
-        at={C(id, "one card")}
-        out={out}
-        size={100}
-        color={GOLD}
-        rot={-5}
       />
       <Sticker
         text="∞"
         x={430}
         y={500}
         at={C(id, "out of the box")}
-        out={out}
+        out={exit(3)}
         size={260}
         color={GOLD}
         rot={12}
         wobble
         stamp
       />
-      <Sticker
-        text="NO UPGRADES"
-        x={1490}
-        y={890}
-        at={C(id, "out of the box") + 0.4}
-        out={out}
-        size={56}
-        bg="#ffe16b"
-        color={INK}
-        rot={4}
-      />
+      {/* the cold open's last word: clears about a second into Wil's entrance (once read) so he doesn't walk on under it */}
       <RansomTitle
         text="WIZARDS MESSED UP"
         x={960}
         y={170}
         at={C(id, "messed up")}
-        out={C("intro-and-promise", "this is wil") - 0.25}
+        out={C("intro-and-promise", "hello everyone") + 1.0}
         size={84}
+        stagger={0.02}
       />
       <Confetti x={1080} y={420} at={C(id, "one card") + 0.2} />
     </>
@@ -250,40 +255,28 @@ const Intro: React.FC = () => {
     <>
       <RansomTitle
         text="WIL D. CARD"
-        x={960}
-        y={170}
-        at={C(id, "this is wil")}
-        out={today - 0.1}
-        size={100}
-      />
-      <Sticker
-        text="WILD CARD COMMANDER"
-        x={960}
-        y={330}
-        at={C(id, "wild card commander")}
-        out={today - 0.1}
+        x={370}
+        y={560}
+        at={C(id, "this is wil") + 0.25}
+        out={today + 0.1}
         size={60}
-        bg="#ffe16b"
-        color={INK}
-        rot={-3}
       />
-      <Confetti x={960} y={300} at={C(id, "wild card commander")} />
       <CardImg
         src={DACK}
-        x={300}
-        y={440}
-        w={300}
-        at={C(id, "dack and venser")}
+        x={270}
+        y={560}
+        w={420}
+        at={today + 0.15}
         out={out}
         rot={-7}
         from="left"
       />
       <CardImg
         src={VENSER}
-        x={560}
-        y={470}
-        w={300}
-        at={C(id, "dack and venser") + 0.25}
+        x={580}
+        y={590}
+        w={420}
+        at={today + 0.4}
         out={out}
         rot={6}
         from="bottom"
@@ -301,8 +294,8 @@ const Intro: React.FC = () => {
       />
       <Sticker
         text="r/magicTCG IS GOING NUTS"
-        x={430}
-        y={800}
+        x={450}
+        y={975}
         at={C(id, "going nuts")}
         out={out}
         size={44}
@@ -315,8 +308,8 @@ const Intro: React.FC = () => {
         <Sticker
           key={i}
           text={label}
-          x={1170}
-          y={280 + i * 130}
+          x={1250}
+          y={300 + i * 130}
           at={C(id, cueWord)}
           out={out}
           size={46}
@@ -334,7 +327,7 @@ const Intro: React.FC = () => {
         w={560}
         at={C(id, "posted it")}
         out={C(id, "how it works") - 0.1}
-        size={30}
+        size={32}
         rot={1}
       />
     </>
@@ -356,16 +349,16 @@ const TwoCards: React.FC = () => {
     <>
       <ProductImg
         src={DECK_BOX}
-        x={330}
+        x={350}
         y={470}
-        w={340}
+        w={460}
         at={sec(id).start}
         out={C(id, "first up") - 0.1}
         rot={-4}
       />
       <Sticker
         text="4-COLOR JACE PRECON"
-        x={980}
+        x={1045}
         y={330}
         at={C(id, "four-color")}
         out={C(id, "first up") - 0.1}
@@ -376,7 +369,7 @@ const TwoCards: React.FC = () => {
       />
       <Sticker
         text="OUT OCT 2"
-        x={860}
+        x={925}
         y={470}
         at={C(id, "october")}
         out={C(id, "first up") - 0.1}
@@ -386,7 +379,7 @@ const TwoCards: React.FC = () => {
       />
       <Sticker
         text="2 NEW CARDS = TROUBLE"
-        x={980}
+        x={1045}
         y={610}
         at={C(id, "two of the new")}
         out={C(id, "first up") - 0.1}
@@ -398,9 +391,9 @@ const TwoCards: React.FC = () => {
 
       <CardImg
         src={DACK}
-        x={300}
-        y={470}
-        w={380}
+        x={350}
+        y={475}
+        w={540}
         at={C(id, "first up")}
         out={dackOut}
         rot={-3}
@@ -408,8 +401,8 @@ const TwoCards: React.FC = () => {
       />
       <Sticker
         text="6 MANA… CREATURE?"
-        x={420}
-        y={118}
+        x={950}
+        y={95}
         at={C(id, "six-mana")}
         out={C(id, "you reveal")}
         size={40}
@@ -420,7 +413,7 @@ const TwoCards: React.FC = () => {
       <Callout
         label="DACK FAYDEN, HELPING HAND"
         text="Reveal cards from the top of your library until you reveal [[X creature cards]], where X is [[the number of opponents]] you have."
-        x={560}
+        x={650}
         y={140}
         w={640}
         at={C(id, "you reveal")}
@@ -428,7 +421,7 @@ const TwoCards: React.FC = () => {
       />
       <Sticker
         text="4 PLAYERS = 3 CREATURES"
-        x={880}
+        x={1060}
         y={470}
         at={C(id, "four-player")}
         out={C(id, "they come in") - 0.1}
@@ -438,7 +431,7 @@ const TwoCards: React.FC = () => {
       />
       <Callout
         text="Put those creature cards [[onto the battlefield]], then shuffle. They're [[goaded]] for the rest of the game."
-        x={560}
+        x={650}
         y={140}
         w={640}
         at={C(id, "they come in")}
@@ -479,9 +472,9 @@ const TwoCards: React.FC = () => {
 
       <CardImg
         src={VENSER}
-        x={320}
-        y={470}
-        w={380}
+        x={350}
+        y={475}
+        w={540}
         at={C(id, "next up")}
         out={out}
         rot={3}
@@ -490,7 +483,7 @@ const TwoCards: React.FC = () => {
       <Callout
         label="VENSER, FERVENT FORGER"
         text="Create [[two tokens that are copies]] of target permanent an opponent controls. They gain [[haste]]. At the beginning of the next end step, [[sacrifice them]]."
-        x={580}
+        x={650}
         y={250}
         w={640}
         at={C(id, "one of his modes")}
@@ -498,7 +491,7 @@ const TwoCards: React.FC = () => {
       />
 
       <BackRow
-        x={700}
+        x={880}
         y={440}
         n={3}
         w={110}
@@ -509,7 +502,7 @@ const TwoCards: React.FC = () => {
       <Callout
         label="GOADED"
         text="Must [[attack each combat]], and [[not you]]."
-        x={560}
+        x={650}
         y={345}
         w={560}
         at={C(id, "they're goaded")}
@@ -519,7 +512,7 @@ const TwoCards: React.FC = () => {
       />
       <Sticker
         text="HASTE ⚡"
-        x={760}
+        x={820}
         y={640}
         at={C(id, "they've got haste")}
         out={out}
@@ -547,8 +540,9 @@ const Combo: React.FC = () => {
   const id = "the-combo";
   // phase 1, the loop diagram, clears when the end state starts ("their creatures");
   // phase 2, the end-state board of copies, clears for the closing "it's two cards" beat
-  const out = C(id, "their creatures") - 0.1;
-  const boardOut = C(id, "it's two cards") - 0.1;
+  // each group leaves just after the next one starts arriving: a swap, not a blank beat
+  const out = C(id, "their creatures") + 0.1;
+  const boardOut = C(id, "it's two cards") + 0.1;
   const end = END(id);
   const { t } = useT();
   const handed = C(id, "gets handed");
@@ -593,13 +587,13 @@ const Combo: React.FC = () => {
       <CardImg
         src={VENSER}
         x={330}
-        y={430}
-        w={250}
+        y={420}
+        w={310}
         at={C(id, "flip venser")}
         out={out}
         flipAt={C(id, "flip venser") + 0.1}
         toX={1000}
-        toY={430}
+        toY={420}
         moveAt={handed}
       />
       <Sticker
@@ -625,7 +619,7 @@ const Combo: React.FC = () => {
       />
       <Reticle
         x={1000}
-        y={430}
+        y={420}
         at={C(id, "they control him")}
         out={C(id, "two token vensers")}
       />
@@ -651,40 +645,40 @@ const Combo: React.FC = () => {
 
       <CardImg
         src={VENSER}
-        x={230}
-        y={470}
-        w={190}
+        x={215}
+        y={465}
+        w={220}
         at={tokens}
         out={legend + 0.45}
         rot={-8}
       />
       <CardImg
         src={VENSER}
-        x={430}
-        y={470}
-        w={190}
+        x={445}
+        y={465}
+        w={220}
         at={tokens + 0.15}
         out={out}
         rot={6}
       />
       <Sticker
         text="TOKEN"
-        x={230}
-        y={620}
+        x={215}
+        y={610}
         at={tokens}
         out={legend + 0.45}
-        size={30}
+        size={38}
         bg="#fff"
         color={INK}
         stamp
       />
       <Sticker
         text="TOKEN"
-        x={430}
-        y={620}
+        x={445}
+        y={610}
         at={tokens + 0.15}
         out={out}
-        size={30}
+        size={38}
         bg="#fff"
         color={INK}
         stamp
@@ -701,11 +695,11 @@ const Combo: React.FC = () => {
       />
       <Sticker
         text="⚡ ⚡"
-        x={330}
-        y={260}
+        x={265}
+        y={242}
         at={C(id, "two new venser triggers")}
         out={out}
-        size={80}
+        size={64}
         color={GOLD}
         rot={0}
       />
@@ -732,11 +726,11 @@ const Combo: React.FC = () => {
 
       <Sticker
         text="∞"
-        x={700}
-        y={620}
+        x={707}
+        y={600}
         at={keepGoing}
         out={out}
-        size={220}
+        size={130}
         color={GOLD}
         rot={(t * 40) % 360}
       />
@@ -777,9 +771,9 @@ const Combo: React.FC = () => {
             <CardImg
               key={k}
               src={src}
-              x={x - 60 + k * 60}
+              x={x - 70 + k * 70}
               y={390 + Math.abs(k - 1) * 12}
-              w={180}
+              w={220}
               at={C(id, cueWord) + k * 0.12}
               out={boardOut}
               rot={(k - 1) * 9}
@@ -789,7 +783,7 @@ const Combo: React.FC = () => {
           <Sticker
             text={label}
             x={x}
-            y={600}
+            y={625}
             at={C(id, cueWord) + 0.2}
             out={boardOut}
             size={40}
@@ -824,7 +818,7 @@ const Combo: React.FC = () => {
       <Sticker
         text="SACRIFICED AT THE NEXT END STEP"
         x={700}
-        y={712}
+        y={735}
         at={C(id, "they all get sacrificed")}
         out={boardOut}
         size={38}
@@ -835,7 +829,7 @@ const Combo: React.FC = () => {
       <Sticker
         text="SO: DO IT BEFORE COMBAT"
         x={700}
-        y={828}
+        y={845}
         at={C(id, "before combat")}
         out={boardOut}
         size={42}
@@ -849,7 +843,7 @@ const Combo: React.FC = () => {
         y={400}
         at={C(id, "then swing")}
         out={boardOut}
-        size={140}
+        size={128}
         color={ACCENT}
         rot={-8}
         wobble
@@ -871,9 +865,9 @@ const Combo: React.FC = () => {
       />
       <CardImg
         src={DACK}
-        x={420}
-        y={520}
-        w={280}
+        x={410}
+        y={510}
+        w={340}
         at={C(id, "you only cast one")}
         out={end}
         rot={-5}
@@ -881,8 +875,8 @@ const Combo: React.FC = () => {
       />
       <Sticker
         text="YOU CAST THIS"
-        x={420}
-        y={830}
+        x={410}
+        y={848}
         at={C(id, "you only cast one") + 0.2}
         out={end}
         size={44}
@@ -891,10 +885,10 @@ const Combo: React.FC = () => {
         rot={-3}
       />
       <PaperArrow
-        x1={590}
-        y1={520}
-        x2={860}
-        y2={520}
+        x1={610}
+        y1={510}
+        x2={815}
+        y2={510}
         at={C(id, "dack goes and finds")}
         out={end}
         bend={-70}
@@ -902,8 +896,8 @@ const Combo: React.FC = () => {
       <CardImg
         src={VENSER}
         x={1000}
-        y={520}
-        w={280}
+        y={510}
+        w={340}
         at={C(id, "dack goes and finds") + 0.3}
         out={end}
         rot={5}
@@ -912,7 +906,7 @@ const Combo: React.FC = () => {
       <Sticker
         text="DACK FINDS THIS"
         x={1000}
-        y={830}
+        y={848}
         at={C(id, "dack goes and finds") + 0.4}
         out={end}
         size={44}
@@ -938,14 +932,14 @@ const Combo: React.FC = () => {
         y={520}
         at={C(id, "under your control")}
         out={handed}
-        size={30}
+        size={38}
         bg="#fff"
         color={INK}
         rot={2}
         stamp
       />
       <TriggerCard
-        x={668}
+        x={640}
         y={495}
         at={C(id, "trigger on the stack")}
         out={tokens}
@@ -953,8 +947,8 @@ const Combo: React.FC = () => {
       />
       <Sticker
         text="RIP"
-        x={230}
-        y={470}
+        x={215}
+        y={465}
         at={C(id, "the graveyard")}
         out={C(id, "two new venser triggers")}
         size={80}
@@ -977,7 +971,7 @@ const Combo: React.FC = () => {
       <CardImg
         src={SPHINX}
         x={1060}
-        y={730}
+        y={740}
         w={140}
         at={C(id, "the other two creatures")}
         out={out}
@@ -986,8 +980,8 @@ const Combo: React.FC = () => {
       />
       <CardImg
         src={EMISSARY}
-        x={1220}
-        y={730}
+        x={1225}
+        y={740}
         w={140}
         at={C(id, "the other two creatures") + 0.2}
         out={out}
@@ -1000,7 +994,7 @@ const Combo: React.FC = () => {
         y={890}
         at={C(id, "on your opponents' boards")}
         out={C(id, "our second trigger") - 0.1}
-        size={34}
+        size={38}
         bg="#fff"
         color={INK}
         rot={2}
@@ -1008,10 +1002,10 @@ const Combo: React.FC = () => {
       <Sticker
         text="+2 HASTY 10/10s"
         x={1140}
-        y={890}
+        y={895}
         at={C(id, "copy one of those")}
         out={keepGoing}
-        size={46}
+        size={40}
         bg="#ffe16b"
         color={INK}
         rot={-3}
@@ -1023,7 +1017,7 @@ const Combo: React.FC = () => {
         y={240}
         at={C(id, "opponent's side")}
         out={tokens}
-        size={34}
+        size={38}
         bg="#fff"
         color={ACCENT}
         rot={3}
@@ -1044,22 +1038,22 @@ const Combo: React.FC = () => {
 
       <Sticker
         text="KEEPS IT GOING"
-        x={695}
-        y={300}
+        x={632}
+        y={205}
         at={C(id, "keeps the loop going")}
         out={C(id, "their creatures") - 0.1}
-        size={26}
+        size={37}
         bg="#fff"
         color={INK}
         rot={-3}
       />
       <Sticker
         text="ANY PERMANENT"
-        x={695}
-        y={520}
+        x={900}
+        y={775}
         at={C(id, "anything an opponent controls")}
         out={C(id, "the other two creatures") - 0.1}
-        size={24}
+        size={37}
         bg="#fff"
         color="#4a6aa0"
         rot={2}
@@ -1071,7 +1065,7 @@ const Combo: React.FC = () => {
 const Subscribe: React.FC = () => {
   const id = "subscribe-segment";
   const start = sec(id).start;
-  const recapOut = C(id, "quick quiz") - 0.05;
+  const recapOut = C(id, "quick quiz") + 0.1;
   const answer = C("the-gap", "it's when it goes") - 0.1;
   // recap stays in the upper left so the subscribe overlay (bottom right) has clear space
   return (
@@ -1233,7 +1227,7 @@ const Gap: React.FC = () => {
       })}
       <Sticker
         text="THE GAP"
-        x={1095}
+        x={1125}
         y={345}
         at={C(id, "tiny gap")}
         out={out}
@@ -1351,7 +1345,7 @@ const Odds: React.FC = () => {
         x={740}
         y={420}
         at={sec(id).start + 0.2}
-        out={gridIn - 0.1}
+        out={gridIn + 0.1}
         size={110}
         bg="#ffe16b"
         color={INK}
@@ -1426,7 +1420,7 @@ const Odds: React.FC = () => {
       />
       <Sticker
         text="≈ 18%"
-        x={1080}
+        x={1110}
         y={800}
         at={C(id, "18 percent")}
         out={gridOut}
@@ -1440,7 +1434,7 @@ const Odds: React.FC = () => {
         src={BRAINSTORM}
         x={330}
         y={470}
-        w={330}
+        w={420}
         at={C(id, "help it along")}
         out={C(id, "with jace too") - 0.1}
         rot={-5}
@@ -1495,9 +1489,9 @@ const Odds: React.FC = () => {
 
       <CardImg
         src={JACE}
-        x={300}
+        x={330}
         y={470}
-        w={320}
+        w={400}
         at={C(id, "with jace too")}
         out={out}
         rot={-3}
@@ -1506,7 +1500,7 @@ const Odds: React.FC = () => {
       <Callout
         label="JACE, MULTIVERSE ARCHITECT  (−3)"
         text="[[Exile another]] target planeswalker or creature you control. Reveal cards … until you reveal [[a creature or planeswalker]] card. Put that card [[onto the battlefield]]."
-        x={540}
+        x={590}
         y={150}
         w={680}
         at={C(id, "minus three")}
@@ -1592,13 +1586,13 @@ const Odds: React.FC = () => {
         color={INK}
         rot={-2}
       />
-      <div style={{ position: "absolute", left: 640, top: 470 }}>
+      <div style={{ position: "absolute", left: 640, top: 530 }}>
         <BackRow x={60} y={0} n={1} w={120} gap={0} at={C(id, "exiles one of your other")} out={C(id, "that could be dack") - 0.1} />
       </div>
       <Sticker
         text="EXILED"
         x={700}
-        y={560}
+        y={620}
         at={C(id, "exiles one of your other") + 0.3}
         out={C(id, "that could be dack") - 0.1}
         size={50}
@@ -1609,7 +1603,7 @@ const Odds: React.FC = () => {
       <Sticker
         text="NEXT CREATURE OR PLANESWALKER → PLAY"
         x={720}
-        y={780}
+        y={828}
         at={C(id, "off the top into play")}
         out={C(id, "that could be dack") - 0.1}
         size={34}
@@ -1638,7 +1632,7 @@ const Catch: React.FC = () => {
     <>
       <Sticker
         text="THE CATCH"
-        x={740}
+        x={860}
         y={130}
         at={C(id, "there's a catch")}
         out={C(id, "darksteel angel") - 0.1}
@@ -1650,7 +1644,7 @@ const Catch: React.FC = () => {
         src={ANGEL}
         x={330}
         y={470}
-        w={330}
+        w={460}
         at={C(id, "favorite part")}
         out={dream - 0.1}
         flipAt={C(id, "darksteel angel")}
@@ -1659,7 +1653,7 @@ const Catch: React.FC = () => {
       <Callout
         label="DARKSTEEL ANGEL"
         text="You can't lose the game and [[your opponents can't win the game]]."
-        x={560}
+        x={620}
         y={200}
         w={620}
         at={C(id, "darksteel angel says")}
@@ -1687,7 +1681,7 @@ const Catch: React.FC = () => {
       <Sticker
         text="YOU CAN'T WIN"
         x={1250}
-        y={510}
+        y={548}
         at={C(id, "people who can't win")}
         out={dream - 0.1}
         size={52}
@@ -1709,18 +1703,19 @@ const Catch: React.FC = () => {
       <Sticker
         text="INDESTRUCTIBLE"
         x={330}
-        y={760}
+        y={690}
         at={C(id, "indestructible")}
         out={dream - 0.1}
         size={44}
         bg="#fff"
         color={INK}
         rot={-5}
+        stamp
       />
       <Sticker
         text="HOLD THAT THOUGHT…"
-        x={1190}
-        y={860}
+        x={1180}
+        y={130}
         at={C(id, "hold that thought")}
         out={dream - 0.1}
         size={40}
@@ -1733,7 +1728,7 @@ const Catch: React.FC = () => {
         src={ARCHON}
         x={330}
         y={470}
-        w={330}
+        w={460}
         at={dream}
         out={out}
         rot={3}
@@ -1742,7 +1737,7 @@ const Catch: React.FC = () => {
       <Callout
         label="ARCHON OF CRUELTY"
         text="…target opponent… [[loses 3 life]]. [[You draw a card]] and gain 3 life."
-        x={560}
+        x={620}
         y={180}
         w={620}
         at={C(id, "archon of cruelty")}
@@ -1905,7 +1900,7 @@ const Catch: React.FC = () => {
       <Sticker
         text="YOU: CAN'T LOSE ✓"
         x={885}
-        y={492}
+        y={532}
         at={C(id, "you can't lose the game")}
         out={C(id, "flips venser and the angel") - 0.1}
         size={40}
@@ -1915,8 +1910,8 @@ const Catch: React.FC = () => {
       />
       <Sticker
         text="OPPONENTS: CAN'T WIN ✗"
-        x={885}
-        y={608}
+        x={940}
+        y={648}
         at={C(id, "opponents can't win the game")}
         out={C(id, "flips venser and the angel") - 0.1}
         size={40}
@@ -1990,7 +1985,7 @@ const HowToStop: React.FC = () => {
         x={700}
         y={150}
         at={sec(id).start + 0.1}
-        out={answers - 0.1}
+        out={answers + 0.1}
         size={84}
         bg="#ffe16b"
         color={INK}
@@ -2000,7 +1995,7 @@ const HowToStop: React.FC = () => {
         src={VENSER}
         x={880}
         y={500}
-        w={270}
+        w={340}
         at={C(id, "original venser")}
         out={gone + 0.35}
         rot={4}
@@ -2021,7 +2016,7 @@ const HowToStop: React.FC = () => {
         x={380}
         y={500}
         at={C(id, "every loop needs")}
-        out={answers - 0.1}
+        out={answers + 0.1}
         fizzleAt={C(id, "does nothing")}
       />
       <PaperArrow
@@ -2039,7 +2034,7 @@ const HowToStop: React.FC = () => {
         x={880}
         y={500}
         at={gone}
-        out={answers - 0.1}
+        out={answers + 0.1}
         size={90}
         color={ACCENT}
         rot={-8}
@@ -2049,7 +2044,7 @@ const HowToStop: React.FC = () => {
         x={380}
         y={500}
         at={C(id, "does nothing")}
-        out={answers - 0.1}
+        out={answers + 0.1}
         size={96}
         color={ACCENT}
         rot={-12}
@@ -2060,7 +2055,7 @@ const HowToStop: React.FC = () => {
         x={380}
         y={760}
         at={C(id, "rule 608.2b")}
-        out={answers - 0.1}
+        out={answers + 0.1}
         size={46}
         bg="#fff"
         color={INK}
@@ -2070,9 +2065,9 @@ const HowToStop: React.FC = () => {
         <CardImg
           key={src}
           src={src}
-          x={300 + i * 270}
-          y={500}
-          w={250}
+          x={290 + i * 310}
+          y={475}
+          w={290}
           at={C(id, cueWord)}
           out={out}
           rot={rot}
@@ -2084,7 +2079,7 @@ const HowToStop: React.FC = () => {
         x={700}
         y={140}
         at={C(id, "all in this same precon")}
-        out={out}
+        out={C(id, "hold one up") - 0.4}
         size={62}
         bg="#fff"
         color={INK}
@@ -2093,7 +2088,7 @@ const HowToStop: React.FC = () => {
       <Sticker
         text="WORKS ON THE ANGEL TOO ✓"
         x={700}
-        y={748}
+        y={772}
         at={C(id, "that angel too")}
         out={C(id, "hold one up") - 0.1}
         size={46}
@@ -2104,10 +2099,10 @@ const HowToStop: React.FC = () => {
       <Sticker
         text="HOLD ONE UP"
         x={700}
-        y={873}
+        y={140}
         at={C(id, "hold one up")}
         out={out}
-        size={60}
+        size={56}
         bg="#ffe16b"
         color={INK}
         rot={3}
@@ -2136,7 +2131,7 @@ const VenserProblem: React.FC = () => {
         src={VENSER}
         x={330}
         y={480}
-        w={300}
+        w={360}
         at={C(id, "one more thing")}
         out={out}
         rot={-4}
@@ -2157,7 +2152,7 @@ const VenserProblem: React.FC = () => {
         src={VENSER}
         x={1050}
         y={480}
-        w={300}
+        w={360}
         at={C(id, "copies him")}
         out={out}
         rot={4}
@@ -2197,7 +2192,7 @@ const VenserProblem: React.FC = () => {
       <Sticker
         text="∞"
         x={1050}
-        y={780}
+        y={820}
         at={C(id, "going infinite")}
         out={out}
         size={160}
@@ -2209,7 +2204,7 @@ const VenserProblem: React.FC = () => {
       <Sticker
         text="LIABILITY"
         x={300}
-        y={780}
+        y={800}
         at={C(id, "liability")}
         out={out}
         size={54}
@@ -2219,7 +2214,7 @@ const VenserProblem: React.FC = () => {
 
       <Sticker
         text="IT CAN HAPPEN TO YOU"
-        x={830}
+        x={910}
         y={330}
         at={C(id, "happen to you")}
         out={C(id, "copies him") - 0.1}
@@ -2237,7 +2232,7 @@ const Problem: React.FC = () => {
   const out = END(id);
   const { t, fps } = useT();
   const cutting = C(id, "cutting venser");
-  const table = pop(t, fps, C(id, "worry about"), cutting - 0.1);
+  const table = pop(t, fps, C(id, "worry about"), cutting + 0.1);
   const worry = C(id, "worry about");
   const said = C(id, "has wizards said");
   return (
@@ -2247,7 +2242,7 @@ const Problem: React.FC = () => {
         x={960}
         y={170}
         at={sec(id).start + 0.1}
-        out={worry - 0.1}
+        out={worry + 0.1}
         size={84}
         bg="#fff"
         color={ACCENT}
@@ -2255,9 +2250,9 @@ const Problem: React.FC = () => {
       />
       <ProductImg
         src={DECK_BOX}
-        x={330}
-        y={600}
-        w={300}
+        x={380}
+        y={575}
+        w={340}
         at={C(id, "most precons land")}
         out={said - 0.1}
         rot={-5}
@@ -2265,7 +2260,7 @@ const Problem: React.FC = () => {
       <Callout
         label="BRACKET 2 (WHERE MOST PRECONS LAND)"
         text="No [[two-card infinite]] combos."
-        x={560}
+        x={600}
         y={420}
         w={760}
         at={C(id, "bracket 2")}
@@ -2275,7 +2270,7 @@ const Problem: React.FC = () => {
       />
       <Sticker
         text="THIS ONE SHIPS WITH ONE"
-        x={940}
+        x={1045}
         y={780}
         at={C(id, "ships with one")}
         out={said - 0.1}
@@ -2289,7 +2284,7 @@ const Problem: React.FC = () => {
         x={800}
         y={360}
         at={said}
-        out={worry - 0.1}
+        out={worry + 0.1}
         size={56}
         bg="#fff"
         color={INK}
@@ -2300,7 +2295,7 @@ const Problem: React.FC = () => {
         x={800}
         y={560}
         at={C(id, "not yet")}
-        out={worry - 0.1}
+        out={worry + 0.1}
         size={120}
         color={ACCENT}
         rot={-7}
@@ -2312,7 +2307,7 @@ const Problem: React.FC = () => {
         y={700}
         w={720}
         at={C(id, "pin it in the comments")}
-        out={worry - 0.1}
+        out={worry + 0.1}
         size={38}
         rot={1}
       />
@@ -2336,7 +2331,7 @@ const Problem: React.FC = () => {
         y={500}
         back="navy"
         at={C(id, "worry about")}
-        out={cutting - 0.1}
+        out={cutting + 0.1}
         mouth={t > C(id, "love it") ? "open" : "smile"}
       />
       <Friend
@@ -2344,7 +2339,7 @@ const Problem: React.FC = () => {
         y={500}
         back="kraft"
         at={C(id, "worry about") + 0.15}
-        out={cutting - 0.1}
+        out={cutting + 0.1}
         mouth={t > C(id, "some won't") ? "frown" : "smile"}
         brows={t > C(id, "some won't") ? "angry" : "none"}
       />
@@ -2353,7 +2348,7 @@ const Problem: React.FC = () => {
         y={500}
         back="charcoal"
         at={C(id, "worry about") + 0.3}
-        out={cutting - 0.1}
+        out={cutting + 0.1}
       />
       <Sticker
         text="NOT REALLY"
@@ -2382,7 +2377,7 @@ const Problem: React.FC = () => {
         y={120}
         w={700}
         at={C(id, "hey this deck")}
-        out={cutting - 0.1}
+        out={cutting + 0.1}
         size={36}
         rot={-1}
       />
@@ -2391,7 +2386,7 @@ const Problem: React.FC = () => {
         x={420}
         y={330}
         at={C(id, "love it")}
-        out={cutting - 0.1}
+        out={cutting + 0.1}
         size={44}
         color={GOLD}
         rot={-8}
@@ -2401,7 +2396,7 @@ const Problem: React.FC = () => {
         x={750}
         y={330}
         at={C(id, "some won't")}
-        out={cutting - 0.1}
+        out={cutting + 0.1}
         size={44}
         color={ACCENT}
         rot={6}
@@ -2411,7 +2406,7 @@ const Problem: React.FC = () => {
         x={1400}
         y={330}
         at={C(id, "just ask")}
-        out={cutting - 0.1}
+        out={cutting + 0.1}
         size={72}
         bg="#ffe16b"
         color={INK}
@@ -2422,7 +2417,7 @@ const Problem: React.FC = () => {
         src={VENSER}
         x={360}
         y={470}
-        w={280}
+        w={330}
         at={cutting}
         out={out}
         rot={-4}
@@ -2442,7 +2437,7 @@ const Problem: React.FC = () => {
         src={DACK}
         x={720}
         y={470}
-        w={280}
+        w={330}
         at={C(id, "cutting dack")}
         out={out}
         rot={4}
@@ -2451,7 +2446,7 @@ const Problem: React.FC = () => {
       <Sticker
         text="POLITICS!"
         x={720}
-        y={180}
+        y={158}
         at={C(id, "political")}
         out={out}
         size={60}
@@ -2472,7 +2467,7 @@ const Problem: React.FC = () => {
       />
       <Callout
         text="[[Would you let this fly?]] Or is Venser out before game one? Tell me in the comments."
-        x={930}
+        x={950}
         y={400}
         w={540}
         at={C(id, "would you let")}
@@ -2495,12 +2490,12 @@ const Problem: React.FC = () => {
         />
       ))}
       <Sticker
-        text="FREE CREATURES FOR EVERYONE"
-        x={1230}
+        text="FREE CREATURES FOR ALL"
+        x={1290}
         y={330}
         at={C(id, "random big creature")}
         out={C(id, "i'd keep him") - 0.1}
-        size={30}
+        size={40}
         bg="#ffe16b"
         color={INK}
         rot={3}
@@ -2582,7 +2577,7 @@ const VerdictCard: React.FC<{
 const Close: React.FC = () => {
   const id = "close";
   const out = END(id);
-  const start = C(id, "that's the combo");
+  const start = sec(id).start;
   return (
     <>
       <Sticker
@@ -2713,14 +2708,11 @@ const WIL_EVENTS: WilEvent[] = [
   // the entrance is 40 frames: the shades drop once he has landed, not halfway through it
   { at: Math.max(C("intro-and-promise", "wild card commander"), C("intro-and-promise", "hello everyone") + 1.35), anim: "deal-with-it" },
   { at: C("intro-and-promise", "going nuts"), anim: "shocked" },
-  { at: C("intro-and-promise", "how it works"), anim: "thinking" },
   { at: C("the-two-cards", "you reveal"), anim: "draw" },
   { at: C("the-two-cards", "merry christmas"), anim: "laugh" },
-  { at: C("the-two-cards", "next up"), anim: "point" },
   { at: C("the-combo", "they control him"), anim: "peek" },
   { at: C("the-combo", "unlimited mana"), anim: "mind-blown" },
   { at: C("the-combo", "they all get sacrificed"), anim: "nervous-sweat" },
-  { at: C("the-combo", "before anyone"), anim: "facepalm" },
   { at: C("the-combo", "you only cast one"), anim: "point" },
   { at: C("subscribe-segment", "quick quiz"), anim: "thinking" },
   { at: C("the-combo", "himself"), anim: "shocked" },
@@ -2735,7 +2727,6 @@ const WIL_EVENTS: WilEvent[] = [
   { at: C("the-catch", "there's a catch"), anim: "peek" },
   { at: C("the-catch", "not allowed"), anim: "facepalm" },
   { at: C("the-catch", "count your library"), anim: "nervous-sweat", hold: 1 },
-  { at: C("how-to-stop-it", "what if someone"), anim: "thinking" },
   { at: C("how-to-stop-it", "does nothing"), anim: "deal-with-it" },
   { at: C("how-to-stop-it", "swords to plowshares"), anim: "point" },
   { at: C("the-venser-problem", "one more thing"), anim: "sip-tea" },
@@ -2745,14 +2736,13 @@ const WIL_EVENTS: WilEvent[] = [
     anim: "thinking",
   },
   { at: C("is-this-a-problem-comment-prompt", "just ask"), anim: "yes" },
-  { at: C("is-this-a-problem-comment-prompt", "i'd keep him"), anim: "yes" },
   {
     at: C("is-this-a-problem-comment-prompt", "would you let"),
     anim: "comment",
   },
   { at: C("close", "linked below"), anim: "link-below" },
-  // the bell is 50 frames: let most of it play before the wave
-  { at: Math.max(C("close", "thanks for watching"), C("close", "subscribe") + 1.15), anim: "wave" },
+  // reactions start at least 2.5 s apart (qa_layout: WIL REACTIONS TOO CLOSE), so the wave waits for the bell
+  { at: Math.max(C("close", "thanks for watching"), C("close", "subscribe") + 2.5), anim: "wave" },
   { at: C("close", "subscribe"), anim: "bell" },
   { at: T.narrationEnd + 2.6, anim: "bell" },
 ];
@@ -2765,7 +2755,9 @@ const WilHost: React.FC<{ subStart: number }> = ({ subStart }) => {
   const { t } = useT();
   const hello = C("intro-and-promise", "hello everyone");
   const move = C("intro-and-promise", "today");
-  if (t < hello - 0.05) return null;
+  // drawn from the first frame of his entrance only (from hello - 0.05 he flashed on screen for
+  // two frames in his resting pose, vanished, then popped up: the "glitch at 9 seconds")
+  if (t < hello) return null;
   // the subscribe overlay brings its own Wil: fade ours out as it slides in, and back once it leaves
   const away = ramp(t, subStart - 0.25, subStart) * (1 - ramp(t, subStart + 4.4, subStart + 4.7));
   if (away > 0.999) return null;
@@ -2775,7 +2767,7 @@ const WilHost: React.FC<{ subStart: number }> = ({ subStart }) => {
   const scale = 2 + (1.25 - 2) * k;
   return (
     <div style={{ opacity: 1 - away }}>
-      <Wil timing={T} events={WIL_EVENTS} x={x} y={y} scale={scale} />
+      <Wil timing={T} events={WIL_EVENTS} x={x} y={y} scale={scale} voice={voiceJson as Voice} looks={looksJson as number[]} expression={expressionJson as unknown as Expression} />
     </div>
   );
 };

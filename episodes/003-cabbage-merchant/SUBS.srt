@@ -1,0 +1,1241 @@
+1
+00:00:00,300 --> 00:00:03,640
+Ever feel like the Cabbage Man
+from Avatar: The Last Airbender?
+
+2
+00:00:03,900 --> 00:00:08,100
+You watch your Commander plans crash
+and burn, and you scream "MY CABBAGES!"
+
+3
+00:00:08,550 --> 00:00:10,050
+for the fifth time this week.
+
+4
+00:00:10,530 --> 00:00:12,070
+Yep. I've been there.
+
+5
+00:00:12,370 --> 00:00:13,370
+Every game.
+
+6
+00:00:13,410 --> 00:00:14,450
+Another plan ruined.
+
+7
+00:00:14,670 --> 00:00:15,890
+Another cabbage gone.
+
+8
+00:00:16,940 --> 00:00:21,260
+But what if we stopped losing our
+cabbages… and started weaponizing them?
+
+9
+00:00:21,375 --> 00:00:23,915
+Hello everyone, this is Wil
+D. Card with Wild Card Commander.
+
+10
+00:00:23,935 --> 00:00:28,115
+And welcome to the Cabbage Converter: the
+deck where we take ordinary cabbages and
+
+11
+00:00:28,135 --> 00:00:31,195
+turn them into robots, bears,
+wolves, even dinosaurs.
+
+12
+00:00:31,635 --> 00:00:35,135
+Basically, it's a machine that
+turns cabbages into nuclear weapons.
+
+13
+00:00:35,435 --> 00:00:36,435
+I'm not kidding.
+
+14
+00:00:36,455 --> 00:00:40,915
+I once turned 73 cabbages into bears to
+kill the table, and my opponent got up and
+
+15
+00:00:40,935 --> 00:00:43,015
+walked over to a wall
+for, like, five minutes.
+
+16
+00:00:43,805 --> 00:00:46,365
+And the whole thing comes
+in around two hundred bucks.
+
+17
+00:00:46,745 --> 00:00:50,905
+About $214 when I checked, and thirty
+of that is the Cabbage Man himself.
+
+18
+00:00:51,085 --> 00:00:53,985
+I built it because I was
+tired of playing normal Magic.
+
+19
+00:00:54,145 --> 00:00:58,245
+I wanted to sit down, say "Okay, I tap
+twenty cabbages," and watch everyone's
+
+20
+00:00:58,265 --> 00:00:59,165
+faces.
+
+21
+00:00:59,185 --> 00:01:02,285
+So if you want to make a stupid amount
+of mana and then bury your friends in
+
+22
+00:01:02,305 --> 00:01:04,085
+vegetables, you've found your deck.
+
+23
+00:01:04,425 --> 00:01:05,785
+I'm going to teach you four things.
+
+24
+00:01:05,805 --> 00:01:07,405
+One, what hand to keep.
+
+25
+00:01:07,425 --> 00:01:09,885
+Two, what you should
+be doing by turn five.
+
+26
+00:01:09,905 --> 00:01:13,285
+Three, how to win, including
+three secret win cons.
+
+27
+00:01:13,305 --> 00:01:17,025
+And four, the cards that make the deck
+sing, plus the upgrades if you want to
+
+28
+00:01:17,045 --> 00:01:17,945
+take it further.
+
+29
+00:01:17,965 --> 00:01:21,805
+One of those secret win cons is so
+stupid it really should never work.
+
+30
+00:01:21,825 --> 00:01:22,825
+But it does.
+
+31
+00:01:23,425 --> 00:01:25,625
+By the end, you won't just
+be a cabbage merchant.
+
+32
+00:01:25,645 --> 00:01:30,225
+You'll be a cabbage master, the person at
+the table making everyone go, "Wait… how
+
+33
+00:01:30,245 --> 00:01:31,245
+many cabbages?"
+
+34
+00:01:31,446 --> 00:01:33,426
+Introducing the Cabbage Merchant.
+
+35
+00:01:33,926 --> 00:01:36,726
+Three mana, mono-green,
+straight out of the Avatar set.
+
+36
+00:01:37,146 --> 00:01:40,546
+Whenever an opponent casts a
+noncreature spell, we make a Food.
+
+37
+00:01:40,766 --> 00:01:41,766
+That's a cabbage.
+
+38
+00:01:41,926 --> 00:01:45,346
+And we can tap two cabbages
+for one mana of any color.
+
+39
+00:01:45,566 --> 00:01:49,666
+Oh, and cabbages are Foods, so
+they're artifacts and tokens.
+
+40
+00:01:50,186 --> 00:01:50,766
+Remember that.
+
+41
+00:01:50,786 --> 00:01:52,026
+It matters a lot later.
+
+42
+00:01:52,606 --> 00:01:54,686
+He does have one little downside.
+
+43
+00:01:55,006 --> 00:01:58,846
+Whenever a creature deals combat damage
+to us, we have to sacrifice a Food.
+
+44
+00:01:59,166 --> 00:02:00,066
+Don't worry about it.
+
+45
+00:02:00,086 --> 00:02:01,886
+We've got it covered, and
+I'll show you how later.
+
+46
+00:02:02,115 --> 00:02:07,515
+The whole deck runs on one simple truth:
+the Cabbage Man makes an absurd amount of
+
+47
+00:02:07,535 --> 00:02:10,155
+cabbages. Way more than
+you think is possible.
+
+48
+00:02:10,415 --> 00:02:14,535
+I'm talking "the store ran out of
+token cards" levels of cabbage madness.
+
+49
+00:02:14,855 --> 00:02:19,155
+We've had to use dice, poker chips and
+tokens borrowed from other tables just to
+
+50
+00:02:19,175 --> 00:02:20,175
+keep track.
+
+51
+00:02:20,295 --> 00:02:21,375
+So here's the plan.
+
+52
+00:02:21,615 --> 00:02:25,415
+We help our opponents cast more spells
+with group hug, we stack cabbages like
+
+53
+00:02:25,435 --> 00:02:29,555
+it's harvest season, and then we use all
+that Food and mana to pull off the dumbest
+
+54
+00:02:29,575 --> 00:02:31,115
+plays you've ever seen.
+
+55
+00:02:31,515 --> 00:02:32,875
+Let's start with the opening hand.
+
+56
+00:02:33,093 --> 00:02:35,693
+Mulligans with this deck are
+easy, and they're consistent.
+
+57
+00:02:35,913 --> 00:02:37,653
+We only care about two things.
+
+58
+00:02:37,673 --> 00:02:42,393
+First, and most importantly, we want the
+Cabbage Merchant out as fast as possible.
+
+59
+00:02:42,493 --> 00:02:44,993
+The sooner he's working,
+the more cabbages we get.
+
+60
+00:02:45,173 --> 00:02:49,893
+So look for a one-mana dork and two lands:
+land and dork on turn one, then land and
+
+61
+00:02:49,913 --> 00:02:51,613
+Cabbage Merchant on turn two.
+
+62
+00:02:51,873 --> 00:02:54,393
+Don't be afraid to go down to
+five or six cards to find that.
+
+63
+00:02:54,413 --> 00:02:56,833
+I promise the Cabbage Man
+will take care of you.
+
+64
+00:02:56,853 --> 00:03:00,303
+I once kept a four-card hand:
+Forest, Forest, Llanowar
+
+65
+00:03:00,613 --> 00:03:01,893
+Elves and a Temple Bell.
+
+66
+00:03:01,913 --> 00:03:02,913
+That's all I had.
+
+67
+00:03:03,173 --> 00:03:04,173
+I still won.
+
+68
+00:03:05,193 --> 00:03:08,593
+Second, we want some card
+draw, some group hug, or both.
+
+69
+00:03:08,713 --> 00:03:11,893
+And a lot of our cards do both,
+like Howling Mine and Temple Bell.
+
+70
+00:03:12,067 --> 00:03:13,547
+Quick one before the good stuff.
+
+71
+00:03:13,707 --> 00:03:16,367
+If you want more deck
+breakdowns like this, subscribe.
+
+72
+00:03:16,567 --> 00:03:19,067
+Because this is where it gets silly.
+
+73
+00:03:19,279 --> 00:03:21,639
+So what should a good game
+look like by turn five?
+
+74
+00:03:21,899 --> 00:03:25,199
+On turn three, you want to be drawing
+cards, and even something as simple as
+
+75
+00:03:25,219 --> 00:03:26,899
+Harmonize is a great play.
+
+76
+00:03:27,019 --> 00:03:30,219
+It's four mana, and with a
+dork-into-Merchant start that's exactly
+
+77
+00:03:30,239 --> 00:03:31,599
+what you've got on turn three.
+
+78
+00:03:31,619 --> 00:03:34,259
+Plus whatever cabbages the
+table has handed you by then.
+
+79
+00:03:34,679 --> 00:03:37,459
+And this is where you become
+everyone's best friend.
+
+80
+00:03:37,659 --> 00:03:40,699
+Remember, the more our opponents
+cast, the more we benefit.
+
+81
+00:03:40,879 --> 00:03:43,619
+They say, "I need cards."
+You give them cards.
+
+82
+00:03:43,799 --> 00:03:44,759
+They want mana?
+
+83
+00:03:44,779 --> 00:03:45,779
+You give them mana.
+
+84
+00:03:45,879 --> 00:03:49,419
+And they keep casting spells,
+and you keep getting cabbages.
+
+85
+00:03:49,799 --> 00:03:53,519
+By turn five, you want the Cabbage Man
+out, a pile of cabbages on your side, and
+
+86
+00:03:53,539 --> 00:03:56,079
+the whole table casting
+spells like it's their job.
+
+87
+00:03:56,199 --> 00:03:57,779
+That's when things get chaotic.
+
+88
+00:03:58,079 --> 00:03:59,539
+People are casting spells.
+
+89
+00:03:59,659 --> 00:04:02,179
+People are casting spells to
+stop other people's spells.
+
+90
+00:04:02,359 --> 00:04:05,639
+And meanwhile, your cabbage production
+is completely out of control.
+
+91
+00:04:05,899 --> 00:04:07,499
+This is usually when someone asks,
+
+92
+00:04:07,819 --> 00:04:11,179
+"Wait, how many Food tokens do you have?"
+And you get to say something ridiculous
+
+93
+00:04:11,199 --> 00:04:12,199
+like,
+
+94
+00:04:12,219 --> 00:04:13,839
+"37. Wait, no, 41.
+
+95
+00:04:13,859 --> 00:04:15,499
+You just cast two, and
+they're still on the stack."
+
+96
+00:04:16,369 --> 00:04:19,269
+Worried about having too much
+mana and nothing to do with it?
+
+97
+00:04:19,609 --> 00:04:20,549
+Not here.
+
+98
+00:04:20,569 --> 00:04:24,419
+The deck is packed with mana sinks:
+Retrofitter Foundry, Arch of Orazca,
+
+99
+00:04:24,439 --> 00:04:28,529
+Wren's Run Packmaster, who pumps out
+wolves, and of course Dark Depths.
+
+100
+00:04:28,649 --> 00:04:29,649
+More on that one later.
+
+101
+00:04:29,709 --> 00:04:31,269
+You'll never end up
+sitting there turtling.
+
+102
+00:04:31,989 --> 00:04:35,289
+From there, you're overflowing with Food
+and mana, and the deck flips the switch
+
+103
+00:04:35,309 --> 00:04:38,649
+from friendly hug dealer to
+cabbage-fueled war engine.
+
+104
+00:04:38,909 --> 00:04:42,569
+Your Food count stops being reasonable
+and starts becoming "Hey judge, can we use
+
+105
+00:04:42,589 --> 00:04:43,589
+dice instead?"
+
+106
+00:04:43,789 --> 00:04:47,289
+True story: I once had to borrow tokens
+from two separate neighboring pods.
+
+107
+00:04:47,389 --> 00:04:48,809
+The judge started taking pictures.
+
+108
+00:04:49,125 --> 00:04:53,245
+There are no infinite combos in this
+list, and it's a bracket 2 deck: no Game
+
+109
+00:04:53,265 --> 00:04:55,505
+Changers. It wouldn't be hard to add one.
+
+110
+00:04:55,525 --> 00:04:57,225
+But infinite is boring.
+
+111
+00:04:57,625 --> 00:04:58,625
+You know what's not boring?
+
+112
+00:04:58,805 --> 00:05:03,385
+Attacking someone with a pile
+of 7/7 dinosaur cabbages.
+
+113
+00:05:03,765 --> 00:05:04,765
+That's art.
+
+114
+00:05:05,285 --> 00:05:09,725
+So we focus on making a ridiculous amount
+of stuff instead, and it's way more fun.
+
+115
+00:05:10,105 --> 00:05:12,445
+The all-star is Displaced Dinosaurs.
+
+116
+00:05:12,885 --> 00:05:17,125
+Once it's out, every artifact that enters
+under our control comes in as a 7/7
+
+117
+00:05:17,145 --> 00:05:19,965
+Dinosaur. Every cabbage
+we make from then on?
+
+118
+00:05:19,985 --> 00:05:21,165
+A 7/7 dino.
+
+119
+00:05:21,285 --> 00:05:22,585
+And it's not just Food.
+
+120
+00:05:22,685 --> 00:05:25,385
+We run a lot of cheap
+artifacts, so your Sol Ring?
+
+121
+00:05:25,485 --> 00:05:26,905
+Dino. Hot Dog Cart?
+
+122
+00:05:27,005 --> 00:05:29,085
+Dino. That random Treasure token?
+
+123
+00:05:29,185 --> 00:05:31,145
+Believe it or not, also a dino.
+
+124
+00:05:31,885 --> 00:05:35,645
+If the dinosaurs don't stick around,
+our next-best win con, and sometimes the
+
+125
+00:05:35,665 --> 00:05:38,555
+better one, is Halsin, Emerald Archdruid.
+
+126
+00:05:38,885 --> 00:05:43,205
+For one mana, Halsin turns any token
+into a 4/4 Bear until end of turn.
+
+127
+00:05:43,485 --> 00:05:46,945
+That might not sound like a lot, but to
+kill a player from 40, you need ten mana
+
+128
+00:05:46,965 --> 00:05:48,185
+and ten cabbages.
+
+129
+00:05:48,385 --> 00:05:49,785
+For this deck, that's nothing.
+
+130
+00:05:50,125 --> 00:05:53,405
+I've had turns where I made 30
+bears and still had mana left over.
+
+131
+00:05:53,565 --> 00:05:56,925
+The bears were just standing there
+holding cabbages, and it was perfect.
+
+132
+00:05:57,345 --> 00:05:58,345
+One rules thing.
+
+133
+00:05:58,485 --> 00:06:02,465
+A bear can only attack if that cabbage has
+been on your side since the start of your
+
+134
+00:06:02,485 --> 00:06:03,325
+turn.
+
+135
+00:06:03,345 --> 00:06:04,425
+Cabbages you made on their turns?
+
+136
+00:06:04,445 --> 00:06:05,305
+Good to go.
+
+137
+00:06:05,325 --> 00:06:06,325
+Same goes for the dinos.
+
+138
+00:06:06,785 --> 00:06:08,845
+And if you don't draw
+either of those, it's fine.
+
+139
+00:06:09,265 --> 00:06:13,185
+Idol of Oblivion turns eight mana into
+a 10/10, Retrofitter Foundry makes 4/4
+
+140
+00:06:13,205 --> 00:06:15,245
+Constructs all game, and
+there's more in the list.
+
+141
+00:06:15,265 --> 00:06:17,465
+The full decklist is
+linked in the description.
+
+142
+00:06:17,745 --> 00:06:19,985
+Now, remember those three secret win cons?
+
+143
+00:06:20,425 --> 00:06:22,605
+These are the ones that
+make people go, "Wait.
+
+144
+00:06:22,785 --> 00:06:24,325
+That's how you're attacking me?"
+
+145
+00:06:24,645 --> 00:06:26,625
+First up is Dark Depths.
+
+146
+00:06:27,005 --> 00:06:31,005
+It takes a while to build up, but once
+you melt that last ice counter, your
+
+147
+00:06:31,025 --> 00:06:33,445
+opponents' life totals are
+the next thing melting.
+
+148
+00:06:33,865 --> 00:06:38,045
+Nothing says Magic as Richard Garfield
+intended quite like removing ice counters
+
+149
+00:06:38,065 --> 00:06:39,245
+with cabbage money.
+
+150
+00:06:39,585 --> 00:06:43,305
+I've had someone laugh so hard at a Dark
+Depths paid for in cabbages that they
+
+151
+00:06:43,325 --> 00:06:44,745
+conceded out of respect.
+
+152
+00:06:45,445 --> 00:06:46,905
+Next is Night of the Sweets' Revenge.
+
+153
+00:06:47,285 --> 00:06:50,025
+Most of the time it's a value piece,
+and we'll get to that in a minute.
+
+154
+00:06:50,045 --> 00:06:51,685
+But look at the bottom of the card.
+
+155
+00:06:51,885 --> 00:06:56,205
+You pay seven mana, which is not a problem
+for this deck, and sacrifice it, and every
+
+156
+00:06:56,225 --> 00:06:59,825
+creature you control gets plus X plus
+X, where X is the number of Foods you
+
+157
+00:06:59,845 --> 00:07:00,845
+control.
+
+158
+00:07:00,865 --> 00:07:03,545
+With the number of Foods we
+make, that ends games fast.
+
+159
+00:07:03,725 --> 00:07:07,697
+I once won with three 1/1
+elves that became 52/52s.
+
+160
+00:07:08,185 --> 00:07:11,845
+And the last one, the one that should
+never work, is Karn, Living Legacy.
+
+161
+00:07:12,365 --> 00:07:15,645
+Usually we just use his minus one to turn
+spare mana into digging through our deck.
+
+162
+00:07:15,665 --> 00:07:20,225
+But in those weird games where he lands
+early and you keep ticking him up, his
+
+163
+00:07:20,245 --> 00:07:23,385
+ultimate lets you tap any
+artifact to deal one damage.
+
+164
+00:07:23,745 --> 00:07:26,145
+Every cabbage becomes a
+little nuclear weapon.
+
+165
+00:07:26,405 --> 00:07:27,985
+This has happened exactly once.
+
+166
+00:07:28,205 --> 00:07:29,765
+I had 47 cabbages.
+
+167
+00:07:29,945 --> 00:07:34,105
+The player I was targeting looked at my
+board, looked at me, and said, "I can't
+
+168
+00:07:34,125 --> 00:07:36,025
+even be mad." And then he scooped.
+
+169
+00:07:36,110 --> 00:07:39,650
+If you've made it this far, you're in for
+a treat, because these are the cards that
+
+170
+00:07:39,670 --> 00:07:40,810
+make the deck sing.
+
+171
+00:07:40,910 --> 00:07:41,770
+Or scream.
+
+172
+00:07:41,790 --> 00:07:42,850
+Depends on your perspective.
+
+173
+00:07:43,590 --> 00:07:44,830
+Academy Manufactor.
+
+174
+00:07:45,070 --> 00:07:48,270
+Whenever we'd make a Food, we get a
+Food, a Treasure and a Clue instead.
+
+175
+00:07:48,430 --> 00:07:50,590
+With the Cabbage Man, that's all the time.
+
+176
+00:07:50,730 --> 00:07:52,610
+This card is so good it should be illegal.
+
+177
+00:07:52,710 --> 00:07:53,810
+It's not, I checked.
+
+178
+00:07:53,830 --> 00:07:54,830
+But it should be.
+
+179
+00:07:55,230 --> 00:07:56,310
+Clock of Omens.
+
+180
+00:07:56,530 --> 00:07:59,330
+This one goes crazy with
+even a handful of cabbages.
+
+181
+00:07:59,610 --> 00:08:01,510
+Tap two cabbages to untap an artifact.
+
+182
+00:08:01,790 --> 00:08:05,250
+Untap Sol Ring, and every cabbage
+is basically a colorless mana.
+
+183
+00:08:05,530 --> 00:08:09,690
+Untap Temple Bell or Idol of Oblivion, and
+that's two cabbages for a card, which is
+
+184
+00:08:09,710 --> 00:08:11,530
+an absolutely absurd rate.
+
+185
+00:08:11,710 --> 00:08:15,250
+I've drawn my entire deck with this, and
+I've used it with Temple Bell to draw my
+
+186
+00:08:15,270 --> 00:08:16,050
+opponents out of theirs.
+
+187
+00:08:16,070 --> 00:08:18,510
+Sarinth Steelseeker.
+
+188
+00:08:18,890 --> 00:08:22,510
+Every time an artifact enters, and with
+the Cabbage Man that's constantly, we look
+
+189
+00:08:22,530 --> 00:08:23,890
+at the top card of our library.
+
+190
+00:08:24,030 --> 00:08:25,850
+If it's a land, it goes to our hand.
+
+191
+00:08:25,870 --> 00:08:27,470
+If not, we can put it in the graveyard.
+
+192
+00:08:27,749 --> 00:08:30,329
+These cards make every
+cabbage count twice.
+
+193
+00:08:31,069 --> 00:08:35,789
+Second Harvest makes a copy of every token
+we control: every cabbage, every Treasure,
+
+194
+00:08:36,069 --> 00:08:37,069
+everything.
+
+195
+00:08:37,369 --> 00:08:41,489
+Night of the Sweets' Revenge and Jaheira,
+Friend of the Forest let each cabbage tap
+
+196
+00:08:41,509 --> 00:08:42,849
+for a mana on its own.
+
+197
+00:08:43,309 --> 00:08:47,329
+Normally it takes two cabbages to make
+one mana, so that doubles our output.
+
+198
+00:08:47,949 --> 00:08:50,249
+Trust me, this gets out of hand fast.
+
+199
+00:08:50,989 --> 00:08:54,289
+And Peregrin Took gives us an extra
+Food every time we make tokens.
+
+200
+00:08:54,829 --> 00:08:59,669
+Put just a couple of these next to the
+Cabbage Man, say Jaheira and Peregrin, and
+
+201
+00:08:59,689 --> 00:09:04,229
+every noncreature spell your opponents
+cast gives you two cabbages, each tapping
+
+202
+00:09:04,249 --> 00:09:05,729
+for a mana right away.
+
+203
+00:09:06,749 --> 00:09:07,929
+Someone once asked me,
+
+204
+00:09:08,329 --> 00:09:13,209
+"How much mana do you have?" And I just
+pointed at the board and said, "Yes."
+
+205
+00:09:13,533 --> 00:09:15,453
+Now, remember that downside?
+
+206
+00:09:15,933 --> 00:09:16,933
+Here's the fix:
+
+207
+00:09:17,293 --> 00:09:18,293
+Elephant Grass.
+
+208
+00:09:18,433 --> 00:09:19,433
+It's one mana.
+
+209
+00:09:19,833 --> 00:09:24,053
+Black creatures can't attack you at all,
+and everything else costs two extra mana
+
+210
+00:09:24,073 --> 00:09:25,593
+per creature to swing at you.
+
+211
+00:09:25,933 --> 00:09:30,213
+That cumulative upkeep goes up by one
+every turn, but this deck makes so much
+
+212
+00:09:30,233 --> 00:09:31,693
+mana you'll barely notice.
+
+213
+00:09:32,133 --> 00:09:35,473
+If your friends start complaining,
+just stop paying it and it goes away.
+
+214
+00:09:35,633 --> 00:09:38,193
+Or keep paying, and keep making cabbages.
+
+215
+00:09:38,534 --> 00:09:39,184
+All right.
+
+216
+00:09:39,204 --> 00:09:43,304
+You've seen the cabbages, and you're ready
+to go from farmers market to industrial
+
+217
+00:09:43,324 --> 00:09:44,324
+agriculture.
+
+218
+00:09:44,744 --> 00:09:47,264
+Here are the cards that
+break the deck wide open.
+
+219
+00:09:48,004 --> 00:09:50,024
+Unwinding Clock, about $21.
+
+220
+00:09:50,624 --> 00:09:53,084
+Remember how all our
+cabbages are artifacts?
+
+221
+00:09:53,504 --> 00:09:57,664
+This untaps every one of them during
+each other player's untap step.
+
+222
+00:09:57,884 --> 00:10:00,284
+In a four-player game,
+that's four times the mana.
+
+223
+00:10:00,744 --> 00:10:01,744
+Absolutely disgusting.
+
+224
+00:10:02,504 --> 00:10:04,184
+Fomori Vault, about $15.
+
+225
+00:10:04,924 --> 00:10:08,544
+Discard a card to look at a number of
+cards equal to the artifacts you control,
+
+226
+00:10:08,564 --> 00:10:09,564
+and take one.
+
+227
+00:10:09,784 --> 00:10:12,864
+With this many cabbages, you're basically
+picking your favorite card out of your
+
+228
+00:10:12,884 --> 00:10:14,184
+deck. Inventors'
+
+229
+00:10:14,684 --> 00:10:15,904
+Fair, about $19.
+
+230
+00:10:16,524 --> 00:10:19,524
+Free life every turn, since we'll
+always have three artifacts.
+
+231
+00:10:19,804 --> 00:10:23,284
+But the real prize is sacrificing
+it to tutor up any artifact.
+
+232
+00:10:23,484 --> 00:10:25,664
+It's basically a menu for war crimes.
+
+233
+00:10:26,384 --> 00:10:28,764
+Both of those lands can just
+come in for a couple of Forests.
+
+234
+00:10:29,844 --> 00:10:31,604
+Collective Voyage, about $8.
+
+235
+00:10:32,004 --> 00:10:36,024
+Great group hug: everyone chips in
+mana, and everyone gets that many lands.
+
+236
+00:10:36,264 --> 00:10:38,904
+I once convinced a table to pay 23 mana.
+
+237
+00:10:39,124 --> 00:10:42,164
+And guess who had Halsin ready
+to turn all that mana into bears?
+
+238
+00:10:42,684 --> 00:10:44,844
+The Cabbage Man always wins the arms race.
+
+239
+00:10:45,844 --> 00:10:47,544
+Horn of Greed, about $17.
+
+240
+00:10:48,204 --> 00:10:50,244
+Everyone draws a card
+when they play a land.
+
+241
+00:10:50,384 --> 00:10:54,144
+It's perfect group hug, keeping our
+opponents fueled up and ourselves too.
+
+242
+00:10:55,504 --> 00:10:56,504
+Doubling Season,
+
+243
+00:10:56,704 --> 00:10:58,444
+Parallel Lives and Primal Vigor.
+
+244
+00:10:58,584 --> 00:11:00,184
+Doubling Season's about $32,
+
+245
+00:11:00,544 --> 00:11:03,824
+Parallel Lives about $40,
+and Primal Vigor about $15.
+
+246
+00:11:04,504 --> 00:11:08,764
+Primal Vigor doubles everyone's tokens,
+theirs included, which is very group hug
+
+247
+00:11:08,784 --> 00:11:09,784
+of us.
+
+248
+00:11:09,944 --> 00:11:13,944
+With the Cabbage Man, Academy Manufactor
+and Peregrin Took out, a single
+
+249
+00:11:13,964 --> 00:11:17,244
+noncreature spell from an opponent
+can make you a dozen tokens.
+
+250
+00:11:17,624 --> 00:11:19,364
+The judge will make you prove the math.
+
+251
+00:11:19,424 --> 00:11:20,364
+You will.
+
+252
+00:11:20,384 --> 00:11:22,424
+Nobody at the table
+will be happy about it.
+
+253
+00:11:23,404 --> 00:11:27,544
+All of these together are
+about $166, so pick one or two.
+
+254
+00:11:27,864 --> 00:11:29,764
+Unwinding Clock if you want raw power.
+
+255
+00:11:29,924 --> 00:11:31,744
+Collective Voyage if
+you like your friends.
+
+256
+00:11:31,964 --> 00:11:34,504
+Doubling Season if you
+hate math and love chaos.
+
+257
+00:11:35,064 --> 00:11:39,104
+Even one of these turns the deck from fun
+casual into "Why is the cabbage player the
+
+258
+00:11:39,124 --> 00:11:39,991
+archenemy?"
+
+259
+00:11:40,011 --> 00:11:42,071
+Look, I know this sounds ridiculous,
+
+260
+00:11:42,491 --> 00:11:43,531
+because it is.
+
+261
+00:11:44,151 --> 00:11:48,071
+Magic doesn't always have to be
+about optimal lines and win rates.
+
+262
+00:11:48,571 --> 00:11:52,691
+Sometimes it's about sitting down, pulling
+out a pile of cards that makes everyone
+
+263
+00:11:52,711 --> 00:11:55,991
+laugh, and then beating
+them to death with produce.
+
+264
+00:11:56,691 --> 00:12:00,691
+This deck has brought me more joy
+than any tier-one strategy ever could.
+
+265
+00:12:01,051 --> 00:12:04,771
+I've made friends with it, I've confused
+judges with it, and I've won games I had
+
+266
+00:12:04,791 --> 00:12:06,031
+no business winning.
+
+267
+00:12:06,551 --> 00:12:09,791
+If you build it, tell me your highest
+cabbage count in the comments.
+
+268
+00:12:10,091 --> 00:12:11,861
+My record's somewhere past seventy.
+
+269
+00:12:11,991 --> 00:12:14,591
+And tell me what you'd cut
+to fit in Unwinding Clock.
+
+270
+00:12:15,271 --> 00:12:19,131
+The next time you're sitting across from
+someone's $2,000 optimized combo deck,
+
+271
+00:12:19,211 --> 00:12:22,911
+just remember: you could be turning
+cabbages into nuclear weapons instead.
+
+272
+00:12:23,691 --> 00:12:24,691
+Thanks for watching,
+
+273
+00:12:24,911 --> 00:12:25,911
+and remember:
+
+274
+00:12:26,131 --> 00:12:28,131
+my cabbages are your cabbages.

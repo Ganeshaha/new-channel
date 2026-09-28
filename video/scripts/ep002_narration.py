@@ -35,6 +35,17 @@ NARRATION = os.path.join(ROOT, "public", "ep002", "narration.wav")
 GAP = 0.35   # breathing room between sections
 LEAD = 0.3   # silence before the first word
 
+# Extra silence (s) spliced in after a phrase, so a ruling or a reveal lands before the next line.
+# TTS reads rules at ~200 wpm; explainer research says rules payoffs want ~150-170 wpm with a beat
+# after each ruling (research/youtube-general/REPORT.md). Free: no regeneration, the words don't change.
+BEATS = {
+    "the-combo": [("Himself.", 0.5), ("keeps the loop going.", 0.35),
+                  ("copies of their whole board.", 0.45), ("next end step, though.", 0.35)],
+    "the-gap": [("That's rule 603.3.", 0.5), ("That's 603.3d.", 0.5), ("That's 603.3a.", 0.4)],
+    "the-catch": [("you're not allowed to win.", 0.35)],
+    "how-to-stop-it": [("That's rule 608.2b.", 0.5)],
+}
+
 # Word-level pronunciation fixes (script word -> what the voice is told to say).
 SPOKEN = {
     "Wil": "Will",
@@ -242,6 +253,18 @@ def cmd_timing():
             s, e = min(x[0] for x in ts), max(x[1] for x in ts)
             words.append({"w": w, "s": round(t + s, 3), "e": round(t + e, 3), "_t": (s, e)})
         matched = sum(1 for v in sm.get_matching_blocks() for _ in range(v.size))
+        # beats: open up the pause after each listed phrase (words were timed on the audio without them)
+        dn = [norm(w) for w in disp]
+        for phrase, pause in BEATS.get(sid, []):
+            pt = [norm(w) for w in phrase.split()]
+            k = next((j + len(pt) - 1 for j in range(len(dn) - len(pt) + 1) if dn[j:j + len(pt)] == pt), None)
+            assert k is not None and k + 1 < len(words), f"beat phrase not found (or last word): {sid}: {phrase}"
+            cut = (words[k]["e"] + words[k + 1]["s"]) / 2 - t   # middle of the existing pause, section time
+            n = int(round(cut * sr))
+            y = np.concatenate([y[:n], np.zeros(int(pause * sr), np.float32), y[n:]])
+            for w in words[k + 1:]:
+                w["s"] = round(w["s"] + pause, 3); w["e"] = round(w["e"] + pause, 3)
+        dur = len(y) / sr
         for w in words:
             del w["_t"]
         secs.append({"id": sid, "title": title, "start": words[0]["s"], "end": words[-1]["e"], "words": words})
@@ -262,6 +285,9 @@ def cmd_timing():
             "narrationEnd": round(t, 3), "sections": secs}
     json.dump(data, open(TIMING, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     print(f"narration ends at {t:.1f}s -> {NARRATION}")
+    # the voice envelope drives Wil's lip-sync and talking gestures
+    subprocess.run([sys.executable, os.path.join(ROOT, "scripts", "voice_envelope.py"), NARRATION,
+                    os.path.join(os.path.dirname(TIMING), "voice.json")], check=True)
 
 
 if __name__ == "__main__":

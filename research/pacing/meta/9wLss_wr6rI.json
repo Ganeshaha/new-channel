@@ -1,0 +1,48 @@
+{
+ "id": "9wLss_wr6rI",
+ "title": "Why MDFC's Are Broken",
+ "channel": "Really Bad At MTG",
+ "views": 10672,
+ "duration": 1357,
+ "upload_date": "20250916",
+ "group": "low",
+ "style": "white bg + corner mascot",
+ "section": [
+  60,
+  360
+ ],
+ "storyboards": [
+  {
+   "id": "sb3",
+   "w": 48,
+   "h": 27,
+   "fps": 0.07369196757553427,
+   "cols": 10,
+   "rows": 10
+  },
+  {
+   "id": "sb2",
+   "w": 80,
+   "h": 45,
+   "fps": 0.10095799557848195,
+   "cols": 10,
+   "rows": 10
+  },
+  {
+   "id": "sb1",
+   "w": 160,
+   "h": 90,
+   "fps": 0.10095799557848195,
+   "cols": 5,
+   "rows": 5
+  },
+  {
+   "id": "sb0",
+   "w": 320,
+   "h": 180,
+   "fps": 0.10095799557848195,
+   "cols": 3,
+   "rows": 3
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+[defcat-mtg] kOBVwA6hbac My Favorite Commander Deck... A guide to Reverse L
+  frames 50
+[defcat-mtg] AZ6CruLSw2s The Trick to finding your FAVORITE Commander
+  frames 50
+[defcat-mtg] -O4Jf6NNb2E Favorite Commander Deck To Teach " Threat Assessme
+  frames 50
+[defcat-mtg] Tp1fAvWqEsI The Real Way to find your FAVORITE Colors in Magic
+  frames 50
+[the-trinket-mage] Iy-9-4t5cFk How to Improve Your Commander Deck
+  frames 50
+[the-trinket-mage] QcEYhh-uJOs Mana Rocks Are A Scam
+  frames 50
+[the-trinket-mage] AMb0gtlkIV8 If Your Deck Isn't Fun It's Your Fault
+  frames 50
+[the-trinket-mage] AFS0YWRJF3w How to Design A Commander Deck
+  media fail: qUsOu2X9AylNxFCKbVgePI3yxcPIg_tQsb7c23vYTZAiACc7_00VDD5-UafBXZaKKiGsfohVyZEADXGX7GEP63HA%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAId4HI72c8wu6eSSHaKcYqwiUpJTP1Ydp_hqJZcUtCttAiEAhR_VHL4XzoUCD9on_tYsVNyXbQuqqQPRyzQ4CAkk_NQ%3D. | Error opening input files: Server returned 403 Forbidden (access denied) |  |  | ERROR: ffmpeg exited with code 3436169992 | 
+  frames 50
+[the-trinket-mage] 5hs2ntLDbXE What is The Strongest Color in Casual EDH?
+[mov,mp4,m4a,3gp,3g2,mj2 @ 00000299a94666c0] moov atom not found
+[in#0 @ 00000299a9466400] Error opening input: Invalid data found when processing input
+Error opening input file C:/Users/ganes/AppData/Local/Temp/claude/layout_clips/5hs2ntLDbXE.mp4.
+Error opening input files: Invalid data found when processing input
+[mov,mp4,m4a,3gp,3g2,mj2 @ 00000209775f5f40] moov atom not found
+[in#0 @ 00000209775f5d00] Error opening input: Invalid data found when processing input
+Error opening input file C:/Users/ganes/AppData/Local/Temp/claude/layout_clips/5hs2ntLDbXE.mp4.
+Error opening input files: Invalid data found when processing input
+  frames 0
+[maldhound] SE6pg7KrKwg The Most PAINFUL Decks I've Roasted
+  skip (have frames) SE6pg7KrKwg
+[maldhound] uT_x7iXezMw A Reasonable Review of Reality Fracture
+  skip (have frames) uT_x7iXezMw
+[maldhound] 7ZveSqiqKXY CEDH Pro Ranks Commanders By Clenchability
+  skip (have frames) 7ZveSqiqKXY
+[maldhound] _qh4vzCfHII The Reality of the Commander Bracket System
+  skip (have frames) _qh4vzCfHII
+[33-elk] 3cESvNwGR38 Flowchart that finds your Commander Deck Archetype
+  skip (have frames) 3cESvNwGR38
+[33-elk] ijZzWwEzooY The Deadliest Commander Deckbuilding Sin
+  skip (have frames) ijZzWwEzooY
+[33-elk] S2s7-6_se-M The Secret to Building Commander Decks you Actuall
+  skip (have frames) S2s7-6_se-M
+[33-elk] bhXveABXOtM 25% of Commander players run this card. LMAO.
+  skip (have frames) bhXveABXOtM
+[33-elk] n2mgeEoifWA How to MERCILESSLY cut cards from your Commander d
+  skip (have frames) n2mgeEoifWA
+DONE

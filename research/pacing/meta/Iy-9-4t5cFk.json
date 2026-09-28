@@ -1,0 +1,48 @@
+{
+ "id": "Iy-9-4t5cFk",
+ "title": "How to Improve Your Commander Deck",
+ "channel": "The Trinket Mage",
+ "views": 589745,
+ "duration": 1170,
+ "upload_date": "20240725",
+ "group": "high",
+ "style": "mascot over card art",
+ "section": [
+  60,
+  360
+ ],
+ "storyboards": [
+  {
+   "id": "sb3",
+   "w": 48,
+   "h": 27,
+   "fps": 0.08547008547008547,
+   "cols": 10,
+   "rows": 10
+  },
+  {
+   "id": "sb2",
+   "w": 80,
+   "h": 45,
+   "fps": 0.10085470085470086,
+   "cols": 10,
+   "rows": 10
+  },
+  {
+   "id": "sb1",
+   "w": 160,
+   "h": 90,
+   "fps": 0.10085470085470086,
+   "cols": 5,
+   "rows": 5
+  },
+  {
+   "id": "sb0",
+   "w": 320,
+   "h": 180,
+   "fps": 0.10085470085470086,
+   "cols": 3,
+   "rows": 3
+  }
+ ]
+}

@@ -1,6 +1,6 @@
 # Keeping people watching
 
-This combines two sources. The first is evidence from the three channels studied (`attack-on-cardboard/`, `salubrious-snail/`, `next-level-commander/`). The second is published retention guidance, including YouTube's own analytics help. Sources are linked at the bottom. Researched 24 Sep 2026.
+This combines two sources. The first is evidence from the three channels studied (`research/attack-on-cardboard/`, `research/salubrious-snail/`, `research/next-level-commander/`). The second is published retention guidance, including YouTube's own analytics help. Sources are linked at the bottom. Researched 24 Sep 2026.
 
 Every video (long-form and Shorts) must pass the **checklist at the end** before upload.
 
@@ -23,9 +23,12 @@ Every video (long-form and Shorts) must pass the **checklist at the end** before
   - Next Level Commander ends every deck tech on the same rating card (explosiveness, resilience, complexity, budget, bracket), so viewers stay for the verdict.
   - Attack on Cardboard's "Did he cheat?" videos save the ruling for the end.
   - Use one small bridge before each segment: "…but that's not the weird part."
-- **Change what's on screen every few seconds.** The Reddit collage film changed scene about every 5.5 seconds. Near-identical frames held for 2 seconds or more were its weak spots. Aim for:
-  - a new visual beat (cut, zoom, card, drawing or caption) every 2–4 seconds;
-  - a new scene every 5–10 seconds.
+- **Change what's on screen when the narration moves on, then let it sit** (measured on 22 MTG videos, 28 Sep 2026: `research/pacing/REPORT.md`). The high-view videos show something new about every 3.5 s, but the picture is completely still 85 % of the time, and holds of 10–37 s while a card is explained are normal. Ours was still only 14 % of the time. Aim for:
+  - a beat that shows what's being said, typically every 3–6 s (jokes and payoffs can go faster);
+  - a still layout for up to ~15 s while it's explained, then one small on-topic beat (a highlight or a label); never ~30 s with no change;
+  - a new layout when the idea changes (every 8–20 s);
+  - one thing moving at a time, and no idle motion (no wobble, no drift, no decorative showers); Wil holds still between purposeful moves;
+  - shake, confetti, bursts and punch-ins on payoffs only, about one a minute.
 - **Keep the pace dense.** Script at 180–220 words per minute with no filler. Salubrious Snail averages about 205 and Next Level Commander about 220. Cut every sentence that doesn't move the argument.
 - **Use the rule of three with a deflating punchline.** Three wrong answers, the third a joke, then the real answer. This pattern appeared in the strongest reference video.
 - **Show what you say, when you say it.** Every card, number or rule narrated appears on screen at that moment. Cite rules on screen (for example CR 509.2).
@@ -90,7 +93,7 @@ The overlay uses the Wild Card Commander mascot (`video/src/Mascot.tsx`): an ori
 
 - [ ] The title, thumbnail and first sentence make the same promise.
 - [ ] The stakes or claim are stated within 15 seconds, and the first word comes within about 0.3 seconds. No black frame, no greeting.
-- [ ] A new visual beat every 2–4 seconds, with no frame held for more than about 2 seconds.
+- [ ] Beats follow the narration (typically every 3–6 s); layouts may hold still up to ~15 s while explained; one thing moves at a time; no idle wobble or drift; fireworks on payoffs only (research/pacing/REPORT.md).
 - [ ] At least one open loop, paid off later (a verdict, ruling or rating card at the end).
 - [ ] Exactly one subscribe segment: after the first payoff, 25–40% in, 5 seconds or less, over the narration, with a reason and a loop out of it.
 - [ ] One comment prompt tied to the content, at least a minute from the subscribe segment.

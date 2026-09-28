@@ -1,0 +1,7 @@
+# Is Mistcutter Hydra a card draw spell?
+channel: Salubrious Snail | https://youtu.be/f4WQRENTTIs
+date: 2025-05-18 | views: 91,416 | likes: 2,844 | comments: 159 | length: 0:56 | words: 223 | wpm: 241.3
+
+[0:00] Is Mist Cutter Hydra a draw spell? Now, I know you're probably asking, "Is this snail guy off his goddamn rocker?" And don't worry, I'm not going to try to convince you that a French vanilla beater is a draw spell. But it does kind of accomplish some of the same tasks. And running cards that can soak up more of your mana might actually allow you to run less draw. Think about it. If I cast a Night Whisper to draw into two beaters and then play both of them, what was the difference between that and a single X-ost creature that I simply poured all my mana into instead? This sort of observation is most relevant for what's sometimes called battle cruiser decks. Lategame mid-range decks that often run decent amounts of ramp with the goal of outscaling opponents. In these decks, the goal is to obtain a lot of mana and then spend all of that mana. And draw is just one way of spending mana.
+
+[0:41] My rata air ddh deck has a fairly narrow draw suite containing just 10 cards, most of which accomplish other tasks for the deck as well. But this amount is more than enough because the average non-land mana value is 5.33. Drawing three cards is usually drawing more than 10 mana worth of spells.

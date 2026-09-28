@@ -1,0 +1,7 @@
+# Is Overwhelming Stampede actually a good card?
+channel: Salubrious Snail | https://youtu.be/AFWNvTzITtM
+date: 2025-04-22 | views: 54,070 | likes: 1,706 | comments: 115 | length: 0:56 | words: 208 | wpm: 228.7
+
+[0:00] Is Overwhelming Stampede a good card in Commander? I mean, on a basic level, the answer is yes. It's a popular card that can turn a moderately beefy board into one or more dead players in short order. But is it always good? Obviously not. If I don't have a substantial board, I'd much prefer this to be a creature I can play or a removal spell to set back an opponent. Likewise, let's say I have a massive board. Maybe I just had a bonkers turn. Is the card good then? Well, no, it's not. I don't need this card to win in this case, and it would be better if it was a piece of protection or removal to make 100% sure I make it back to my turn with this board, or maybe even a haste enabler to let me swing on my bonkers's turn. Overwhelming stampede is good when I have a board that is large but not quite large enough to win, bridging that gap that exists there.
+
+[0:46] To decide whether it's a good card for your deck, you need to ask yourself, how often is this the situation I'm in? And how often will the situation be one of these other two?

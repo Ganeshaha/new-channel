@@ -1,0 +1,20 @@
+[really-bad-at-mtg] z3z5mMrx_9g Why Do Commander Players Hate Combos?
+  frames 50
+[really-bad-at-mtg] ItuMWgL7OsM Top 8 Commander Deckbuilding Mistakes (You're Prob
+  media fail: 368KiB time=00:05:00.00 bitrate= 255.8kbits/s speed=1.92x elapsed=0:02:35.99     | ERROR: Unable to rename file: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\ganes\\AppData\\Local\\Temp\\claude\\layout_clips\\ItuMWgL7OsM.mp4.part' -> 'C:\\Users\\ganes\\AppData\\Local\\Temp\\claude\\layout_clips\\ItuMWgL7OsM.mp4'. Giving up after 3 retries | 
+  frames 50
+[really-bad-at-mtg] _YshyOl2UMY The 5 Types of Commander Players
+  skip (have frames) _YshyOl2UMY
+[really-bad-at-mtg] 1j7nKCBN93g 10 More Unwritten Rules of Commander
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0000011fb12566c0] moov atom not found
+[in#0 @ 0000011fb1256400] Error opening input: Invalid data found when processing input
+Error opening input file C:/Users/ganes/AppData/Local/Temp/claude/layout_clips/1j7nKCBN93g.mp4.
+Error opening input files: Invalid data found when processing input
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0000026b3cd25f40] moov atom not found
+[in#0 @ 0000026b3cd25d00] Error opening input: Invalid data found when processing input
+Error opening input file C:/Users/ganes/AppData/Local/Temp/claude/layout_clips/1j7nKCBN93g.mp4.
+Error opening input files: Invalid data found when processing input
+  frames 0
+[really-bad-at-mtg] 3MpuwPX4RNw Top 10 Unwritten Rules of Commander
+  skip (have frames) 3MpuwPX4RNw
+DONE

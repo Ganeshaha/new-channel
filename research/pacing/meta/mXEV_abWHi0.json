@@ -1,0 +1,48 @@
+{
+ "id": "mXEV_abWHi0",
+ "title": "Magic's MOST morally questionable rule explained... - MTG Commander - MTG Rules",
+ "channel": "Attack on Cardboard",
+ "views": 602289,
+ "duration": 644,
+ "upload_date": "20240424",
+ "group": "high",
+ "style": "rules explainer (face-cam + overlays)",
+ "section": [
+  60,
+  360
+ ],
+ "storyboards": [
+  {
+   "id": "sb3",
+   "w": 48,
+   "h": 27,
+   "fps": 0.15527950310559005,
+   "cols": 10,
+   "rows": 10
+  },
+  {
+   "id": "sb2",
+   "w": 80,
+   "h": 45,
+   "fps": 0.20186335403726707,
+   "cols": 10,
+   "rows": 10
+  },
+  {
+   "id": "sb1",
+   "w": 160,
+   "h": 90,
+   "fps": 0.20186335403726707,
+   "cols": 5,
+   "rows": 5
+  },
+  {
+   "id": "sb0",
+   "w": 320,
+   "h": 180,
+   "fps": 0.20186335403726707,
+   "cols": 3,
+   "rows": 3
+  }
+ ]
+}

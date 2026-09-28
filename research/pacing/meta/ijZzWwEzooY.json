@@ -1,0 +1,48 @@
+{
+ "id": "ijZzWwEzooY",
+ "title": "The Deadliest Commander Deckbuilding Sin",
+ "channel": "3/3 Elk",
+ "views": 101123,
+ "duration": 536,
+ "upload_date": "20250304",
+ "group": "high",
+ "style": "grey bg + big mascot bust",
+ "section": [
+  60,
+  360
+ ],
+ "storyboards": [
+  {
+   "id": "sb3",
+   "w": 48,
+   "h": 27,
+   "fps": 0.1865671641791045,
+   "cols": 10,
+   "rows": 10
+  },
+  {
+   "id": "sb2",
+   "w": 80,
+   "h": 45,
+   "fps": 0.20335820895522388,
+   "cols": 10,
+   "rows": 10
+  },
+  {
+   "id": "sb1",
+   "w": 160,
+   "h": 90,
+   "fps": 0.20335820895522388,
+   "cols": 5,
+   "rows": 5
+  },
+  {
+   "id": "sb0",
+   "w": 320,
+   "h": 180,
+   "fps": 0.20335820895522388,
+   "cols": 3,
+   "rows": 3
+  }
+ ]
+}

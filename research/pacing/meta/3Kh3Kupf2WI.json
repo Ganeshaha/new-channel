@@ -1,0 +1,48 @@
+{
+ "id": "3Kh3Kupf2WI",
+ "title": "Why Your Ozai Deck Doesn't Work",
+ "channel": "Next Level Commander",
+ "views": 2447,
+ "duration": 421,
+ "upload_date": "20251118",
+ "group": "low",
+ "style": "deck tech (paper, stick figures)",
+ "section": [
+  60,
+  360
+ ],
+ "storyboards": [
+  {
+   "id": "sb3",
+   "w": 48,
+   "h": 27,
+   "fps": 0.2375296912114014,
+   "cols": 10,
+   "rows": 10
+  },
+  {
+   "id": "sb2",
+   "w": 80,
+   "h": 45,
+   "fps": 0.2042755344418052,
+   "cols": 10,
+   "rows": 10
+  },
+  {
+   "id": "sb1",
+   "w": 160,
+   "h": 90,
+   "fps": 0.2042755344418052,
+   "cols": 5,
+   "rows": 5
+  },
+  {
+   "id": "sb0",
+   "w": 320,
+   "h": 180,
+   "fps": 0.2042755344418052,
+   "cols": 3,
+   "rows": 3
+  }
+ ]
+}

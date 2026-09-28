@@ -1,0 +1,40 @@
+{
+ "id": "NmkVjyJntBs",
+ "title": "Players Don't Understand This $1 Tutor. Let Me Explain It. | MTG Commander",
+ "channel": "Attack on Cardboard",
+ "views": 321732,
+ "duration": 346,
+ "upload_date": "20230519",
+ "group": "high",
+ "style": "rules explainer (face-cam + overlays)",
+ "section": [
+  30,
+  336
+ ],
+ "storyboards": [
+  {
+   "id": "sb2",
+   "w": 48,
+   "h": 27,
+   "fps": 0.28901734104046245,
+   "cols": 10,
+   "rows": 10
+  },
+  {
+   "id": "sb1",
+   "w": 80,
+   "h": 45,
+   "fps": 0.20520231213872833,
+   "cols": 10,
+   "rows": 10
+  },
+  {
+   "id": "sb0",
+   "w": 160,
+   "h": 90,
+   "fps": 0.20520231213872833,
+   "cols": 5,
+   "rows": 5
+  }
+ ]
+}

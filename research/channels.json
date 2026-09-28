@@ -1,0 +1,29 @@
+{
+  "_note": "Subscriber and video counts as checked on 2026-09-25 (yt-dlp). 'tabs' are long-form videos / streams / Shorts at that date.",
+  "channels": [
+    {"slug": "attack-on-cardboard", "name": "Attack on Cardboard", "handle": "@attackoncardboard", "added": "2026-09-24", "lane": "MTG rules answers and rules news", "look": "face-cam plus card overlays"},
+    {"slug": "salubrious-snail", "name": "Salubrious Snail", "handle": "@salubrioussnail", "id": "UCOYkwObFKjxko7oj56gVDag", "added": "2026-09-24", "lane": "EDH deckbuilding theory essays", "look": "white paper, stick-figure drawings, card scans"},
+    {"slug": "next-level-commander", "name": "Next Level Commander", "handle": "@NextLevelCommander", "added": "2026-09-24", "lane": "New-commander deck techs", "look": "white paper, stick figures, verdict lettering"},
+
+    {"slug": "defcat-mtg", "name": "DefCat MTG", "handle": "@DefCatMTG", "id": "UCWgHRGANKHrwCbGyjUhc3Ng", "added": "2026-09-25", "subs": 35000, "tabs": [340, 1, 179],
+     "lane": "Casual Commander opinion: table talk, favorite colors/commanders, fixing the play experience, precon reviews", "look": "face-cam, cyan block lettering, occasional mascot", "why": "The user's reference channel"},
+    {"slug": "really-bad-at-mtg", "name": "Really Bad At MTG", "handle": "@ReallyBadAtMTG", "id": "UCsOWT2RvQYNP0v855AXt9vQ", "added": "2026-09-25", "subs": 16200, "tabs": [32, null, null],
+     "lane": "Commander philosophy and player types (5 types of players, unwritten rules, the most addictive way to play)", "look": "white background, hand-drawn doodle characters, red handwritten titles", "why": "Closest match in look and lane to the planned white-background channel"},
+    {"slug": "33-elk", "name": "3/3 Elk", "handle": "@33elk", "id": "UCnfuD1k241mOBCHuTwI9aWA", "added": "2026-09-25", "subs": 43300, "tabs": [106, null, null],
+     "lane": "Commander opinion and card takes (lands, 'is it really that bad?')", "look": "white background, cartoon mascot, card cutouts, handwritten titles", "why": "White-background mascot channel with real reach"},
+    {"slug": "based-deck-department", "name": "Based Deck Department", "handle": "@BasedDeckDept", "id": "UC3dz7j1fT7vRsU5niN9dhYA", "added": "2026-09-25", "subs": 60900, "tabs": [74, null, null],
+     "lane": "Commander opinion essays and card takes", "look": "black background, frog mascot, big handwritten words", "why": "Mascot-led opinion essays; strong subs for 74 videos"},
+    {"slug": "the-trinket-mage", "name": "The Trinket Mage", "handle": "@thetrinketmage", "id": "UCizpFyPoDNfbqJ1hBHnng-g", "added": "2026-09-25", "subs": 94500, "tabs": [396, null, null],
+     "lane": "Commander opinion, card and cycle rankings, deckbuilding", "look": "cartoon mascots over card art, tier lists", "why": "Large back catalog of mascot-led Commander opinion"},
+    {"slug": "maldhound", "name": "MaldHound", "handle": "@maldhound", "id": "UCZfLLRbcus7Fm0STiCz0AfQ", "added": "2026-09-25", "subs": 208000, "tabs": [352, null, null],
+     "lane": "Commander opinion and rants, deck critiques", "look": "face-cam with reaction faces and card overlays", "why": "Largest opinion-driven Commander channel; most data on what wins views"}
+  ],
+  "considered_not_added": {
+    "Commander Mechanic": "precon deck techs, not opinion essays",
+    "Better Commander": "set news and spoilers",
+    "Commander Cookout": "952 long videos of one repeated series format",
+    "MTG Therapy": "sealed product reviews",
+    "Casual Compliance / Cardboard Brewing Co. / The TopDeck / Sadgic": "too small (under 6k subs) to show what scales",
+    "Tolarian Community College / The Command Zone": "huge daily-format channels; not comparable to a new channel"
+  }
+}

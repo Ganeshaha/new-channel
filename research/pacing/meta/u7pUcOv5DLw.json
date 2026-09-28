@@ -1,0 +1,48 @@
+{
+ "id": "u7pUcOv5DLw",
+ "title": "This Dumb 50$ Deck is DESTROYING My Group | Commander-Centric Deck Tech",
+ "channel": "Next Level Commander",
+ "views": 133770,
+ "duration": 482,
+ "upload_date": "20260327",
+ "group": "high",
+ "style": "deck tech (paper, stick figures)",
+ "section": [
+  60,
+  360
+ ],
+ "storyboards": [
+  {
+   "id": "sb3",
+   "w": 48,
+   "h": 27,
+   "fps": 0.2074688796680498,
+   "cols": 10,
+   "rows": 10
+  },
+  {
+   "id": "sb2",
+   "w": 80,
+   "h": 45,
+   "fps": 0.2033195020746888,
+   "cols": 10,
+   "rows": 10
+  },
+  {
+   "id": "sb1",
+   "w": 160,
+   "h": 90,
+   "fps": 0.2033195020746888,
+   "cols": 5,
+   "rows": 5
+  },
+  {
+   "id": "sb0",
+   "w": 320,
+   "h": 180,
+   "fps": 0.2033195020746888,
+   "cols": 3,
+   "rows": 3
+  }
+ ]
+}

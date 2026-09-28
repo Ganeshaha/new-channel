@@ -1,0 +1,48 @@
+{
+ "id": "kOBVwA6hbac",
+ "title": "My Favorite Commander Deck... A guide to Reverse Landfall",
+ "channel": "DefCat MTG",
+ "views": 245568,
+ "duration": 634,
+ "upload_date": "20250718",
+ "group": "high",
+ "style": "face-cam deck tech",
+ "section": [
+  60,
+  360
+ ],
+ "storyboards": [
+  {
+   "id": "sb3",
+   "w": 48,
+   "h": 27,
+   "fps": 0.15772870662460567,
+   "cols": 10,
+   "rows": 10
+  },
+  {
+   "id": "sb2",
+   "w": 80,
+   "h": 45,
+   "fps": 0.20189274447949526,
+   "cols": 10,
+   "rows": 10
+  },
+  {
+   "id": "sb1",
+   "w": 160,
+   "h": 90,
+   "fps": 0.20189274447949526,
+   "cols": 5,
+   "rows": 5
+  },
+  {
+   "id": "sb0",
+   "w": 320,
+   "h": 180,
+   "fps": 0.20189274447949526,
+   "cols": 3,
+   "rows": 3
+  }
+ ]
+}

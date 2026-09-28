@@ -1,0 +1,48 @@
+{
+ "id": "HEfHFsfGXjs",
+ "title": "The most unexpected answer to a counting puzzle",
+ "channel": "3Blue1Brown",
+ "views": 14333122,
+ "duration": 312,
+ "upload_date": "20190113",
+ "group": "benchmark",
+ "style": "3Blue1Brown (math animation)",
+ "section": [
+  30,
+  302
+ ],
+ "storyboards": [
+  {
+   "id": "sb3",
+   "w": 48,
+   "h": 27,
+   "fps": 0.32051282051282054,
+   "cols": 10,
+   "rows": 10
+  },
+  {
+   "id": "sb2",
+   "w": 80,
+   "h": 45,
+   "fps": 0.20512820512820512,
+   "cols": 10,
+   "rows": 10
+  },
+  {
+   "id": "sb1",
+   "w": 160,
+   "h": 90,
+   "fps": 0.20512820512820512,
+   "cols": 5,
+   "rows": 5
+  },
+  {
+   "id": "sb0",
+   "w": 320,
+   "h": 180,
+   "fps": 0.20512820512820512,
+   "cols": 3,
+   "rows": 3
+  }
+ ]
+}

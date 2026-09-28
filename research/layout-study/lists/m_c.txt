@@ -1,0 +1,3 @@
+the-trinket-mage 250
+defcat-mtg 200
+maldhound 200

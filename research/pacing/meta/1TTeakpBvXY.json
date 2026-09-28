@@ -1,0 +1,48 @@
+{
+ "id": "1TTeakpBvXY",
+ "title": "It's okay to put *some* janky trash in your deck",
+ "channel": "Salubrious Snail",
+ "views": 33162,
+ "duration": 573,
+ "upload_date": "20260616",
+ "group": "low",
+ "style": "animated essay (white, stick figures)",
+ "section": [
+  60,
+  360
+ ],
+ "storyboards": [
+  {
+   "id": "sb3",
+   "w": 48,
+   "h": 27,
+   "fps": 0.17452006980802792,
+   "cols": 10,
+   "rows": 10
+  },
+  {
+   "id": "sb2",
+   "w": 80,
+   "h": 45,
+   "fps": 0.2024432809773124,
+   "cols": 10,
+   "rows": 10
+  },
+  {
+   "id": "sb1",
+   "w": 160,
+   "h": 90,
+   "fps": 0.2024432809773124,
+   "cols": 5,
+   "rows": 5
+  },
+  {
+   "id": "sb0",
+   "w": 320,
+   "h": 180,
+   "fps": 0.2024432809773124,
+   "cols": 3,
+   "rows": 3
+  }
+ ]
+}

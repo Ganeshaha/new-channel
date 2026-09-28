@@ -1,0 +1,412 @@
+# MTGO standard test stream
+channel: Salubrious Snail | https://youtu.be/rPHJc4iY3s8
+date: 2025-07-02 | views: 2,251 | likes: 39 | comments: 6 | length: 2:44:51 | words: 12,709 | wpm: 77.1
+chapters: 0:00 Setting up the stream; 5:11 Deck overview and initial play; 8:35 Match 1 vs Roots; 17:57 Sideboarding and game two; 30:36 Post-game reflection; 43:51 Match 2 vs Dimir Tempo; 59:40 Match 3 vs Jeskai Convoke; 1:14:51 General MTG discussion; 1:29:24 Match 4 vs Dimir Mid-range; 1:57:49 Final match and wrap-up
+
+[0:13] Is it working? There we go. That looks like it's maybe trying to work. cool. Hopefully I'm audible. Uh, yeah, I think the settings are more or less figured out. Um, my lighting is kind of terrible, so I I am a little ghostly. I promise I spent like 45 minutes trying to mess with the green screen. Uh, and this is the least terrible I've gotten.
+
+[0:56] so far. So, I'll I'll definitely be getting some better Uh, let me let me see if I can fuss with my audio because I know it's probably quiet right now.
+
+[1:41] I'm working on the audio right now.
+
+[2:29] Oh, okay. Looks like I can decel bump it. That should be good. Okay. Is that a bit better? Am I Am I audible enough? In principle, that should have boosted my audio. Still quiet. yes, I will be playing standard MTGO with the Azorious Collected Company artifact deck.
+
+[3:10] A bit better. I I'll I'll boost the I don't want to peak, but I can boost the can boost the only a little bit better. boost the volume a little bit more. let's try plus seven dB. Hopefully it doesn't peak. Hello. Okay, maybe that's Let's go 10. See if it destroys everybody's ears.
+
+[3:52] Okay, so that's plus 10 dB. Hopefully that doesn't peak. Hopefully I don't see anything excitable. Oh yeah, that's uh that's that's a trinket mage helping me troubleshoot. I'll turn off the the sound on uh my Discord notifications.
+
+[4:43] Okay. I think that's probably as good as the audio is going to get. I I think I need to trouble tr troubleshoot my audio setup in general. Um it's easier to control when I am making videos, but I think uh I probably need a new Get this over here.
+
+[5:27] Okay. So, I'm playing an Azorious Artifacts deck. uh it is is based around the card battle or united battlefront and the card simul synthesizer. So, uh, the Battlefront grabs you two lower cost, uh, uh, like three or less cost non-creature permanence, uh, not lands. And then the other one grabs, uh, the Simul synthesizer. Whenever you play a three or more cost artifact, it gives you a construct equal uh, with size equal to the number of artifacts you control. So, I kind of crammed the deck full of three mana removal artifacts.
+
+[6:12] So, that's kind of the goal. It's it's very much kind of a snowbally deck, uh, where I'm just trying to get my Simul synthesizer out and just play a ton of three cost artifacts, you know, remove things and create creatures. A lot of three drops in the deck. There are some other versions of the deck that I know run um Yeah. So, so the the deck list is going to be on my architect page. Okay, that think I want a two drop here.
+
+[6:55] So, not a Wow, that's that's worse. Okay. Uh, I can also just turn down the NGV sound effects if they're too loud. They definitely might be too loud. This is Okay, really loud.
+
+[7:36] Yeah, let me go to OBS and turn down the desktop audio bit and we'll see if that helps. is that a little bit less horribly loud? Uh, similar synthesizer is just a really broken card in general. So, that's kind of why I ended up going with that.
+
+[8:25] I could probably just mute Joe sounds. Yeah. Uh don't need Oh, play against roots. That could be a problem. Yeah. So, roots, honestly, the roots part of roots is less concerning than like looping haywire mites with Tasha's cauldron.
+
+[9:14] Um, like roots is a scary card, but in principle, that's not the issue. We can't really see your hand through the placement of the face cam. Oh. Uh, yeah. Let's see. Hold on. I fuss around with my lighting a little bit. Such a jank setup. I need any better actual lighting. Uh, that look a little bit less horrible. Kind of. Oh, overlord. Okay. That actually that obscures the um let's if I could just like crop.
+
+[10:11] No, that's not how that works. just stick myself in the corner here and we'll we'll troubleshoot after the game here. I'll scooch myself over so I'm a little bit on camera. Ah, that's the move. I see it. Yeah, mirror it. Let me see.
+
+[10:56] I'm going to probably do that during sideboarding just so I need to stay a little locked in for this. Okay. ideally. That's not a good hit. Uh, okay, that's fine.
+
+[11:38] Roots is really good, but it loses a bunch of stuff at rotation. So, not a bunch of stuff. I It doesn't lose roots, but it loses like Taiibar at least. I know. I'm grateful that it loses uh haywire might because that is a very gross card from a deck. In fact, that's probably what I'm going to be seeing very soon here. Yep. Hello there. I don't have any good artifacts out yet, so it's makes sense.
+
+[12:20] You have artifacts get a bunch of support. This deck could be like an actual legit scary deck because nothing in it really rotates. Um, like there's a little bit of stuff in Brothers War that I know some other people play, but uh like most of the stuff is much more that's So, I don't think he has the mana to reanimate the thing yet. So, I'm just going to hope that I can deal with the tie bar before too long.
+
+[13:01] No, I think I have to let Root stay around for a turn. Oh, I failed the tapping man a little. similar to synthesizer wouldn't be bad next turn. I can play that plus a removal spell.
+
+[13:41] That ends up being pretty okay, I think. Uh, MTG or Arena are both solid for um for standard. Um, yeah, I know it's it's it's definitely become more of like a a digital format I feel like. Um, but yeah, MGO you can like rent decks which is nice. I have not done that personally, but I know um I have a friend who who does a lot of that and works out pretty well for him.
+
+[14:35] mirror camera. Yeah, this is not going to go well. I don't think I can avoid dealing with another haywire, I might be okay. But it's a little tricky. Oh, yeah. Yeah. I know that's not good.
+
+[15:16] I'm getting thoroughly rooted here. I definitely need to be running maidboard copies of uh temporary lockdown because I'm not right now and that seems like a very poor I Yeah, I'm kind of far away from the mic right now. I can fuss with my I just figure out how to Yeah, I'm getting I'm getting so thoroughly rooted.
+
+[16:10] I think this game is going to be over pretty pretty fast here. Um, this is very much a snowball deck unless I have like a temporary lock down. So, when I'm this far behind, it's kind of unlikely that things will turn around. Yeah, I actually know I have a simul on top of my library. So, I think probably I'm just going to scoop here and fix my camera while sideboarding.
+
+[16:59] Okay. So uh flip horizontal. Okay. So we do that. that almost looks okay.
+
+[17:52] Okay, let's see. Okay, sideboarding the lockdowns. I have no idea how good Rest in Peace is against I have no idea how good Rest in Peace is against Roots because it's not good against the card roots itself, but it's good in theory against everything else the deck has. Um I'm going to try him this game. Uh I don't think the higher cost of removal is just not going to be efficient enough. So, I'm going to yank out a couple.
+
+[18:39] It's not really an aggro deck. I'm going to cut the carrot cakes as well. Try Okay, that's that's pretty decent. If I can turn three simulator turn four battlefront things go really well. So if I can draw into a similar that should be good. Although honestly this match up depends so much on the haywire might which is a little bit awkward. Do not want more tap lands.
+
+[19:31] Wow. Okay. Oh, did I just get my second turn? Oh, lord. So, this is cooked. This is This is game two. Um I have a I have a really bad match up against uh Roots, so I did not expect this to go particularly Intriguing. Okay, if I can bait out the haywire might and then rest in peace, that could theoretically be a move for uh for dealing with this.
+
+[20:26] Wow. Okay, that's not good. let's think. Uh, how foraging is forge? Exile three cards from your graveyard.
+
+[21:07] so I really need to bait out both haywire mites more or less here.
+
+[21:51] Yeah. What I'm going to do against that, man. He has two roots out. That's not good. Exile. Okay, it's exile instead. So that's that's in theory good. Just going to pray to the Battlefront See what happens here. Okay, that's I assume he assume this person haywire mates in yeah, we'll see what happens there.
+
+[23:40] Dark Confidant. All right. Yeah, I guess they refridded that in uh in Final Fantasy. That's Not necessarily a card I would expect. Is there a move here? I don't think I have enough white sources to do what I need to do this turn. I should have played my waste earlier.
+
+[24:37] I gota do I guess that's awkward because I'm going to do if I do one it might honestly I may as well just How many things are in graveyard right now? Not a lot. I may as well just exile the things that aren't might because I know that if I exile might it's just going to be a waste. This person is hellbent. So if I can just deny them value, I might be able to manage this.
+
+[25:28] I think it's fine if that's up. Okay. Yeah, that's still not that good for them. They're they're low on resources here. whenever one or more creature cards. So, in theory, if I rest in peace now, I think that puts me in an okay spot is yeah, I'm just going to try and bait out the haywire might here.
+
+[26:30] It'll be one roots trigger, but that's not that bad.
+
+[27:13] I keep the biggest creature tapped down see if I can impulse for something. I will take that. I assume they just drew a land. I didn't even see what they played.
+
+[28:11] Going to preemptively do that. So if I get some removal, I can just avoid having them nuke the removal in I definely kind of like the the kind of thing on the the promo insidious roots.
+
+[29:10] That's good. There we go. There we go. Um, yeah, that's fine. I think that I think that'll be perfectly solid this Probably only one of those. Do paralous net on top.
+
+[30:27] Oh, I'm I was just testing streaming in general. Uh I could probably take test out of there. I'm kind of surprised I won that. Yeah, I'm not testing for any sort of uh fancy stuff. This is just my janky standard deck I'm playing around Although it's not it's not the fakest like jankiest standard deck to ever It is kind of a deck. Yeah, that's that's really good actually.
+
+[31:30] probably take off that upkeep. Stop. It's It's two lands, but I have I have some filtering. So, and this deck has a very high density of lands slash things that can grab lands. What the heck is this creature? Huh, that's entirely useless against me in this instance. So good. Literally my only main board instant I think is um United Battlefront, which I mean it's good if you can nail that, but I think it's kind of unlikely.
+
+[32:16] Uh I so I don't play a ton of standard so I I mean I know when I played it a little bit earlier this year no lands. Uh that's a little awkward. When I played it earlier this year it was definitely a lot of mono red. Um I didn't even play during the iset prowess era. So but I the bands seem very good. I think um this town ain't big enough is the one that seems maybe a little bit weird to me, but even then like I I definitely get it. I mean Gastra Vader grabs instant sorceries so and I had none of that Land, please.
+
+[33:12] Okay. Okay. Uh, that's that's a little awkward. That's fine. That's fine. We're good. We're viving. I can pay for my land drops like a commander player. Yeah, this guy big enough. like I I get it. It's it's it's definitely very good with with some things. Um the only reason it struck me as a little bit weird was that uh it felt like the major payoffs for it got removed or the major enablers for it, I guess. Like the the the black enchantment that makes people discard that one was easily like the the strongest with it thing with it.
+
+[33:54] Um I guess you could do something like just blue, maybe red. uh do something with mainly like the the one mana blue enchantment in it that's still pretty good. But um I don't really know. I don't know if there's like a non black non-green version of that deck that would be strong. But it's it's definitely possible. And I don't I don't know what they're printing in the near Self bounce decks. definely might become oppressive. I could I could totally see that. Um it's just all about finding the right kind of uh strong lowc cost ETBs for the deck.
+
+[34:39] Okay. Yeah, I do not think this is going to be a win. If I can get a land here, that sort of helps. But yeah, missing my turn two land drop was really bad. Can I get a white land so I can at least lock down? Okay. Uh, what's the problem here? Roots in the graveyard. It's not a whole lot of graveyard Creature card two minute value two or less. There's nothing.
+
+[35:20] Austin could get a little bit gross this could shut off planes walker abilities, right? That's kind of neat. I'm going to try that. Uh, the reason I'm morphing with the background is because my lighting is not I mean my lighting works fine for like just random facecam videos, but uh it does not work well for green screens. I think you need a lot more brightness for for having your lighting work with a green screen.
+
+[36:00] So, it's Yeah, I'll probably need to invest in that. I am getting a better camera soon. Um, although I keep I keep buying better cameras and then having them crap out on me. So, I'm hoping that trend will stop. See, I should have been doing this during the the Dusk Mour standard so that I had excuse I'm, you know, doing my ghost cosplay. Okay, it's a lot of stuff. It's not It's not a devastating amount of damage Give me white land.
+
+[36:46] I want to lock down. Okay, that's a maybe. That's a maybe. The thing about lock down here is that if they remove it, I get a bunch of So, it's not terrible. Uh, okay. Yeah, there we go. That's what we needed.
+
+[37:31] Yeah, that definitely helps. It's a 32. Um, I'll need to keep Ty locked down, though. That that offers way too much comeback potential here. I just got to hope that I am able to I just gota hope they don't draw anything. And I got to hope that uh I'm able to remove the stuff I need to remove. Oh god, that's right. Haste. All right.
+
+[38:15] Not a lot in graveyard actually though, so it's not could be worse. Do I even have How do I survive this? We gamble is how we survive this. That's That's what. All right. Uh, is another lockdown good here? Another lockdown is the funny choice. I think it's the correct choice, too. And in this case, I think I'm going to eat the Eat the tie bar here.
+
+[39:16] The upkeep. Roots definitely looks pretty scary in general. I feel like this person is some awkward choices in it cuz they've just been they've just been going hellbent like both of the past two games in situations where they really shouldn't be losing. Okay. Overlord. Yeah, that's pretty good. Uh hopefully they whiff. Maybe that's kind of a whiff. Yeah, that's Yeah, that's fine.
+
+[40:32] The fact that they still paid the impending cost for Balemark because they were one mana short makes me really happy. Um because if they actually played I mean I guess I could remove it if they actually played bail but five turns is so long. Like I have all the time in the world to build a reward here. Although I've been missing a lot of land drops, which is the awkward Hey, it's a land drop. Thank you, buddy. Um, yeah, I'm just putting up similar crumb and hoping that I can start to be a gamer next turn. I don't have braided net up though. Oh, do I just lose?
+
+[41:13] Do I just throw? I I don't have any counters left my braided net. Oh no. Uh Yeah, I don't think it matters. I have I have bungled it. I feel like I get more ghostly as I go. Maybe I need to go back and fuss with settings more. Wow, I do not have hair.
+
+[42:17] Let me see if I can fuss with settings a little bit. Is that a little better? Uh, that makes me disappear less, but it makes my green screen disappear a lot more. Something in the middle there. I think that's fine enough.
+
+[43:04] A little bit of the hair disparance, but I think that's okay. That's it. It would have been really fun if they had done another time spiral and done spacecraft because that is such like a random janky time spiral sort of thing to do. I feel like they did riggers in one unset and that almost or in in time spiral and then it got later printed in unset.
+
+[43:46] That almost feels like cheating cuz like you can put anything in an unset. Uh that's a really good handish. Okay. Okay. My matchup against Deir Tempo is usually pretty good as long as I don't like load up too hard on the counter spells. Also, if they have a lot of hand disruption and I start out with the battlefronts, it's a little rough, but it should be fine.
+
+[44:27] Uh, we don't need Bricking it up.
+
+[45:27] Yeah, honestly, if they just want to play a bunch of tempo creatures, that is literally fine for me. Counter spells and hand disruption and maybe like Kaido are going to be the concerning things here. Do I just eat the mastermind? I think I eat the mastermind here. Not that it matters, but I just don't want to waste Also, if I can bait out a counter spell, that would be amazing because I do not care.
+
+[46:11] Okay, that's fine. It's a lot of open mana. Why is there so much open mana? I don't like that. I'm playing a uh United Battlefront Psalm Simulator artifacts deck, so it's just like removal spam.
+
+[46:58] Get a ton of Uh, I don't know if this guy's a counter spell or not. That's a concern. Can I afford to get a United Battlefront counter spell? I don't know if I can. They might just be flooded. I'm going to I'm going to take the risk. I got two of it. Whoa, it resolved. Okay. Lovely. That's so good. Okay, so they are just flooded. They They're not holding up a counter spell.
+
+[47:42] Uh, nope. Yeah, this person seems to be intensely I didn't have a counter spell last turn, so just going to go for it again.
+
+[48:38] Do I should go for three minute? No, I won't draw. Yeah, some some um some tempo players do not run a lot of uh counter spells at all. Um I know a lot a lot of times a bunch will come in in the sideboard uh if they're, you know, good players, but um yeah, typically any less counter spell oriented Demir deck I play against, I have a pretty good shot against.
+
+[49:21] This person is just fully flooding though, I think. So that's just kind of a gimme. Oh, what do we got? Oh yeah. Okay. I was expecting some sort of spicy four mana instant. I'm going to preemptively board in three spell pierces. Uh maybe two. I seeing three counter spell light.
+
+[50:18] Yeah, I I usually drop the carrot cake against decks that aren't full aggro. Um that deir tempo can put on a little bit of pressure, but it's not like the the other decks where I desperately need a blocker. Also, a lot of times the early creatures are flying, so it's not that relevant anyway. Standard might push up the price of shock lens a little bit, but I feel like standard is less played in paper than it used to be. So, I don't even know that it'll be that significant.
+
+[51:03] sure. That looks fine enough. I guess I only have white mana for No, I I'll have planes. That'll be fine. The fact that Flood Farm Burge makes white primarily is so relevant for this deck because there's a white plain Oh, wow. I might get the full curve out. Oh, yeah, that's fine. I might get the full curve out here. So, if I can turn three Simulator to turn four Battlefront, it's it's kind of over for any slower deck.
+
+[52:04] A little bit less shadow on my face. Sorcery. Oh go speed. I got it. You want to play out a three drop, don't you? I know you do. You want to tap out. You don't need to counter things. I have an extra. I'll run it out. If I can drag out some counter spells, that'll be good here. I have such a high threat density in my hand.
+
+[52:46] Yeah, it's fine. Popper is fun. I might do that actually. Yeah, true. Tidebinder is a thing, but it just doesn't meaningfully counter much that I have in this deck. If I actually if it counters like the ETB trigger on one of my removal things, it's pretty gross. But um otherw like if it counters the uh the synthesizer, usually I can just like remove it and then keep chugging.
+
+[53:29] Uh MGO has other limited options I want to try out like they have they have a bunch of cube and stuff um other formats. So uh definitely a little bit of an older looking UI, but I think there there's a lot of functionality there for for trying stuff out. So they tapped three mana. I think I can probably run out the battlefront here unless they're running spell pierces. We'll see. We're about to discover if they're running. Or I could also just play out a simul and hold up spell pierce. That's the move. Yeah, I don't think I want either of those.
+
+[54:24] cool decks at Magicon. I'm sure there were some. I'd have to think. I've played a bunch of games. I did play against somebody who had proxied out uh Pokemon alters for every single card in their deck. Uh and it was a Vololo deck and that that was pretty Uh that was in that was in a little bracket 2 game.
+
+[55:04] Yeah. Now we can run out the uh the Battlefront with impunity. Yeah, this is definitely good. Oh yeah, there we go. That's gross. Yeah. So, this is what the this deck kind of dreams of doing is just similar and then just like crap out removal at them.
+
+[55:56] Um, honestly, I don't have anything else relevant to play in hand, so I may as well just spell pierce that. Uh, yeah, but the link to it is going to be on my architect page. Um, so if you if you go to honestly if you just Google Cria Snail, the architect page will pop up and it should be at the top because I've been tinkering this deck a lot recently, messing with the sideboard and stuff. Um, there are several other versions of this deck, but um, this one's definitely This one doesn't run uh the the artifact pod card at the moment. I might try that out because it seems possibly better because I I'm running like this kind of stuff for filtering that can be grabbed off of uh ouch this kind of stuff for filtering that can be grabbed off of um United Battlefront, but I know a lot of people are are doing the I don't remember transmogrib or whatever the the card that can sacrifice an artifact find one with
+
+[57:00] higher one higher mana value pay for cost duress. Okay. Yeah, I mean I can get removal but I don't think that really matters. Let's go. All right. Oh, I'm gaming. Yeah, this is gross. This is definitely just a smoosh people sort of deck.
+
+[57:40] You just Yeah. Okay. That'll That'll do it.
+
+[58:23] Yeah, my match up against Deir is is pretty good and I their list didn't seem all that tuned. So, um I I generally don't face I I don't really worry about Demir unless it's like a a real like ladder grinder high effort piling it piloting it.
+
+[59:40] That camera setup is actually looking no two drop, but I think it's good I have a I have a scry at least.
+
+[1:00:32] I can try and dig into something. Oh, is this person? I think I played against this person. I want to say they were on like just Jess just sky convoke. This hand is way too slow to deal with Oh, I need to get in. Okay, I got the clay fire bricks at least. This is the sort of deck that I need like a full four. I think I want another land. This is the kind of deck I need a full four temporary lockdowns against. This is just so gross.
+
+[1:01:17] Clearful demolition. Oh wow. Oh no. Okay. Okay. At least they Okay, that that could be worse. They didn't have any other payoff for it and they're on three cards already. So, that's not too If they have the convoke dude in hand though, then I might be in trouble here.
+
+[1:01:57] Okay. Not inspect. Okay. Yeah, it's fine. A lot of life endstep. Oh, they do not have what they need. Okay, that's really good for me. I don't even know if I remove something here. I'll probably braid a net actually. That's that's good for defense. Or wait, what am I doing? Uh Um actually if I tuck that under the impulse then I can uh battlefront into Yeah, we'll do that.
+
+[1:03:05] All right, let's see. They need they they need this to be a really big turn. I Okay, it's going to give a lot of damage, but I'm going to be able to remove that. They'll put me down to seven, I think. Um Okay. It's a little bit scary, but I think I should be able to come back from this. Although, I guess I I need to hit a uh I really need to hit a a nonline permanent removal in the top seven. Well, it's gambling time.
+
+[1:03:48] Okay. Um gives me blockers. So this could be Does the Does the enchantment give haste as well? It probably does. That's just that that is the pick Yeah, trampoline haste. That might be Reax the flyer. That's Yeah, that's good.
+
+[1:04:30] Yeah. Yeah. Yeah. There's a there's a similar card that destroys an artifact and gets three goblins. I think just like basic goblins from like uh second Miridan block. I think that that was definitely big and popper. Okay, so do they have a chunky creature? Oh, okay. I I do have blockers though.
+
+[1:05:12] I I have seven seven blockers, so this could be okay. Oh, they do. Do they get to Oh, that's not okay. No, that's not okay. Oh, boy. Yeah. Now I'm going to be a turn too slow for this. Uh, yeah. Now I'm fully cooked here. It's definitely lockdowns. I don't I don't think smite does anything.
+
+[1:05:53] I don't know that I need more life total stabilization. I think it's just the lockdowns we need. Um, individual removal is not that great. So, I'm going to cut couple aegises. I think I could cut carrot cakes. I don't know that I hate carrot cakes, though. They're They're okay. I got one carrot I don't think Spell Pierce does that much in this matchup. Like the cards I'm worried about are uh like it's good against some things, but I'm more worried about Mass Artifact Destruction. I'm worried about my stuff getting countered and then if there's any like key spells, but there's just not that much key here.
+
+[1:06:36] like Boros. Uh Jessica Kvoke just has a lot of things that do decently if uh that that are just creatures. Um I think I'm going to cut two Aegis. I'm going to keep in the two copies of Carrot Cake and we'll see how that goes. Being on the play really helps against this deck though. So that's going to be Uh yeah, that's a lock down. That's a Battlefront. That is a lovely hand against this deck.
+
+[1:07:18] Oh, yeah. I could see that. I think I've Yeah, that's actually really good for uh temporary lockdown because they'll be like tapping down and powering up this creature rather than putting on pressure. So, it kind of just means I can do whatever I want for about whatever I want, meaning finding planes. But it it it might not even it's probably not even going to be correct to play the lock down next turn. I'll probably wait a bit and see if I can nail them a lot harder.
+
+[1:08:04] Yes, they're checking out the dudes. Yeah, I'm de I'm debating if I should do it this next turn if I should do it later because Okay, so see the awkward thing is I want to play Battlefront on four and Battlefront is really good if they're on the back foot when I cast it. let me see. I'll I'll see if I get a different three drop. I'll definitely consider it if I get like a Okay.
+
+[1:08:44] Yeah, for sure. If I get that, then yes, I can put it off. Do I want the braided net? I think that's pretty good. Let's go. Top of library. Oh, okay. I screwed that up actually. That's fine. Nobody did that in my uh Resolute reinforcements.
+
+[1:09:34] Synthesizer is so good. It's such a gross magic card. Okay, so they're they're fully fully gaming at this point. Um, I still think it's probably correct to play Battlefront. Um, and then the turn after I can lock down. Wow. Okay. Um, this is this is just white blue. I might experiment with a different version of United Battlefront that is different colors. Okay. Do I lock down?
+
+[1:10:14] Oh, they they uh they destroyed my my that. Okay, that makes sense. Yeah, I don't think there's that much pressure here, so I'm just going to go for it. That's actually a really good thing to snare because it does absolutely nothing when it comes back in.
+
+[1:11:02] Yeah, they just don't have that much pressure. So, I I uh it'll definitely hit them pretty hard when I do it a little bit later. Um I mean, I guess that'll be hitting me a little bit hard, but you know, still I'm still at 20 on turn four, which is really good. Yeah, taking a little bit little bitty bit of damage. Um, okay. So, I could bricks and then lock down. Is that the move? I mean, this recruiter is just a 22.
+
+[1:11:47] Like, I kind of have to do that just in case they have another pump spell. Like, I just cannot afford to let tokens be on board with a lot of mana available. So, yeah, going to do that.
+
+[1:12:38] That's fair. Yeah, I could see it being better for for repurposing Bay. Um I'm I'm going currently bayless with this deck, but uh it's it's a Repurposing Bay is really good, so I should probably run All right. No pump. Okay. Yeah, this is not this is not really scary. Just need to keep finding value and I should be good here.
+
+[1:13:36] Yeah, I'll I'll wait one more turn on the temporary lockdown and then that should be a pretty nasty followup. Oh, was it? How much damage is Oh, it's copying.
+
+[1:14:18] Oh, I assumed it was going to be imidance for critter. That's Yeah, that's fine. Oh, they have another yeah, I mean there's nothing I can do against the cast. Is that lethal? Oh, it gives it self haste, doesn't it? Yeah, it's 100% lethal. Okay. All right.
+
+[1:15:31] I'll go into one more leak here.
+
+[1:16:13] I also might stream some like vintage cube or something. I know that's going to be coming back into existence uh in a couple days. So, I know that's popular among a lot of people. It's not a great opening hand. The dragon storm's not bad though. Gives me a little bit of filtering.
+
+[1:16:58] Okay. I mean, my hand sucks right now, so that's fine. Take my braided net or whatever. I have not tried MTGO for commander games, so I I do I don't know whether it would be better for that. Um, but certainly as like a 1v one platform, it's it's pretty good.
+
+[1:17:39] I know I was thinking of trying to set up some kind of commander gameplay and it's definitely always a question of, you know, do I do spell table? Do I do it's like spell table, MTGO, cockatrice, tabletop simulator? Uh, yeah, any any number of these. I like cockatric personally, but I don't know. I could definitely try some of the others. I know a lot of people like TTS. Um, I could I could definitely live brew that. That could be kind of fun. Um, I know I have a handful of decks I'm I'm cooking, so that's that's definitely fun to get into all my thoughts with that.
+
+[1:18:35] Pretty slow roll out from this deck. No dorks or anything, which is interesting. two meticulous archives. Yeah, spell table looks the nicest. Did I mess up my mana? Oh, no, no, no. That's right. I was going to cast Dragon Yeah, get out of here. Archive. Yeah, spell table is probably the best looking overall. I was I was thinking of uh trying to to get Hans in on on something or other.
+
+[1:19:16] Um we we'll see about that. I have I have some some plans for the summer that that could be cool. That's fine. What is this? Is Is this Is this Roots or is this something else? Cuz Scoot makes me think Roots, but Roots runs a ton of low drops. I have not heard of TCG Arena. Is that like some sort of a like um TTSesque program or cockatricesque program where it's just like a kind of interface where you can play in this hand is not great currently.
+
+[1:20:05] This hand isn't good. My opponent isn't doing anything good either. So it it evens out. Yeah. If I if I were to do MTGO, it would not be streamed. It would be um it would be edited and made into a video. I don't even know if I I definitely could stream EDH, but um uh I'm definitely more more long form editedrained. We got Oh, yeah. Yeah. Getting gaining a little bit of life.
+
+[1:20:53] X mage. Interesting. Okay, I have not heard of that. My hand still sucks. Guess I can nail the other removal spell in it. that's fine. Okay, that's good. That's good. Finding us some filtering.
+
+[1:21:37] This game is so cooked. Neither of us are doing anything. This is very funny. No, not end. Go away. Yeah, Commander is interesting because it's it's it's more like a like complicated Euro game than it is like 1v one Magic in terms of what it requires. So, kind of makes sense that there are specific platforms that are better for it. Okay, that's a Uh, do I run it out now or do I remove?
+
+[1:22:25] I think there's a pretty good chance the Battlefront will hit something gets me a blocker anyway, so I'm just going to run that out. Woo! Let's go. Let's try removal. I kind of want I could also dig deeper for like some draw or something like another Uh I'm kind of inclined to do that I have another set of scry.
+
+[1:23:15] May as well take make use of it. That I'll keep around because I can double removal next turn. That ends up being pretty good, I think. Actually, I probably can't rub next turn because I won't have a land to play. But in principle, it's okay. Honestly, this game is so slow that I can just flip the clay fire bricks and have that be a source of value. Oh, okay. Okay. For sure. For sure. For sure. Getting a little apocalyptic in here.
+
+[1:24:15] wait. Hold on. Can I Can I do that? I didn't know this was my draw step. Oh, what are you doing to me? No. All right, buddy. Uh, I guess I'll miss a land drop. That's fine. Spider's going to lose That didn't even occur to me.
+
+[1:25:00] I don't know why. I'm glad you're here to to point out my my streaming my uh my MTG streaming issues. I don't Was that just like green black mid-range or something?
+
+[1:25:53] You control Z and control Y. Um, let's think. Uh, I think I might just go for I don't really have anything to sideboard in other than more removal. So, I'm just going to do that. Uh, I could throw in an iron Craig to get more to get my fast roll outs more often. That could be kind of fun. Uh, I guess there some mass artifact destruction so I can pop in a spell pierce. I'll do that.
+
+[1:26:35] Uh, that's fine. I think yes, Hans is real. As it turns out, he's he's not a plot by me to have my YouTube videos be more interesting. Do I want a braided net? I don't know that I want a braided net. I don't think it really matters. I'm going to put in my graveyard and see if I can find more like a simul Yeah, I still don't really have any good artifacts in hand.
+
+[1:27:35] That is totally fine. Much better than a dess would be. True. I I could be popping in here with an alt account to to tell myself how to not waste mana.
+
+[1:28:23] that that that would be that that would be a gamer move. Clearly, I'll have to come up with some more decisive evidence for for you all. It is seeming more and more like a conspiracy the more I think about it. True. My my my friends Hans cooked up this deck.
+
+[1:29:04] You see, you know, this this deranged nonsense deck. I would never make something like that. I'm a fine and proper Magic player, but yeah, he he he really loves to cook up that sort of Yeah, this is this this this game is not going to go well for this person.
+
+[1:30:04] Got to have a dark snail presenter to keep things spicy. what does this person actually do? Do they have like If they have mass artifacts destruction, that'll help them a little bit. Although, I think I could I I could play through at least one of those. I think Terracender. Sure. It's fair enough. See if I can find something off an What do we got?
+
+[1:30:48] That's what we got. Hell yeah. braided net. Braided net. Uh, honestly, flipping a braided net here wouldn't be bad because I'm a little bit low on I think I should put them both on top. Well, I can only play one next turn. Put one on bottom, one on top.
+
+[1:31:40] Okay. It's It's funny you suggest a low to the ground ratta deck because for a while my like MTG arena brawl deck that I would play uh was Galissa aggro uh three mana Glysa aggro. because I had my I had my Glypha battle cruiser deck, but as it turns out, if you're one v oneing somebody, it's a lot better to just run Glysa as a sick beater and draw engine and then treat it kind of like a Delver deck where you're running a ton of interaction to to slow people down as you swing in at them.
+
+[1:32:24] Delver deck or a Jun deck? I don't I don't know what you'd quantify it as. Yeah, that's that can that can destroy my synthesizer. Okay, I don't care about the other modes. See, but Edgar Marov with 20 lands, maybe not with 20 lands, but Edgar Marov with super super low curved everything sounds kind of fun, not going to lie. Like it's an expensive commander and I don't want to be that guy, but like it sounds kind of fun.
+
+[1:33:12] Nothing but one drop nonsense. I'm just going to see if I can draw into something else. This person has managed to keep my artifact count relatively low, which is awkward for vault and net because th those very much care about specifically your artifact. Ditch the wastes there.
+
+[1:33:52] get clay fire bricks after that. Do I push in? They're on three cards. Yeah, sure. I'll push in. I have answers if they start going aggro on me. This seems like a pretty slow deck in general. At least slow by the standards of current standard.
+
+[1:34:36] I consider Deir mid-range to be like a a very middle of the road speed deck. And that still was like kind of a like fast slightly aggroy deck, but it's just not that fast in the scope of like mono red. Even even post bands uh aggro decks are pretty gross fast. That's an interesting inclusion. I can see it being a sideboard. What artifact? Oh, destroys the Okay, sure.
+
+[1:35:16] Fair enough. Live your best life. Plus one is card advantage. Yeah, we'll see if I can lock out that planaines walker. Um, do I have enough mana to vault? Yeah, I do have enough mana to fall in I can take a couple hits from that 33.
+
+[1:36:24] With my dragon deck, I actually play with the uh draw the top 20, keep seven policy for for mulligans, but you also get one free mulligan, of course, because you got you got to make sure you get a good hand to start the game with. Okay, that's a shield for sure. Oh, did I miss this activation? Yes, this is post bands. Bands are instantaneous. Uh, apparently I should activate for my vault on my turn or else I'll just accidentally tab through it. All right. Actually, no. Hold on. Should eat a shield first. Oh.
+
+[1:37:04] Oh my god, not again. Okay, control Z. Control Z control Z. I don't have responses to children. Uh, okay. I'll have to eat a bit of damage from the tranquil draw back, which is not super ideal, but oh well.
+
+[1:37:57] I play the flood farm verge. Um, oh wait, seven mana is a lot. As long as I have enough mana to potentially for vault plus Battlefront, then it's decent. This person Yeah, this person could potentially attrition me if I don't find a battlefront soon, which is a little bit awkward. Um, if I find another answer for Vivian Reed, I can at least start to spend the mana to flip braided net, which is decent, but uh, that takes a lot of mana, too.
+
+[1:38:44] So, it's a little bit awkward. All right, what do we got? Okay, for sure. I think I just uh similar chrome plus that and that's pretty good place. What do we got?
+
+[1:39:29] Um, that's tasty enough. Can do that plus for next turn. Yes, this is going to go pretty well, I
+
+[1:40:34] questions. Do I dig for a battlefront? I think I can do better than uh assimilation actually. Yeah, cuz I have that leaves me with three mana. So, if I get rid of this, I can play a Battlefront if I find it. Yeah, there we go. Oh, do I feel any pressure to play well or pop off?
+
+[1:41:15] Uh, like a very minor pressure. Like if my deck absolutely does nothing, that feels kind of bad. Um, but ultimately like that's also variance. Like, uh, I know one of the benefits of playing my my Rata deck is just that it's so goddamn consistent that it'll always end up looking pretty good. Um, and at Magicon, my Rada deck was so Like, it's this like $80 no game changer deck. I was playing in bracket three and just mostly I think I won like five out of the six games I played with it.
+
+[1:41:55] Um, so I I definitely have some decks that will consistently pop off. Uh, but if I'm playing something like my Sharon slide deck, it'll it's so matchup dependent. If people have too much pressure, I will just be too slow. I really don't get to see my hand before my opponent chooses to go first.
+
+[1:42:47] Uh that's Yeah, that's that's good. I get rid of my Yeah, I get my fourth land, I think. I'm missing something. What's happening? Okay, there we go. What's going on there?
+
+[1:43:35] Oh, is it another Demir match up? Okay. Although that that's actually that is potentially better against this specific hand because I'm definitely shooting for a a like fast uh Battlefront here. I mean, that that definitely stays. plenty But we'll see if if they want to tap out. I'm going to be a little giddy going into turn three because if I can turn three battlefront, a lot of times that'll just be over so fast. They can also counter my iron crack if they want. That would also be entirely fine as long as I draw fourth land.
+
+[1:44:24] I could also draw because I'm not running spell pierce yet. That that'll be boarded in combat. They're holding up mana. I'm just going to go ahead and play it safe. Guarantee fourth land Yeah, let's do that. I only got one mana open. You better counter it. bricks is good. I don't think I need that many of the That is a pretty spicy statement there, Lord of Ravens.
+
+[1:45:22] But, uh, I'll I'll I'll try to avoid taking too much offense at Come on, buddy. You You know you want to tap out. They don't want to tap out. Well, I can at least play uh synthesizer here and get around the counter unless they pay two and then if that doesn't pan out. Okay, great. Lovely. Uh do I want those?
+
+[1:46:09] I don't think I want more lands. Period. And I don't know if I'm playing Battlefront next turn or not. So, I'm just going to put the both on bottom to keep my impulse fully powered for finding something just like powering up their soul stone. Is this a blue black drago or is this a very cautious mid-range player?
+
+[1:46:52] I've considered stacks effects in that deck, but it's never felt all that necessary because the deck is so much about um resource denial in general, like but but different forms of resource denial. like I try to cut off people's uh ability to gain resources by killing value engines and stuff rather than, you know, uh trying letting them have the cards or letting them have the mana but then uh trying to prevent them from using it. So, I definitely could add it. Um if there if there was one printed that I guess there's like uh the one that's like each player can only cast more than one non artifact spell per turn.
+
+[1:47:34] So, in principle, that's solid. But I don't know. I I don't really find the need. I might if I'm trying to power up that deck, though. All right. What do we got? Show me your three steps ahead. Three steps ahead. Are you three steps ahead? Spelling exhale. Oh, they holding a dragon. I guess they must be. Oh, no. Is that Oh, Yeah, I guess that's how that works for All right.
+
+[1:48:22] Yeah. So definitely like a that is definitely dealing with some sort of blue black drago control. Brute force the control player with a stream of Battlefronts. I'm not running that many creatures. You know, I imagine that's their anti-agro card, so not going to disagree with it.
+
+[1:49:20] Do I just try and eat this? I imagine that would also get countered. So, I don't know if it actually matters. Actually, I can pop the carrot cake for another blocker. So, I'm not going to worry about it. All right. Give me all your counter spells. Oh, okay. Um, didn't hit any value, but that's fine, I think. Oh I picked the wrong one. Uh, yeah, cuz it's non land permanent. God damn it. All right, that's fine. Yes, that's going to be a whole lot of What do we got?
+
+[1:50:09] Tide binder. Okay. for sure that that only shuts off one of the triggers. I still get the the construct and I can just remove the tide binder next turn. If I draw a land, I can remove the tide binder and play another battlefront which is pretty good. Tap down this. Yeah, why not? Oh no, it's non permit I guess. Let's get more info on your posture.
+
+[1:50:54] All right, stop talking in the chat for a bit. Uh, I am doing pretty good. I I'm struggling a little with a green screen. I'll have to I'll have to find some better lighting for that. But it's good. I've been wanting to start trying streaming. It's kind of fun. Um, I'd actually been considering doing some sort of revamp on the $25 budget decks, maybe even trying to get a new pool together. Uh, but that's that's very much in the works. Uh, and I'm still trying to figure out um how that would work with kind of busy people and and all of that. So, It's it's it's very much a cool deck building experience to build with um with that sort of budget just because the the trade-offs are so intense.
+
+[1:51:47] Like you go, "Wow, a $120 that is way too goddamn expensive for that card." Unless it's absolutely amazing. Sacrifice a token up. Sure. land here. Yeah, that's useless to me right now. Give me a land. Come on. that that's not too bad actually. Uh, I actually have been planning on doing some sort of gameplay content this summer now that I have my second channel.
+
+[1:52:28] Uh, so I I'll probably figure out at least some environment for the three of us to play over Spell Table. That seems kind of fun.
+
+[1:53:13] I think that's all I got for now. I need to play faster. I'm running through my clock. Still dro controlling. Uh question is, do they have counter spells? That's what I'm kind of curious Have fun with your commander game, D. I'm glad you got to pop in. Resolves. Okay, I'll take it.
+
+[1:53:56] I might figure out some sort of other way to do deck building challenges. Um, keep that on top. I I'll I'll try and play Battlefront next turn. That should be kind of good for that. I want to figure out some way that is less time consuming. I would probably make it less timeconuming for myself and put it on the second channel if I was going to do deck building challenges in the future for like my like the Discord and stuff. Um, that just makes it a lot easier on me if I can do that. because ultimately like when I when I turn it into a main channel video, it's not too bad, but those videos also don't generally perform all that well compared to my other ones.
+
+[1:54:41] So, um it's definitely What do we got? Are they paying the four? Okay, sure.
+
+[1:55:50] I'm glad you like the tool. I know me and my brother are working on a big update for it this summer. So that Okay, that will offer a lot of We got the non- ninjitsued Kaido. Okay, that's fine. Yeah, can't even do the the plus one plus one or the the surveil. Um, yeah, big big man base tool update coming later this summer. So, that that's going to be pretty exciting. I think that should be definitely cool for anybody who is looking for a lot more features out of it. Um, and a lot more ways to customize it. Um, I think the initial version was definitely good for the average user, but uh, main phase.
+
+[1:56:38] I'm just going to go go for it here. I hopefully I fully finished my thought That's pretty good. Oh, that that actually is just lethal, I think. Oh, no. Actually, one of those was tapped down, so not No, that is lethal. Yeah. No, no, it's not.
+
+[1:57:24] lethal enough. Uh, spell pierces go in. I don't think anything else goes in. Cut like maybe I guess. Okay. Okay, so there was a lot of Demir mid-range stuff played near the end there, which is kind of funny because I figured it I figured it was a full draw go because I saw the weird dragon counter spell and there was literally nothing played early. Um, but I I think these sideboard changes are good for both Demir mid-range and um any sort of slower deck.
+
+[1:58:10] So if this is like an off control riff on Deir, that's that's fine as well. Yeah, lovely hand. Take off the upkeep thing until I play my uh braided net. Oh, that's not good. Okay, that's fine. I got a little bit of filtering. All We don't love to see it.
+
+[1:58:57] Unless that happens, which case we're okay with seeing it. There might still be a bat though to to cut the other one. All right, we got the 2-1 vigilance. Heck yeah. Come on, buddy. You You know you want to tap out and play a Kaido. You're you're you're you're dying to tap out and play a Kaido.
+
+[1:59:39] Come on. Give me the Kaido. Yeah. Here we go. This person thinks they're safe from United Battlefront. Do I double synthesizer here? It's blue black, so I don't have any mass removal.
+
+[2:00:20] So I think I think I'm going to go greedy and double synthesizer. Um, the Kaido is not that concerning here. Um, that's honestly I'm kind of just keep them like that because that would be very nice to have next turn. Doesn't matter what order they're in because I I'm going to be playing my roing dragon storm. I could also actually no I could play uh clayfire bricks as well. I don't think it really matters one way or the other. bottom top.
+
+[2:01:00] If I get like another If I get like another battlefront, then I'll keep it there. That's intriguing. I don't think it matters where they are. Top. Top. That's fine. I'll definitely look into doing some deck building streams because I've been meaning to update some of my decks. Uh, yeah, it just does so little here. I guess it could save Kaido from an attack. That's probably what this person is shooting for. But that's if that's your goal in a game where there's two similar synthesizers against you, you're you're not having fun.
+
+[2:02:07] My my chat is called the Slimers. So that's that's where we're going to go with. I'm I'm not I will not be considering any other options here. That seems like the perfect choice. or the slimy folks. It's got to be something slimy. What's that countering? Is that countering the the synthesizer or is it countering? Okay, it's counting the synthesizer. Sure.
+
+[2:02:56] How mildly annoying but ultimately inconsequential. I guess I should have swung there. Slime bags. That's pretty good. Bill Fernie Bree Swindler monu horse with some twists. That's intriguing. This person's fully cooked. Or maybe there's I guess they're holding Interaction's going to like they can prevent me from killing the tide binder.
+
+[2:03:38] theoretically, but I don't even think it's that good. Oh, well, don't be the salt shakers. That's just rude. You can't be doing actually, if I hold up the spell pierce Oh, but I didn't draw land. Hoping I would draw land here. I mean, we we'll try it. We'll get through the interaction eventually. Guess I could have swung first Salt Shakers would be good if I was going to, you know, develop an antagonistic relationship with uh with chat,
+
+[2:04:43] but um just just for me personally, I'm not really looking to get uh get swatted, so I probably will not Uh, standard might be a real format. Who knows? It It's a lot more real than it was very recently where there was the top that was for mono red for is proud. yeah, I'll definitely be looking at uh gameplay content for for later this summer because I definitely I want to get some of that going on my second channel. Although I'll have to figure out how long it takes to edit.
+
+[2:05:25] That'll definitely be the uh determining factor of how much I can put up for Oh, there we go. That's a little bit less shade on my face. I think they were definitely ambitious with the the three-year extension, but at least in this case, what they're doing is directly responding to player feedback.
+
+[2:06:08] So, you know, even if standard is in a bit of a weird place, I think it's this set of bannings is a good sign at least. Um, now where things go from here, I don't know, but it's a good sign. And there are people who care about standard for sure who aren't, you know, wizards of the coast. it's not a great hand. That is it's okay. Like if I can I just don't want this much three mana interaction in my opening hand.
+
+[2:06:49] I do have all colors of mana though. I'll I'll try it out. Fellow blue white player. Okay. Blue I control. It's got to be blueey control. I don't think there are any other blue white decks in the format that would play um that would play normalize. Not saying it's a bad card. It's just I I'm I'm definitely not playing anything but but spell pierce. Although, if I start playing with a lot of control, I might uh pop in offer as well.
+
+[2:07:31] That's decent. I think I counter my clay fire bricks. How much of a gamer is this person? It's clayfired pricks. Wow. Okay. Yeah. Go off. I guess it's decent in this case because I don't have a land in hand. So maybe my tiny tiny stream is getting You never know.
+
+[2:08:14] Um, save up for impulse. Yeah, probably impulsing for a land. Maybe this is a really, really bad hand we're playing this control deck control with, though. It's a little bit rough. I think this is blue I draw for sure. I'm the only tempo player who would ever run an impulse. Okay, they're tapping out. They're tapping out. They're tapping I guess maybe they they're fully tapping out.
+
+[2:08:59] Okay, I just need to find a land. That's all I need to do. I was not expecting this opportunity. Okay, untapped land. That's all I want. We'll take it. Yeah, buddy. All right. If I can hit a synthesizer off of this, that would be really, really nice. Um, it's a weak hit. Gives me a little bit of mana at least.
+
+[2:09:39] It's not too bad. it's fine. The fact they counted the clay fire bricks is wild. That's crazy.
+
+[2:10:20] I do also have the clay fire bricks in my graveyard now to craft with on this. I might just do that immediately. Start chugging my way toward some card draw. Yeah, I'm just going to do that. going to counter this. Is that what you're saving your counters for? The removal spell with no targets.
+
+[2:11:26] If somebody tied binded the the trigger on that, that would be kind of disgusting. But yeah, I don't I don't think hard control runs tide binder. They they might, but it's worse than a lot of other options. So that'll be three cards currently. Yeah. Yeah. They're they're their dragon I can't imagine how counter heavy they are if uh if if they wanted to counter the the uh gravel planes card, but they they might be popping off with counters.
+
+[2:12:09] All right, what do we got? Mainland. Are they playing the mering? Oh. Oh, that sucks. That sucks actually. Okay. Doesn't suck that much. It just slows down my my draw a bit. I'm surprised they would bounce that rather than the rock, though. I guess it doesn't really It doesn't really matter what the second target is. They just want to slow down my card I think. Yeah, it's just that.
+
+[2:12:54] Oh, actually I should have No, that's that's only small creatures. Yeah, that's fine. This game is unfortunately going to be terrible content because h this is kind of just a miserable stupid duck.
+
+[2:13:42] I mean, I was a control player back in the day, so I can't judge too much, but I would look at the top three. Could do that. That seems fine. Yeah. Solid.
+
+[2:14:24] It's It's It's really intense stuff. gradually value crunching until I think I can get around some counter spells because ultimately I will just be trying uh build up card advantage until I can play things into counter spells without worrying too much. Um if I start seeing more of this I'm definitely going to add some offer you can't refuses because that actually lets me play things mid game. But we're tapping out. Oh, two charge counters. I assume it's shooting for three.
+
+[2:15:05] Yeah, three would be pretty good here. Although it wouldn't even be that Oh, wait. It's not my turn. Yeah, they they'll get to do it immediately. Yeah, that's pretty good. Oh, yeah. Yeah. Yeah. That's fine.
+
+[2:15:46] It's good to get it over with now. I have kind of a mana advantage, so I'm inclined to try and just start crunching through the counter spells.
+
+[2:16:32] Come on, show me the counter spell. You know you want to. You know you want to counter this. You like your dragon. Come on, buddy. Look at that ice dragon. And I'm going to confiscate it. Oh, that's good. Here we go. Yeah, that's the thing you want to counter this turn. Yep. Sick. That's good. Not that. Not that. No, no, no, no, no. Oh, okay. I can't control Z that. Okay. That sucks. Sure. That's That's why I need to click the card first.
+
+[2:17:15] That's my fault. Uh, my second channel is Salubrius with the two in place of the U. I should definitely link it to my primary channel because I have not done that. Um, I started it literally like five days ago or something. Oh, we're getting the bounce. All right.
+
+[2:18:02] I just need to sideboard in for like full rush next time. Just like spell piercings. Honestly, this game I should have won, but I just like totally whiffed my first United Battlefront. I can united Battlefront now though. I have enough life total to survive that. So, I I I still have a decent shot here. Go like that. Okay. Yeah. So, we hit that. We hit that. Although, I know there's going to be like an ultimate coming up though, and that's going to really suck.
+
+[2:18:44] I don't know how hard I should play into this. Yeah, we'll keep that on top. Um, I'm just going to play as if there's going to be an ultima next turn. So, I'm just going to play to rebuild. So, we'll see if we can bait that out right now. Get it over with.
+
+[2:19:25] Yeah, because if this doesn't bait an Ultima, I don't know what will. Ultima is the board wipe that destroys all artifacts and creatures, which I I expect to be happening in my very near future. If it doesn't happen, then this game is probably just a win, but I'm pretty sure it's about to happen. Show me the five mana. Basa. That's not That's not very Do they have a land play Okay, sure.
+
+[2:20:14] That's awesome. Um, yeah, super cool. Bait another counter spell with the there. This Yeah, may maybe. So, we'll Come on, buddy. Honestly, just the smaller artifacts just get my artifact count up so that these constructs punch harder, which is decent in its own Okay, then with that that that allows me to hold up a Famorei vault, which is So, I'm not going to play out my second simul.
+
+[2:21:14] That would just be way too Did I out my mana production? Yeah, my my channel isn't that second channel isn't big enough. Did I shuffle? Oh, I did shuffle. Okay, that's fine. We'll discard that.
+
+[2:21:54] Giving them fish blocks. Delicious fish blocks. I don't have like a Yeah. Okay. When is this person going to play So that does let them get tokens here.
+
+[2:22:39] of all the board wipes. Why are you running day of judgement? That's not very good. Okay. Oh, I should have a for agent response. Oh well. Tapping out for anth. It's a decent finisher, but like I don't think this person's at the finishing Thank you, Rocket. Rocket West Rock. Uh, those go in.
+
+[2:23:25] Yeah. Um yeah, I already have a similar in place. Yeah, I'll just battlefront and see what we can do against this Yeah, we'll start there. One one bolt. I'm sorry. What? Uh did I just whiff? Oh, this program makes it way too hard for me to be an idiot. Wow. I hate everything. Okay, I'm just making this control content so much better with my fuckups.
+
+[2:24:19] Clefire bricks that pumps up my artifact count. Give me something to discard to I should throw in a massive anti-control package to my sideboard just to just for purposes of ending their life when they make my streams boring. That would be very satisfying.
+
+[2:25:02] In principle, this isn't a bad match up for me. Um, especially when I can board in some counter spells. But if I fully whiff my The gastro squad is pretty good.
+
+[2:26:08] Vald is so good against control. It's just a really good card in general. All right, another battlefront. We're not going to whiff it this time. We're going to have a lovely time Yeah, it's not that scary. Yeah, I'm not using the for. Oh, come on. You can give me another three drop. Okay. Yeah. All right. Got a synthesizer, once again.
+
+[2:27:03] Playing as though there's an ultimate coming. This does nothing if they play an ultimate. So, I'm going to bottom it. I would keep a like nonline permanent exile because I do need to kill Elizabeth here. But thank you, Oxymoron. Pirate shanties are pretty good. I know. I really like there's like a 10-minute Decemberist song that's like a, you know, tale of uh revenge on the sea.
+
+[2:27:53] That that's a lot of fun. It's not technically pirate, but it's uh it's good fun. what are we targeting with that? The This is a perplexing person. They think they're in finishing mode. Maybe they're in finishing mode. Okay, how much mana do I actually have this turn? Vault plus four. Four of my mana. Outside of that, I have one, two, three, four, five, six.
+
+[2:28:36] Not not a great number. Is there anything else I can do with my mana? I can make a blocker, I guess. It's decent. I mean, I play the simulator. I guess counter cry though. This is the counter spellless control I don't know if that actually helps me Actually, hold on. Do I have Do I have the man to grab that? Yeah, I do have the man to grab that. Okay. Um, let's throw that on the bottom just in case I see something else.
+
+[2:29:18] But then that's fine on top. Yeah. And then we will I wanted an exile off for the Elath, but is it too greedy to grab a fourth? Honestly, I'm just going all in. If I get ultimate, I get ultimate.
+
+[2:30:24] I don't even know what I'm looking for at this point. Thank God. Do I die? Hell yeah. Oh, I am so ready for this match to be At least I get to sideboard and attempt
+
+[2:31:31] Sideboard in those. board out the carrot cakes. Board out a piece of creature removal. And that's the deck. I am pretty good this evening, Pidge. Although it's afternoon where I am. Uh although I am I am playing against a control deck right now which yeah first game was rough. I I screwed up a bit and got a little bit unlucky in other bits and it was just all around a 20 minute game.
+
+[2:32:18] 25 minute game. I have 10 minutes left on my clock. Thank god the suffering will end. Uh we do not keep that. I want to end this person. Okay. Yes, that is a more aggressive hand. Uh, ditch the second archive for sure. Give me Give me a ramp rock. Come on. I got impulse for filtering already.
+
+[2:33:00] Second Battlefront. Okay, it's kind of cool. Kind of funky fresh. All right. Are they going to counter my So, last game they countered my they countered my bricks but then didn't counter all of Okay, actually that's iron crag is good here because that lets that lets me uh ramp up to a spell pierce protected battlefront if I can find a if I find a land it's a spell pierce protected battlefront.
+
+[2:33:44] I don't find a lance pulp protected similar synthesizer. I think it's fine all Yeah, I do pierce that. If I had a bunch of extra lands, I might not pierce that. But no, that's got to get pierced.
+
+[2:34:31] I'm I'm just going to assume whatever I play gets countered. What do I want to bait with first? I want to bait with the synthesizer. Give me your counter spell. It's mine. I'm confiscating it from your hand. Success confiscated. All right. Now, now tap out. That's that. You know, you want to tap out. Stock up. Yeah, let's play your stock up B.
+
+[2:35:11] Even better. Lovely. Get out that for drop. You know you want it. Okay, there's another land. And then we battlefront. And then if I get good luck this time, I might be able to actually have a clock on this person instead of just flailing around. that's pretty good against the Basa. That's good card advantage. I think that's about it. Basic like a basic uh banish effect would be pretty bad against the basa since it would re-trigger when it enters again.
+
+[2:35:58] But this replaces it with a manifest. So that's not too bad. Three mana thoughts for counter spells is pretty bad, especially when it's the best card in my deck. But, uh, if you're playing against control, you got to do what you got to do. Really? Okay. I I did miss a land drop, so I think that's that's not unreasonable. But actually, no, that doesn't set me behind in lands. Is that Is that the one that lets you do it as well? Okay, that's a good card. Um, grab an island.
+
+[2:36:44] Do I think they have another counter spell? I'm gonna hope the answer is no because I don't have great plays other than running it out again. Yes, there we go. Okay, card draw. Yes. the rest of these do anything? I don't have a simul out. Yeah, our bricks. That's fine.
+
+[2:37:26] I have no idea how to order things on this deck in MGL. We get rid of the creature removal. I think it's fine to give up lanes ultimately. Like the creature removal's useless in this deck. If I can just play out another United Battlefront next turn, I should be like kind of overwhelming this person with value. I should play my secret coast. Although, honestly, I think I'm going to time out in this game. I was taking way too long for this game.
+
+[2:38:30] Oh no. Why? Okay. Well, I can flip my braided net and draw a bunch of cards and that will have to be good enough.
+
+[2:39:12] It's always so depressing to me when I see somebody playing control pretty badly, but uh I'm just unable to. Okay, yeah, that's fair. Uh actually, that's really really bad for me in this case. I have I have zero backup plan there. Wow. Okay. I guess I can hope they're out of gas and just slam a Okay. The question is do I I guess I'll see what I I'll see what I scri off of That might be worth saving for an Elizabeth or something. That's kind of kind of how they got ahead last game.
+
+[2:39:53] That's all pretty useless to me. No, it doesn't even put a good clock on them because I'm out of artifacts. Okay. I'm glad I saved it at least.
+
+[2:40:33] All right. Okay. Okay. We're getting somewhere. Okay. Okay. Unless they have another ultimate. They might. We'll see. I probably lose this match overall even if I win this game just because I'm running out of time. But, you know, I can at least put in some effort.
+
+[2:41:42] Another one. Wow. Okay. Yeah, we're Oh boy. That's bad. That's not good. That's not good. I don't even have a Yeah, I have no recovery. Oh, that's bad. It's bad news. That's bad news. The fact that I lost the pre-board game is not good at all. I should probably board in a couple more uh counter spells to my sideboard. At least one more.
+
+[2:42:33] I'm probably going to be ending the stream pretty soon anyway because I need to grab some lunch. Uh, but yeah, glad glad you're able to tune in, Samwise. See what I draw next turn. It's nothing. I'll just scoop.
+
+[2:43:24] It's close enough to nothing. I don't have artifacts to draw with that. That was bad. That was brutal. Oh, I blundered that first game so bad. That was rough. Oh, lord. All right, I need to get something to eat. So, I appreciate you all for for tuning in. I'm sure I'll I'll name my stream something that uh that uh makes it sound more like a real stream rather than a thrown together nonsense thing. But yeah, it's fun.
+
+[2:44:04] I will probably make a habit out of streaming weekly. I was thinking Wednesdays maybe might choose a different day. We'll see. Uh I just wanted to to to try out my streaming setup and and try out some standard and see how that went today. So no, that was kind of fun. So yeah, good stuff. Yeah, it takes all of my attention to to kind of, you know, for for 30 or 40 minutes. So it's it's important. I gotta Got to save my strengths for that. Eating a single lettuce leaf.
+
+[2:44:44] All righty. Thank you all for tuning in.

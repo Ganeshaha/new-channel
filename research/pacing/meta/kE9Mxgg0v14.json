@@ -1,0 +1,48 @@
+{
+ "id": "kE9Mxgg0v14",
+ "title": "EVERYTHING you need to know about the NEW Foundations Combat Rule change - MTG Rules",
+ "channel": "Attack on Cardboard",
+ "views": 339654,
+ "duration": 327,
+ "upload_date": "20241027",
+ "group": "high",
+ "style": "rules explainer (face-cam + overlays)",
+ "section": [
+  30,
+  317
+ ],
+ "storyboards": [
+  {
+   "id": "sb3",
+   "w": 48,
+   "h": 27,
+   "fps": 0.3058103975535168,
+   "cols": 10,
+   "rows": 10
+  },
+  {
+   "id": "sb2",
+   "w": 80,
+   "h": 45,
+   "fps": 0.20489296636085627,
+   "cols": 10,
+   "rows": 10
+  },
+  {
+   "id": "sb1",
+   "w": 160,
+   "h": 90,
+   "fps": 0.20489296636085627,
+   "cols": 5,
+   "rows": 5
+  },
+  {
+   "id": "sb0",
+   "w": 320,
+   "h": 180,
+   "fps": 0.20489296636085627,
+   "cols": 3,
+   "rows": 3
+  }
+ ]
+}
